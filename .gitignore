@@ -1,0 +1,17 @@
+# ignore virtual environment
+myenv/
+venv/
+.env/
+
+# ignore pycache
+__pycache__/
+*.pyc
+
+# ignore output files
+Output/
+*.wav
+*.json
+
+# IDE files
+.vscode/
+.idea/
