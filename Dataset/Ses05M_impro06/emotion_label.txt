@@ -1,0 +1,32 @@
+Ses05M_impro06_F000 other 4 5 1
+Ses05M_impro06_F001 other 4 4 1
+Ses05M_impro06_F002 other 4 5 1
+Ses05M_impro06_F003 surprise 4 4 1
+Ses05M_impro06_F004 neutral state 3 5 1
+Ses05M_impro06_F005 sadness 4 5 1
+Ses05M_impro06_F006 neutral state 4 5 1
+Ses05M_impro06_F007 sadness 4 5 1
+Ses05M_impro06_F008 neutral state 4 4 2
+Ses05M_impro06_F009 neutral state 4 5 2
+Ses05M_impro06_F010 other 4 4 2
+Ses05M_impro06_M000 sadness 4 5 1
+Ses05M_impro06_M001 sadness 4 5 1
+Ses05M_impro06_M002 sadness 4 4 1
+Ses05M_impro06_M003 sadness 4 5 1
+Ses05M_impro06_M004 sadness 4 4 2
+Ses05M_impro06_M005 excited 4 4 2
+Ses05M_impro06_M006 excited 3 3 2
+Ses05M_impro06_M007 excited 3 4 2
+Ses05M_impro06_M008 sadness 4 3 1
+Ses05M_impro06_M009 sadness 4 4 1
+Ses05M_impro06_M010 sadness 4 4 2
+Ses05M_impro06_M011 sadness 4 4 1
+Ses05M_impro06_M012 sadness 4 4 1
+Ses05M_impro06_M013 sadness 5 4 2
+Ses05M_impro06_M014 sadness 4 4 2
+Ses05M_impro06_M015 frustration 4 4 3
+Ses05M_impro06_M016 anger 4 4 2
+Ses05M_impro06_M017 neutral state 3 4 1
+Ses05M_impro06_M018 sadness 3 4 2
+Ses05M_impro06_M019 sadness 4 5 1
+Ses05M_impro06_M020 neutral state 4 5 1

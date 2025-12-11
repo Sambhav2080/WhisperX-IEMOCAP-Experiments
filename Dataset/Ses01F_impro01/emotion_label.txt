@@ -1,0 +1,30 @@
+Ses01F_impro01_F000 neutral state 4 3 3
+Ses01F_impro01_F001 neutral state 4 3 3
+Ses01F_impro01_F002 neutral state 4 3 3
+Ses01F_impro01_F003 anger 4 3 3
+Ses01F_impro01_F004 anger 4 3 3
+Ses01F_impro01_F005 neutral state 4 2 2
+Ses01F_impro01_F006 frustration 4 2 4
+Ses01F_impro01_F007 frustration 4 2 4
+Ses01F_impro01_F008 frustration 4 2 4
+Ses01F_impro01_F009 frustration 4 2 4
+Ses01F_impro01_F010 anger 5 2 4
+Ses01F_impro01_F011 frustration 4 2 4
+Ses01F_impro01_F012 anger 4 2 4
+Ses01F_impro01_F013 frustration 4 1 4
+Ses01F_impro01_F014 neutral state 4 2 4
+Ses01F_impro01_F015 frustration 5 2 3
+Ses01F_impro01_M000 frustration 4 4 3
+Ses01F_impro01_M001 frustration 4 4 3
+Ses01F_impro01_M002 frustration 4 2 4
+Ses01F_impro01_M003 frustration 4 2 4
+Ses01F_impro01_M004 frustration 4 1 4
+Ses01F_impro01_M005 frustration 4 2 4
+Ses01F_impro01_M006 frustration 4 2 4
+Ses01F_impro01_M007 frustration 4 2 4
+Ses01F_impro01_M008 frustration 4 2 4
+Ses01F_impro01_M009 neutral state 4 2 5
+Ses01F_impro01_M010 frustration 4 1 5
+Ses01F_impro01_M011 frustration 5 1 5
+Ses01F_impro01_M012 neutral state 3 4 3
+Ses01F_impro01_M013 anger 5 1 5

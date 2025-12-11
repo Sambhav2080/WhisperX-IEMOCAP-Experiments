@@ -1,0 +1,58 @@
+Ses05M_impro08_F000 frustration 4 2 4
+Ses05M_impro08_F001 frustration 4 3 3
+Ses05M_impro08_F002 neutral state 3 3 3
+Ses05M_impro08_F003 frustration 4 2 3
+Ses05M_impro08_F004 frustration 3 2 3
+Ses05M_impro08_F005 neutral state 3 2 3
+Ses05M_impro08_F006 neutral state 4 3 3
+Ses05M_impro08_F007 neutral state 3 5 2
+Ses05M_impro08_F008 neutral state 3 4 3
+Ses05M_impro08_F009 neutral state 3 3 3
+Ses05M_impro08_F010 neutral state 3 3 3
+Ses05M_impro08_F011 neutral state 3 2 3
+Ses05M_impro08_F012 neutral state 3 5 3
+Ses05M_impro08_F013 neutral state 3 3 3
+Ses05M_impro08_F014 neutral state 3 4 3
+Ses05M_impro08_F015 neutral state 3 4 3
+Ses05M_impro08_F016 neutral state 2 3 3
+Ses05M_impro08_F017 neutral state 3 2 3
+Ses05M_impro08_F018 neutral state 3 3 3
+Ses05M_impro08_F019 neutral state 3 2 4
+Ses05M_impro08_F020 other 4 3 3
+Ses05M_impro08_F021 surprise 1 1 4
+Ses05M_impro08_F022 happiness 2 2 4
+Ses05M_impro08_F023 neutral state 4 3 3
+Ses05M_impro08_F024 excited 2 2 5
+Ses05M_impro08_F025 happiness 2 2 3
+Ses05M_impro08_F026 happiness 2 3 3
+Ses05M_impro08_F027 happiness 1 2 4
+Ses05M_impro08_F028 happiness 1 2 4
+Ses05M_impro08_M000 neutral state 3 2 3
+Ses05M_impro08_M001 neutral state 3 2 3
+Ses05M_impro08_M002 neutral state 3 3 3
+Ses05M_impro08_M003 neutral state 3 3 3
+Ses05M_impro08_M004 neutral state 3 2 3
+Ses05M_impro08_M005 neutral state 3 3 3
+Ses05M_impro08_M006 other 4 2 3
+Ses05M_impro08_M007 neutral state 3 2 3
+Ses05M_impro08_M008 neutral state 3 2 3
+Ses05M_impro08_M009 neutral state 3 2 3
+Ses05M_impro08_M010 neutral state 3 3 3
+Ses05M_impro08_M011 neutral state 3 2 3
+Ses05M_impro08_M012 neutral state 3 2 3
+Ses05M_impro08_M013 neutral state 3 2 3
+Ses05M_impro08_M014 neutral state 3 2 3
+Ses05M_impro08_M015 neutral state 3 2 3
+Ses05M_impro08_M016 neutral state 3 2 3
+Ses05M_impro08_M017 neutral state 2 2 3
+Ses05M_impro08_M018 neutral state 3 2 3
+Ses05M_impro08_M019 surprise 3 2 3
+Ses05M_impro08_M020 neutral state 3 2 3
+Ses05M_impro08_M021 neutral state 2 2 3
+Ses05M_impro08_M022 neutral state 2 3 3
+Ses05M_impro08_M023 neutral state 2 3 3
+Ses05M_impro08_M024 neutral state 2 2 3
+Ses05M_impro08_M025 neutral state 2 2 3
+Ses05M_impro08_M026 happiness 1 2 3
+Ses05M_impro08_M027 neutral state 2 2 3
+Ses05M_impro08_M028 happiness 2 2 3

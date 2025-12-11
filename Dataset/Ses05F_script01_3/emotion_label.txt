@@ -1,0 +1,68 @@
+Ses05F_script01_3_F000 neutral state 2 4 3
+Ses05F_script01_3_F001 neutral state 2 3 3
+Ses05F_script01_3_F002 neutral state 2 3 3
+Ses05F_script01_3_F003 neutral state 2 4 3
+Ses05F_script01_3_F004 neutral state 4 4 3
+Ses05F_script01_3_F005 neutral state 4 3 2
+Ses05F_script01_3_F006 neutral state 3 4 2
+Ses05F_script01_3_F007 neutral state 3 4 3
+Ses05F_script01_3_F008 neutral state 3 4 3
+Ses05F_script01_3_F009 happiness 1 2 4
+Ses05F_script01_3_F010 neutral state 3 3 4
+Ses05F_script01_3_F011 neutral state 3 4 3
+Ses05F_script01_3_F012 neutral state 2 4 3
+Ses05F_script01_3_F013 neutral state 2 4 3
+Ses05F_script01_3_F014 frustration 1 2 3
+Ses05F_script01_3_F015 excited 2 2 4
+Ses05F_script01_3_F016 sadness 3 4 3
+Ses05F_script01_3_F017 sadness 4 3 3
+Ses05F_script01_3_F018 other 4 2 3
+Ses05F_script01_3_F019 other 4 4 3
+Ses05F_script01_3_F020 neutral state 4 4 3
+Ses05F_script01_3_F021 neutral state 3 3 4
+Ses05F_script01_3_F022 neutral state 4 3 3
+Ses05F_script01_3_F023 sadness 5 4 3
+Ses05F_script01_3_F024 neutral state 3 3 2
+Ses05F_script01_3_F025 other 4 2 5
+Ses05F_script01_3_F026 happiness 1 2 3
+Ses05F_script01_3_M000 happiness 2 2 3
+Ses05F_script01_3_M001 neutral state 2 3 3
+Ses05F_script01_3_M002 surprise 4 4 2
+Ses05F_script01_3_M003 neutral state 3 3 3
+Ses05F_script01_3_M004 neutral state 3 3 4
+Ses05F_script01_3_M005 happiness 3 2 2
+Ses05F_script01_3_M006 neutral state 3 3 2
+Ses05F_script01_3_M007 other 3 3 1
+Ses05F_script01_3_M008 happiness 1 2 5
+Ses05F_script01_3_M009 happiness 2 1 5
+Ses05F_script01_3_M010 happiness 4 1 5
+Ses05F_script01_3_M011 neutral state 4 3 2
+Ses05F_script01_3_M012 neutral state 3 3 3
+Ses05F_script01_3_M013 surprise 2 2 3
+Ses05F_script01_3_M014 frustration 1 2 4
+Ses05F_script01_3_M015 happiness 2 2 4
+Ses05F_script01_3_M016 happiness 1 1 5
+Ses05F_script01_3_M017 happiness 1 1 5
+Ses05F_script01_3_M018 other 3 2 3
+Ses05F_script01_3_M019 sadness 4 2 2
+Ses05F_script01_3_M020 neutral state 4 3 3
+Ses05F_script01_3_M021 sadness 4 4 4
+Ses05F_script01_3_M022 neutral state 4 4 3
+Ses05F_script01_3_M023 frustration 4 3 2
+Ses05F_script01_3_M024 neutral state 3 2 3
+Ses05F_script01_3_M025 sadness 4 3 4
+Ses05F_script01_3_M026 sadness 5 3 4
+Ses05F_script01_3_M027 sadness 3 3 4
+Ses05F_script01_3_M028 sadness 3 2 5
+Ses05F_script01_3_M029 sadness 3 2 4
+Ses05F_script01_3_M030 sadness 4 2 5
+Ses05F_script01_3_M031 sadness 4 2 4
+Ses05F_script01_3_M032 sadness 3 2 5
+Ses05F_script01_3_M033 sadness 3 1 5
+Ses05F_script01_3_M034 sadness 4 2 5
+Ses05F_script01_3_M035 sadness 4 2 4
+Ses05F_script01_3_M036 sadness 5 2 5
+Ses05F_script01_3_M037 sadness 5 1 5
+Ses05F_script01_3_M038 sadness 5 2 4
+Ses05F_script01_3_M039 happiness 3 2 4
+Ses05F_script01_3_M040 happiness 2 1 5

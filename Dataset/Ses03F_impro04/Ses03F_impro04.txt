@@ -5,11 +5,9 @@ Ses03F_impro04_M001 [017.8330-020.6114]: No, don't think like that.
 Ses03F_impro04_F002 [020.1025-027.2761]: I just, I see all these other people getting commercials and work and it's like I'm not getting anything.
 Ses03F_impro04_F003 [027.3124-031.5255]: I have no money behind me. Nothing. I'm twenty five and--
 Ses03F_impro04_M002 [031.1078-034.9395]: Russel Crowe wasn't forty until he got his big stuff.
-M: We're in--
-M:
 Ses03F_impro04_M003 [039.5521-042.7846]: If you really want to do it-I mean,
 Ses03F_impro04_F004 [034.6673-036.7918]: So I'll have to wait twenty five years-
-Ses03F_impro04_M004 [042.8209-045.0182]: you got to do.
+Ses03F_impro04_M004 [042.8209-045.0182]: you got to do.pip install soundfile
 Ses03F_impro04_F005 [036.8281-041.4952]: -just going and auditioning and auditioning and rejection after refection, it's like--
 Ses03F_impro04_M005 [054.8427-057.4032]: You could. You could. We just--
 Ses03F_impro04_M006 [057.4577-060.2362]: we're just pooling our funds together.

@@ -1,0 +1,43 @@
+Ses02M_impro06_F000 other 4 4 3
+Ses02M_impro06_F001 surprise 5 4 5
+Ses02M_impro06_F002 neutral state 5 5 3
+Ses02M_impro06_F003 sadness 5 5 4
+Ses02M_impro06_F004 sadness 4 4 4
+Ses02M_impro06_F005 neutral state 5 4 4
+Ses02M_impro06_F006 neutral state 4 5 3
+Ses02M_impro06_F007 neutral state 4 5 3
+Ses02M_impro06_F008 neutral state 4 4 3
+Ses02M_impro06_F009 neutral state 4 4 3
+Ses02M_impro06_F010 neutral state 3 4 4
+Ses02M_impro06_F011 neutral state 4 5 3
+Ses02M_impro06_F012 neutral state 4 4 4
+Ses02M_impro06_F013 other 4 4 3
+Ses02M_impro06_F014 neutral state 5 5 3
+Ses02M_impro06_F015 neutral state 4 5 3
+Ses02M_impro06_F016 neutral state 4 5 3
+Ses02M_impro06_F017 neutral state 4 4 3
+Ses02M_impro06_F018 neutral state 4 4 4
+Ses02M_impro06_M000 sadness 4 5 3
+Ses02M_impro06_M001 sadness 5 3 3
+Ses02M_impro06_M002 sadness 5 4 4
+Ses02M_impro06_M003 sadness 5 4 4
+Ses02M_impro06_M004 sadness 5 5 5
+Ses02M_impro06_M005 sadness 5 4 4
+Ses02M_impro06_M006 sadness 5 4 4
+Ses02M_impro06_M007 sadness 4 5 4
+Ses02M_impro06_M008 sadness 5 4 4
+Ses02M_impro06_M009 sadness 4 4 4
+Ses02M_impro06_M010 sadness 4 4 3
+Ses02M_impro06_M011 sadness 4 4 4
+Ses02M_impro06_M012 sadness 4 4 4
+Ses02M_impro06_M013 sadness 5 5 4
+Ses02M_impro06_M014 sadness 4 4 3
+Ses02M_impro06_M015 sadness 4 5 4
+Ses02M_impro06_M016 sadness 5 3 5
+Ses02M_impro06_M017 sadness 5 3 5
+Ses02M_impro06_M018 sadness 5 3 4
+Ses02M_impro06_M019 sadness 4 4 4
+Ses02M_impro06_M020 sadness 4 4 3
+Ses02M_impro06_M021 sadness 5 4 4
+Ses02M_impro06_M022 sadness 4 3 4
+Ses02M_impro06_M023 sadness 4 3 3

@@ -1,0 +1,24 @@
+Ses03F_impro01_F000 anger 4 3 3
+Ses03F_impro01_F001 happiness 3 4 1
+Ses03F_impro01_F002 neutral state 3 3 1
+Ses03F_impro01_F003 neutral state 4 3 3
+Ses03F_impro01_F004 neutral state 3 4 1
+Ses03F_impro01_F005 surprise 4 3 4
+Ses03F_impro01_F006 frustration 4 3 3
+Ses03F_impro01_F007 frustration 4 3 2
+Ses03F_impro01_F008 neutral state 4 3 1
+Ses03F_impro01_F009 frustration 4 3 1
+Ses03F_impro01_F010 anger 4 2 3
+Ses03F_impro01_F011 frustration 4 3 1
+Ses03F_impro01_M000 other 3 5 1
+Ses03F_impro01_M001 neutral state 3 5 1
+Ses03F_impro01_M002 neutral state 3 4 3
+Ses03F_impro01_M003 neutral state 3 4 3
+Ses03F_impro01_M004 neutral state 3 5 2
+Ses03F_impro01_M005 neutral state 3 5 2
+Ses03F_impro01_M006 neutral state 3 4 2
+Ses03F_impro01_M007 frustration 4 3 4
+Ses03F_impro01_M008 neutral state 4 3 4
+Ses03F_impro01_M009 neutral state 3 4 3
+Ses03F_impro01_M010 neutral state 4 4 3
+Ses03F_impro01_M011 frustration 4 3 4

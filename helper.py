@@ -1,127 +1,707 @@
+#!/usr/bin/env python3
 """
-cleanup_generated_files.py
+make_metadata.py
 
-Usage (Windows):
-python cleanup_generated_files.py --target_root "S:/Sambhav's Project/Dataset" --dry
-
-Options:
---target_root : path to Dataset root containing audio folders
---dry         : if present, script will only list files that would be deleted (safe preview)
---backup      : by default script makes a zip backup; use --nobackup to skip backup (not recommended)
-
-What it does:
-- Scans each immediate subfolder of target_root (ignores dot folders)
-- Collects generated files to remove:
-    metadata.json, speaker_map.json, transcript_clean.txt,
-    emotion_label.txt, tags.json, reference.rttm
-  (adjust list inside FILES_TO_REMOVE if you want)
-- Makes a zip backup with those files (under target_root/backups/)
-- Deletes the files from disk (after backup)
-- Prints summary
+- Input: target_root (e.g. S:/Sambhav's Project/Dataset)
+- Output: metadata.json (saved in target_root)
+- Relies on per-audio files:
+    - emotion_label.txt  (format: UTT_ID EMOTION [val act dom])
+    - <audio_id>_reference.rttm  (optional) or any *_reference.rttm
+    - speaker_map.json (optional)
+    - audio file (wav) named anything inside the audio folder (optional)
 """
-import os, argparse, zipfile, datetime, shutil
+import os, json, time
+from datetime import datetime
+import glob
 
-FILES_TO_REMOVE = [
-    "metadata.json",
-    "speaker_map.json",
-    "transcript_clean.txt",
-    "emotion_label.txt",
-    "tags.json",
-    "reference.rttm"
-]
+try:
+    import soundfile as sf
+except Exception:
+    sf = None
 
-def find_audio_folders(root):
-    return sorted([os.path.join(root,d) for d in os.listdir(root)
-                   if os.path.isdir(os.path.join(root,d)) and not d.startswith('.')])
+def read_emotion_label_file(path):
+    """
+    Returns list of dicts: [{'utt_id':..., 'emotion':..., 'val':'','act':'','dom':''}, ...]
+    """
+    out = []
+    if not os.path.exists(path):
+        return out
+    with open(path,'r',encoding='utf-8',errors='ignore') as fh:
+        for ln in fh:
+            ln = ln.strip()
+            if not ln or ln.startswith('%') or ln.startswith('#'):
+                continue
+            parts = ln.split()
+            # first token = utt_id, second = emotion, next three optional numeric
+            if len(parts) >= 2:
+                utt = parts[0]
+                emo = parts[1]
+                val = parts[2] if len(parts) > 2 else ""
+                act = parts[3] if len(parts) > 3 else ""
+                dom = parts[4] if len(parts) > 4 else ""
+                out.append({'utt_id': utt, 'emotion': emo, 'val': val, 'act': act, 'dom': dom})
+    return out
 
-def collect_files_to_delete(audio_folders):
-    mapping = {}
-    for f in audio_folders:
-        files = []
-        for name in FILES_TO_REMOVE:
-            p = os.path.join(f, name)
-            if os.path.exists(p):
-                files.append(p)
-        if files:
-            mapping[f] = files
-    return mapping
-
-def make_backup(mapping, target_root):
-    if not mapping:
-        return None
-    now = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-    backup_dir = os.path.join(target_root, "backups")
-    os.makedirs(backup_dir, exist_ok=True)
-    zip_path = os.path.join(backup_dir, f"generated_files_backup_{now}.zip")
-    with zipfile.ZipFile(zip_path, "w", compression=zipfile.ZIP_DEFLATED) as zf:
-        for folder, files in mapping.items():
-            for file in files:
-                arcname = os.path.relpath(file, target_root)
-                zf.write(file, arcname=arcname)
-    return zip_path
-
-def delete_files(mapping):
-    deleted = []
-    for folder, files in mapping.items():
-        for f in files:
+def read_rttm_file(path):
+    """
+    Read RTTM lines that we wrote:
+    Format (our style):
+    <audio_id> <utt_id> 1 <start> <duration> <NA> <NA> <mapped_speaker> <NA>
+    Returns dict utt_id -> (start, duration, mapped_speaker)
+    """
+    d = {}
+    if not os.path.exists(path):
+        return d
+    with open(path,'r',encoding='utf-8',errors='ignore') as fh:
+        for ln in fh:
+            ln = ln.strip()
+            if not ln:
+                continue
+            toks = ln.split()
+            if len(toks) < 9:
+                continue
+            # toks: [audio_id, utt_id, '1', start, duration, '<NA>', '<NA>', mapped, '<NA>']
+            audio_field = toks[0]
+            utt = toks[1]
             try:
-                os.remove(f)
-                deleted.append(f)
-            except Exception as e:
-                print(f"[ERROR] Failed to delete {f}: {e}")
-    return deleted
+                start = float(toks[3])
+                dur = float(toks[4])
+            except:
+                start = None; dur = None
+            mapped = toks[7] if len(toks) > 7 else ''
+            d[utt] = {'start': start, 'duration': dur, 'mapped': mapped, 'audio_id_field': audio_field}
+    return d
+
+def find_audio_file(folder):
+    """Find first audio file (wav/flac) in folder"""
+    exts = ('*.wav','*.flac','*.mp3','*.m4a')
+    for e in exts:
+        lst = glob.glob(os.path.join(folder,e))
+        if lst:
+            return lst[0]
+    return None
+
+def inspect_audio(path):
+    """Return duration (s), samplerate, channels using soundfile if available"""
+    if sf is None:
+        return None
+    try:
+        info = sf.info(path)
+        duration = info.frames / float(info.samplerate) if info.samplerate else None
+        return {'duration': duration, 'samplerate': info.samplerate, 'channels': info.channels}
+    except Exception:
+        return None
 
 def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument('--target_root', required=True, help='Target dataset root (audio-wise folders present)')
-    ap.add_argument('--dry', action='store_true', help='Dry run: list files only')
-    ap.add_argument('--nobackup', action='store_true', help='Do not create zip backup (not recommended)')
-    args = ap.parse_args()
-
-    target_root = args.target_root
+    target_root = input("Enter target dataset root (e.g. S:/Sambhav's Project/Dataset): ").strip()
     if not os.path.isdir(target_root):
-        print("[ERROR] target_root not found:", target_root)
-        return
+        print("Not found:", target_root); return
+    metadata = {}
+    metadata['dataset_name'] = os.path.basename(target_root) or "dataset"
+    metadata['original_root'] = ""  # optional: fill if you want
+    metadata['generated_at'] = datetime.now().astimezone().isoformat()
+    metadata['num_audios'] = 0
+    metadata['notes'] = "Generated by make_metadata.py"
 
-    audio_folders = find_audio_folders(target_root)
-    mapping = collect_files_to_delete(audio_folders)
+    audio_folders = sorted([d for d in os.listdir(target_root) if os.path.isdir(os.path.join(target_root,d)) and not d.startswith('.')])
+    metadata['num_audios'] = len(audio_folders)
+    metadata['audios'] = {}
 
-    if not mapping:
-        print("[INFO] No generated files found to remove.")
-        return
-
-    total_files = sum(len(v) for v in mapping.values())
-    print(f"[INFO] Found {total_files} files across {len(mapping)} folders to remove.")
-    for folder, files in mapping.items():
-        print(f"  {os.path.basename(folder)}: {len(files)} files")
-
-    if args.dry:
-        print("\n[DRY RUN] No files will be deleted. Re-run without --dry to perform deletion.")
-        return
-
-    # backup
-    zip_path = None
-    if not args.nobackup:
-        print("[INFO] Creating backup zip...")
-        zip_path = make_backup(mapping, target_root)
-        if zip_path:
-            print("[INFO] Backup created at:", zip_path)
+    for aid in audio_folders:
+        folder = os.path.join(target_root, aid)
+        # load speakermap if exists
+        spmap_path = os.path.join(folder, 'speaker_map.json')
+        spmap = {}
+        if os.path.exists(spmap_path):
+            try:
+                with open(spmap_path,'r',encoding='utf-8') as fh:
+                    spmap = json.load(fh)
+            except:
+                spmap = {}
+        # load emotion_label (per-audio)
+        emo_path = os.path.join(folder, 'emotion_label.txt')
+        emol = read_emotion_label_file(emo_path)
+        # load rttm
+        rttm_candidates = glob.glob(os.path.join(folder, '*reference.rttm')) or glob.glob(os.path.join(folder, '*.rttm'))
+        rttm_data = {}
+        if rttm_candidates:
+            rttm_data = read_rttm_file(rttm_candidates[0])
+            rttm_source = os.path.basename(rttm_candidates[0])
         else:
-            print("[WARN] Backup creation skipped/failed.")
+            rttm_source = None
+        # audio inspect
+        audio_file = find_audio_file(folder)
+        audio_info = inspect_audio(audio_file) if audio_file else None
 
-    # delete
-    confirm = input("Type YES to delete the listed files permanently: ").strip()
-    if confirm != "YES":
-        print("Aborting. No files deleted.")
-        return
+        # aggregate utterances: prefer rttm timings if available
+        utts = []
+        for e in emol:
+            utt_id = e['utt_id']
+            emo = e['emotion']
+            val, act, dom = e.get('val',''), e.get('act',''), e.get('dom','')
+            rdata = rttm_data.get(utt_id, {})
+            start = rdata.get('start') if rdata else None
+            dur = rdata.get('duration') if rdata else None
+            mapped = rdata.get('mapped') if rdata else None
+            # fallback: if no rttm timings but emotion_label contains timing? (not in our format)
+            utts.append({
+                'utt_id': utt_id,
+                'start': start,
+                'duration': dur,
+                'speaker_token': None,        # if you want, can parse token from utt_id
+                'speaker_mapped': mapped,
+                'emotion': emo,
+                'val': val,
+                'act': act,
+                'dom': dom,
+                'rttm_source': rttm_source
+            })
 
-    deleted = delete_files(mapping)
-    print(f"[DONE] Deleted {len(deleted)} files. See backup at {zip_path if zip_path else 'no backup'}")
+        metadata['audios'][aid] = {
+            'audio_path': audio_file or '',
+            'duration': audio_info['duration'] if audio_info else None,
+            'sample_rate': audio_info['samplerate'] if audio_info else None,
+            'channels': audio_info['channels'] if audio_info else None,
+            'num_utterances': len(utts),
+            'utterances': utts,
+            'speaker_map': spmap,
+            'files': {
+                'emotion_label': os.path.basename(emo_path) if os.path.exists(emo_path) else '',
+                'rttm': os.path.basename(rttm_candidates[0]) if rttm_candidates else ''
+            }
+        }
 
-if __name__ == "__main__":
+    outp = os.path.join(target_root, 'metadata.json')
+    with open(outp,'w',encoding='utf-8') as fh:
+        json.dump(metadata, fh, indent=2, ensure_ascii=False)
+    print("metadata written:", outp)
+
+if __name__ == '__main__':
     main()
 
 
+
+
+
+
+
+
+'''#!/usr/bin/env python3
+"""
+make_emotion_labels_iemocap.py
+Simple script:
+- Traverse original IEMOCAP sessions (Session1..5)
+- Read Categorical and Attribute files under EmoEvaluation
+- Map utterance -> audio_id (Ses01F_impro01)
+- Write global emotion_label.txt and per-audio emotion_label.txt inside target_root
+
+Usage:
+    python make_emotion_labels_iemocap.py
+"""
+
+import os, re, sys
+
+# ---------- helpers ----------
+def find_emoeval_dirs(orig_root):
+    """Return list of (categorical_dir, attribute_dir) pairs found under sessions."""
+    pairs = []
+    for sess in sorted(os.listdir(orig_root)):
+        sdir = os.path.join(orig_root, sess)
+        if not os.path.isdir(sdir):
+            continue
+        dialog = os.path.join(sdir, "dialog")
+        if not os.path.isdir(dialog):
+            continue
+        emo_eval = os.path.join(dialog, "EmoEvaluation")
+        if not os.path.isdir(emo_eval):
+            # sometimes different case; try case-insensitive walk
+            for name in os.listdir(dialog):
+                if name.lower() == "emoevaluation":
+                    emo_eval = os.path.join(dialog, name)
+                    break
+            if not os.path.isdir(emo_eval):
+                continue
+        cat_dir = None
+        attr_dir = None
+        # find categorical and attribute subfolders
+        for name in os.listdir(emo_eval):
+            low = name.lower()
+            p = os.path.join(emo_eval, name)
+            if not os.path.isdir(p):
+                continue
+            if 'categor' in low:  # categorical
+                cat_dir = p
+            if 'attribut' in low or 'attribute' in low:  # attribute
+                attr_dir = p
+        pairs.append((cat_dir, attr_dir))
+    return pairs
+
+# regex to extract emotion from categorical lines like:
+# Ses01F_impro01_F000 :Neutral state; ()
+RX_CAT = re.compile(r'^(?P<utt>\S+)\s*[:\s].*?:\s*([A-Za-z \-]+?)\s*;', re.IGNORECASE)
+# fallback: find first token (utt) and attempt to extract emotion after colon
+RX_CAT_FALLBACK = re.compile(r'^(?P<utt>\S+).*?:\s*(?P<emo>[A-Za-z \-]+)', re.IGNORECASE)
+
+# regex for val/act/dom in attribute files: e.g. "val 3; act 2; dom 2;"
+RX_VAL = re.compile(r'val\s*[:\s]*([0-9]+(?:\.[0-9]+)?)', re.IGNORECASE)
+RX_ACT = re.compile(r'act\s*[:\s]*([0-9]+(?:\.[0-9]+)?)', re.IGNORECASE)
+RX_DOM = re.compile(r'dom(?:ain)?\s*[:\s]*([0-9]+(?:\.[0-9]+)?)', re.IGNORECASE)
+
+def parse_categorical_file(path, emot_map):
+    with open(path, 'r', encoding='utf-8', errors='ignore') as fh:
+        for ln in fh:
+            line = ln.strip()
+            if not line: 
+                continue
+            m = RX_CAT.match(line)
+            if m:
+                utt = m.group('utt').strip()
+                emo = m.group(2).strip().lower()
+                emot_map[utt] = emo
+                continue
+            # fallback
+            m2 = RX_CAT_FALLBACK.match(line)
+            if m2:
+                utt = m2.group('utt').strip()
+                emo = m2.group('emo').strip().lower()
+                emot_map[utt] = emo
+
+def parse_attribute_file(path, attr_map):
+    with open(path, 'r', encoding='utf-8', errors='ignore') as fh:
+        for ln in fh:
+            line = ln.strip()
+            if not line:
+                continue
+            tokens = line.split()
+            utt = tokens[0].strip()
+            v = RX_VAL.search(line)
+            a = RX_ACT.search(line)
+            d = RX_DOM.search(line)
+            val = v.group(1) if v else ''
+            act = a.group(1) if a else ''
+            dom = d.group(1) if d else ''
+            attr_map[utt] = (val, act, dom)
+
+def audio_id_from_utt(utt):
+    """
+    Convert utterance id to audio_id by removing final speaker token.
+    Example: Ses01F_impro01_F000 -> Ses01F_impro01
+    If no underscore, return utt (safe fallback).
+    """
+    if '_' in utt:
+        parts = utt.rsplit('_', 1)
+        return parts[0]
+    return utt
+
+# ---------- main ----------
+def main():
+    print("Simple IEMOCAP emotion label generator")
+    orig_root = input("Enter ORIGINAL dataset root (IEMOCAP top folder): ").strip()
+    target_root = input("Enter TARGET dataset root (Sambhav's Dataset folder): ").strip()
+
+    if not os.path.isdir(orig_root):
+        print("[ERROR] original_root not found:", orig_root); sys.exit(1)
+    if not os.path.isdir(target_root):
+        print("[ERROR] target_root not found:", target_root); sys.exit(1)
+
+    # containers
+    emot_map = {}   # utt -> emotion
+    attr_map = {}   # utt -> (val,act,dom)
+
+    # find sessions and emoeval dirs
+    pairs = find_emoeval_dirs(orig_root)
+    print(f"[INFO] Found {len(pairs)} session emo-eval pairs (some may have None dirs).")
+
+    # parse files
+    for cat_dir, attr_dir in pairs:
+        if cat_dir and os.path.isdir(cat_dir):
+            for fn in sorted(os.listdir(cat_dir)):
+                if fn.lower().endswith('.txt'):
+                    p = os.path.join(cat_dir, fn)
+                    parse_categorical_file(p, emot_map)
+        if attr_dir and os.path.isdir(attr_dir):
+            for fn in sorted(os.listdir(attr_dir)):
+                if fn.lower().endswith('.txt'):
+                    p = os.path.join(attr_dir, fn)
+                    parse_attribute_file(p, attr_map)
+
+    print(f"[INFO] Parsed {len(emot_map)} categorical entries and {len(attr_map)} attribute entries.")
+
+    # prepare outputs
+    global_out = os.path.join(target_root, "emotion_label.txt")
+    unmatched = []
+
+    # write per-audio files map: audio_id -> list of lines
+    per_audio = {}
+
+    for utt, emo in sorted(emot_map.items()):
+        val, act, dom = attr_map.get(utt, ('', '', ''))
+        audio_id = audio_id_from_utt(utt)
+        # check target folder exists
+        dest_folder = os.path.join(target_root, audio_id)
+        line = f"{utt} {emo}"
+        if val or act or dom:
+            line += f" {val} {act} {dom}"
+        # global
+        # map to per-audio
+        if os.path.isdir(dest_folder):
+            per_audio.setdefault(audio_id, []).append(line)
+        else:
+            unmatched.append((utt, audio_id))
+
+    # Write global file (only matched ones)
+    with open(global_out, 'w', encoding='utf-8') as gf:
+        gf.write("% utterance_id emotion val arousal dominance\n")
+        total_written = 0
+        for audio_id in sorted(per_audio.keys()):
+            for ln in per_audio[audio_id]:
+                gf.write(ln + "\n")
+                total_written += 1
+    print(f"[INFO] Global emotion_label.txt written at: {global_out}  (lines={total_written})")
+
+    # Write per-audio files
+    per_written = 0
+    for audio_id, lines in per_audio.items():
+        folder = os.path.join(target_root, audio_id)
+        outp = os.path.join(folder, "emotion_label.txt")
+        with open(outp, 'w', encoding='utf-8') as pf:
+            for ln in lines:
+                pf.write(ln + "\n")
+                per_written += 1
+    print(f"[INFO] Per-audio emotion_label.txt files written ({per_written} lines total).")
+
+    # unmatched report
+    if unmatched:
+        unp = os.path.join(target_root, "unmatched_utts.txt")
+        with open(unp, 'w', encoding='utf-8') as uf:
+            for utt, aid in unmatched:
+                uf.write(f"{utt}\t{aid}\n")
+        print(f"[WARN] {len(unmatched)} utterances could not be mapped to target folders. See {unp}")
+
+    print("[DONE]")
+
+if __name__ == "__main__":
+    main()
+'''
+
+
+
+'''
+#!/usr/bin/env python3
+"""
+make_rttm_json_aware.py
+
+Usage:
+    python make_rttm_json_aware.py
+
+Process:
+- Input: dataset root (folder that contains audio-wise subfolders)
+- For each audio folder:
+    * try to parse whisperx json (word-level with speaker) -> prefer this
+    * else parse <audio_id>*.txt (IEMOCAP style, e.g. Ses01F_impro01_F000 [006.2901-008.2357]: text)
+    * merge contiguous words of same speaker (stitch threshold)
+    * write <audio_id>_reference.rttm with lines:
+        SPEAKER <audio_id> 1 <start> <duration> <NA> <NA> <speaker_mapped> <NA>
+- Preview mode recommended first.
+
+Author: Assistant (for Sambhav) — Hinglish style comments
+"""
+import os, re, json, sys
+from typing import List, Dict
+
+# ---- CONFIG ----
+STITCH_THRESHOLD = 0.2  # seconds max gap between words to merge into same segment
+# ----------------
+
+# flexible timestamp detection (seconds or mm:ss formats)
+TS_DECIMAL = r'\d+\.\d+'
+TS_INT = r'\d+'
+TS_MMSS = r'\d{1,2}:\d{2}(?:\.\d+)?'
+PATTERNS = [
+    re.compile(r'\[\s*(?P<s>{0}|{1}|{2})\s*[-–]\s*(?P<e>{0}|{1}|{2})\s*\]'.format(TS_DECIMAL, TS_INT, TS_MMSS)),
+    re.compile(r'\(\s*(?P<s>{0}|{1}|{2})\s*[-–]\s*(?P<e>{0}|{1}|{2})\s*\)'.format(TS_DECIMAL, TS_INT, TS_MMSS)),
+    re.compile(r'(?P<s>{0}|{1}|{2})\s*[-–]\s*(?P<e>{0}|{1}|{2})'.format(TS_DECIMAL, TS_INT, TS_MMSS)),
+]
+
+UTT_ID_RE = re.compile(r'^(?P<utt_id>\S+)')
+SPEAKER_TOKEN_RE = re.compile(r'\b([FMfm]\d{1,4})\b')  # fallback speaker token finder
+
+def mmss_to_seconds(s: str):
+    """Convert mm:ss(.ms) or seconds string to float seconds."""
+    try:
+        if ':' in s:
+            mm, ss = s.split(':', 1)
+            return float(mm) * 60.0 + float(ss)
+        return float(s)
+    except:
+        return None
+
+def find_any_timestamp_pair(line: str):
+    """Try patterns to extract start,end. Return (start_sec,end_sec) or (None,None)."""
+    for p in PATTERNS:
+        m = p.search(line)
+        if m:
+            s = m.group('s'); e = m.group('e')
+            s_v = mmss_to_seconds(s) if s is not None else None
+            e_v = mmss_to_seconds(e) if e is not None else None
+            if s_v is not None and e_v is not None:
+                return float(s_v), float(e_v)
+    return None, None
+
+def extract_speaker_from_uttid(line: str):
+    """Try to get speaker token from utt-id or anywhere in line."""
+    m = UTT_ID_RE.match(line)
+    if m:
+        utt = m.group('utt_id')
+        if '_' in utt:
+            last = utt.split('_')[-1]
+            if re.match(r'^[FMfm]\d{1,4}$', last):
+                return last.upper()
+    m2 = SPEAKER_TOKEN_RE.search(line)
+    if m2:
+        return m2.group(1).upper()
+    return None
+
+def load_speakermap(folder: str) -> Dict[str,str]:
+    """Load speaker_map.json if exists. Keys normalized uppercase."""
+    sm = os.path.join(folder, 'speaker_map.json')
+    if os.path.exists(sm):
+        try:
+            with open(sm,'r',encoding='utf-8') as fh:
+                data = json.load(fh)
+                return {k.upper(): v for k,v in data.items()}
+        except Exception as e:
+            print(f"[WARN] unable to read speaker_map.json in {folder}: {e}")
+    return {}
+
+def map_speaker_label(orig: str, speakermap: Dict[str,str]) -> str:
+    """Map speaker token using speakermap or fallback by first letter (F/M)"""
+    if not orig:
+        return 'UNK'
+    o = orig.upper()
+    if speakermap and o in speakermap:
+        return speakermap[o]
+    if o.startswith('F'):
+        return 'F'
+    if o.startswith('M'):
+        return 'M'
+    return o  # preserve token
+
+def parse_json_words(json_path: str) -> List[dict]:
+    """
+    Parse whisperx json result to extract word-level entries with start,end,word,speaker.
+    Accepts multiple JSON shapes and returns sorted list by start.
+    """
+    try:
+        with open(json_path,'r',encoding='utf-8') as fh:
+            data = json.load(fh)
+    except Exception as e:
+        print(f"[WARN] cannot open json {json_path}: {e}")
+        return []
+
+    words = []
+    # common: segments -> each segment has 'words'
+    segs = data.get('segments')
+    if isinstance(segs, list):
+        for seg in segs:
+            for w in seg.get('words', []) if isinstance(seg.get('words', []), list) else []:
+                start = w.get('start'); end = w.get('end')
+                if start is None or end is None:
+                    continue
+                text = w.get('text') or w.get('word') or ''
+                speaker = w.get('speaker') or w.get('speaker_label') or None
+                words.append({'start': float(start), 'end': float(end), 'text': text, 'speaker': (speaker or '').upper()})
+    # fallback: top-level 'words'
+    if not words and isinstance(data.get('words'), list):
+        for w in data['words']:
+            start = w.get('start'); end = w.get('end')
+            if start is None or end is None:
+                continue
+            text = w.get('text') or w.get('word') or ''
+            speaker = w.get('speaker') or w.get('speaker_label') or None
+            words.append({'start': float(start), 'end': float(end), 'text': text, 'speaker': (speaker or '').upper()})
+    # last resort: deep walk for dicts with start/end
+    if not words:
+        def walk(obj):
+            out=[]
+            if isinstance(obj, dict):
+                if 'start' in obj and 'end' in obj and (('text' in obj) or ('word' in obj)):
+                    s = obj.get('start'); e = obj.get('end')
+                    if isinstance(s,(int,float)) and isinstance(e,(int,float)):
+                        out.append({'start': float(s), 'end': float(e), 'text': obj.get('text') or obj.get('word') or '', 'speaker': (obj.get('speaker') or '').upper()})
+                for v in obj.values():
+                    out.extend(walk(v))
+            elif isinstance(obj, list):
+                for item in obj:
+                    out.extend(walk(item))
+            return out
+        words = walk(data)
+
+    words = sorted(words, key=lambda x: x['start'])
+    return words
+
+def merge_words_to_segments(words: List[dict]) -> List[dict]:
+    """Merge contiguous words of same speaker into segments using STITCH_THRESHOLD."""
+    if not words:
+        return []
+    segs = []
+    cur = {'start': words[0]['start'], 'end': words[0]['end'], 'speaker': (words[0].get('speaker') or 'UNKNOWN').upper(), 'text': words[0].get('text','')}
+    for w in words[1:]:
+        sp = (w.get('speaker') or 'UNKNOWN').upper()
+        gap = w['start'] - cur['end']
+        if sp == cur['speaker'] and gap <= STITCH_THRESHOLD:
+            cur['end'] = w['end']
+            cur['text'] = cur['text'] + ' ' + (w.get('text') or '')
+        else:
+            cur['duration'] = max(0.0, cur['end'] - cur['start'])
+            segs.append(cur)
+            cur = {'start': w['start'], 'end': w['end'], 'speaker': sp, 'text': w.get('text','')}
+    cur['duration'] = max(0.0, cur['end'] - cur['start'])
+    segs.append(cur)
+    # normalize fields
+    for s in segs:
+        s['speaker_orig'] = (s.get('speaker') or 'UNKNOWN').upper()
+    return segs
+
+def parse_txt_utterances(txt_path: str) -> List[dict]:
+    """
+    Robust parser for IEMOCAP-like .txt lines:
+    Examples:
+    Ses01F_impro01_F000 [006.2901-008.2357]: Excuse me.
+    Ses01F_impro01_M000 [007.5712-010.4750]: Do you have your forms?
+    """
+    segments = []
+    try:
+        with open(txt_path, 'r', encoding='utf-8', errors='ignore') as fh:
+            for ln in fh:
+                line = ln.strip()
+                if not line:
+                    continue
+                s,e = find_any_timestamp_pair(line)
+                if s is None or e is None:
+                    continue
+                sp = extract_speaker_from_uttid(line) or 'UNKNOWN'
+                # text extraction: try after the timestamp + optional ':' or ']:' etc.
+                # remove everything up to first ']:', '):', or first ']' or ')' then optional ':' and space
+                text = line
+                # try to remove prefix with utt id at start
+                parts = re.split(r'\]\s*:\s*|\)\s*:\s*|\]\s*|\)\s*', line, maxsplit=1)
+                if len(parts) >= 2:
+                    text = parts[1].strip()
+                else:
+                    # fallback try split by first colon after timestamp
+                    if ':' in line:
+                        text = line.split(':',1)[1].strip()
+                    else:
+                        # as last resort, remove uttid token
+                        tokens = line.split()
+                        if len(tokens) > 1:
+                            text = ' '.join(tokens[1:])
+                        else:
+                            text = ''
+                segments.append({'start': float(s), 'end': float(e), 'duration': float(e-s), 'speaker_orig': sp.upper(), 'text': text})
+    except Exception as e:
+        print(f"[WARN] cannot read txt {txt_path}: {e}")
+    segments = sorted(segments, key=lambda x: x['start'])
+    return segments
+
+def write_rttm(out_path: str, audio_id: str, segments: List[dict], speakermap: Dict[str,str]):
+    count = 0
+    with open(out_path, 'w', encoding='utf-8') as fh:
+        for s in segments:
+            start = float(s['start'])
+            dur = float(s.get('duration', max(0.0, s.get('end', start) - start)))
+            orig = (s.get('speaker_orig') or s.get('speaker') or 'UNKNOWN').upper()
+            mapped = map_speaker_label(orig, speakermap)
+            fh.write(f"SPEAKER {audio_id} 1 {start:.3f} {dur:.3f} <NA> <NA> {mapped} <NA>\n")
+            count += 1
+    return count
+
+def find_transcript_txt(folder: str, audio_id: str):
+    """Find .txt transcripts inside folder (prefer files containing audio_id)."""
+    allf = sorted([f for f in os.listdir(folder) if f.lower().endswith('.txt') and not f.startswith('.')])
+    if not allf:
+        return None
+    for f in allf:
+        if audio_id in f:
+            return os.path.join(folder, f)
+    return os.path.join(folder, allf[0])
+
+def find_json(folder: str):
+    """Find JSON files inside folder, prefer files with 'whisper' in name."""
+    allf = sorted([f for f in os.listdir(folder) if f.lower().endswith('.json') and not f.startswith('.')])
+    if not allf:
+        return None
+    for f in allf:
+        if 'whisper' in f.lower():
+            return os.path.join(folder, f)
+    return os.path.join(folder, allf[0])
+
+def process_folder(root: str, folder_name: str, preview=True):
+    folder = os.path.join(root, folder_name)
+    audio_id = folder_name
+    print(f"\n=== Processing: {audio_id} ===")
+    speakermap = load_speakermap(folder)
+    # try JSON first (if diarization present with words+speaker)
+    jsonp = find_json(folder)
+    segments = []
+    source = None
+    if jsonp:
+        words = parse_json_words(jsonp)
+        if words:
+            segments = merge_words_to_segments(words)
+            source = f"json:{os.path.basename(jsonp)}"
+    # if no segments from JSON, fall back to txt parsing
+    if not segments:
+        txt = find_transcript_txt(folder, audio_id)
+        if txt and os.path.exists(txt):
+            segs = parse_txt_utterances(txt)
+            if segs:
+                segments = segs
+                source = f"txt:{os.path.basename(txt)}"
+    if not segments:
+        print("[WARN] No parseable segments found (no json words or txt timestamps). Skipping.")
+        return 0
+    out_rttm = os.path.join(folder, f"{audio_id}_reference.rttm")
+    if preview:
+        print(f"[PREVIEW] {audio_id} -> would write {out_rttm}  (segments: {len(segments)}, source={source})")
+        for s in segments[:6]:
+            print("  >", {k: s.get(k) for k in ('start','end','duration','speaker_orig') if k in s})
+        return 0
+    # write
+    n = write_rttm(out_rttm, audio_id, segments, speakermap)
+    print(f"[WRITE] Wrote RTTM {out_rttm}  lines={n}  (source={source})")
+    return n
+
+def run_all(root: str, preview=True):
+    root = os.path.normpath(root)
+    if not os.path.isdir(root):
+        print(f"[ERROR] root not found: {root}")
+        return
+    folders = sorted([d for d in os.listdir(root) if os.path.isdir(os.path.join(root,d)) and not d.startswith('.')])
+    print(f"[INFO] Found {len(folders)} audio folders in {root}")
+    total = 0
+    for f in folders:
+        try:
+            n = process_folder(root, f, preview=preview)
+            total += n
+        except Exception as e:
+            print(f"[ERROR] folder {f} failed: {e}")
+    print(f"\n[SUMMARY] total RTTM lines written: {total}")
+
+if __name__ == "__main__":
+    print("=== make_rttm_json_aware.py ===")
+    root = input("Enter dataset root (e.g. S:/Sambhav's Project/Dataset or S:/Sambhav's Project/Output/WhisperX_Output): ").strip()
+    if not root:
+        print("No root provided. Exiting.")
+        sys.exit(1)
+    # normalize slashes
+    root = root.replace('\\','/')
+    mode = input("Mode? (p=preview, r=run and write) [p/r]: ").strip().lower()
+    preview = (mode != 'r')
+    run_all(root, preview=preview)
+    print("\n[DONE]")
+'''
 
 
 '''

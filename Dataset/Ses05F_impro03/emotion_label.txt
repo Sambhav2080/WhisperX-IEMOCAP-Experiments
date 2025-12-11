@@ -1,0 +1,130 @@
+Ses05F_impro03_F000 excited 2 2 4
+Ses05F_impro03_F001 excited 1 3 3
+Ses05F_impro03_F002 excited 1 2 5
+Ses05F_impro03_F003 excited 1 2 5
+Ses05F_impro03_F004 excited 1 2 5
+Ses05F_impro03_F005 happiness 1 3 5
+Ses05F_impro03_F006 happiness 1 1 5
+Ses05F_impro03_F007 excited 1 2 5
+Ses05F_impro03_F008 excited 1 1 4
+Ses05F_impro03_F009 excited 1 2 5
+Ses05F_impro03_F010 happiness 2 2 5
+Ses05F_impro03_F011 excited 1 1 5
+Ses05F_impro03_F012 neutral state 2 3 4
+Ses05F_impro03_F013 neutral state 2 3 4
+Ses05F_impro03_F014 neutral state 2 3 4
+Ses05F_impro03_F015 neutral state 2 3 4
+Ses05F_impro03_F016 neutral state 2 3 4
+Ses05F_impro03_F017 neutral state 2 2 4
+Ses05F_impro03_F018 neutral state 2 2 4
+Ses05F_impro03_F019 neutral state 2 2 4
+Ses05F_impro03_F020 excited 1 1 5
+Ses05F_impro03_F021 neutral state 2 3 4
+Ses05F_impro03_F022 neutral state 2 3 3
+Ses05F_impro03_F023 neutral state 2 3 4
+Ses05F_impro03_F024 neutral state 3 3 3
+Ses05F_impro03_F025 neutral state 2 3 3
+Ses05F_impro03_F026 neutral state 2 2 4
+Ses05F_impro03_F027 happiness 1 2 4
+Ses05F_impro03_F028 happiness 1 1 5
+Ses05F_impro03_F029 happiness 2 2 4
+Ses05F_impro03_F030 happiness 2 2 5
+Ses05F_impro03_F031 neutral state 2 4 4
+Ses05F_impro03_F032 happiness 2 2 4
+Ses05F_impro03_F033 happiness 2 3 5
+Ses05F_impro03_F034 happiness 2 2 4
+Ses05F_impro03_F035 happiness 1 2 4
+Ses05F_impro03_F036 happiness 1 1 5
+Ses05F_impro03_F037 happiness 1 2 5
+Ses05F_impro03_F038 neutral state 2 3 4
+Ses05F_impro03_F039 happiness 1 1 5
+Ses05F_impro03_F040 happiness 2 2 3
+Ses05F_impro03_F041 happiness 1 1 5
+Ses05F_impro03_F042 happiness 1 2 4
+Ses05F_impro03_F043 happiness 1 2 4
+Ses05F_impro03_F044 neutral state 2 2 3
+Ses05F_impro03_F045 neutral state 2 3 3
+Ses05F_impro03_F046 neutral state 2 2 4
+Ses05F_impro03_F047 neutral state 2 3 4
+Ses05F_impro03_F048 neutral state 2 3 3
+Ses05F_impro03_F049 neutral state 2 3 3
+Ses05F_impro03_F050 neutral state 2 3 3
+Ses05F_impro03_F051 happiness 2 2 4
+Ses05F_impro03_F052 neutral state 2 3 4
+Ses05F_impro03_F053 neutral state 2 3 3
+Ses05F_impro03_F054 other 2 4 3
+Ses05F_impro03_F055 happiness 1 1 5
+Ses05F_impro03_F056 neutral state 2 3 3
+Ses05F_impro03_F057 happiness 2 2 4
+Ses05F_impro03_F058 other 2 2 3
+Ses05F_impro03_F059 happiness 2 2 4
+Ses05F_impro03_F060 happiness 1 1 5
+Ses05F_impro03_M000 neutral state 2 3 4
+Ses05F_impro03_M001 excited 2 2 4
+Ses05F_impro03_M002 surprise 3 1 5
+Ses05F_impro03_M003 excited 2 2 5
+Ses05F_impro03_M004 surprise 2 2 5
+Ses05F_impro03_M005 excited 1 1 5
+Ses05F_impro03_M006 excited 1 1 5
+Ses05F_impro03_M007 excited 2 2 5
+Ses05F_impro03_M008 excited 2 2 5
+Ses05F_impro03_M009 excited 2 2 4
+Ses05F_impro03_M010 excited 2 3 5
+Ses05F_impro03_M011 excited 2 2 5
+Ses05F_impro03_M012 excited 1 2 5
+Ses05F_impro03_M013 neutral state 2 1 5
+Ses05F_impro03_M014 neutral state 2 2 4
+Ses05F_impro03_M015 neutral state 2 3 4
+Ses05F_impro03_M016 neutral state 2 2 4
+Ses05F_impro03_M017 neutral state 2 3 4
+Ses05F_impro03_M018 neutral state 2 3 4
+Ses05F_impro03_M019 neutral state 2 2 5
+Ses05F_impro03_M020 neutral state 2 2 4
+Ses05F_impro03_M021 neutral state 2 3 4
+Ses05F_impro03_M022 neutral state 2 3 4
+Ses05F_impro03_M023 neutral state 3 2 4
+Ses05F_impro03_M024 neutral state 2 3 4
+Ses05F_impro03_M025 neutral state 3 2 3
+Ses05F_impro03_M026 neutral state 2 3 3
+Ses05F_impro03_M027 neutral state 2 2 5
+Ses05F_impro03_M028 neutral state 1 2 5
+Ses05F_impro03_M029 neutral state 2 2 4
+Ses05F_impro03_M030 excited 2 2 5
+Ses05F_impro03_M031 excited 2 3 4
+Ses05F_impro03_M032 excited 2 2 4
+Ses05F_impro03_M033 excited 2 2 4
+Ses05F_impro03_M034 excited 2 3 5
+Ses05F_impro03_M035 neutral state 2 2 4
+Ses05F_impro03_M036 happiness 2 3 5
+Ses05F_impro03_M037 happiness 2 2 5
+Ses05F_impro03_M038 happiness 1 1 5
+Ses05F_impro03_M039 happiness 2 2 4
+Ses05F_impro03_M040 happiness 2 3 4
+Ses05F_impro03_M041 happiness 1 1 5
+Ses05F_impro03_M042 neutral state 2 3 4
+Ses05F_impro03_M043 excited 1 1 5
+Ses05F_impro03_M044 excited 1 2 5
+Ses05F_impro03_M045 excited 2 3 5
+Ses05F_impro03_M046 excited 2 3 4
+Ses05F_impro03_M047 neutral state 2 3 3
+Ses05F_impro03_M048 neutral state 2 2 4
+Ses05F_impro03_M049 neutral state 2 3 3
+Ses05F_impro03_M050 neutral state 2 2 4
+Ses05F_impro03_M051 neutral state 2 2 4
+Ses05F_impro03_M052 neutral state 2 2 4
+Ses05F_impro03_M053 neutral state 2 2 3
+Ses05F_impro03_M054 neutral state 2 3 4
+Ses05F_impro03_M055 neutral state 2 3 4
+Ses05F_impro03_M056 neutral state 2 2 4
+Ses05F_impro03_M057 neutral state 1 2 5
+Ses05F_impro03_M058 neutral state 2 3 4
+Ses05F_impro03_M059 neutral state 2 4 3
+Ses05F_impro03_M060 excited 1 1 5
+Ses05F_impro03_M061 neutral state 2 3 4
+Ses05F_impro03_M062 neutral state 2 3 3
+Ses05F_impro03_M063 neutral state 2 2 4
+Ses05F_impro03_M064 neutral state 2 3 3
+Ses05F_impro03_M065 excited 1 1 5
+Ses05F_impro03_M066 excited 2 3 4
+Ses05F_impro03_M067 excited 2 3 4
+Ses05F_impro03_M068 excited 2 2 5

@@ -1,0 +1,60 @@
+Ses03M_impro05a_F000 neutral state 3 3 3
+Ses03M_impro05a_F001 neutral state 3 4 2
+Ses03M_impro05a_F002 neutral state 4 3 4
+Ses03M_impro05a_F003 neutral state 3 2 3
+Ses03M_impro05a_F004 neutral state 3 2 3
+Ses03M_impro05a_F005 neutral state 3 3 2
+Ses03M_impro05a_F006 neutral state 3 4 2
+Ses03M_impro05a_F007 neutral state 4 3 3
+Ses03M_impro05a_F008 neutral state 3 3 3
+Ses03M_impro05a_F009 neutral state 3 3 3
+Ses03M_impro05a_F010 neutral state 4 3 3
+Ses03M_impro05a_F011 neutral state 4 4 2
+Ses03M_impro05a_F012 neutral state 4 3 3
+Ses03M_impro05a_F013 neutral state 3 3 2
+Ses03M_impro05a_F014 neutral state 2 3 3
+Ses03M_impro05a_F015 neutral state 4 3 3
+Ses03M_impro05a_F016 neutral state 4 3 3
+Ses03M_impro05a_F017 neutral state 2 2 4
+Ses03M_impro05a_F018 neutral state 4 2 4
+Ses03M_impro05a_F019 frustration 3 4 2
+Ses03M_impro05a_F020 frustration 3 2 3
+Ses03M_impro05a_F021 neutral state 3 3 3
+Ses03M_impro05a_F022 anger 3 2 4
+Ses03M_impro05a_F023 neutral state 3 3 3
+Ses03M_impro05a_F024 neutral state 3 3 3
+Ses03M_impro05a_F025 neutral state 3 4 4
+Ses03M_impro05a_F026 neutral state 4 3 3
+Ses03M_impro05a_F027 frustration 4 2 3
+Ses03M_impro05a_F028 anger 4 3 4
+Ses03M_impro05a_M000 anger 5 1 5
+Ses03M_impro05a_M001 anger 5 1 5
+Ses03M_impro05a_M002 anger 5 1 5
+Ses03M_impro05a_M003 anger 4 2 5
+Ses03M_impro05a_M004 anger 4 2 4
+Ses03M_impro05a_M005 anger 4 2 4
+Ses03M_impro05a_M006 anger 5 1 5
+Ses03M_impro05a_M007 anger 5 1 5
+Ses03M_impro05a_M008 anger 5 3 5
+Ses03M_impro05a_M009 anger 5 2 5
+Ses03M_impro05a_M010 anger 5 1 5
+Ses03M_impro05a_M011 anger 4 1 4
+Ses03M_impro05a_M012 anger 5 1 5
+Ses03M_impro05a_M013 anger 5 1 5
+Ses03M_impro05a_M014 anger 4 2 4
+Ses03M_impro05a_M015 anger 5 1 5
+Ses03M_impro05a_M016 anger 5 1 5
+Ses03M_impro05a_M017 anger 5 1 5
+Ses03M_impro05a_M018 anger 5 1 5
+Ses03M_impro05a_M019 anger 5 1 5
+Ses03M_impro05a_M020 anger 4 1 5
+Ses03M_impro05a_M021 anger 5 1 5
+Ses03M_impro05a_M022 anger 4 4 3
+Ses03M_impro05a_M023 anger 5 1 5
+Ses03M_impro05a_M024 anger 5 1 5
+Ses03M_impro05a_M025 anger 5 1 5
+Ses03M_impro05a_M026 anger 4 3 4
+Ses03M_impro05a_M027 anger 4 3 4
+Ses03M_impro05a_M028 anger 4 2 3
+Ses03M_impro05a_M029 anger 3 3 4
+Ses03M_impro05a_M030 excited 1 1 5

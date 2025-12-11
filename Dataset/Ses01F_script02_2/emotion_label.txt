@@ -1,0 +1,98 @@
+Ses01F_script02_2_F000 neutral state 4 4 3
+Ses01F_script02_2_F001 neutral state 4 3 4
+Ses01F_script02_2_F002 neutral state 4 3 3
+Ses01F_script02_2_F003 excited 4 2 4
+Ses01F_script02_2_F004 excited 4 2 3
+Ses01F_script02_2_F005 excited 4 3 4
+Ses01F_script02_2_F006 anger 5 1 5
+Ses01F_script02_2_F007 neutral state 5 2 4
+Ses01F_script02_2_F008 frustration 5 3 4
+Ses01F_script02_2_F009 frustration 4 1 5
+Ses01F_script02_2_F010 frustration 4 2 4
+Ses01F_script02_2_F011 frustration 4 1 4
+Ses01F_script02_2_F012 frustration 5 1 4
+Ses01F_script02_2_F013 frustration 5 4 4
+Ses01F_script02_2_F014 neutral state 4 2 3
+Ses01F_script02_2_F015 neutral state 5 3 3
+Ses01F_script02_2_F016 anger 5 1 5
+Ses01F_script02_2_F017 neutral state 4 4 3
+Ses01F_script02_2_F018 neutral state 4 4 3
+Ses01F_script02_2_F019 happiness 4 3 3
+Ses01F_script02_2_F020 neutral state 3 3 3
+Ses01F_script02_2_F021 frustration 3 3 3
+Ses01F_script02_2_F022 sadness 4 4 3
+Ses01F_script02_2_F023 neutral state 4 4 4
+Ses01F_script02_2_F024 neutral state 2 4 3
+Ses01F_script02_2_F025 frustration 2 3 3
+Ses01F_script02_2_F026 neutral state 2 4 4
+Ses01F_script02_2_F027 frustration 4 3 3
+Ses01F_script02_2_F028 sadness 4 3 3
+Ses01F_script02_2_F029 frustration 4 3 3
+Ses01F_script02_2_F030 frustration 4 3 4
+Ses01F_script02_2_F031 frustration 4 3 3
+Ses01F_script02_2_F032 frustration 4 2 3
+Ses01F_script02_2_F033 frustration 4 3 2
+Ses01F_script02_2_F034 neutral state 4 3 3
+Ses01F_script02_2_F035 sadness 4 3 3
+Ses01F_script02_2_F036 surprise 4 2 2
+Ses01F_script02_2_F037 surprise 4 2 4
+Ses01F_script02_2_F038 neutral state 4 2 3
+Ses01F_script02_2_F039 surprise 4 2 3
+Ses01F_script02_2_F040 neutral state 5 4 3
+Ses01F_script02_2_F041 neutral state 3 4 3
+Ses01F_script02_2_F042 neutral state 2 4 3
+Ses01F_script02_2_F043 surprise 2 3 3
+Ses01F_script02_2_F044 neutral state 2 3 3
+Ses01F_script02_2_F045 happiness 2 4 2
+Ses01F_script02_2_F046 sadness 3 4 3
+Ses01F_script02_2_F047 neutral state 2 3 3
+Ses01F_script02_2_M000 excited 1 2 3
+Ses01F_script02_2_M001 excited 1 3 3
+Ses01F_script02_2_M002 neutral state 2 3 3
+Ses01F_script02_2_M003 surprise 2 3 4
+Ses01F_script02_2_M004 neutral state 4 2 4
+Ses01F_script02_2_M005 neutral state 3 3 3
+Ses01F_script02_2_M006 neutral state 3 4 2
+Ses01F_script02_2_M007 other 3 2 2
+Ses01F_script02_2_M008 neutral state 4 2 4
+Ses01F_script02_2_M009 neutral state 4 2 4
+Ses01F_script02_2_M010 neutral state 4 3 4
+Ses01F_script02_2_M011 frustration 3 2 3
+Ses01F_script02_2_M012 other 4 2 4
+Ses01F_script02_2_M013 anger 4 2 4
+Ses01F_script02_2_M014 neutral state 4 4 3
+Ses01F_script02_2_M015 frustration 4 3 3
+Ses01F_script02_2_M016 neutral state 4 3 3
+Ses01F_script02_2_M017 neutral state 4 3 3
+Ses01F_script02_2_M018 neutral state 3 3 3
+Ses01F_script02_2_M019 neutral state 3 2 3
+Ses01F_script02_2_M020 neutral state 4 3 2
+Ses01F_script02_2_M021 neutral state 3 3 2
+Ses01F_script02_2_M022 neutral state 3 3 2
+Ses01F_script02_2_M023 neutral state 3 3 3
+Ses01F_script02_2_M024 neutral state 2 3 3
+Ses01F_script02_2_M025 neutral state 4 2 3
+Ses01F_script02_2_M026 neutral state 3 3 2
+Ses01F_script02_2_M027 other 4 3 2
+Ses01F_script02_2_M028 other 4 2 4
+Ses01F_script02_2_M029 other 4 2 4
+Ses01F_script02_2_M030 anger 4 2 5
+Ses01F_script02_2_M031 sadness 5 2 5
+Ses01F_script02_2_M032 sadness 5 1 5
+Ses01F_script02_2_M033 neutral state 4 4 4
+Ses01F_script02_2_M034 neutral state 5 4 3
+Ses01F_script02_2_M035 frustration 5 4 3
+Ses01F_script02_2_M036 frustration 5 2 2
+Ses01F_script02_2_M037 sadness 5 3 1
+Ses01F_script02_2_M038 frustration 4 2 3
+Ses01F_script02_2_M039 surprise 3 4 2
+Ses01F_script02_2_M040 neutral state 3 3 3
+Ses01F_script02_2_M041 neutral state 2 3 3
+Ses01F_script02_2_M042 neutral state 2 3 3
+Ses01F_script02_2_M043 neutral state 2 4 3
+Ses01F_script02_2_M044 happiness 2 3 3
+Ses01F_script02_2_M045 happiness 4 3 3
+Ses01F_script02_2_M046 neutral state 2 3 2
+Ses01F_script02_2_M047 neutral state 3 3 3
+Ses01F_script02_2_M048 neutral state 2 2 3
+Ses01F_script02_2_M049 happiness 2 2 3

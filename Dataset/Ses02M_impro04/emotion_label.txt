@@ -1,0 +1,41 @@
+Ses02M_impro04_F000 neutral state 3 4 1
+Ses02M_impro04_F001 neutral state 3 4 1
+Ses02M_impro04_F002 neutral state 3 5 2
+Ses02M_impro04_F003 neutral state 3 4 2
+Ses02M_impro04_F004 neutral state 3 4 2
+Ses02M_impro04_F005 neutral state 3 4 2
+Ses02M_impro04_F006 neutral state 3 4 1
+Ses02M_impro04_F007 neutral state 2 4 2
+Ses02M_impro04_F008 neutral state 3 4 2
+Ses02M_impro04_F009 sadness 4 5 1
+Ses02M_impro04_F010 neutral state 3 4 2
+Ses02M_impro04_F011 neutral state 3 4 2
+Ses02M_impro04_F012 neutral state 3 5 2
+Ses02M_impro04_F013 other 2 3 2
+Ses02M_impro04_F014 neutral state 3 4 2
+Ses02M_impro04_F015 neutral state 3 4 2
+Ses02M_impro04_F016 neutral state 3 4 2
+Ses02M_impro04_F017 other 3 4 2
+Ses02M_impro04_M000 frustration 4 4 2
+Ses02M_impro04_M001 frustration 4 4 1
+Ses02M_impro04_M002 frustration 3 3 3
+Ses02M_impro04_M003 frustration 3 4 2
+Ses02M_impro04_M004 frustration 4 3 2
+Ses02M_impro04_M005 other 4 3 2
+Ses02M_impro04_M006 frustration 4 4 1
+Ses02M_impro04_M007 other 4 4 2
+Ses02M_impro04_M008 other 4 4 2
+Ses02M_impro04_M009 other 4 3 2
+Ses02M_impro04_M010 frustration 4 3 2
+Ses02M_impro04_M011 frustration 4 4 2
+Ses02M_impro04_M012 other 4 4 2
+Ses02M_impro04_M013 frustration 4 4 2
+Ses02M_impro04_M014 other 3 4 1
+Ses02M_impro04_M015 other 3 4 1
+Ses02M_impro04_M016 frustration 3 3 2
+Ses02M_impro04_M017 frustration 4 3 2
+Ses02M_impro04_M018 frustration 4 4 2
+Ses02M_impro04_M019 frustration 4 3 2
+Ses02M_impro04_M020 other 4 4 1
+Ses02M_impro04_M021 other 4 4 1
+Ses02M_impro04_M022 frustration 4 5 1

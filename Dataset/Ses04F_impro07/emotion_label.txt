@@ -1,0 +1,167 @@
+Ses04F_impro07_F000 excited 1 2 4
+Ses04F_impro07_F001 happiness 1 2 4
+Ses04F_impro07_F002 happiness 1 1 5
+Ses04F_impro07_F003 happiness 1 1 5
+Ses04F_impro07_F004 happiness 1 1 5
+Ses04F_impro07_F005 happiness 1 1 5
+Ses04F_impro07_F006 happiness 1 1 5
+Ses04F_impro07_F007 excited 1 1 5
+Ses04F_impro07_F008 excited 1 1 5
+Ses04F_impro07_F009 excited 1 1 5
+Ses04F_impro07_F010 excited 2 2 4
+Ses04F_impro07_F011 excited 1 2 4
+Ses04F_impro07_F012 excited 1 2 4
+Ses04F_impro07_F013 excited 2 2 4
+Ses04F_impro07_F014 excited 2 2 4
+Ses04F_impro07_F015 excited 1 2 4
+Ses04F_impro07_F016 excited 1 2 4
+Ses04F_impro07_F017 excited 2 4 3
+Ses04F_impro07_F018 excited 1 2 4
+Ses04F_impro07_F019 neutral state 2 3 3
+Ses04F_impro07_F020 happiness 2 2 4
+Ses04F_impro07_F021 excited 1 1 5
+Ses04F_impro07_F022 excited 1 2 4
+Ses04F_impro07_F023 neutral state 1 2 4
+Ses04F_impro07_F024 excited 2 2 4
+Ses04F_impro07_F025 neutral state 2 2 4
+Ses04F_impro07_F026 neutral state 2 3 4
+Ses04F_impro07_F027 happiness 2 2 4
+Ses04F_impro07_F028 happiness 1 2 4
+Ses04F_impro07_F029 excited 2 2 4
+Ses04F_impro07_F030 excited 1 1 5
+Ses04F_impro07_F031 excited 2 2 4
+Ses04F_impro07_F032 excited 2 2 4
+Ses04F_impro07_F033 excited 1 1 4
+Ses04F_impro07_F034 happiness 1 1 5
+Ses04F_impro07_F035 excited 2 2 4
+Ses04F_impro07_F036 excited 1 1 5
+Ses04F_impro07_F037 happiness 1 1 4
+Ses04F_impro07_F038 excited 2 3 3
+Ses04F_impro07_F039 excited 1 1 4
+Ses04F_impro07_F040 excited 1 2 4
+Ses04F_impro07_F041 excited 2 1 4
+Ses04F_impro07_F042 excited 2 3 3
+Ses04F_impro07_F043 happiness 1 1 5
+Ses04F_impro07_F044 excited 1 1 4
+Ses04F_impro07_F045 happiness 1 2 4
+Ses04F_impro07_F046 happiness 1 1 5
+Ses04F_impro07_F047 excited 2 2 4
+Ses04F_impro07_F048 excited 2 3 4
+Ses04F_impro07_F049 excited 2 3 3
+Ses04F_impro07_F050 excited 2 3 3
+Ses04F_impro07_F051 excited 1 3 4
+Ses04F_impro07_F052 excited 1 2 4
+Ses04F_impro07_F053 neutral state 2 3 3
+Ses04F_impro07_F054 neutral state 3 3 3
+Ses04F_impro07_F055 neutral state 3 3 3
+Ses04F_impro07_F056 neutral state 3 2 3
+Ses04F_impro07_F057 neutral state 2 2 4
+Ses04F_impro07_F058 excited 1 2 4
+Ses04F_impro07_F059 excited 2 4 3
+Ses04F_impro07_F060 excited 2 2 4
+Ses04F_impro07_F061 excited 2 2 4
+Ses04F_impro07_F062 excited 2 3 4
+Ses04F_impro07_F063 excited 1 2 4
+Ses04F_impro07_F064 excited 2 2 4
+Ses04F_impro07_F065 excited 1 1 5
+Ses04F_impro07_F066 excited 2 3 3
+Ses04F_impro07_F067 neutral state 3 2 3
+Ses04F_impro07_F068 neutral state 4 4 4
+Ses04F_impro07_F069 neutral state 4 2 3
+Ses04F_impro07_F070 excited 1 1 4
+Ses04F_impro07_F071 neutral state 2 3 3
+Ses04F_impro07_F072 neutral state 2 2 4
+Ses04F_impro07_F073 neutral state 2 2 4
+Ses04F_impro07_F074 excited 1 2 5
+Ses04F_impro07_F075 neutral state 2 2 3
+Ses04F_impro07_F076 neutral state 2 3 4
+Ses04F_impro07_F077 neutral state 2 3 4
+Ses04F_impro07_F078 excited 1 1 5
+Ses04F_impro07_F079 excited 2 1 4
+Ses04F_impro07_M000 neutral state 2 2 4
+Ses04F_impro07_M001 excited 2 2 4
+Ses04F_impro07_M002 surprise 2 2 4
+Ses04F_impro07_M003 surprise 1 1 5
+Ses04F_impro07_M004 surprise 2 2 4
+Ses04F_impro07_M005 excited 1 1 5
+Ses04F_impro07_M006 excited 1 1 5
+Ses04F_impro07_M007 neutral state 2 3 3
+Ses04F_impro07_M008 neutral state 2 3 3
+Ses04F_impro07_M009 neutral state 2 3 4
+Ses04F_impro07_M010 neutral state 1 1 5
+Ses04F_impro07_M011 neutral state 2 3 3
+Ses04F_impro07_M012 neutral state 2 3 3
+Ses04F_impro07_M013 neutral state 2 3 3
+Ses04F_impro07_M014 neutral state 2 2 4
+Ses04F_impro07_M015 neutral state 2 3 4
+Ses04F_impro07_M016 neutral state 2 3 2
+Ses04F_impro07_M017 neutral state 2 3 4
+Ses04F_impro07_M018 neutral state 3 4 3
+Ses04F_impro07_M019 neutral state 2 2 4
+Ses04F_impro07_M020 neutral state 2 3 3
+Ses04F_impro07_M021 neutral state 2 3 4
+Ses04F_impro07_M022 neutral state 3 3 3
+Ses04F_impro07_M023 neutral state 2 2 3
+Ses04F_impro07_M024 neutral state 1 2 4
+Ses04F_impro07_M025 neutral state 1 2 4
+Ses04F_impro07_M026 neutral state 2 3 3
+Ses04F_impro07_M027 neutral state 2 2 4
+Ses04F_impro07_M028 excited 2 2 4
+Ses04F_impro07_M029 neutral state 2 3 3
+Ses04F_impro07_M030 other 2 3 3
+Ses04F_impro07_M031 neutral state 2 2 3
+Ses04F_impro07_M032 neutral state 2 3 3
+Ses04F_impro07_M033 neutral state 3 3 3
+Ses04F_impro07_M034 excited 2 3 4
+Ses04F_impro07_M035 neutral state 2 3 3
+Ses04F_impro07_M036 excited 1 3 4
+Ses04F_impro07_M037 excited 2 3 3
+Ses04F_impro07_M038 excited 3 3 2
+Ses04F_impro07_M039 excited 2 2 4
+Ses04F_impro07_M040 excited 2 3 3
+Ses04F_impro07_M041 excited 3 2 3
+Ses04F_impro07_M042 excited 2 2 4
+Ses04F_impro07_M043 happiness 2 3 4
+Ses04F_impro07_M044 neutral state 2 3 3
+Ses04F_impro07_M045 excited 2 3 4
+Ses04F_impro07_M046 excited 2 3 3
+Ses04F_impro07_M047 neutral state 2 3 3
+Ses04F_impro07_M048 neutral state 2 3 3
+Ses04F_impro07_M049 excited 1 1 5
+Ses04F_impro07_M050 excited 3 3 3
+Ses04F_impro07_M051 neutral state 2 3 3
+Ses04F_impro07_M052 neutral state 3 3 4
+Ses04F_impro07_M053 neutral state 2 2 3
+Ses04F_impro07_M054 neutral state 2 2 4
+Ses04F_impro07_M055 neutral state 2 3 3
+Ses04F_impro07_M056 neutral state 2 3 3
+Ses04F_impro07_M057 neutral state 3 4 3
+Ses04F_impro07_M058 neutral state 3 2 3
+Ses04F_impro07_M059 neutral state 3 3 4
+Ses04F_impro07_M060 neutral state 2 3 4
+Ses04F_impro07_M061 neutral state 2 3 3
+Ses04F_impro07_M062 neutral state 2 3 3
+Ses04F_impro07_M063 neutral state 4 4 3
+Ses04F_impro07_M064 neutral state 2 2 4
+Ses04F_impro07_M065 neutral state 1 1 5
+Ses04F_impro07_M066 neutral state 2 4 3
+Ses04F_impro07_M067 neutral state 2 3 3
+Ses04F_impro07_M068 neutral state 1 2 4
+Ses04F_impro07_M069 neutral state 2 2 4
+Ses04F_impro07_M070 excited 2 3 3
+Ses04F_impro07_M071 neutral state 4 3 4
+Ses04F_impro07_M072 neutral state 3 4 4
+Ses04F_impro07_M073 neutral state 2 3 4
+Ses04F_impro07_M074 neutral state 2 2 4
+Ses04F_impro07_M075 neutral state 2 3 4
+Ses04F_impro07_M076 neutral state 2 3 3
+Ses04F_impro07_M077 neutral state 2 3 4
+Ses04F_impro07_M078 neutral state 2 2 4
+Ses04F_impro07_M079 neutral state 2 4 4
+Ses04F_impro07_M080 neutral state 2 3 3
+Ses04F_impro07_M081 neutral state 3 2 4
+Ses04F_impro07_M082 neutral state 3 3 3
+Ses04F_impro07_M083 neutral state 4 2 4
+Ses04F_impro07_M084 neutral state 4 2 4
+Ses04F_impro07_M085 neutral state 2 4 3
+Ses04F_impro07_M086 neutral state 2 3 4

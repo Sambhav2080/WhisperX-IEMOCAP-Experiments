@@ -1,0 +1,77 @@
+Ses05F_impro07_F000 excited 2 2 4
+Ses05F_impro07_F001 excited 1 2 5
+Ses05F_impro07_F002 excited 2 2 4
+Ses05F_impro07_F003 excited 1 2 4
+Ses05F_impro07_F004 excited 1 2 5
+Ses05F_impro07_F005 excited 1 2 5
+Ses05F_impro07_F006 neutral state 2 3 4
+Ses05F_impro07_F007 neutral state 2 3 3
+Ses05F_impro07_F008 excited 1 1 5
+Ses05F_impro07_F009 neutral state 2 3 4
+Ses05F_impro07_F010 neutral state 2 2 4
+Ses05F_impro07_F011 excited 1 1 5
+Ses05F_impro07_F012 excited 1 1 5
+Ses05F_impro07_F013 excited 2 2 4
+Ses05F_impro07_F014 excited 1 2 5
+Ses05F_impro07_F015 excited 1 2 5
+Ses05F_impro07_F016 excited 2 2 4
+Ses05F_impro07_F017 excited 2 3 3
+Ses05F_impro07_F018 neutral state 2 3 3
+Ses05F_impro07_F019 neutral state 2 3 3
+Ses05F_impro07_F020 neutral state 2 2 3
+Ses05F_impro07_F021 excited 1 2 4
+Ses05F_impro07_F022 neutral state 2 2 4
+Ses05F_impro07_F023 excited 1 1 5
+Ses05F_impro07_F024 excited 2 2 4
+Ses05F_impro07_F025 excited 2 3 4
+Ses05F_impro07_F026 excited 2 2 4
+Ses05F_impro07_F027 excited 2 2 4
+Ses05F_impro07_F028 excited 1 1 5
+Ses05F_impro07_F029 excited 2 2 4
+Ses05F_impro07_F030 excited 1 1 5
+Ses05F_impro07_F031 excited 2 2 4
+Ses05F_impro07_F032 excited 2 3 4
+Ses05F_impro07_F033 excited 1 1 5
+Ses05F_impro07_F034 excited 2 3 4
+Ses05F_impro07_F035 excited 2 3 4
+Ses05F_impro07_F036 excited 2 3 3
+Ses05F_impro07_F037 excited 2 3 3
+Ses05F_impro07_F038 excited 1 1 5
+Ses05F_impro07_F039 excited 1 1 5
+Ses05F_impro07_M000 excited 2 2 4
+Ses05F_impro07_M001 excited 2 2 4
+Ses05F_impro07_M002 excited 2 1 5
+Ses05F_impro07_M003 excited 1 2 5
+Ses05F_impro07_M004 excited 1 2 5
+Ses05F_impro07_M005 excited 2 2 4
+Ses05F_impro07_M006 excited 2 2 4
+Ses05F_impro07_M007 neutral state 2 2 5
+Ses05F_impro07_M008 excited 1 1 5
+Ses05F_impro07_M009 excited 2 3 3
+Ses05F_impro07_M010 neutral state 2 3 3
+Ses05F_impro07_M011 excited 2 3 4
+Ses05F_impro07_M012 excited 1 2 5
+Ses05F_impro07_M013 excited 1 2 5
+Ses05F_impro07_M014 excited 1 3 5
+Ses05F_impro07_M015 excited 1 2 5
+Ses05F_impro07_M016 excited 1 1 5
+Ses05F_impro07_M017 excited 2 2 5
+Ses05F_impro07_M018 excited 2 3 4
+Ses05F_impro07_M019 excited 4 3 3
+Ses05F_impro07_M020 excited 2 2 4
+Ses05F_impro07_M021 excited 4 3 4
+Ses05F_impro07_M022 neutral state 2 2 4
+Ses05F_impro07_M023 neutral state 2 3 4
+Ses05F_impro07_M024 excited 1 2 5
+Ses05F_impro07_M025 excited 2 2 4
+Ses05F_impro07_M026 excited 2 3 4
+Ses05F_impro07_M027 excited 2 2 5
+Ses05F_impro07_M028 neutral state 2 2 4
+Ses05F_impro07_M029 excited 2 2 4
+Ses05F_impro07_M030 excited 2 2 5
+Ses05F_impro07_M031 excited 2 2 4
+Ses05F_impro07_M032 excited 1 2 5
+Ses05F_impro07_M033 excited 2 2 4
+Ses05F_impro07_M034 excited 2 3 3
+Ses05F_impro07_M035 excited 2 3 4
+Ses05F_impro07_M036 excited 2 2 4

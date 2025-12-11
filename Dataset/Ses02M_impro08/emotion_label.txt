@@ -1,0 +1,63 @@
+Ses02M_impro08_F000 excited 2 3 2
+Ses02M_impro08_F001 excited 3 3 2
+Ses02M_impro08_F002 excited 3 3 2
+Ses02M_impro08_F003 frustration 4 3 2
+Ses02M_impro08_F004 frustration 4 3 2
+Ses02M_impro08_F005 other 4 2 2
+Ses02M_impro08_F006 neutral state 2 3 1
+Ses02M_impro08_F007 neutral state 3 3 1
+Ses02M_impro08_F008 neutral state 3 3 1
+Ses02M_impro08_F009 frustration 4 3 2
+Ses02M_impro08_F010 neutral state 3 3 1
+Ses02M_impro08_F011 other 4 3 1
+Ses02M_impro08_F012 other 4 3 1
+Ses02M_impro08_F013 neutral state 2 3 1
+Ses02M_impro08_F014 neutral state 3 3 2
+Ses02M_impro08_F015 neutral state 3 3 1
+Ses02M_impro08_F016 other 4 3 2
+Ses02M_impro08_F017 other 4 3 2
+Ses02M_impro08_F018 fear 4 3 1
+Ses02M_impro08_F019 neutral state 4 4 1
+Ses02M_impro08_F020 surprise 2 3 1
+Ses02M_impro08_F021 neutral state 2 3 1
+Ses02M_impro08_F022 neutral state 2 3 2
+Ses02M_impro08_F023 neutral state 2 3 1
+Ses02M_impro08_F024 neutral state 3 4 1
+Ses02M_impro08_F025 neutral state 3 3 1
+Ses02M_impro08_F026 neutral state 3 4 1
+Ses02M_impro08_F027 neutral state 2 4 1
+Ses02M_impro08_F028 neutral state 2 4 2
+Ses02M_impro08_F029 neutral state 2 4 1
+Ses02M_impro08_F030 neutral state 2 4 1
+Ses02M_impro08_M000 neutral state 2 4 2
+Ses02M_impro08_M001 neutral state 2 3 2
+Ses02M_impro08_M002 neutral state 2 4 2
+Ses02M_impro08_M003 neutral state 2 3 2
+Ses02M_impro08_M004 neutral state 2 3 2
+Ses02M_impro08_M005 neutral state 2 3 2
+Ses02M_impro08_M006 excited 2 3 2
+Ses02M_impro08_M007 neutral state 3 3 2
+Ses02M_impro08_M008 neutral state 3 3 2
+Ses02M_impro08_M009 neutral state 2 3 2
+Ses02M_impro08_M010 neutral state 3 3 2
+Ses02M_impro08_M011 neutral state 3 3 2
+Ses02M_impro08_M012 neutral state 3 4 2
+Ses02M_impro08_M013 neutral state 3 3 2
+Ses02M_impro08_M014 neutral state 2 3 2
+Ses02M_impro08_M015 neutral state 3 3 2
+Ses02M_impro08_M016 neutral state 3 4 2
+Ses02M_impro08_M017 neutral state 3 3 3
+Ses02M_impro08_M018 neutral state 3 4 2
+Ses02M_impro08_M019 neutral state 3 4 2
+Ses02M_impro08_M020 neutral state 3 4 2
+Ses02M_impro08_M021 neutral state 3 4 2
+Ses02M_impro08_M022 neutral state 3 4 2
+Ses02M_impro08_M023 neutral state 3 4 1
+Ses02M_impro08_M024 neutral state 3 3 2
+Ses02M_impro08_M025 neutral state 3 3 2
+Ses02M_impro08_M026 neutral state 2 4 2
+Ses02M_impro08_M027 neutral state 3 4 2
+Ses02M_impro08_M028 neutral state 3 4 2
+Ses02M_impro08_M029 neutral state 3 2 3
+Ses02M_impro08_M030 neutral state 2 4 2
+Ses02M_impro08_M031 neutral state 2 4 2

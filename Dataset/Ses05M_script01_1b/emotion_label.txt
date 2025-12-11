@@ -1,0 +1,81 @@
+Ses05M_script01_1b_F000 neutral state 4 4 3
+Ses05M_script01_1b_F001 surprise 4 3 3
+Ses05M_script01_1b_F002 neutral state 4 4 3
+Ses05M_script01_1b_F003 other 4 4 3
+Ses05M_script01_1b_F004 neutral state 4 4 3
+Ses05M_script01_1b_F005 other 4 4 4
+Ses05M_script01_1b_F006 neutral state 4 3 4
+Ses05M_script01_1b_F007 other 4 4 3
+Ses05M_script01_1b_F008 neutral state 4 3 4
+Ses05M_script01_1b_F009 neutral state 4 3 4
+Ses05M_script01_1b_F010 neutral state 4 3 3
+Ses05M_script01_1b_F011 neutral state 4 3 3
+Ses05M_script01_1b_F012 frustration 5 2 4
+Ses05M_script01_1b_F013 neutral state 3 4 4
+Ses05M_script01_1b_F014 neutral state 3 3 4
+Ses05M_script01_1b_F015 neutral state 3 4 3
+Ses05M_script01_1b_F016 frustration 4 3 4
+Ses05M_script01_1b_F017 neutral state 4 3 2
+Ses05M_script01_1b_F018 frustration 5 3 4
+Ses05M_script01_1b_F019 neutral state 4 3 5
+Ses05M_script01_1b_F020 neutral state 4 3 3
+Ses05M_script01_1b_F021 neutral state 4 4 3
+Ses05M_script01_1b_F022 neutral state 4 3 4
+Ses05M_script01_1b_F023 neutral state 4 4 4
+Ses05M_script01_1b_F024 neutral state 4 3 3
+Ses05M_script01_1b_F025 neutral state 4 3 4
+Ses05M_script01_1b_F026 neutral state 3 4 4
+Ses05M_script01_1b_F027 frustration 5 4 4
+Ses05M_script01_1b_F028 sadness 5 4 3
+Ses05M_script01_1b_F029 neutral state 4 4 3
+Ses05M_script01_1b_F030 surprise 4 3 3
+Ses05M_script01_1b_F031 anger 5 2 5
+Ses05M_script01_1b_F032 frustration 5 2 4
+Ses05M_script01_1b_F033 anger 5 2 5
+Ses05M_script01_1b_F034 neutral state 3 3 4
+Ses05M_script01_1b_F035 frustration 4 3 5
+Ses05M_script01_1b_F036 neutral state 4 4 3
+Ses05M_script01_1b_F037 frustration 5 4 2
+Ses05M_script01_1b_F038 neutral state 3 4 3
+Ses05M_script01_1b_M000 neutral state 4 3 4
+Ses05M_script01_1b_M001 neutral state 4 3 3
+Ses05M_script01_1b_M002 neutral state 4 4 4
+Ses05M_script01_1b_M003 frustration 4 3 4
+Ses05M_script01_1b_M004 sadness 4 3 3
+Ses05M_script01_1b_M005 sadness 4 3 4
+Ses05M_script01_1b_M006 neutral state 4 4 4
+Ses05M_script01_1b_M007 neutral state 4 3 4
+Ses05M_script01_1b_M008 frustration 4 3 4
+Ses05M_script01_1b_M009 neutral state 4 2 5
+Ses05M_script01_1b_M010 frustration 5 2 5
+Ses05M_script01_1b_M011 excited 4 3 4
+Ses05M_script01_1b_M012 anger 4 2 5
+Ses05M_script01_1b_M013 neutral state 4 3 4
+Ses05M_script01_1b_M014 neutral state 3 3 4
+Ses05M_script01_1b_M015 neutral state 3 3 4
+Ses05M_script01_1b_M016 frustration 4 2 4
+Ses05M_script01_1b_M017 frustration 4 2 5
+Ses05M_script01_1b_M018 anger 5 2 5
+Ses05M_script01_1b_M019 frustration 5 2 5
+Ses05M_script01_1b_M020 frustration 5 1 5
+Ses05M_script01_1b_M021 frustration 5 2 5
+Ses05M_script01_1b_M022 frustration 5 1 5
+Ses05M_script01_1b_M023 neutral state 4 3 4
+Ses05M_script01_1b_M024 neutral state 4 3 4
+Ses05M_script01_1b_M025 frustration 5 2 5
+Ses05M_script01_1b_M026 frustration 5 3 4
+Ses05M_script01_1b_M027 frustration 4 2 4
+Ses05M_script01_1b_M028 frustration 4 3 4
+Ses05M_script01_1b_M029 frustration 4 2 5
+Ses05M_script01_1b_M030 frustration 3 3 4
+Ses05M_script01_1b_M031 frustration 5 3 5
+Ses05M_script01_1b_M032 frustration 4 3 4
+Ses05M_script01_1b_M033 frustration 4 1 4
+Ses05M_script01_1b_M034 frustration 5 2 5
+Ses05M_script01_1b_M035 frustration 5 3 5
+Ses05M_script01_1b_M036 anger 5 1 5
+Ses05M_script01_1b_M037 neutral state 4 3 5
+Ses05M_script01_1b_M038 neutral state 4 2 4
+Ses05M_script01_1b_M039 frustration 5 3 5
+Ses05M_script01_1b_M040 frustration 5 3 5
+Ses05M_script01_1b_M041 frustration 4 2 4

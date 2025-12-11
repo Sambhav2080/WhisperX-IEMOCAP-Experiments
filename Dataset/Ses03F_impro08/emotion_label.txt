@@ -1,0 +1,57 @@
+Ses03F_impro08_F000 neutral state 3 3 3
+Ses03F_impro08_F001 neutral state 3 3 2
+Ses03F_impro08_F002 neutral state 3 4 4
+Ses03F_impro08_F003 neutral state 4 3 4
+Ses03F_impro08_F004 neutral state 3 4 3
+Ses03F_impro08_F005 neutral state 3 3 3
+Ses03F_impro08_F006 neutral state 3 3 4
+Ses03F_impro08_F007 neutral state 3 3 3
+Ses03F_impro08_F008 neutral state 3 3 2
+Ses03F_impro08_F009 neutral state 3 3 4
+Ses03F_impro08_F010 neutral state 2 2 4
+Ses03F_impro08_F011 neutral state 3 3 3
+Ses03F_impro08_F012 neutral state 3 2 3
+Ses03F_impro08_F013 neutral state 3 3 3
+Ses03F_impro08_F014 neutral state 3 3 3
+Ses03F_impro08_F015 neutral state 4 3 4
+Ses03F_impro08_F016 neutral state 3 3 3
+Ses03F_impro08_F017 frustration 4 2 3
+Ses03F_impro08_F018 neutral state 3 3 4
+Ses03F_impro08_F019 neutral state 4 2 3
+Ses03F_impro08_F020 neutral state 4 3 3
+Ses03F_impro08_F021 neutral state 3 3 4
+Ses03F_impro08_F022 neutral state 3 3 3
+Ses03F_impro08_F023 neutral state 4 3 2
+Ses03F_impro08_F024 neutral state 3 3 4
+Ses03F_impro08_F025 neutral state 3 4 3
+Ses03F_impro08_F026 neutral state 4 2 4
+Ses03F_impro08_F027 neutral state 3 2 4
+Ses03F_impro08_F028 neutral state 3 3 2
+Ses03F_impro08_F029 neutral state 2 2 4
+Ses03F_impro08_M000 anger 5 1 5
+Ses03F_impro08_M001 anger 5 1 5
+Ses03F_impro08_M002 anger 5 1 5
+Ses03F_impro08_M003 anger 5 1 5
+Ses03F_impro08_M004 frustration 5 2 5
+Ses03F_impro08_M005 anger 4 1 5
+Ses03F_impro08_M006 anger 5 1 5
+Ses03F_impro08_M007 anger 4 3 4
+Ses03F_impro08_M008 anger 5 1 5
+Ses03F_impro08_M009 anger 5 1 5
+Ses03F_impro08_M010 anger 5 2 5
+Ses03F_impro08_M011 anger 5 3 4
+Ses03F_impro08_M012 frustration 3 3 3
+Ses03F_impro08_M013 anger 4 2 4
+Ses03F_impro08_M014 anger 4 3 4
+Ses03F_impro08_M015 anger 4 2 4
+Ses03F_impro08_M016 frustration 4 3 4
+Ses03F_impro08_M017 frustration 5 3 4
+Ses03F_impro08_M018 frustration 4 3 3
+Ses03F_impro08_M019 frustration 4 3 3
+Ses03F_impro08_M020 neutral state 3 3 4
+Ses03F_impro08_M021 neutral state 3 3 4
+Ses03F_impro08_M022 neutral state 4 3 4
+Ses03F_impro08_M023 neutral state 4 4 3
+Ses03F_impro08_M024 neutral state 3 4 3
+Ses03F_impro08_M025 neutral state 4 3 3
+Ses03F_impro08_M026 frustration 4 4 4

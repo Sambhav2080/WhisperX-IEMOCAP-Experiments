@@ -1,0 +1,76 @@
+Ses03F_impro02_F000 neutral state 2 3 1
+Ses03F_impro02_F001 neutral state 2 3 1
+Ses03F_impro02_F002 sadness 3 4 1
+Ses03F_impro02_F003 sadness 3 2 1
+Ses03F_impro02_F004 sadness 3 2 2
+Ses03F_impro02_F005 excited 2 4 1
+Ses03F_impro02_F006 neutral state 3 4 2
+Ses03F_impro02_F007 excited 3 2 2
+Ses03F_impro02_F008 sadness 4 4 2
+Ses03F_impro02_F009 fear 4 3 2
+Ses03F_impro02_F010 sadness 4 3 2
+Ses03F_impro02_F011 sadness 4 4 2
+Ses03F_impro02_F012 sadness 5 4 1
+Ses03F_impro02_F013 neutral state 4 3 2
+Ses03F_impro02_F014 frustration 4 3 3
+Ses03F_impro02_F015 sadness 4 4 2
+Ses03F_impro02_F016 frustration 4 3 2
+Ses03F_impro02_F017 frustration 4 2 2
+Ses03F_impro02_F018 other 4 2 3
+Ses03F_impro02_F019 fear 4 4 2
+Ses03F_impro02_F020 sadness 5 4 2
+Ses03F_impro02_F021 sadness 4 2 2
+Ses03F_impro02_F022 frustration 4 2 3
+Ses03F_impro02_F023 neutral state 4 2 2
+Ses03F_impro02_F024 other 4 2 3
+Ses03F_impro02_F025 neutral state 5 4 2
+Ses03F_impro02_F026 sadness 5 4 2
+Ses03F_impro02_F027 sadness 4 2 3
+Ses03F_impro02_F028 surprise 4 3 2
+Ses03F_impro02_F029 sadness 4 3 2
+Ses03F_impro02_F030 sadness 5 4 3
+Ses03F_impro02_F031 sadness 2 4 3
+Ses03F_impro02_F032 neutral state 4 3 1
+Ses03F_impro02_F033 other 4 3 2
+Ses03F_impro02_F034 other 4 2 2
+Ses03F_impro02_F035 frustration 4 2 2
+Ses03F_impro02_F036 sadness 5 4 2
+Ses03F_impro02_F037 other 4 3 2
+Ses03F_impro02_F038 sadness 4 2 2
+Ses03F_impro02_F039 sadness 5 4 2
+Ses03F_impro02_F040 sadness 4 2 2
+Ses03F_impro02_F041 sadness 4 3 2
+Ses03F_impro02_F042 sadness 5 3 1
+Ses03F_impro02_F043 other 4 2 2
+Ses03F_impro02_M000 neutral state 4 4 3
+Ses03F_impro02_M001 happiness 2 3 3
+Ses03F_impro02_M002 surprise 3 3 2
+Ses03F_impro02_M003 happiness 2 4 2
+Ses03F_impro02_M004 surprise 5 2 2
+Ses03F_impro02_M005 surprise 5 2 2
+Ses03F_impro02_M006 frustration 5 2 3
+Ses03F_impro02_M007 anger 5 2 2
+Ses03F_impro02_M008 anger 4 2 2
+Ses03F_impro02_M009 frustration 4 2 2
+Ses03F_impro02_M010 frustration 4 2 3
+Ses03F_impro02_M011 frustration 5 2 3
+Ses03F_impro02_M012 frustration 5 3 3
+Ses03F_impro02_M013 sadness 4 2 2
+Ses03F_impro02_M014 sadness 5 2 1
+Ses03F_impro02_M015 frustration 5 4 3
+Ses03F_impro02_M016 sadness 4 3 2
+Ses03F_impro02_M017 frustration 4 4 3
+Ses03F_impro02_M018 anger 4 2 2
+Ses03F_impro02_M019 sadness 4 4 2
+Ses03F_impro02_M020 sadness 5 4 2
+Ses03F_impro02_M021 frustration 5 3 2
+Ses03F_impro02_M022 frustration 4 3 2
+Ses03F_impro02_M023 frustration 4 3 3
+Ses03F_impro02_M024 sadness 4 4 3
+Ses03F_impro02_M025 anger 5 3 2
+Ses03F_impro02_M026 frustration 4 2 3
+Ses03F_impro02_M027 anger 4 2 2
+Ses03F_impro02_M028 frustration 5 4 2
+Ses03F_impro02_M029 sadness 5 4 2
+Ses03F_impro02_M030 frustration 5 3 3
+Ses03F_impro02_M031 sadness 5 4 2
