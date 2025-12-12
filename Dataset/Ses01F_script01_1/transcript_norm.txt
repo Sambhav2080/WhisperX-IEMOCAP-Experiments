@@ -1,0 +1,94 @@
+Ses01F_script01_1_F000	6.2100	9.3200	what s he going to say
+Ses01F_script01_1_F001	9.3500	12.8955	maybe we should tell him before he sees it
+Ses01F_script01_1_M000	11.9892	15.1219	he saw it
+Ses01F_script01_1_F002	14.3063	19.5526	how could he see it i was the first one up he was still in bed
+Ses01F_script01_1_M001	19.0456	22.3962	he was out here when it broke
+Ses01F_script01_1_F003	22.3200	24.6667	when
+Ses01F_script01_1_M002	24.8000	35.9971	four o clock this morning i heard a crack and i woke up and looked out he was standing right over there when it cracked
+Ses01F_script01_1_F004	35.3799	39.0900	what was he doing out here at four o clock in the morning
+Ses01F_script01_1_M003	38.6600	40.5300	i don t know
+Ses01F_script01_1_F005	40.0200	44.9688	he s dreaming of him again walking around
+Ses01F_script01_1_M004	44.5500	47.2300	i guess he is
+Ses01F_script01_1_F006	46.9500	52.3200	it s getting to be just like after he died what s the meaning of that
+Ses01F_script01_1_M005	51.4300	59.5500	i don t know the meaning of it but i know one thing mom you ve made a terrible mistake with father
+Ses01F_script01_1_F007	58.9500	60.8800	what
+Ses01F_script01_1_M006	62.1628	68.2500	being dishonest with him you know this kind of thing always pays off and it s paying off
+Ses01F_script01_1_F008	67.6000	70.6700	what do you mean dishonest
+Ses01F_script01_1_M007	70.0764	78.8718	you know larry is not coming back and i know it why do we allow him to go on thinking that we believe with him
+Ses01F_script01_1_F009	78.3648	81.5611	what do you want to do argue with him
+Ses01F_script01_1_M008	81.4068	89.4307	i don t want to argue but it s time he realized that nobody believes larry is alive
+Ses01F_script01_1_M009	89.7172	101.3800	you know why shouldn t he walk the nights thinking of him dreaming of him do we contradict him do we say we don t have any hope anymore that we haven t had any hope for years now
+Ses01F_script01_1_F010	100.1400	102.3482	you can t say that to him
+Ses01F_script01_1_M010	102.1000	104.7200	we ve got to say it to him
+Ses01F_script01_1_F011	104.2900	108.7408	where s the proof do you have any proof
+Ses01F_script01_1_M011	108.1897	118.4700	for god s sake three years nobody comes back after three years that s insane
+Ses01F_script01_1_F012	117.8228	129.5100	to you it is to me it is but to your father you can talk yourself until you are blue in the face but there is no grave and there is no body so where are you
+Ses01F_script01_1_M012	130.7600	134.5900	sit down mom i want to talk to you
+Ses01F_script01_1_F013	134.0100	141.9500	it s that the trouble is those god damn newspapers every month some new boy comes back and so the next one is going to be larry they just
+Ses01F_script01_1_M013	141.0500	149.7500	all right all right all right you know why i asked annie here right
+Ses01F_script01_1_F014	150.2700	152.6736	why
+Ses01F_script01_1_M014	153.8860	155.8699	you know
+Ses01F_script01_1_F015	156.1786	160.6700	well i got an idea but what s your story
+Ses01F_script01_1_M015	161.9980	165.3487	i m going to ask her to marry me
+Ses01F_script01_1_F016	165.6573	169.5590	well that s only your business chris
+Ses01F_script01_1_M016	169.7574	172.1800	you know it s not just my business
+Ses01F_script01_1_F017	171.6300	175.4900	well what do you want me to do you re old enough to know your own mind
+Ses01F_script01_1_M017	174.7833	177.7200	so all right then i ll just go ahead with it
+Ses01F_script01_1_F018	176.9600	179.7500	well you want to make sure that your father is not going to
+Ses01F_script01_1_M018	179.2800	181.9475	then it s not just my business
+Ses01F_script01_1_F019	183.9800	186.0500	i m just saying
+Ses01F_script01_1_M019	185.0300	195.2800	you know sometimes you infuriate me you know that isn t it your business if i tell father and he throws a fit about it god you have such a talent for ignoring things
+Ses01F_script01_1_F020	194.0600	198.9100	oh i ignore what i got to ignore that girl is larry s girl
+Ses01F_script01_1_M020	197.6000	199.7475	she s not larry s girl
+F	0.0000	0.0000	line
+M	0.0000	0.0000	from mother s point of view he s not dead
+Ses01F_script01_1_F021	205.1600	215.1700	from your father s point of view he is not dead and chris he still thinks he s still alive the girl is larry s girl
+F	0.0000	0.0000	from line
+M	0.0000	0.0000	now you can go on from here
+Ses01F_script01_1_F022	219.0400	223.8200	now you can go on from there if you know where to go but i m telling you i don t know where to go
+Ses01F_script01_1_M021	224.7000	236.0500	i don t know why it is but every time i reach out for something i have to pull back because i am afraid other people will suffer my whole bloody life time after time
+F	0.0000	0.0000	you re
+Ses01F_script01_1_F023	235.2000	238.5600	you re a considerate fellow there s nothing wrong in that
+Ses01F_script01_1_M022	237.8000	240.4290	to hell with that
+Ses01F_script01_1_F024	241.3769	245.1904	i just don t see why have you asked annie yet
+Ses01F_script01_1_M023	245.2786	247.5700	i wanted to get this settled first
+Ses01F_script01_1_F025	246.8000	251.4508	well how do you know she s going to marry you maybe she feels the same way your father does
+Ses01F_script01_1_M024	251.2965	261.0500	well if she does then that s it that s the end of it from her letters though i think she s pretty much forgotten him
+Ses01F_script01_1_M025	262.6500	267.2119	and then we ll thrash it out with father okay mom don t avoid me
+Ses01F_script01_1_F026	266.8300	270.7300	the trouble is you don t see enough women you never did
+Ses01F_script01_1_M026	269.7300	274.6626	so what i m not fast with women
+Ses01F_script01_1_F027	274.1997	277.2100	why does it have to be annie
+Ses01F_script01_1_M027	276.2400	278.3659	because it is
+Ses01F_script01_1_F028	278.1500	282.5900	oh that s a great reason it s no reason at all
+Ses01F_script01_1_M028	281.5700	283.8900	i don t know
+Ses01F_script01_1_F029	282.7300	286.9200	you haven t seen her since you went away to war it s been five years
+Ses01F_script01_1_M029	285.9600	296.0300	i can t help it i know her best i was brought up next door to her you know these years when i think of someone for my wife i think of annie
+Ses01F_script01_1_M030	297.0000	300.0700	mom what do you want a diagram
+Ses01F_script01_1_F030	299.3100	302.1950	i don t want a diagram
+Ses01F_script01_1_F031	304.2300	308.9800	he thinks he s coming back chris
+Ses01F_script01_1_F032	309.0400	312.7098	you marry that girl you are pronouncing him dead
+Ses01F_script01_1_F033	312.7400	318.2648	and then what s that going to do to your father do you know i don t
+Ses01F_script01_1_M031	318.2868	321.9800	all right then mom
+Ses01F_script01_1_F034	323.3348	326.0750	just give it some more thought
+Ses01F_script01_1_M032	325.7300	336.5389	i ve given it three years of thought and i d hope that if i waited father would forget about larry and then we could just have a regular wedding and everyone would be happy
+Ses01F_script01_1_M033	336.7373	342.3143	but if i can t do that here i may have to go somewhere else
+Ses01F_script01_1_F035	341.9700	344.8052	what the hell is this
+Ses01F_script01_1_M034	344.4966	350.1500	i ll get out i ll get married and i ll move somewhere else maybe new york
+Ses01F_script01_1_F036	349.6300	352.5866	are you crazy
+Ses01F_script01_1_M035	352.1016	356.8800	i ve been a good son for too long a good sucker
+Ses01F_script01_1_F037	356.4000	359.8700	you have a business here what the hell is this
+Ses01F_script01_1_M036	359.0300	362.8200	the business the business doesn t inspire me
+Ses01F_script01_1_F038	361.8100	364.6100	oh must you be inspired
+Ses01F_script01_1_M037	363.8700	373.5675	yes i like it for an hour a day i don t care if i have to grub for money all day long when i come home i want it happy
+Ses01F_script01_1_M038	373.5975	383.1500	i want some kids i want a family i want somebody that i can give myself to and annie is in the center of that now it s just where to find it
+Ses01F_script01_1_F039	382.6000	387.9700	you mean to tell me that you would leave the business over this
+Ses01F_script01_1_M039	387.5000	390.1100	on this i would
+Ses01F_script01_1_F040	389.5400	392.9042	well you don t want to think like that
+Ses01F_script01_1_M040	392.3100	395.6900	then help me stay here
+Ses01F_script01_1_F041	394.9100	404.6900	all right but you don t want to think like that because what the hell are we working for chris it s all for you this whole shooting match is for you
+Ses01F_script01_1_M041	403.4300	407.0400	i know that then just help me stay here
+Ses01F_script01_1_F042	406.3900	409.4600	just don t think like that
+Ses01F_script01_1_M042	408.9600	412.8536	well i am thinking like that
+Ses01F_script01_1_F043	412.7875	416.2484	i don t understand you do i
+Ses01F_script01_1_M043	415.9200	420.4807	no you don t i m a pretty tough guy
+Ses01F_script01_1_F044	420.3500	423.2141	i can see that

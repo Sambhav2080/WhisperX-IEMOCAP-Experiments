@@ -1,0 +1,167 @@
+Ses04F_impro07_M000	2.4100	5.2800	hey what s up
+Ses04F_impro07_F000	4.8400	6.9700	guess what came today
+Ses04F_impro07_M001	6.6200	7.9800	what
+Ses04F_impro07_F001	7.6200	9.6800	my acceptance letter
+Ses04F_impro07_M002	9.3100	10.4500	get out
+Ses04F_impro07_F002	10.0500	11.6700	from u s c
+Ses04F_impro07_M003	11.2400	12.4900	you serious
+Ses04F_impro07_F003	12.1800	13.6200	yes i am
+Ses04F_impro07_M004	13.0900	18.4400	oh my god what happened you got in otherwise you wouldn t be so happy
+Ses04F_impro07_F004	16.1639	18.9560	well yeah that s the general idea
+Ses04F_impro07_M005	18.6900	21.4000	that s awesome congratulations
+Ses04F_impro07_F005	19.7400	24.3300	big bad acceptance packet with all the information i m going to u s c
+Ses04F_impro07_M006	22.9900	25.8400	that s amazing wow
+Ses04F_impro07_F006	24.3800	26.8200	i know
+Ses04F_impro07_M007	26.4800	32.5200	you re going to have to get like a nine millimeter because u s c s like in south central
+Ses04F_impro07_F007	32.3700	35.3588	yeah uh no
+Ses04F_impro07_F008	35.3700	37.6600	it s safe around there
+Ses04F_impro07_M008	37.9500	40.6200	no seriously no seriously you should do it
+Ses04F_impro07_F009	39.1200	41.5000	the campus is beautiful i m so excited
+Ses04F_impro07_M009	40.8500	45.6000	i know but you should get like a taser or something i mean walking around the campus at night
+Ses04F_impro07_F010	43.4300	47.8000	do you want to buy me some mace for my you know going away present
+Ses04F_impro07_M010	45.7000	49.0900	i ll get you i ll get you a bottle of mace
+Ses04F_impro07_F011	48.0500	49.8700	there we go perfect
+M	0.0000	0.0000	that ll work
+Ses04F_impro07_M011	49.2900	51.7000	and a taser and a knife
+Ses04F_impro07_F012	50.5200	54.4700	and a taser excellent just make sure it s a big knife
+Ses04F_impro07_M012	51.8600	54.4300	and you ll be fully loaded
+Ses04F_impro07_F013	54.5400	57.0000	i don t want any of those little puny ones
+Ses04F_impro07_M013	55.8300	59.1800	so um so what are you going to what are you going to major in
+Ses04F_impro07_F014	58.6800	64.3500	well i was thinking maybe underwater basket weaving
+Ses04F_impro07_M014	63.9900	67.1300	underwater basket weaving my god
+Ses04F_impro07_F015	66.2900	68.7900	u s c has a major in that right
+Ses04F_impro07_M015	67.1600	69.0600	they have they have that
+Ses04F_impro07_F016	68.8100	73.3700	they have u s c has everything because u s c is the best school ever
+Ses04F_impro07_M016	69.2100	71.3200	they have that as a major
+Ses04F_impro07_M017	71.6700	75.2000	that s ridiculous i don t believe that
+Ses04F_impro07_F017	74.7300	77.5700	okay well i m lying but
+Ses04F_impro07_M018	76.5200	78.2700	seriously what s your major
+Ses04F_impro07_F018	78.4253	82.6400	well i haven t decided yet i want to try some things out
+Ses04F_impro07_M019	82.2200	83.8600	so you re undecided
+Ses04F_impro07_F019	83.1500	84.1900	yeah
+Ses04F_impro07_M020	83.8900	85.3300	hey that s cool
+Ses04F_impro07_F020	84.9400	91.4400	i know cause then i can do whatever i want right i can try classes in this and then try classes in that and then pick whatever i like best
+Ses04F_impro07_M021	90.3600	98.6100	no no it s totally cool i mean like this friend of mine he was he s been undecided now for like the past like eleven years of his life
+Ses04F_impro07_F021	97.9000	102.1000	okay well i m not going to be undecided forever
+Ses04F_impro07_M022	101.4700	103.2400	uh well
+Ses04F_impro07_F022	102.5800	106.0339	and it s so close so you can come visit me all the time
+Ses04F_impro07_M023	103.2700	104.8400	you you you ll find
+Ses04F_impro07_M024	105.6300	108.8400	yeah i know that s right yeah yeah because i live in la
+Ses04F_impro07_F023	108.4600	109.7900	right
+Ses04F_impro07_M025	109.2613	111.9700	and i like living in la
+Ses04F_impro07_F024	110.3900	117.0400	so this works out perfectly because i was worried if i didn t get in to u s c then i would have to go somewhere far away and then
+M	0.0000	0.0000	yeah sweet
+Ses04F_impro07_M026	114.5300	120.7200	you d have to like go somewhere else and you know we would be apart and that would suck
+Ses04F_impro07_F025	117.6200	119.3500	i would miss you
+Ses04F_impro07_F026	119.5700	122.6600	yeah but now we don t have to
+Ses04F_impro07_M027	122.2300	123.2400	right
+Ses04F_impro07_F027	122.9000	124.9900	everything worked out perfectly
+Ses04F_impro07_M028	124.3100	125.3500	that s awesome
+Ses04F_impro07_F028	125.0200	127.3200	i know we should have a party
+Ses04F_impro07_M029	127.2500	128.7100	we should have a party
+Ses04F_impro07_F029	127.8000	130.4200	an i got accepted to u s c party
+Ses04F_impro07_M030	130.0700	134.0800	you got accepted what to a u s c party
+Ses04F_impro07_F030	133.2800	137.9000	no an i got accepted to u s c party
+Ses04F_impro07_M031	135.0500	137.8400	oh that s right okay i see right right right
+Ses04F_impro07_M032	137.8732	140.6900	a party celebrating your acceptance
+Ses04F_impro07_F031	139.1500	141.4600	right now you re with me
+Ses04F_impro07_M033	140.7500	141.7900	that s cool
+Ses04F_impro07_F032	141.5100	143.6100	that is why i got accepted
+Ses04F_impro07_M034	141.8100	146.2900	well that s really cool that you re going to be staying in the same city and everything so umm
+Ses04F_impro07_F033	144.9200	146.3900	i know
+M	0.0000	0.0000	so um
+Ses04F_impro07_M035	146.3800	150.8900	i don t know are you like i don t know are you like available or anything
+Ses04F_impro07_F034	150.2800	153.6200	are you asking me on a date
+Ses04F_impro07_M036	153.2500	157.6043	well i mean i don t know it s like you know i kind of had a crush on you throughout high school and like
+Ses04F_impro07_M037	157.6200	165.9200	i don t know i just thought that you know maybe we could you know i don t know it s like you know just test the waters anyway i don t see what the problem is
+Ses04F_impro07_F035	164.2600	166.5400	what what did you have in mind
+Ses04F_impro07_M038	166.4300	172.8800	movies movie we ll go to a movie and a dinner and and
+Ses04F_impro07_M039	172.9300	181.7800	actually you know there s this there s this really cool restaurant um i don t know if you it s red lobster it s like down on
+Ses04F_impro07_M040	181.8300	183.2200	vermont
+Ses04F_impro07_F037	182.2200	185.8300	you just did not ask me on a date to red lobster
+Ses04F_impro07_M041	185.3300	187.4500	wait you ve been there before
+Ses04F_impro07_F038	186.9500	189.6600	on occasion i ve heard of it
+Ses04F_impro07_M042	189.3600	192.4200	oh so well then you know that it s awesome
+Ses04F_impro07_F039	192.1600	195.3100	yeah totally
+Ses04F_impro07_M043	193.5600	200.9000	right so we ll go there and then and then we ll get some ice cream and maybe we ll go putt putt golfing
+Ses04F_impro07_F040	199.6800	202.6500	i am totally down with the ice cream
+Ses04F_impro07_M044	202.2500	204.9700	okay putt putt golfing
+Ses04F_impro07_F041	204.5400	207.2100	eh we can work that part out
+Ses04F_impro07_M045	205.5500	208.6900	yeah you want to go no you want to go you want to go
+Ses04F_impro07_F042	208.5300	210.0200	alright
+Ses04F_impro07_M046	208.9800	211.3400	i can see it in your eyes you want to go
+Ses04F_impro07_F043	210.6100	213.0200	i think that d be really fun actually
+Ses04F_impro07_M047	212.2200	218.1100	yeah so we ll do that and then and then and then tomorrow we ll have your
+Ses04F_impro07_F044	220.6800	222.1300	party
+Ses04F_impro07_M048	218.1500	223.3000	your i got into u s c graduate party yeah
+Ses04F_impro07_F045	222.4700	228.0800	well look at that what a great day i got into college and i got asked out on a date
+Ses04F_impro07_M049	227.6100	232.2700	good alright we re so happy
+Ses04F_impro07_F046	231.7500	233.8700	yay for me
+Ses04F_impro07_M050	233.3800	240.3700	that s right um so u s c is a really nice school
+Ses04F_impro07_F047	239.8700	241.3200	i know
+Ses04F_impro07_M051	240.4600	243.7500	are you going to take out loans or
+Ses04F_impro07_F048	242.9500	247.0600	okay well that s not a happy part we don t want to talk about that
+Ses04F_impro07_M052	246.6200	250.1600	well hey it s okay fine gees
+Ses04F_impro07_F049	249.8300	255.8700	well no i mean i have some scholarships and some financial aid and stuff but i ll have to you know i ll get a job
+Ses04F_impro07_F050	255.9300	258.3800	while i m in school it ll be good
+Ses04F_impro07_M053	258.2700	259.6000	sweet
+Ses04F_impro07_F051	259.3100	262.9500	yeah it will work out maybe i could work at red lobster
+Ses04F_impro07_M054	262.5800	264.9500	well it s not far
+Ses04F_impro07_F052	264.1200	266.7500	i know right down the street
+Ses04F_impro07_M055	266.4000	273.5800	that s right there s lots of like there s lots of doughnut shops like everywhere
+Ses04F_impro07_F053	273.2300	276.7600	right there s always that option the doughnut thing
+Ses04F_impro07_M056	274.3700	277.2593	i mean there s pretty much doughnut shops everywhere in la
+Ses04F_impro07_F054	277.0000	278.1800	right
+Ses04F_impro07_M057	277.7600	279.3000	but um
+Ses04F_impro07_F055	278.5200	281.1400	and like most places really
+Ses04F_impro07_M058	280.3200	284.3900	i mean like i don t know i m just saying if you need to make some extra cash you can you know
+Ses04F_impro07_F056	283.9300	285.8700	work at a doughnut shop
+Ses04F_impro07_M059	284.9200	287.7000	or library
+Ses04F_impro07_F057	285.8900	291.0600	maybe on campus i hear they have jobs on campus
+Ses04F_impro07_M060	288.7500	290.9500	i just said the library
+Ses04F_impro07_M061	291.0026	296.6700	or um campus cruiser you can drive people around
+Ses04F_impro07_F058	295.8800	301.1900	excellent drive drunk people around because you know that s all campus cruisers for
+Ses04F_impro07_M062	300.3600	303.1300	right or you can run for student counsel
+Ses04F_impro07_F059	302.8200	304.6000	okay no that s dorky
+Ses04F_impro07_M063	304.3200	305.5500	dorky
+Ses04F_impro07_F060	305.3600	306.6000	yeah
+Ses04F_impro07_M064	306.2300	307.7200	it s important
+Ses04F_impro07_F061	307.3200	309.1200	student counsel
+Ses04F_impro07_M065	308.8100	309.9500	yes
+Ses04F_impro07_F062	309.4300	310.8300	no it s dorky
+Ses04F_impro07_M066	310.4500	312.0500	fine it s dorky
+Ses04F_impro07_F063	311.6600	314.2900	social life hello
+Ses04F_impro07_M067	312.4000	314.4400	but that ll fit you because you re a dork
+Ses04F_impro07_M070	317.6239	318.9403	i dork
+Ses04F_impro07_F066	318.7400	328.3900	no but i m thinking i might you know like audition for a play or something i don t really want to do the sorority thing i m not really feeling that vibe with the
+Ses04F_impro07_M071	326.2300	331.6500	yeah you don t want to do the sorority thing because you ll probably get used and abused by
+Ses04F_impro07_F067	329.0300	331.4000	ditsy valley girls and
+Ses04F_impro07_F068	331.4600	333.6600	lots of money and
+Ses04F_impro07_M072	331.9200	334.7600	lots of drunk frat boys
+Ses04F_impro07_F069	334.4100	335.9200	right
+Ses04F_impro07_M073	336.4200	337.6400	yeah
+Ses04F_impro07_M074	337.6681	342.2545	but hey they have they have they have free uh
+Ses04F_impro07_F070	337.4300	340.9400	what have you heard about the greek system
+Ses04F_impro07_M075	342.3000	346.7900	free buffets and free events
+Ses04F_impro07_F071	346.3200	350.5300	free nothing cause you have to pay tons of money anyway
+Ses04F_impro07_M076	346.8100	350.6600	i mean it s not really free because you have to pay for it but yeah
+Ses04F_impro07_M077	350.7300	355.5400	well do you think you re going to live on campus or off campus your first year
+Ses04F_impro07_F072	354.7000	358.9700	i think i ll live on campus the first year cause you meet more people that way right
+Ses04F_impro07_M078	356.0600	359.0500	oh yeah in a dorm
+Ses04F_impro07_F073	359.0000	364.7900	well yeah i mean that s where you meet people right everybody lives in the dorms right
+Ses04F_impro07_M079	362.7000	367.6000	i hate to break this to you but you meet people by being cool so
+Ses04F_impro07_F074	366.8700	377.0500	oh oh i m sorry my bad i ll have to like sign up for summer lessons from you before i go you can teach me how to be cool before i go to college
+M	0.0000	0.0000	that s right
+Ses04F_impro07_M080	375.6000	384.0100	no no no you re right though i mean you know dorms are definitely the way to meet people i know that i was in an apartment off campus
+Ses04F_impro07_M081	384.0300	389.7400	and i mean you know i knew my roommates and stuff but i there wasn t really that sense of community
+Ses04F_impro07_F075	389.3500	390.9600	right
+Ses04F_impro07_M082	390.5600	393.1100	that happened you know that was going on
+Ses04F_impro07_F076	391.3200	394.4100	so basically what you re saying is that i was right
+F	0.0000	0.0000	about living in a dorm
+Ses04F_impro07_M083	394.7600	399.7200	i was just joking gosh you don t have to take everything so so seriously
+Ses04F_impro07_F077	397.7400	399.5900	i m i m right right
+Ses04F_impro07_M084	400.0300	401.9200	yes you re right
+Ses04F_impro07_F078	399.6100	402.6700	that s what you re saying i m right
+Ses04F_impro07_M085	402.1000	404.3400	all hail to the
+Ses04F_impro07_F079	403.4100	404.5400	me
+Ses04F_impro07_M086	404.3700	407.0480	to you yes

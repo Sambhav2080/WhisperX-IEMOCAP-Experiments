@@ -1,0 +1,54 @@
+Ses01F_impro03_M000	3.2400	5.4600	so what s up what s new
+Ses01F_impro03_F000	4.8800	7.7400	well vegas was awesome
+Ses01F_impro03_M001	6.6000	8.6600	yeah i heard
+Ses01F_impro03_F001	7.9300	11.3700	and um i got married
+Ses01F_impro03_M002	10.5300	13.8400	shut up no in vegas
+Ses01F_impro03_F002	12.8000	15.3700	yeah in the old town part
+Ses01F_impro03_M003	14.9300	18.9075	who did you marry
+Ses01F_impro03_F003	15.8700	20.4867	chuck
+Ses01F_impro03_M004	20.2532	22.8300	did you propose to you
+Ses01F_impro03_F004	21.7500	25.5200	um yes it was very romantic
+Ses01F_impro03_F005	25.5584	28.1400	it was at the slot machines
+Ses01F_impro03_M005	27.2800	29.6500	oh the wheel of fortune slots
+Ses01F_impro03_F006	28.3700	34.7100	uhuh uhuh he won big and he and he realized that the only thing that would make it better was me as his bride
+Ses01F_impro03_M006	34.2500	36.3400	he turned to you and was like
+Ses01F_impro03_F007	35.6349	40.1000	hey let s get married and i said okay
+Ses01F_impro03_M007	37.7175	40.4700	that s really romantic
+Ses01F_impro03_F008	40.1200	42.7900	yeah well you know because he s leaving the next day
+Ses01F_impro03_M008	42.0900	43.4100	yeah
+Ses01F_impro03_F009	42.8400	44.5400	but we re going to have a honeymoon cruise
+Ses01F_impro03_M009	44.1600	49.0700	does that mean that you re going to get citizenship too in in england or whatever
+Ses01F_impro03_F010	47.8700	51.0750	oh i hadn t even thought about that
+Ses01F_impro03_M010	49.6100	52.4300	yeah think about that
+Ses01F_impro03_F011	51.3600	53.4925	he s not going to be a citizen though
+Ses01F_impro03_M011	52.9200	56.8500	yeah but he ll have like a long visa can you go visit then for a long time
+M	56.9000	55.7650	i think you can
+Ses01F_impro03_F012	55.8650	58.1500	oh totally
+M	57.4000	57.4600	yeah
+Ses01F_impro03_M012	57.4600	61.3750	oh how are you going to do the long distance thing so wait are you going to move there
+Ses01F_impro03_F013	60.7300	65.8600	i guess i ll i guess i ll have an internet husband
+Ses01F_impro03_M013	65.6425	68.4400	like you need another one of those
+Ses01F_impro03_F014	68.0100	73.7500	i have an internet boyfriend i guess i ll have to juggle the two is that cheating i don t know hmm
+Ses01F_impro03_M014	73.4100	76.9975	is that your phone
+Ses01F_impro03_F015	74.2675	78.8425	yeah so he s calling me now
+Ses01F_impro03_M015	78.3200	80.5000	he loves you
+Ses01F_impro03_F016	79.0350	81.0875	he likes to keep tabs you know
+Ses01F_impro03_M016	80.7175	82.5225	how much did he win at the slot
+Ses01F_impro03_F017	82.0975	85.0800	uh i think seven hundred and fifty dollars
+Ses01F_impro03_M017	84.6925	87.3600	really penny slots
+Ses01F_impro03_F018	85.1000	88.0225	penny slots that s what he plays
+Ses01F_impro03_M018	87.6425	89.0800	wow
+Ses01F_impro03_F019	88.0800	89.5000	yeah
+Ses01F_impro03_M019	89.1200	93.9100	i m a big fan of the wheel of fortune quarters but it just costs so much i don t know
+Ses01F_impro03_F020	91.2350	92.6150	oh
+Ses01F_impro03_F021	92.7500	98.2100	yeah we played wheel of fortune pennies it s like a giant thing with like
+Ses01F_impro03_M020	97.0300	101.6500	but the pennies always get you because you end up spending like you know fifty bucks
+Ses01F_impro03_F022	99.7775	102.0300	fifty bucks mmhmm
+Ses01F_impro03_M021	101.6700	104.3500	like wait but it s just pennies you re like wait a minute i m on to you
+Ses01F_impro03_F023	102.6200	103.4625	yeah
+Ses01F_impro03_F024	103.7800	108.1825	well so now we re married we have cat children
+Ses01F_impro03_M022	105.2900	106.9500	awesome
+Ses01F_impro03_M023	107.7100	111.4000	cat babies
+Ses01F_impro03_F025	110.2300	114.1600	we renamed brenda lumber janet
+Ses01F_impro03_M024	117.3600	119.5800	that s fair enough
+Ses01F_impro03_F026	114.1900	120.2000	she needs a new name each state that we go into

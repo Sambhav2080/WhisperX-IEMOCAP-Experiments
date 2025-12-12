@@ -1,0 +1,81 @@
+Ses05M_script02_2_M000	4.1500	8.3200	well so what do you think
+Ses05M_script02_2_F000	7.8200	9.4300	about what
+Ses05M_script02_2_M001	9.2900	11.5200	what i was just saying
+Ses05M_script02_2_F001	11.2000	12.6600	it s ridiculous
+Ses05M_script02_2_M002	12.6300	17.9200	it certainly is not it s slightly exaggerated scientific fact
+Ses05M_script02_2_F002	17.1200	23.4300	it s p r somebody sold you a bill of goods that this magical thing would be happening on the beach
+Ses05M_script02_2_M003	22.9600	25.4500	i m not the only one look at all these people
+Ses05M_script02_2_F003	24.6500	35.7400	sure everybody is told the same thing it keeps us all excited it keeps us all coming back for more it keeps us thinking that life is gonna start now any minute if we can just find the right spot and get in on the action
+Ses05M_script02_2_M004	36.3400	38.5400	are we talking about the same thing
+Ses05M_script02_2_F004	38.0000	41.5400	i m sorry it s just it s it s just fish to me
+Ses05M_script02_2_M005	41.6000	50.7100	uh carla can i ask you a question no don t get upset but are you having your period
+Ses05M_script02_2_F005	50.0600	57.1200	god damn it augie seriously you always ask me that why do you ask me that i hate it it s so insulting
+Ses05M_script02_2_M006	56.0900	58.1900	what s bugging you then
+Ses05M_script02_2_F006	57.8100	62.0700	i just we just have different ideas of what this night is suppose to look like
+Ses05M_script02_2_M007	61.5600	71.6400	it s not that complicated we come down here the grunions arrive they do their little fish thing we say ooh awe look at the little fish and then they go home and we go home
+Ses05M_script02_2_F007	71.0300	76.1700	for god s sake augie it s grow up we re not going to see the grunion
+Ses05M_script02_2_M008	75.7300	77.2100	why not
+Ses05M_script02_2_F008	77.3900	80.1500	we we don t ever have we ever
+Ses05M_script02_2_M009	79.7700	82.9200	we ve missed them twice that s hardly ever
+Ses05M_script02_2_F009	82.3800	84.8600	twice is every time we ve tried that s ever
+Ses05M_script02_2_M010	84.1500	85.9900	well we ll see them this year
+Ses05M_script02_2_F010	85.5100	102.0000	no we won t it s like waiting up for santa clause or something i feel like as though my whole life is going to be standing on the beach waiting with my eyes opened expectantly my hands clasped neatly in front of me waiting for fish to show up and the fish will not show up
+Ses05M_script02_2_M011	101.7300	105.6300	okey they re just fish it s nothing to get traumatized over
+Ses05M_script02_2_F011	104.9000	107.0600	you don t understand anything i am saying
+Ses05M_script02_2_M012	106.5200	109.0000	no of course not
+Ses05M_script02_2_F012	110.1400	118.0900	i did want to see it i always want to see it i just i keep thinking this will be the time and it never is
+Ses05M_script02_2_M013	121.2400	130.2900	i m trying to work this backwards but i can t seem to pinpoint the time where everything went wrong here okay so
+Ses05M_script02_2_M014	130.3158	152.0600	you were fine on the phone call with marge eating dinner was fine talking uh washing the dishes no problem all right so i m taking a shower you re watching tv the news and you say the grunions are running tonight and i say great let s go i m feeling lucky and so all right and i m putting on my coat i m putting out the animals i m pulling the car out of the garage
+Ses05M_script02_2_F013	150.4300	182.3400	do you remember the first time that we came to see the grunion it was about four years ago right after we got married we thought i was pregnant we had a bottle of champagne and no glasses you asked me to dance we took off our shoes and while we were dancing you said the most intimate things to me right in my ear so i could feel them as much as hear them
+Ses05M_script02_2_F014	183.2400	193.3300	and i remember thinking to myself finally i am as happy as i am supposed to be
+Ses05M_script02_2_M015	194.6400	198.9500	wait a minute i ve got it
+Ses05M_script02_2_F015	201.2900	207.0300	dancing barefoot in the sand drinking champagne out of the bottle
+Ses05M_script02_2_M016	206.4500	217.6200	it was in the car right when we were passing knickerbocker liquor locker you said let s stop and get champagne and i said that times a wasting or something like that right you wanted it to be like it was before right
+Ses05M_script02_2_F016	216.6100	222.9000	i would rather not remember some things i d rather not hope for something
+Ses05M_script02_2_M017	222.5000	230.0600	okay all right no problem i totally understand okey um listen do you want to dance
+Ses05M_script02_2_F017	230.0000	231.3200	no
+Ses05M_script02_2_M018	231.5100	233.8500	do you want me to go get some champagne
+Ses05M_script02_2_F018	233.4900	234.9800	no
+Ses05M_script02_2_M019	234.5700	236.1800	take off our shoes
+Ses05M_script02_2_F019	235.4200	236.5400	no
+Ses05M_script02_2_M020	236.4400	239.7700	what you want me to blow in your ear
+Ses05M_script02_2_F020	239.5200	241.3100	no
+Ses05M_script02_2_M021	240.7000	246.8100	do you want to get married again what what do you want a divorce
+Ses05M_script02_2_FXX0	242.9272	243.6001	no
+Ses05M_script02_2_F021	246.0500	247.2800	no
+Ses05M_script02_2_M022	246.9500	248.1200	a vacation
+Ses05M_script02_2_F022	247.8400	248.7400	no
+Ses05M_script02_2_M023	248.8600	254.5800	a poodle a backrub a spa a suicide pack what carla what the hell do you want
+Ses05M_script02_2_F023	253.0700	257.3700	i just want i just want things to turn out the way they are supposed to
+Ses05M_script02_2_M024	256.4200	270.4100	well welcome to the human race do you think this is what i had planned do you think that when i proposed that i had this great fantasy going that four years down the road we would end up arguing on the beach over some fish
+Ses05M_script02_2_M025	270.4270	297.2000	do you think that i thought there would be times when you would look at me like i was used kleenex or i would look at you and think good god when s the next flight to alaska no no i m just like you i thought it would all be like peaches and roses and sand in our toes and wind in our hair and the fish would always come and the bills would magically pay themselves and we d have three fat rosy kids but ha ha baby the jokes on us
+Ses05M_script02_2_M026	297.2600	302.6900	because you know what you get carla you know what you get this
+Ses05M_script02_2_F024	302.3700	306.3200	this what is this this isn t even anything
+Ses05M_script02_2_M027	305.9800	307.3100	yes it is
+Ses05M_script02_2_F025	306.9900	312.1983	sure this is standing on the beach this is waiting this is fighting
+Ses05M_script02_2_M028	312.0300	313.7020	right
+Ses05M_script02_2_F026	313.8300	318.2969	but this isn t at all what i wanted it to be
+Ses05M_script02_2_M029	318.3400	321.9900	now i know me either
+Ses05M_script02_2_F027	322.1100	332.1900	this is just this i mean it s a lot and everything but it s not you know something else am i making any sense
+Ses05M_script02_2_M030	331.7400	334.0400	i m trying the best i can
+Ses05M_script02_2_F028	333.6500	345.9600	i know that augie i do i know that and and i know that this meant a lot to you and and it s special you know with the sand and the moon but
+Ses05M_script02_2_F029	346.9300	351.6200	but i just couldn t help thinking about being somewhere else
+Ses05M_script02_2_M031	353.3600	356.9900	maybe if you re with somebody else too
+Ses05M_script02_2_F030	356.8400	358.4200	i didn t say that
+Ses05M_script02_2_M032	358.0900	362.3500	no i know but i know i don t make you happy
+Ses05M_script02_2_F031	362.3300	368.7200	for heavens sake augie whatever i am doing i d rather it be with you
+Ses05M_script02_2_M033	368.5200	370.1900	really
+Ses05M_script02_2_F032	370.2900	381.7500	yes don t you know that i mean you re probably the one you wishes you were with somebody else somebody who didn t take everything so hard and who knew how to enjoy herself
+Ses05M_script02_2_M034	381.7787	389.3800	actually now that you mention it no i don t
+Ses05M_script02_2_F033	390.5400	394.5900	okay well we re in the wrong spot but we re with the right person
+Ses05M_script02_2_M035	394.7600	400.7742	i don t know i think this is a pretty good spot i mean look at the view of the moon from here
+Ses05M_script02_2_F034	402.0482	411.2600	yes i did notice that it does look really beautiful over the water big old white moon
+Ses05M_script02_2_M036	412.3500	416.0200	oh well look what we ve got here
+Ses05M_script02_2_F035	416.1773	418.4300	augie you brought refreshments
+Ses05M_script02_2_M037	417.8700	420.0800	well it isn t champagne
+Ses05M_script02_2_F036	419.2800	421.9500	well then we don t need glasses
+Ses05M_script02_2_M038	423.1700	427.8400	are you still cold still want to go home
+Ses05M_script02_2_F037	428.3000	441.7800	no i m beginning to think you might be right i think this might be the spot after all augie i m sorry
+Ses05M_script02_2_M039	440.8400	447.4700	shh if we re really quiet the fish might come
+Ses05M_script02_2_F038	448.6800	450.6900	or not
+Ses05M_script02_2_M040	450.9519	453.2597	or not

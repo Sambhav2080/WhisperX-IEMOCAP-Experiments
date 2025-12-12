@@ -1,0 +1,68 @@
+Ses01F_script03_1_M000	4.2888	6.1800	good god
+Ses01F_script03_1_F000	5.5300	7.7000	is it them
+Ses01F_script03_1_M001	7.2900	9.1800	i wonder
+Ses01F_script03_1_F001	8.7400	15.2000	freda is the only one who knows we are here she wouldn t ring up
+Ses01F_script03_1_M002	14.6400	17.4300	it must be them then
+Ses01F_script03_1_F002	17.2000	22.7100	it had to happen sooner or later what are we going to do
+Ses01F_script03_1_M004	22.1600	24.9500	we are okay aren t we darling
+Ses01F_script03_1_F003	24.4700	27.4400	now and always sweet
+Ses01F_script03_1_M005	26.8600	29.5200	i don t care then
+Ses01F_script03_1_F004	28.9600	32.9400	it had to happen sooner or later
+Ses01F_script03_1_M006	33.9200	39.3100	hello hello i m sorry what s that
+Ses01F_script03_1_M007	39.5000	45.7750	no wrong number
+Ses01F_script03_1_F005	41.1700	47.6400	that sent shivers up my spine
+Ses01F_script03_1_M008	46.7200	51.9842	what shall we do if they suddenly walk in on us
+Ses01F_script03_1_F006	51.2835	53.8175	we ll behave exquisitely
+Ses01F_script03_1_M009	53.2800	55.3300	with perfect poise
+Ses01F_script03_1_F007	54.6100	56.8000	i think i shall do a curtsy
+Ses01F_script03_1_M010	56.3700	64.4300	it s strange things that ought to matter dreadfully they just don t matter at all when one s happy do they
+Ses01F_script03_1_F008	63.4100	67.4075	hmm the pity is that one can t stay happy
+Ses01F_script03_1_M011	66.8400	69.2900	darling don t say that
+Ses01F_script03_1_F009	68.7000	71.8100	it s true i think the whole thing s a cruel joke
+Ses01F_script03_1_M012	71.0000	75.4300	what this beautiful and sacred thing love
+Ses01F_script03_1_F010	74.6500	77.1800	yes meaning just that
+Ses01F_script03_1_M013	76.3200	86.5180	well what does it all mean that s what i ask myself in my quest for ultimate truth dear god what does it all mean
+Ses01F_script03_1_F011	84.4700	88.2600	don t laugh at me i m being serious
+Ses01F_script03_1_M014	87.7600	92.5700	oh darling you mustn t be serious it s just what they want
+Ses01F_script03_1_F012	92.1400	93.6600	who s they
+Ses01F_script03_1_M015	93.2300	100.1600	all of those futile moralists who make life unbearable you have to laugh at them be flippant
+Ses01F_script03_1_M016	100.1950	106.5500	you know flippancy brings out the acid in their darned light and sweetness
+Ses01F_script03_1_F013	105.9400	109.3900	you know if i laugh at everything then i must laugh at us too
+Ses01F_script03_1_M017	108.8700	113.0200	oh of course we are figures of fun all right
+Ses01F_script03_1_F014	112.4000	118.3800	how long with it last this ludicrous overbearing love of ours
+Ses01F_script03_1_M018	118.0823	120.5300	who knows
+Ses01F_script03_1_F015	120.0800	122.4300	shall we always want to bicker and fight
+Ses01F_script03_1_M019	121.9500	127.1500	oh no that fire will fade along with our passion
+Ses01F_script03_1_F016	126.1000	128.9675	oh dear should we like that
+Ses01F_script03_1_M020	128.3800	131.7700	well it depends on how well we ve played
+Ses01F_script03_1_F017	131.8800	136.8000	what happens if one of us dies does the other one still laugh
+Ses01F_script03_1_M021	136.5000	140.4925	yes yes with all of his might
+Ses01F_script03_1_F018	139.9400	142.6900	well that s serious enough isn t it
+Ses01F_script03_1_M022	142.2400	150.9200	no no no no no death is a very laughable thing it s a cunning little mystery it s all done with mirrors
+Ses01F_script03_1_F019	149.9500	153.0800	i think you are talking nonsense
+Ses01F_script03_1_M023	152.1300	155.0425	oh so is everyone in the long run
+Ses01F_script03_1_M024	155.1150	167.7000	let s be superficial and just pity those poor philosophers huh let s blow trumpets and squeakers and enjoy the party for as long as we can you know like small idiotic school children
+Ses01F_script03_1_M025	168.6900	176.2700	oh come and kiss me darling before your body rots and worms pop out of your eye sockets
+Ses01F_script03_1_F021	174.8825	178.8500	oh elliott worms don t pop
+Ses01F_script03_1_M026	178.9700	195.6000	oh see i don t care what you do see you can paint yourself green and run naked through the place vendome and run off with all of the men of the world i shan t say a word just as long as you love me best
+Ses01F_script03_1_F022	194.8500	204.0100	aw thank you darling the same applies to you too except that if you so much as look at another woman i ll kill you
+Ses01F_script03_1_M027	204.5900	210.7575	do you remember that awful scene we had in venice
+Ses01F_script03_1_F023	208.8925	211.4200	which particular one
+Ses01F_script03_1_M028	211.0300	215.8300	the one where you put that tiny painted wooden snake in my bed
+Ses01F_script03_1_F024	215.2800	220.3500	oh charles that was his name he did wiggle so beautifully
+Ses01F_script03_1_M030	219.2200	221.8200	it was a terrible thing i hated it
+Ses01F_script03_1_F025	221.1200	226.8700	i know you did you threw him out the window into the grand canal i ll never forgive you for that
+Ses01F_script03_1_M031	226.3200	228.8900	how long did that row last
+Ses01F_script03_1_F026	228.3700	231.0700	it went on intermittently for days
+Ses01F_script03_1_M032	230.3700	231.9050	uh huh
+Ses01F_script03_1_M033	232.1675	238.4900	but the worst one was in cannes when your curling irons burnt a hole in my new dressing gown
+Ses01F_script03_1_F027	237.4000	242.2600	oh and it burnt my comb too and all of those towels in the bathroom
+Ses01F_script03_1_M034	241.6000	245.8700	that was a rouser wasn t it
+Ses01F_script03_1_F028	244.0875	248.0700	that was the first time you hit me
+Ses01F_script03_1_M035	247.7400	250.7000	i did not hit you very hard
+Ses01F_script03_1_F029	250.2200	262.4300	the manager came in he found us rolling about the floor biting and scratching like panthers how utterly utterly ridiculous
+Ses01F_script03_1_M036	256.8500	262.0325	i ll never forget his face
+Ses01F_script03_1_M037	262.3975	267.4500	we were very much younger then
+Ses01F_script03_1_F030	262.4600	269.6400	and very much sillier
+Ses01F_script03_1_M038	271.6400	276.2000	however i believe the real cause of that row was peter burden
+Ses01F_script03_1_F031	275.9100	279.9900	oh you knew there was nothing in that

@@ -1,0 +1,68 @@
+Ses02M_script02_1_M000	4.9300	8.2800	what time is it they re supposed to run around midnight
+Ses02M_script02_1_M001	8.3600	12.7800	god this great isn t it like look at the night we go here it couldn t be better
+Ses02M_script02_1_M002	13.1700	19.0800	i would have wanted to go a little further up the coast get away from the lights and the people but i was afraid we d miss it
+Ses02M_script02_1_M003	19.1100	20.5400	how you doing
+Ses02M_script02_1_F000	20.1900	21.5800	fine
+Ses02M_script02_1_M004	21.9200	28.1800	is that is that no was that just foam i can t even tell
+Ses02M_script02_1_M005	28.3900	34.0000	although i guess you can t tell it probably isn t them probably be unmistakable don t you think
+Ses02M_script02_1_M006	34.4100	43.2700	how you doing you know what i forgot i forgot to bring my flashlight how how could i forget to bring my flashlight how could i be so stupid
+Ses02M_script02_1_F001	42.8600	44.9500	what flashlight
+Ses02M_script02_1_M007	45.2400	48.4500	you know the flashlight the silver one there is only one isn t there
+Ses02M_script02_1_F002	48.0000	49.8300	that s not your flashlight
+Ses02M_script02_1_M008	50.4000	51.7500	who s is it
+Ses02M_script02_1_F003	51.4000	53.8400	it s ours it s mine too
+Ses02M_script02_1_M009	53.5400	55.8100	oh well sure yes
+Ses02M_script02_1_F004	54.9500	60.1700	but you kept saying my flashlight as if somehow it s just yours i mean how is it supposed to make me feel
+Ses02M_script02_1_M010	59.6100	66.0400	no no of course our flashlight yours and mine mi flashlight es su flashlight naturally
+Ses02M_script02_1_M011	66.0700	71.2900	how could we forget to bring it i hope the moon stays out
+Ses02M_script02_1_M012	71.5900	76.8800	i wonder do they always run during a full moon i can t remember if it was full last year do you remember
+Ses02M_script02_1_F005	76.5300	78.2700	yea
+Ses02M_script02_1_M013	78.2894	85.7500	you cold you want my jacket we should ve we should ve brought our blanket our blanket how could we forget to bring the blanket
+Ses02M_script02_1_M014	85.8700	92.4100	oh a six pack that s should ve brought a a six pack be just the ticket right now how could i forget
+Ses02M_script02_1_M015	92.4252	97.2200	oh man like a kid it s amazing i got out of the house with my fly zipped
+Ses02M_script02_1_M016	99.7938	106.1000	you think they can hear us talk or feel the vibrations in the sand when we move around
+Ses02M_script02_1_F006	105.7900	107.4100	i m cold
+Ses02M_script02_1_M017	107.5200	109.1900	what you want my jacket
+Ses02M_script02_1_F007	108.9900	111.6800	it s after eleven let s just go home
+Ses02M_script02_1_M018	111.7800	117.1300	are you kidding we d miss it we we just got here what s the point in coming down here if we just turn around and go home
+Ses02M_script02_1_F008	116.8100	119.0500	there is no point in coming down here
+Ses02M_script02_1_M019	118.7400	119.8500	right
+Ses02M_script02_1_F009	119.4700	121.1500	that s my point
+Ses02M_script02_1_M020	120.7400	122.4200	that s my point too
+Ses02M_script02_1_F010	122.0800	124.0800	so let s go
+Ses02M_script02_1_M021	124.1000	132.9100	no no that s not my point the point is there is no point in coming down here if we just leave don t you want to see it
+Ses02M_script02_1_F011	132.7100	134.5600	not particularly
+Ses02M_script02_1_M022	134.6400	136.1200	why not
+Ses02M_script02_1_F012	136.1000	139.0000	i don t it s just stupid
+Ses02M_script02_1_M023	138.7700	143.9600	honey this is a natural phenomenon i mean it only happens once a year
+Ses02M_script02_1_M024	143.9900	152.0100	think about the people in kansas they they d have to get a plane ticket and hotel reservations to see this we live forty minutes away it s too good to pass up
+Ses02M_script02_1_F013	151.2700	158.2600	pass up what these little fish swim onto the beach flop around and swim away and then they die
+Ses02M_script02_1_M025	158.0100	168.1327	yea but that moment on the beach is the highlight of their little lives i mean all that flopping is laying eggs or what do you mating or spotting or something like that
+Ses02M_script02_1_M026	168.1740	171.5500	this is a big night for these guys life s last orgy
+Ses02M_script02_1_F014	170.6400	178.5700	what are you so excited about i mean it s not a moon landing we re talking about here it s fish it s a fish nobody even eats
+Ses02M_script02_1_M027	178.6400	180.0900	yes they do
+Ses02M_script02_1_F015	179.7400	180.9100	augie
+Ses02M_script02_1_M028	180.4600	190.4100	okay but it s fish that do something none of the other fish do like the swallows returning to capistrano or the lemmings throwing themselves off the cliffs
+Ses02M_script02_1_M029	190.4400	198.2500	you know there is like there is a certain mystery here a magic a bit of the unexplainable i don t see how you cannot be interested
+Ses02M_script02_1_F016	197.3700	199.0000	i m just not
+Ses02M_script02_1_M030	199.1400	200.3600	for real
+Ses02M_script02_1_F017	200.0900	201.0800	yes
+Ses02M_script02_1_M031	201.7700	206.6400	i don t get it the first time we came here you said it was the best night of your life
+Ses02M_script02_1_M032	206.7100	215.3500	and then last year i remember specifically you were so excited that you stubbed your toe on the way pushing me out of the house and you didn t even notice until we got in the car
+Ses02M_script02_1_F018	214.7200	224.9700	last year you ll also remember our shoes got wet i got sand in my panties you got a sore throat we got into a big fight over nothing and we didn t see the grunions
+Ses02M_script02_1_M033	225.1800	227.2300	we weren t in a good spot
+Ses02M_script02_1_F019	226.4700	228.4800	we didn t see them the first time either
+Ses02M_script02_1_M034	228.1900	234.6100	we just weren t in a good spot this is a much better spot i ve got good instincts for these things
+Ses02M_script02_1_M035	235.0000	240.1200	there is that oh no that s just seaweed isn t it
+Ses02M_script02_1_M036	240.1400	249.8600	this is this is great isn t it i wouldn t miss this for anything now listen to this i know you re not interested but just listen
+Ses02M_script02_1_M037	250.6700	255.4100	out there somewhere there is this huge mass of silver fish headed this way
+Ses02M_script02_1_M038	255.4800	264.0400	they don t why we don t know why they didn t take a vote or anything they didn t get a map or an invitation
+Ses02M_script02_1_M039	264.1100	282.9385	just all as one this little time sensitive firecracker instinctual firecracker in their body just went off and all as one they turned and formed a line as long the california coast and started swimming they re swimming right now as if that s the only thing that matters
+Ses02M_script02_1_M040	282.9700	294.5000	it s single mindedness with no mind it s urgency that s pure urge they don t know what drives them they don t ask it a name or ask it a question
+Ses02M_script02_1_M041	294.9900	304.3800	they just turn as one and start the swim and brings them right here to this spot where we stand for a massive celebration of sex and death
+Ses02M_script02_1_M042	304.4400	307.9100	look at me i m giving myself goose bumps all my hairs are popping up
+Ses02M_script02_1_F020	307.2600	308.7900	that s the wind
+Ses02M_script02_1_M043	309.9600	311.5100	well so what do you think
+Ses02M_script02_1_F021	311.5800	312.9100	about what
+Ses02M_script02_1_M044	312.9600	314.5700	what i was saying
+Ses02M_script02_1_F022	314.6700	316.8300	it s ridiculous

@@ -1,0 +1,92 @@
+Ses05F_impro04_F000	5.1800	9.7600	brian i need help
+Ses05F_impro04_M000	10.7100	15.6300	babe i don t know what to tell you don t give up
+Ses05F_impro04_F001	15.7900	26.2000	i don t i m just i m thinking maybe i should move back home or something i don t i don t know what to do i can t i cant keep living the way i m living
+Ses05F_impro04_M001	25.9600	31.0200	well of course not but what are you going to do if you move back home are you going to be able to find a job there
+Ses05F_impro04_F002	29.4500	36.3800	i don t know i mean what am i supposed to do i ve it s not for lack of effort i ve been trying
+Ses05F_impro04_M002	35.9900	41.2600	i wish i had some answers for you babe i mean i don t know what to tell you
+Ses05F_impro04_F003	40.1400	44.2800	how did you get a job what am i what am i supposed to do
+Ses05F_impro04_M003	43.9300	49.0700	i went to school and i got my degree and i got a job
+Ses05F_impro04_F004	49.5400	66.4600	i mean i just don t i don t know if you don t have a lot of qualification where do you where do you find work it s like l a is so frustrating because if you don t know somebody you can t you can t get a job it s impossible it s totally discriminatory you have to know somebody
+Ses05F_impro04_M004	65.4400	67.4000	nothing s impossible
+Ses05F_impro04_F005	66.5300	68.1500	it s not fair
+Ses05F_impro04_M005	67.6600	72.3600	you have to be willing you have to be willing to start you know at the bottom and work your way up and
+Ses05F_impro04_F006	71.2600	75.4400	that s fine i d be willing to start anywhere i can t get a job
+Ses05F_impro04_M006	75.0100	76.2800	i
+Ses05F_impro04_F007	75.8600	80.9600	i mean on six seven and five an hour does not does not pay the bills i mean
+Ses05F_impro04_M007	80.5000	84.9900	no it doesn t pay the bills but it would pay something and it would help you get somewhere else
+Ses05F_impro04_F008	83.8900	89.8000	i still can t live on in six seven and five it s not possible in los angeles housing is too expensive
+Ses05F_impro04_M008	89.4400	95.3000	and no i understand but you ve got to start somewhere it s better than nothing and that s all you have you have nothing right now
+Ses05F_impro04_F009	95.1700	107.3600	i mean i can do the mcdonald s thing for a while as humiliating as that is but i mean then what i mean you can t exactly move up in that kind of industry
+Ses05F_impro04_M009	106.3600	110.4500	wait you can move up there s management programs in mcdonalds and things like that
+Ses05F_impro04_F010	108.3100	116.0400	oh come on that s not what i envisioned for myself honestly would you settle for being a manager at mcdonalds
+Ses05F_impro04_MXX0	111.9341	113.3524	well of course not
+Ses05F_impro04_M010	115.6500	119.4400	no i wouldn t but i
+Ses05F_impro04_F011	118.9500	121.7100	this is humiliating
+Ses05F_impro04_M011	121.4800	125.4400	well you know what life gets humili humiliating at times
+Ses05F_impro04_F012	124.4800	128.0800	no i don t i don t want to accept that i think that s bullshit
+Ses05F_impro04_M012	127.6600	130.9500	well what are you going to do about it to make it different
+Ses05F_impro04_F013	131.8200	135.8100	i don t know i feel like i ve tried everything
+Ses05F_impro04_M013	135.8100	139.6000	have you there s got to be something else
+Ses05F_impro04_F014	138.2800	145.8900	three years of going out every day every day and looking for a job and being constantly denied everywhere i go
+Ses05F_impro04_M014	147.6600	162.4400	i don t know what to tell you babe maybe maybe you re right maybe you do have to go someplace else i don t know maybe it s just not meant to be here i mean i want you to i don t want you to give up but i mean i don t want you to move away but at the same time i don t like seeing you like this
+Ses05F_impro04_F015	158.4900	167.2100	i m just so scared to start over i mean i put so much time and energy into being here
+Ses05F_impro04_F016	168.5100	172.4321	where am i supposed to go i mean like what
+Ses05F_impro04_M015	172.1400	179.3600	if it s rent or something like that i mean i can help you out a little bit if if that will help you you know stick with it
+Ses05F_impro04_F017	179.1000	184.9500	i don t know maybe i can take out a loan i just i need prospects and i don t feel like i have any
+Ses05F_impro04_M016	185.0100	191.1800	well just don t give up and there s you know you never know something might be around the corner tomorrow
+Ses05F_impro04_F018	190.6100	193.7800	but that doesn t help me when i m hungry now
+Ses05F_impro04_M017	193.3400	197.8300	well you know i m not going to let you starve
+Ses05F_impro04_F019	197.5300	199.6500	i m just worried
+Ses05F_impro04_M018	199.6300	224.8700	of course you re worried we re all worried i m worried for you everyone s always worried you know i don t maybe i have a job and yeah it s a good job whatever and i m happy but it doesn t mean i m going to have it tomorrow or the next day you never know what s going to happen something crazy could happen tomorrow something crazy can happen for you tomorrow and you ll get a job you never know you can walk up to somebody on the street and it ll be something great you ve just got to be positive you re so negative all the time
+Ses05F_impro04_F020	224.1300	226.8100	it s three years
+Ses05F_impro04_M019	226.2100	230.4300	i understand but you know what you ve been negative for three years
+Ses05F_impro04_F021	230.2200	232.9700	is that honestly what you think
+Ses05F_impro04_M020	232.5100	249.1800	it s the way it seems to me you started complaining about not being able to find a job the first day you went out and didn t find a job and i m not saying like and not trying to you know put you down or anything it s just that
+Ses05F_impro04_F022	248.3300	250.5200	that s really hard to hear
+Ses05F_impro04_M021	250.1800	256.3700	but it s true babe you ve got to be more positive about things like have some faith in yourself
+Ses05F_impro04_F023	256.3500	262.2000	i feel like i have faith and now faith is running thin because there is no money
+Ses05F_impro04_M022	261.8500	265.7900	well exactly money is not everything
+Ses05F_impro04_F024	265.5000	275.2200	brian i don t think you have a concept of what i mean by by money i don t mean money like oh i can t go get my hair and my nails done today i mean like i can t eat
+Ses05F_impro04_M023	274.6900	276.6000	you can
+Ses05F_impro04_F025	276.3400	282.5000	no no really if i can t pay to live somewhere i m going to end up living in my car
+Ses05F_impro04_M024	281.8100	285.9400	you know i would never let that happen i wouldn t let that happen
+Ses05F_impro04_F026	285.7500	287.4300	i just i
+Ses05F_impro04_M025	286.0200	298.7900	you can always stay with me if you if you have to stay with me for a while and get yourself back up on your feet again you know i m not just going to you know just throw you to the wolves or something like that if there s any way i can help you i will
+Ses05F_impro04_F027	298.6300	300.6300	well thank you
+Ses05F_impro04_M026	300.4700	305.3600	but you have to keep trying you can t give up
+Ses05F_impro04_F028	302.7800	308.0400	yeah i don t intend to stop trying i just i don t when is when enough is enough
+Ses05F_impro04_M027	306.0800	310.1000	and you ve got to think well ask yourself why are they not hiring you
+Ses05F_impro04_F029	310.6500	312.8000	i don t know
+Ses05F_impro04_M028	311.0900	313.3100	i mean are you going in for interviews
+Ses05F_impro04_F030	312.8700	316.3300	yeah and i look nice and i m you know
+Ses05F_impro04_M029	315.9700	317.3400	are you presenting
+Ses05F_impro04_F031	316.3600	318.2900	charismatic
+Ses05F_impro04_M030	317.3600	319.2800	putting your best foot forward or you
+Ses05F_impro04_F032	318.3400	320.9100	yah to totally and i m not
+Ses05F_impro04_M031	319.4000	323.4000	do they seem to like you i mean can you get any read from them
+Ses05F_impro04_F033	323.3300	328.7600	yeah i always think so but i i just feel like it s a lot of lip service everywhere i go
+Ses05F_impro04_M032	328.2300	331.9500	have you ever called them back and asked why you didn t get the job
+Ses05F_impro04_F034	329.9600	332.0600	yeah i follow up
+Ses05F_impro04_M033	332.1200	335.5200	do they give you any specifics as to why they didn t go with you
+Ses05F_impro04_F035	333.6800	336.6400	it s just like it s a matter of
+Ses05F_impro04_F036	337.3200	344.6900	not tall enough not pretty enough not you know how this place is
+Ses05F_impro04_M034	344.1800	350.7300	yeah i understand maybe what jobs are we talking about
+Ses05F_impro04_F037	350.6900	352.3100	i mean anything
+Ses05F_impro04_M035	350.8400	354.0200	like what s your ideal job what do you want to do
+Ses05F_impro04_F038	353.5000	356.1900	well i d like to be a working actor
+Ses05F_impro04_M036	355.6600	357.3200	of course
+Ses05F_impro04_F039	357.0300	359.6600	but um
+Ses05F_impro04_M037	358.9000	362.3900	everyone wants to be a working actor but they all work at something else
+Ses05F_impro04_F040	361.9600	363.4100	yeah
+Ses05F_impro04_M038	363.4000	365.6300	so what s the something else
+Ses05F_impro04_F041	365.9100	368.4600	bartending catering
+Ses05F_impro04_M039	368.6400	380.5600	you can t get a catering gig well i can call some friends i well i did call some friends before but you went in once and then never went back
+Ses05F_impro04_F042	381.3700	389.7900	would you be willing to make some more calls on my behalf i won t i won t make you look bad
+Ses05F_impro04_M040	387.5400	390.6800	if i if you will you stick with it
+Ses05F_impro04_F043	389.8000	391.1100	yeah
+Ses05F_impro04_M041	392.0554	396.3100	okay okay i ll call some people
+Ses05F_impro04_F044	395.4700	396.9500	thank you
+Ses05F_impro04_M042	397.2200	402.2400	but you ve got to keep looking for other stuff you ve got to do it on your own too okay
+Ses05F_impro04_F045	398.6800	400.7100	i will i will
+Ses05F_impro04_F046	401.7700	403.2800	yeah thank you
+Ses05F_impro04_M043	402.2700	404.3300	you know i ll always help you

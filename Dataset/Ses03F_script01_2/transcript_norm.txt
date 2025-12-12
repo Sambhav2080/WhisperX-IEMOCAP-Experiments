@@ -1,0 +1,41 @@
+Ses03F_script01_2_F000	6.9026	9.7483	why did you invite her here
+Ses03F_script01_2_M000	8.9019	11.7622	why does that bother you
+Ses03F_script01_2_F001	11.1850	15.8191	she s been in new york for three and a half years she don t just suddenly come and
+Ses03F_script01_2_M001	15.3375	18.7450	well maybe maybe he just wanted to see her
+Ses03F_script01_2_F002	18.2825	21.4083	you don t travel seven hundred miles just to see
+Ses03F_script01_2_M002	21.2186	31.1858	what do you mean they lived next door to each other their entire lives why shouldn t he want to see her hey don t look at me like that i don t know anymore than you do
+Ses03F_script01_2_F003	31.3317	34.0753	he s not going to marry her
+Ses03F_script01_2_M003	33.5925	36.3080	how do you know he s even thinking about it
+Ses03F_script01_2_F004	35.4616	37.3442	it s got that about it
+Ses03F_script01_2_M004	36.7550	39.4018	well so what
+Ses03F_script01_2_F005	40.6075	42.7145	what s going on here joe
+Ses03F_script01_2_M005	42.0286	44.6116	listen kid
+Ses03F_script01_2_F006	43.4004	47.9389	she s not larry s girl she knows that
+Ses03F_script01_2_M006	47.3697	50.2592	you can t read her mind
+Ses03F_script01_2_F007	49.5295	55.3231	then why is she married then why isn t she married she s been in new york and there s hundreds of single men there
+Ses03F_script01_2_F008	55.4106	59.7302	i m sure hundreds of them asked her and told her that she s foolish but no
+Ses03F_script01_2_F009	59.8324	62.1235	she s waited
+Ses03F_script01_2_M007	62.2403	65.1005	how do you know why she s waited
+Ses03F_script01_2_F010	65.3924	68.8072	because she thinks like me that s why
+Ses03F_script01_2_F011	69.9017	76.9065	she s faithful as a rock don t you know in my worst moments i can think of her
+Ses03F_script01_2_F012	77.8075	82.4175	i think again that i m i m right
+Ses03F_script01_2_M008	83.3475	87.6200	look it s a nice day what are we arguing for
+Ses03F_script01_2_F013	87.1275	95.5300	nobody in my house better ever dare dare to challenge her faith maybe strangers but not his father not his brother
+Ses03F_script01_2_M009	94.0900	95.9200	calm yourself
+Ses03F_script01_2_F014	95.5800	100.5600	because he s not coming back then what do i got to live for i ll kill myself
+Ses03F_script01_2_M010	100.2250	101.8700	calm yourself
+Ses03F_script01_2_F015	100.5600	103.1100	don t don t laugh at me don t laugh at me
+Ses03F_script01_2_F016	103.2100	110.4800	look at it because why when she came here and she slept in his room the memorial broke into pieces look at it look at it joe
+Ses03F_script01_2_M011	109.5200	112.0700	all right all right calm yourself
+Ses03F_script01_2_F017	111.3200	115.9050	you got to believe believe with me because i can t stand all alone
+Ses03F_script01_2_M012	114.6900	117.1800	okay just calm yourself
+Ses03F_script01_2_F018	116.8200	118.5000	no you ve got to believe
+Ses03F_script01_2_F019	118.6000	122.4532	believe joe you above all people have got to believe
+Ses03F_script01_2_M013	121.6800	124.5400	why me above all
+Ses03F_script01_2_M014	126.1900	127.8200	huh
+Ses03F_script01_2_M015	127.9300	130.8225	why me above all
+Ses03F_script01_2_F020	130.1700	132.6600	you got to keep believing
+Ses03F_script01_2_M016	132.6100	135.3700	look at you you re shaking
+Ses03F_script01_2_F021	135.2300	137.1600	i can t help it
+Ses03F_script01_2_M017	135.5300	137.6600	what have i got to hide
+Ses03F_script01_2_M018	137.7000	140.5600	huh what the hell s the matter with you kate

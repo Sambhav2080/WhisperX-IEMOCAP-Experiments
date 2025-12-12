@@ -1,0 +1,65 @@
+Ses01M_impro01_F000	6.7700	8.4600	next
+Ses01M_impro01_M000	8.2208	11.2800	yes me okay okay here we go
+Ses01M_impro01_F001	8.5500	10.6000	my window is open
+Ses01M_impro01_M001	11.3200	13.7700	okay so filled out all these forms
+Ses01M_impro01_F002	14.4600	18.2300	this is your last your first name is jones
+Ses01M_impro01_M002	13.7700	16.8800	and i have this form of id here so
+Ses01M_impro01_M003	17.6600	20.1400	yes jones
+Ses01M_impro01_F003	19.4800	23.4300	that s just strange i figured you filled in wrong sections
+Ses01M_impro01_M004	22.8900	24.2800	well
+Ses01M_impro01_F004	23.4300	26.4675	what are you what s what are you applying for
+Ses01M_impro01_M005	25.9400	29.0700	i m just applying for another id
+Ses01M_impro01_F005	28.4100	30.9600	another id
+Ses01M_impro01_M006	29.3900	38.1500	yes i m supposed to have three forms of id for this it s a long story i m supposed to have three forms of id for this other job i really don t get into but i need another
+Ses01M_impro01_F006	36.1500	38.6000	fine so i need id
+Ses01M_impro01_M007	38.3300	40.2700	i have it right here yes
+Ses01M_impro01_F007	39.8900	43.3100	no i need your id to give you a second id
+Ses01M_impro01_F008	43.3100	47.0461	it s really simple if you have a problem with it maybe you should
+Ses01M_impro01_M008	46.0100	47.1100	but that s
+Ses01M_impro01_M009	47.1100	52.4200	that s why i m here that s why i was waiting in this line i need to get another form of id
+Ses01M_impro01_F009	52.3400	55.1200	well do you have your passport
+Ses01M_impro01_M010	54.4900	56.7100	no i don t have a passport
+Ses01M_impro01_F010	56.1600	58.1800	you have a birth certificate
+Ses01M_impro01_M011	57.7900	62.2800	i don t where it is though i don t have with me can i get it from somewhere i mean
+Ses01M_impro01_F011	61.0500	63.2100	what do you expect me to do
+Ses01M_impro01_M012	62.7800	66.0300	i probably have to go wait another line to get my birth certificate don t i
+Ses01M_impro01_F012	65.5450	67.4700	probably
+Ses01M_impro01_M013	66.8475	70.0400	you re very helpful what s your name
+Ses01M_impro01_F013	69.4500	70.8400	joy
+Ses01M_impro01_M014	70.5150	71.6950	hi joy
+Ses01M_impro01_F014	71.3650	74.4600	hi you know
+Ses01M_impro01_M015	73.1425	75.0125	so can you help me or not
+Ses01M_impro01_F015	74.6775	80.6875	i am i don t i don t understand what you want a driver s license or a california id
+Ses01M_impro01_M016	80.1900	82.3000	okay
+Ses01M_impro01_M017	83.6300	86.3600	i need california id
+Ses01M_impro01_F016	86.3400	87.8700	okay
+Ses01M_impro01_M018	86.3800	92.0500	on top of these other two forms of id which i already have
+Ses01M_impro01_F017	91.2800	94.5350	what well do you have a driver s license
+Ses01M_impro01_M019	93.8800	96.7900	no i don t have driver s license
+Ses01M_impro01_F018	95.2400	98.2100	then how am i supposed to give you a california id
+Ses01M_impro01_M020	96.9100	100.5300	did you even look at the form i filled it out all these questions
+Ses01M_impro01_F019	98.4600	102.0700	don t raise your voice with me
+Ses01M_impro01_M021	102.1700	107.5000	did you even look at the form i ve already answered these question
+Ses01M_impro01_F020	105.7600	109.0900	don t talk to me like i m a child
+Ses01M_impro01_M022	109.1400	110.5100	okay
+Ses01M_impro01_F021	109.1900	114.1025	do you know how long i ve been working here how long have you lived in california
+Ses01M_impro01_M023	110.6900	113.2200	if it makes you stop acting like a child
+Ses01M_impro01_M024	113.5575	116.1800	i have been to california my whole
+Ses01M_impro01_F022	114.1300	124.8200	maybe you never been to the d m v before maybe you should get back in line you know what sit in line again and if you get my number ask for different one
+Ses01M_impro01_M025	118.8350	122.1800	i am not i m not getting to back that line
+Ses01M_impro01_M026	123.9900	130.7200	okay okay let s keep our voices down okay i didn t come here to get in yelling match
+Ses01M_impro01_F023	129.1200	131.0325	i m perfectly calm
+Ses01M_impro01_M027	130.7200	134.1850	i did not come in here to get in a yelling match with you all right
+Ses01M_impro01_F024	132.8900	136.6025	uh huh i didn t come here get in yelling match either
+Ses01M_impro01_M028	136.1100	138.5100	just try and help me
+Ses01M_impro01_F025	137.0600	140.4900	they don t pay me enough to deal people like you
+Ses01M_impro01_M029	139.9600	147.9500	people like me what is that supposed to mean you know this is ridiculous is there like a manager here is there someone else that i can talk to
+Ses01M_impro01_F026	146.6075	148.2600	why
+Ses01M_impro01_M030	148.0000	149.1200	why
+Ses01M_impro01_F027	148.5800	149.6700	yeah
+Ses01M_impro01_F028	156.1500	160.5100	so you re not going to send me a thank you card is that a problem is your are not going
+Ses01M_impro01_M031	149.1800	151.8500	why because i m sick of talking to you
+Ses01M_impro01_M032	151.8500	157.3600	cause you re obviously not talking to me you re just yelling at me berating me and telling me i can t fill out forms right
+Ses01M_impro01_F029	160.7000	164.8250	oh dear oh boo foo woo foo foo
+Ses01M_impro01_M033	158.6300	163.6625	oh no honey and you re going to miss the christmas card too it s a shame it s going to be a good nice picture
+Ses01M_impro01_F030	164.8725	167.2100	sit back down

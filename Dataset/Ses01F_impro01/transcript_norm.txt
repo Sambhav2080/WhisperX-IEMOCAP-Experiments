@@ -1,0 +1,30 @@
+Ses01F_impro01_F000	6.2901	8.2357	excuse me
+Ses01F_impro01_M000	7.5712	10.4750	do you have your forms
+Ses01F_impro01_F001	10.0100	11.3925	yeah
+Ses01F_impro01_M001	10.9266	14.6649	let me see them
+Ses01F_impro01_F002	14.8872	18.0175	is there a problem
+Ses01F_impro01_M002	16.8352	19.7175	who told you to get in this line
+Ses01F_impro01_F003	19.2900	20.7875	you did
+Ses01F_impro01_F004	21.3257	24.7400	you were standing at the beginning and you directed me
+Ses01F_impro01_M003	23.4700	28.0300	okay but i didn t tell you to get in this line if you are filling out this particular form
+Ses01F_impro01_F005	27.4600	31.4900	well what s the problem let me change it
+Ses01F_impro01_M004	28.3950	31.2117	this form is a z x four
+Ses01F_impro01_M005	31.2660	39.3875	you can t this is not the line for z x four if you re going to fill out the z x four you need to have a different form of id
+Ses01F_impro01_F006	38.9650	43.5900	what i m getting an id this is why i m here my wallet was stolen
+Ses01F_impro01_M006	41.2300	46.9800	no i need another set of id to prove this is actually you
+Ses01F_impro01_F007	46.5800	52.1900	how am i supposed to get an id without an id how does a person get an id in the first place
+Ses01F_impro01_M007	51.4000	57.6400	i don t know but i need an id to pass this form along i can t just send it along without an id
+Ses01F_impro01_F008	56.1600	58.8225	i m here to get an id
+Ses01F_impro01_M008	58.1800	62.5900	no i need another id a separate one
+Ses01F_impro01_F009	61.8700	65.9700	like what like a birth certificate
+Ses01F_impro01_M009	65.5100	73.0000	a birth certificate a passport a student id didn t you go to school anything
+Ses01F_impro01_F010	66.4200	69.3400	who the hell has a birth certificate
+Ses01F_impro01_F011	72.4500	82.2600	yes but my wallet was stolen i don t have anything i don t have any credit cards i don t have my id don t you have things on file here
+Ses01F_impro01_M010	81.5900	86.0300	yeah we keep it on file but we need an id to access that file
+Ses01F_impro01_F012	85.2700	88.0200	that s out of control
+Ses01F_impro01_M011	87.1500	94.3900	i don t understand why this is so complicated for people when they get here it s just a simple form i just need an id
+Ses01F_impro01_F013	93.6700	97.0218	how long have you been working here
+Ses01F_impro01_M012	95.8600	98.6800	actually too long
+Ses01F_impro01_F014	97.8900	102.9600	clearly you know do you have like a supervisor or something
+Ses01F_impro01_M013	101.8400	107.8700	yeah do you want to see my supervisor huh yeah do you want to see my supervisor fine i ll be right back
+Ses01F_impro01_F015	103.9700	106.7100	that would i would appreciate that yeah

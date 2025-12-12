@@ -1,0 +1,37 @@
+Ses02M_impro02_F000	3.9987	6.0541	i don t want you to go
+Ses02M_impro02_M000	7.0366	15.1000	i know i know i don t want to go either baby i love you know and i m going to miss you a lot
+Ses02M_impro02_F001	15.5524	23.3599	i m going to miss you too i don t know what i m going to do here without you it s going to be so lonely and so hard
+M	0.0000	0.0000	it ll be alright
+Ses02M_impro02_F002	23.5790	26.4151	i don t want to be a single mom
+Ses02M_impro02_M001	26.7598	31.4253	you won t be i ll be back i ll be back before you know it all right and
+Ses02M_impro02_F003	31.3058	32.6401	but
+Ses02M_impro02_M002	32.6800	33.6558	and
+Ses02M_impro02_F004	33.4566	37.3201	it s dangerous i mean how can you make sure that you ll
+M	0.0000	0.0000	it ll it ll
+Ses02M_impro02_M003	37.5389	44.4296	it s it s dangerous anywhere honey i mean this is this i m just going to go and we ll get it over with
+Ses02M_impro02_M004	44.4743	54.8649	i ll come back we ll have you know some good benefits from being in the service and then we ll live we ll live a happy life then the rest of us like the three of us
+Ses02M_impro02_F005	54.0200	55.5818	i hope so
+Ses02M_impro02_M005	55.4225	56.8962	a little family
+Ses02M_impro02_F006	56.6174	58.0712	i hope so
+Ses02M_impro02_M006	58.1707	59.5249	you gotta
+Ses02M_impro02_F007	59.0868	61.0584	it s going to be really rough
+Ses02M_impro02_M007	61.7187	63.7973	you gotta take care of our baby for me alright
+F	0.0000	0.0000	without you
+Ses02M_impro02_F008	64.7625	67.7895	i ll send you lots of pictures
+Ses02M_impro02_M008	67.8916	74.1377	i hope so because i m not going to be able to survive without all that i don t know what i m going to do
+Ses02M_impro02_M009	75.0360	84.1992	i ve never been i ve never been away from you for two weeks let alone a year
+Ses02M_impro02_F009	84.1439	88.9590	well just promise me that you going to be safe
+Ses02M_impro02_F010	89.8468	96.5662	i mean can t they put you in like you know kitchen work or something where you won t get
+Ses02M_impro02_M010	96.5942	99.7326	no it doesn t work that way
+Ses02M_impro02_M011	101.0854	108.0313	but i mean i m going to do whatever i can and get back here as fast as i can
+Ses02M_impro02_F011	108.5118	112.6479	it doesn t make any sense i don t know why we have to be at war in the first place
+Ses02M_impro02_M012	113.8282	119.8340	i know but it s not our decision i guess you know i mean
+Ses02M_impro02_M013	120.2518	128.8678	there s people that thought it was the right thing to do so now we have to we have to do what we have to do for our country
+Ses02M_impro02_M014	129.5686	137.7099	and it ll work out you know go there and do that yeah i ll be back
+Ses02M_impro02_F012	137.8409	142.0114	will you write me letters paper ones
+Ses02M_impro02_M015	141.7127	148.2248	yeah of course i don t know if we ll have computers or anything like that you know so probably my only option then
+Ses02M_impro02_M016	148.5469	155.0556	yeah i ll write you every day cause you re the only thing that s going to be on my mind
+Ses02M_impro02_F013	155.7643	160.4854	our baby needs a dad you can t leave okay you can t disappear
+Ses02M_impro02_M017	159.4932	164.3000	our baby has a dad alright daddy is going to be back soon
+Ses02M_impro02_M018	165.8300	178.4193	i want you to you know take lots of video pictures and i can see you when i get back or while i m there i m going to miss you
+Ses02M_impro02_F014	178.7739	181.4226	i ll miss you too

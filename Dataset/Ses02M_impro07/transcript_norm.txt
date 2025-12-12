@@ -1,0 +1,64 @@
+Ses02M_impro07_M000	3.3437	8.7809	so you know i ve been hearing back from some colleges
+Ses02M_impro07_F000	8.4007	10.5030	oh yeah have you gotten letters yet
+Ses02M_impro07_M001	10.3086	13.9686	yeah and guess who accepted me
+F	0.0000	0.0000	and
+Ses02M_impro07_F001	13.6194	17.8381	um i don t know where
+Ses02M_impro07_M002	17.5987	19.0925	u s c
+Ses02M_impro07_F002	18.7267	22.6857	oh u s c oh my gosh that s awesome that was your top choice right
+Ses02M_impro07_F003	22.7069	25.1307	oh my gosh that s so cool
+Ses02M_impro07_M003	22.4553	24.5566	yeah oh i you have no
+Ses02M_impro07_M004	25.2022	29.6828	god i i got this big packet you know in the mail and it s like
+Ses02M_impro07_M005	30.1215	38.6833	yes this is it says u s c like registrar i mean like i got i got some like little letters before you know it s like oh rejection
+Ses02M_impro07_F004	31.0413	33.0824	it s gotta be it like
+Ses02M_impro07_F005	34.8528	36.7393	oh my gosh that s so cool
+Ses02M_impro07_M006	38.7046	41.1736	but big packet big packet is nice
+Ses02M_impro07_F006	39.6095	41.8900	big packet is gotta be the real thing yeah
+Ses02M_impro07_M007	41.2070	46.0942	so it s like yes rip it open and there it is big oh yes
+Ses02M_impro07_F007	43.1601	50.6653	oh my gosh i thought there was like maybe going to be some like i don t know if you are going to get in or not so i m really glad that you did
+Ses02M_impro07_F008	50.6866	52.3900	that s so cool
+Ses02M_impro07_M008	50.8832	52.0800	yeah i know i know
+Ses02M_impro07_M009	52.0900	58.0000	it was you know i wasn t too sure i mean you know it was kind of last minute for like the application
+Ses02M_impro07_M010	58.0100	59.4500	and everything like but
+Ses02M_impro07_F009	57.9792	59.3824	yeah totally
+Ses02M_impro07_M011	59.4600	61.2200	it was good yeah i mean
+Ses02M_impro07_F010	60.2966	64.0030	so you re going to be right here in los angeles that is so cool
+Ses02M_impro07_M012	61.8100	69.3600	i know i know yea it ll be interesting you know i ve never i mean getting out of vegas and everything but la
+Ses02M_impro07_M013	69.3700	71.0000	i m looking forward to it
+Ses02M_impro07_F011	69.3500	70.9600	so can we hang out
+Ses02M_impro07_M014	71.0100	74.2000	hey yes you know that s that s what i m coming for
+Ses02M_impro07_F012	72.3600	73.6300	yay
+Ses02M_impro07_M015	74.2100	77.7582	you re half the reason i m going
+Ses02M_impro07_F013	75.3283	77.7400	oh yay thank you
+Ses02M_impro07_F014	77.7500	81.2389	no but that s an awesome school that s so cool
+Ses02M_impro07_M016	79.2500	85.7800	i know ahh yeah i m definitely looking forward to it and i mean they had a great football season last year
+Ses02M_impro07_F015	85.2147	86.8093	oh totally totally
+Ses02M_impro07_M017	85.7900	89.2000	you know what i mean i bet the home games are just like nuts you know
+Ses02M_impro07_F016	87.1070	89.1500	you get to like be a part of that
+Ses02M_impro07_F017	89.1600	93.4853	like you get to be a part of that like the like the like a cult
+Ses02M_impro07_M018	89.2100	90.2200	what
+Ses02M_impro07_M019	90.2900	92.4600	i know i mean part of
+Ses02M_impro07_F018	93.4953	101.5200	like a like a no but i mean like everywhere you go people know who you are
+Ses02M_impro07_M020	93.5000	97.8100	yeah right a cult i m looking forward to being in the cult
+Ses02M_impro07_M021	100.0300	105.2100	right i know like you it won t hurt i mean national champions last year wow you know
+Ses02M_impro07_M022	105.2200	106.8379	maybe we ll do it again this year
+Ses02M_impro07_F019	105.0100	107.0074	so you know what you are going to do there
+Ses02M_impro07_M023	106.8600	114.2900	what s that ahh well you know i m i m thinking um i m leaning towards like communications
+Ses02M_impro07_M024	114.3000	116.8200	i i don t know kind of a broad
+Ses02M_impro07_F020	114.2300	117.6000	okay they have a lot of good schools right
+Ses02M_impro07_M025	116.8300	123.9700	yeah i mean a lot a lot of good stuff oh yeah i mean it s it s just a really good school so really whatever i pick i can t go wrong i mean i m just
+Ses02M_impro07_M026	123.9800	133.3300	i m looking forward to getting there i mean god the campus is cool you know it s like all just very confined i mean just you know it s a college campus you know it s like
+Ses02M_impro07_F021	132.2869	133.9240	yes it s intimate
+Ses02M_impro07_M027	133.3400	137.9600	it s college oh my god it s college so it s like crazy
+Ses02M_impro07_F022	136.7900	139.0600	i know it s so cool
+Ses02M_impro07_M028	138.7532	146.4511	oh man so i don t know you know we ll see we ll see how it goes and yeah i m looking forward to it
+Ses02M_impro07_F023	139.2800	143.2800	fair for you wow oh my gosh
+Ses02M_impro07_M029	146.4611	153.9100	i mean you got to you got to show me the ropes cause i ve never been there before so i mean you know your way around already and
+Ses02M_impro07_F024	148.7900	150.8500	i will do the best i can
+Ses02M_impro07_F025	153.3231	159.1397	well there are all kinds of awesome secrets so you ll really enjoy it it s really great i m so glad
+Ses02M_impro07_M030	156.4100	158.2700	oh alright
+Ses02M_impro07_M031	158.2800	166.5386	i m i m looking forward to that man so yeah i think i m going to come out a little early so i mean i ll give you a call and we ll definitely
+Ses02M_impro07_F026	160.0500	161.5400	yay
+Ses02M_impro07_F027	164.0912	166.0000	okay yes totally come visit
+Ses02M_impro07_F028	166.0100	170.8121	and we ll explore and you going to have such a good time you re going to fit in so well it s going to be awesome
+Ses02M_impro07_M032	170.6920	174.8175	thanks yes thanks yes that ll be cool
+Ses02M_impro07_F029	171.3800	175.7900	so congratulations that s awesome

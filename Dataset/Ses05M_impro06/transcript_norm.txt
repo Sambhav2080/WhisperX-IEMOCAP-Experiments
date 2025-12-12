@@ -1,0 +1,35 @@
+Ses05M_impro06_F000	3.6700	6.5700	ryan what s wrong
+Ses05M_impro06_M000	10.9000	14.8600	i just got some bad news
+Ses05M_impro06_F001	15.2600	17.1900	what
+Ses05M_impro06_M001	19.9600	25.5800	my friend shotty passed away
+Ses05M_impro06_F002	25.3800	28.0200	oh i m so sorry
+Ses05M_impro06_M002	27.4600	33.6700	the end he s been sick for awhile he had cancer
+Ses05M_impro06_F003	33.1700	34.8800	oh my gosh
+Ses05M_impro06_M003	34.3600	45.1000	yeah it s just i never thought it would actually happen you know i mean he s such a fighter and he s always so positive about everything
+Ses05M_impro06_FXX0	41.1671	41.6749	yeah
+Ses05M_impro06_M004	45.1100	58.4800	you know he was gonna and we all the way up to the end we were just talking about how you know all the stuff we were gonna do and you know when he finally kicked this stupid cancer you know and we were gonna
+Ses05M_impro06_M005	58.6900	65.6800	he wanted to travel you know and he s so talented probably the most talented person i have ever met in my entire life
+Ses05M_impro06_FXX1	61.2621	61.9862	yeah
+Ses05M_impro06_F004	64.2500	65.9400	what did he do
+Ses05M_impro06_M006	65.7000	75.5700	he was a designer you know but he did everything you know he painted and he and he did costume design he did set design he did lighting he was
+Ses05M_impro06_M007	75.5800	81.5100	he just did everything he was literally literally the most talented guy i have ever met in my entire life
+Ses05M_impro06_M008	81.5200	89.9600	and he s gone now and i i just can t believe it
+Ses05M_impro06_F005	89.5600	91.5800	yeah i m so sorry
+Ses05M_impro06_M009	91.9800	99.6100	i mean one second you think you know you re just having a conversation and then
+Ses05M_impro06_M010	101.0100	114.7500	you know sometimes you think you want to make that phone call or you think you want to tell somebody something or something like that do you know what i mean like that s he was the person that i did that with you know like that s the person who i needed to call to tell things to all the time
+Ses05M_impro06_F006	116.6200	118.7400	you guys have been
+Ses05M_impro06_M011	116.5400	128.9700	and now i don t have that person anymore you know and it s it s just you
+Ses05M_impro06_FXX2	120.9121	120.4741	yeah
+Ses05M_impro06_M012	129.1900	136.1500	you think that things get easier you know as you as you get older and you
+Ses05M_impro06_M013	137.1500	147.2300	and it just gets worse it just gets worse everything is bad all the time people die your friends die family dies your best friends die it s
+Ses05M_impro06_F007	147.8100	149.7900	i m sorry i
+Ses05M_impro06_M014	148.2300	155.7751	you always think you know when you were you know when you were a little kid and you think something is gonna happen like it will all be better when i am older you know
+Ses05M_impro06_M015	155.7851	165.2100	and i don t know why people don t just tell you off the bat that it s just gonna suck anyway you know like what s the point
+Ses05M_impro06_M016	165.2200	170.8900	all the best people die all the bad people live and they make life shitty for you anyway
+Ses05M_impro06_F008	169.9892	177.1000	wow ryan i know that you are hurting right now but i don t think you always feel like that
+Ses05M_impro06_M017	176.5500	179.9800	no you re right i don t you re right
+Ses05M_impro06_M018	180.7300	191.4300	even yeah he doesn t he would never feel that way he would never want me to feel that way of course not but that s just where i am right now and i don t know what else to do with it
+Ses05M_impro06_F009	188.8700	193.3500	yeah i understand i think it s really healthy to grieve
+Ses05M_impro06_M019	194.8000	197.3500	i just miss him
+Ses05M_impro06_F010	197.8800	201.0100	if there s anything i can do to be there for you
+Ses05M_impro06_M020	200.9700	203.1100	thanks

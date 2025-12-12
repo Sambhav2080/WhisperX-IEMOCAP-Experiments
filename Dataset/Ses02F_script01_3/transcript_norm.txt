@@ -1,0 +1,68 @@
+Ses02F_script01_3_F000	6.6300	9.5400	you re the only one i know who loves his parents
+Ses02F_script01_3_M000	9.4400	12.1700	i know it went out of style didn t it
+Ses02F_script01_3_F001	12.1200	14.1000	it s all right it s a good thing
+Ses02F_script01_3_F002	14.9100	18.4600	you know it s lovely here the air is sweet
+Ses02F_script01_3_M001	19.3800	21.0300	you re not sorry you came
+Ses02F_script01_3_F003	21.0900	26.8100	no not sorry um but i m i m not gonna stay
+Ses02F_script01_3_M002	27.3900	28.5200	why
+Ses02F_script01_3_F004	28.6400	32.7638	well for one thing your mother as much as told me to go
+Ses02F_script01_3_M003	32.5500	33.4700	oh
+Ses02F_script01_3_F005	33.4200	40.8600	you saw that i mean and then well you ve been kind of um
+Ses02F_script01_3_M004	40.9500	41.8900	what
+Ses02F_script01_3_F006	41.9500	46.2900	well kind of embarrassed ever since i got here
+Ses02F_script01_3_M005	47.9700	57.1100	the trouble is i planned on sort of sneaking up on you over a period of a week or so but they take it for granted that we re all set
+Ses02F_script01_3_F007	56.4918	58.7900	i knew they would your mother anyway
+M	0.0000	0.0000	how d you know
+Ses02F_script01_3_F008	60.8300	61.5000	well
+Ses02F_script01_3_F009	61.5400	64.1200	from her point of view why else would i come
+Ses02F_script01_3_M006	64.1368	71.7000	oh would you want to i guess you know this is why i asked you to come
+Ses02F_script01_3_F010	73.5900	78.0400	i i guess this is why i came
+Ses02F_script01_3_M007	80.3500	87.6700	anne i love you i love you a great deal i love you
+Ses02F_script01_3_M008	87.9400	90.8500	i have no imagination that s all i know to tell you
+Ses02F_script01_3_M009	91.3200	99.9000	i m embarrassing you and i didn t want to tell it to you here i wanted some place we d never been before a place where we d be brand new to each other
+Ses02F_script01_3_M010	100.4000	109.9300	you feel it s wrong here don t you this yard this chair i want you to be ready for me i don t want to have to win you away from anything
+Ses02F_script01_3_F011	109.1400	112.3200	oh chris i ve been ready for a long long time
+Ses02F_script01_3_M011	111.9600	114.4900	and he s gone forever you re sure
+Ses02F_script01_3_F012	115.7900	118.5420	i almost got married two years ago
+Ses02F_script01_3_M012	119.1197	120.3100	why didn t you
+Ses02F_script01_3_F013	121.0300	123.4500	you started to write me and
+Ses02F_script01_3_M013	123.2600	124.9846	you felt something that far back
+Ses02F_script01_3_F014	124.8200	126.7000	every day since
+Ses02F_script01_3_M014	127.0000	129.0500	anne why didn t you let me know
+Ses02F_script01_3_F015	129.0200	138.1000	well i was waiting for you i mean till then you never wrote and when you did i mean what did you say you can sure be ambiguous sometimes
+Ses02F_script01_3_M015	138.3100	140.6900	give me a kiss anne give me a
+Ses02F_script01_3_M016	140.9400	146.8800	oh god i kissed you i kissed annie how long how long i ve been waiting to kiss you
+Ses02F_script01_3_F016	146.2400	154.8400	i will never forgive you why did you wait all these years all i did was sit and wonder if i was crazy for thinking of you
+Ses02F_script01_3_M017	154.1100	157.8300	oh annie we re gonna live now i m gonna make you so happy
+Ses02F_script01_3_F017	157.5900	159.2100	not like that you re not
+Ses02F_script01_3_M018	159.1100	160.4000	i kissed you
+Ses02F_script01_3_F018	160.1500	166.7400	like larry s brother do it like you chris what is it
+Ses02F_script01_3_M019	167.6900	170.4900	let s drive someplace i want to be alone with you
+Ses02F_script01_3_F019	169.8100	173.3200	no what is it your mother
+Ses02F_script01_3_M020	173.5779	176.7000	no nothing like that
+Ses02F_script01_3_F020	176.8257	185.9200	then what s wrong i mean even in your letters there was some something ashamed
+Ses02F_script01_3_M021	186.5800	191.1500	yeah i suppose i have been but it s going from me
+Ses02F_script01_3_F021	191.1300	193.3241	you ve gotta tell me
+Ses02F_script01_3_M022	193.8700	196.2000	i don t know how to start
+Ses02F_script01_3_F022	196.6900	198.6400	it wouldn t work this way
+Ses02F_script01_3_M023	200.0900	207.2400	it s all mixed up with so many other things you remember overseas i was in command of a company
+Ses02F_script01_3_F023	206.9900	208.4100	yeah sure
+Ses02F_script01_3_M024	209.2300	211.3800	well i lost them
+Ses02F_script01_3_F024	211.6000	213.3000	how many
+Ses02F_script01_3_M025	214.0700	215.6400	just about all
+Ses02F_script01_3_F025	215.8937	217.6679	oh gee
+Ses02F_script01_3_M026	218.0900	223.2800	it takes some time for a guy to toss that off cause they weren t just men
+Ses02F_script01_3_M027	224.1600	238.3000	for instance one time it had been raining several days and this kid came to me and gave me his last pair of dry socks i put them in pocket it s only a little thing but that s the kind of guys i had
+Ses02F_script01_3_M028	238.3700	247.3600	they didn t die they killed themselves for each other i mean that exactly a little more selfish and they d have been here today
+Ses02F_script01_3_M029	247.9400	261.6500	i got this idea watching them go down everything was being destroyed see but it seemed that there was one new thing being made a sort of responsibility man for man
+Ses02F_script01_3_M030	261.6900	273.3400	you know what i mean to show that to bring that onto the earth again like some kind of monument and everyone would feel it standing behind him and it would make a difference to him
+Ses02F_script01_3_M031	274.7500	290.0600	then i came back and it was incredible there was no meaning in it here the whole thing to them seemed like sort of a bus accident i went to work with dad and that rat race again
+Ses02F_script01_3_M032	290.3500	307.6700	and i felt what you said ashamed somehow cause nobody was changed at all it seemed to make suckers out of a lot of guys i felt wrong to be alive to open the new bank book drive the new car see the new refrigerator
+Ses02F_script01_3_M033	308.7100	320.4500	i mean you can take those things out of a war but when you drive that car you ve gotta know that it came out of the love a man can have for a man you ve gotta be a little better because of it
+Ses02F_script01_3_M034	320.8300	330.7300	because otherwise all you have is really loot and there s blood on it and i didn t want to take any of it and i guess that included you
+Ses02F_script01_3_F026	331.4300	333.6900	you still feel that way
+Ses02F_script01_3_M035	334.6100	336.6000	i want you now annie
+Ses02F_script01_3_F027	336.9100	344.5400	cause you mustn t feel that way because you have a right to everything that you have do you understand that everything chris and me too
+Ses02F_script01_3_F028	344.6000	353.2200	i mean and your money there s nothing wrong with your money i mean your father put hundreds of planes in the air a man should be paid for that
+Ses02F_script01_3_M036	353.6400	357.8700	i know annie annie i m gonna make a fortune for you
+Ses02F_script01_3_F029	357.6900	360.0600	what ll i do with a fortune

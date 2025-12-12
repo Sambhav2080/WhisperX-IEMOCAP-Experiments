@@ -1,0 +1,57 @@
+Ses03M_impro01_M000	4.4045	13.1562	hey listen here missy i ve been in this line for an hour and now i m finally here so you re going to take my application
+Ses03M_impro01_F000	12.2267	15.5586	is that a demand sir
+Ses03M_impro01_M001	14.6863	19.6199	it s not a demand it s a request will you just take it come on
+Ses03M_impro01_F001	18.8906	21.8775	i must see it before i just take it
+Ses03M_impro01_M002	21.2930	24.8252	oh look at it
+Ses03M_impro01_F002	24.6250	28.4002	sir you completely filled this out wrong
+Ses03M_impro01_F003	28.4002	32.2750	no you filled out the back part you were supposed to fill out the front portion only
+Ses03M_impro01_M003	27.5675	28.7200	what
+Ses03M_impro01_M004	31.2030	34.5207	what are you talking about it says fill out that part
+Ses03M_impro01_F004	33.9075	39.6278	no no no no no you re going to have to go back over on the other side second door up the stairs
+Ses03M_impro01_M005	34.7209	36.3225	okay
+Ses03M_impro01_M006	37.3092	41.1989	oh my god can you just transfer it yourself
+Ses03M_impro01_F005	39.7900	45.7464	no i can t just transfer it myself sir you got to do this everyone else is doing the same thing
+Ses03M_impro01_M007	43.9731	47.1621	you don t know you can t write you don t know how to write
+Ses03M_impro01_F006	46.5472	48.9639	excuse me sir
+Ses03M_impro01_M008	48.0630	51.1804	what s wrong with you people god
+Ses03M_impro01_F007	50.4511	52.7678	i think you re being a little condescending
+Ses03M_impro01_F008	52.7678	56.5573	you need to go back over there and fill it out again
+Ses03M_impro01_M009	56.9434	61.2907	the information is on there here i ll just fill it out right here
+Ses03M_impro01_F009	60.6186	65.9400	no no no because there are other people in line you have to go get a complete new application
+Ses03M_impro01_M010	64.8085	68.2120	this will take like a minute okay jesus
+Ses03M_impro01_F010	66.3100	70.2712	no no no sir you need to get out of the line
+Ses03M_impro01_M011	68.4122	72.1731	i m not going anywhere i m staying right here
+Ses03M_impro01_F011	70.2712	77.7788	well i m going to have to call security because sir you there are hundreds of people waiting in line at this d m v we re closing in about half an hour
+Ses03M_impro01_M012	74.6757	80.2670	hey uh well that s too bad cause i m getting my license right now
+Ses03M_impro01_F012	78.8942	84.0150	you will get your license sir you have to go fill out another copy excuse me
+Ses03M_impro01_M013	81.4550	83.2275	give me my
+Ses03M_impro01_M014	87.4744	89.6480	hey no give me that back
+M	0.0000	0.0000	ugh
+Ses03M_impro01_F013	84.5650	88.5000	no now i m going to take this from you because you are obviously misleading
+Ses03M_impro01_M015	89.8482	94.3650	no i m not waiting i m not coming back again i don t have time to come back five days
+Ses03M_impro01_F014	88.6470	91.2353	no you couldn t go get another one
+Ses03M_impro01_F015	92.3364	95.1100	well then you won t have a license will you
+Ses03M_impro01_M016	94.6675	96.2600	i ll have a license
+Ses03M_impro01_F016	95.7675	98.1525	well not from this department you won t
+Ses03M_impro01_M017	97.5846	100.3874	yes i will i ll have this
+Ses03M_impro01_F017	98.6125	100.3016	sir
+Ses03M_impro01_M018	100.3874	104.6775	just as i want ugh
+Ses03M_impro01_F018	105.1696	109.3251	sir i m going to ask you one more time and then i m going to call my supervisor
+Ses03M_impro01_F019	109.3251	112.4568	who will proceed to call security if you can t remove yourself
+Ses03M_impro01_M019	110.0973	113.3720	fine call your supervisor ask supervisor over
+Ses03M_impro01_M020	113.3720	116.4375	and i ll tell her how you ve been behaving
+Ses03M_impro01_F020	115.8460	117.4762	really
+Ses03M_impro01_M021	116.7183	119.1207	how would you like that hmm
+Ses03M_impro01_F021	117.9052	125.3650	she s not actually in the building she s only on the phone sir please leave this line immediately
+Ses03M_impro01_M022	120.0788	122.7387	oh okay wow
+Ses03M_impro01_M023	124.8265	133.0348	no i m not going anywhere i m staying here i am filling out right now okay just calm down i m filling out right now just take the god damn piece of paper
+Ses03M_impro01_F022	126.4424	131.1615	okay i m going to call security security
+Ses03M_impro01_F023	132.2800	142.8425	i have it i m taking it doesn t mean i m going to do anything with it get out of my line this is my line get out all these people sir you are causing a mob in this department
+Ses03M_impro01_M024	133.6300	136.5950	okey this is a new one take the new one
+Ses03M_impro01_M025	138.8979	141.1001	do you own the d m v
+Ses03M_impro01_M026	141.3003	146.7630	i m sorry she s these people they just want to get their license
+Ses03M_impro01_F024	143.1775	148.6800	no you cannot get your license you filled out the wrong part of the form
+Ses03M_impro01_M027	147.6496	151.6680	what are you talking about just transfer it over i filled out the new one
+Ses03M_impro01_F025	149.9150	156.6200	this entire time you re fighting with me sir you could ve finished the form and already been half way no get out
+Ses03M_impro01_M028	152.8549	155.7721	i did finish one take it
+Ses03M_impro01_M029	155.8293	158.2325	what is wrong with you

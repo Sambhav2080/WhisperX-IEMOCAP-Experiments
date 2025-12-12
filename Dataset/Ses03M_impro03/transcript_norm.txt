@@ -1,0 +1,84 @@
+Ses03M_impro03_M000	0.4621	3.0025	hey
+Ses03M_impro03_F000	2.3299	4.6150	hey
+Ses03M_impro03_M001	4.0436	7.3747	esmeralda guess what
+Ses03M_impro03_F001	6.2964	7.8946	what
+Ses03M_impro03_M002	7.5288	14.0755	guess who just got hitched
+Ses03M_impro03_F002	14.2850	25.0825	shut up oh my god really just like that you just asked the question and what how did you ask
+Ses03M_impro03_M003	14.1525	21.7776	this guy yeah can you believe it she said yes too yeah she said yes
+Ses03M_impro03_M004	23.4975	27.2268	okay we were at chuck e cheese
+Ses03M_impro03_F003	25.1665	28.9250	chuck e cheese ah man that is so lame
+Ses03M_impro03_F004	29.9675	34.1700	are you serious man
+Ses03M_impro03_M005	28.4206	35.8916	get the big pizza and i put it in the pizza and she ate so
+Ses03M_impro03_F005	35.5900	41.3575	oh like that one movie what s that one movie i just saw no where she like swallows the
+Ses03M_impro03_M006	37.5283	40.8402	american pie ah
+Ses03M_impro03_F006	41.3825	47.1559	oh i don t remember everybody says i love you with drew barrymore no you haven t seen it okay
+Ses03M_impro03_M007	45.7500	52.7925	yeah it sounds like a chick flick anyways so she gets the ring and she goes
+Ses03M_impro03_F007	47.2875	49.4858	yeah well
+Ses03M_impro03_M008	52.9100	58.3046	barry what s this and i go i don t know she goes
+Ses03M_impro03_F008	56.2058	58.8630	she calls you barry
+Ses03M_impro03_M009	58.3600	60.1425	that s my name
+Ses03M_impro03_F009	59.5725	64.0950	oh okay well i call you joe cause you re middle name joseph
+Ses03M_impro03_M010	63.6550	71.4500	barry joe b j oh you dirty dirty girl you re so dirty
+Ses03M_impro03_F010	64.9400	70.2428	so nasty no you dirty me
+Ses03M_impro03_F011	70.8012	72.2069	okay
+Ses03M_impro03_M011	71.6292	79.4853	ah anyways so she took the ring and she goes is this real so i was like of course
+Ses03M_impro03_M012	79.5700	82.0655	sara and i
+Ses03M_impro03_F012	81.5456	86.9756	she actually asked if it was real i would ve probably asked the same thing considering you were in chuck e cheese
+Ses03M_impro03_M013	86.2875	89.7868	come on it was her birthday
+Ses03M_impro03_F013	87.0333	88.9203	because of chuck e cheese
+Ses03M_impro03_F014	89.1050	92.6173	oh man how old are you five
+Ses03M_impro03_M014	90.0757	94.3118	she wanted she always wants something spontaneous
+Ses03M_impro03_F015	92.8676	95.6211	yeah that s you know okay
+Ses03M_impro03_M015	94.5043	100.2616	i couldn t i couldn t afford the red lobster what anyway
+Ses03M_impro03_F016	96.5950	106.0767	oh god you are damn cheap cheap cheap anyways moving on it s not like you re poor i mean your dad makes okey
+Ses03M_impro03_M016	103.4965	106.2307	so okay then and
+Ses03M_impro03_M017	106.2307	109.6004	i got all the character animals to do a conga line
+Ses03M_impro03_M018	109.6004	115.3577	dim down the lights and uh i got on one of the tables pulled her up
+Ses03M_impro03_F017	112.7967	115.3962	you had the mouse
+Ses03M_impro03_F018	115.4540	119.5553	isn t it a rat it s a rat chuck e cheese
+Ses03M_impro03_M019	115.4050	117.8650	yeah
+Ses03M_impro03_M020	119.4205	127.3325	chucky i don t know i don t know anyways i pull her up and i go i go sarah
+Ses03M_impro03_F019	121.1750	124.6300	okay
+Ses03M_impro03_M021	127.4150	136.4228	you re my guiding light then they put on that song the i ve had the time of my life that song
+Ses03M_impro03_F020	129.1150	132.7400	oh my god
+Ses03M_impro03_F021	134.5551	138.1400	okay that is really cheesy joe
+Ses03M_impro03_M022	136.6731	141.3521	and i go i want to spend the rest of my life with you
+Ses03M_impro03_F022	140.4664	142.8155	oh that s kind of sweet
+Ses03M_impro03_M023	141.5832	146.2430	and i love you baby and i want you to marry me
+Ses03M_impro03_F023	145.4342	153.7332	wait wait wait i want you to marry me no shouldn t you like be more like a question like would you marry me not like i want you to marry me it s like a demand
+Ses03M_impro03_F024	153.7525	157.7825	you marry me i man i jane you tarzan
+Ses03M_impro03_M024	153.1425	160.3450	no well that s what i said spur of the moment and she goes she goes
+Ses03M_impro03_M025	160.7036	165.7300	sure and that was it
+Ses03M_impro03_F025	164.6702	166.7882	she said sure
+Ses03M_impro03_F026	166.8267	170.5430	sure who says sure you say yes i don t like
+Ses03M_impro03_M026	166.0758	168.0398	yeah she goes
+Ses03M_impro03_M027	169.7728	174.2015	cause she was a little confused at first but then she said yes
+Ses03M_impro03_F027	172.3145	174.6251	how long have you guys been going out
+Ses03M_impro03_M028	174.3362	178.6301	about two and a half weeks
+Ses03M_impro03_F028	177.9947	180.0650	what
+Ses03M_impro03_M029	179.4389	184.8303	two and we love each other yeah
+Ses03M_impro03_F029	181.2000	183.3925	what
+Ses03M_impro03_F030	184.3138	191.7622	okay i haven t seen you in about two and a half years and i come back and you re getting engaged to somebody you only knew for
+Ses03M_impro03_M030	190.3950	193.3989	you got to meet her she s wonderful
+Ses03M_impro03_F031	191.7622	197.5580	no no no you don t get married in two and a half weeks it doesn t work that way you don t even have sex in two and a half weeks
+Ses03M_impro03_M031	194.5349	204.9520	she just graduated from high school and she s planning to apply for colleges and stuff she s so great she has so much life and energy and stuff
+Ses03M_impro03_F032	197.8275	201.3512	what oh my god
+Ses03M_impro03_F033	202.1985	204.8025	she must be hot
+Ses03M_impro03_F034	205.3756	208.6489	yeah that s it she s hot and you are getting married
+Ses03M_impro03_M032	206.3191	208.5912	yeah she is good looking
+Ses03M_impro03_F035	208.6489	212.7700	i cannot believe you why do you want to get married you re a boy you re a little boy
+Ses03M_impro03_M033	212.3150	214.4833	i m twenty eight years old
+Ses03M_impro03_F036	213.7950	217.9375	you still act like a boy and men take a lot longer to grow i will tell you
+Ses03M_impro03_M034	216.0044	223.1096	well that s why i m dating someone who s just eighteen years old jesus i think she s ready to have kids already
+Ses03M_impro03_F037	218.0262	220.4331	oh man
+Ses03M_impro03_F038	221.8425	224.2503	what eighteen
+Ses03M_impro03_M035	223.2829	226.7082	i m so excited it s going to be great
+Ses03M_impro03_F039	226.0364	231.7551	i can t believe you i can t believe it well i m going to be there i ll be at that wedding but i ll be in the back
+Ses03M_impro03_M036	230.0029	237.0888	she just she just we re in a good position too she just got promoted to assistant manager at jack in the box
+Ses03M_impro03_M037	237.1650	240.0150	and so yeah
+Ses03M_impro03_F040	238.0125	243.9437	wow very promising yeah very promising future and what are you doing
+Ses03M_impro03_M038	243.1157	248.5775	i m still working at my parents restaurant busing tables
+Ses03M_impro03_F041	246.6175	250.5650	alright yeah have a kid make a beautiful life
+Ses03M_impro03_M039	249.9128	255.0346	oh that s great my mom said we can move in with her again if we run out of money
+Ses03M_impro03_F042	254.3029	260.5801	you you are too much i can t handle it
+Ses03M_impro03_M040	255.2849	261.6584	i m so happy

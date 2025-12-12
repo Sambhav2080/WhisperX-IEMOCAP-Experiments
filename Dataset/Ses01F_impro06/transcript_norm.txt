@@ -1,0 +1,49 @@
+Ses01F_impro06_M000	11.4600	14.7400	i m sorry joy
+Ses01F_impro06_F000	14.7939	18.1700	it s okay
+Ses01F_impro06_M001	18.4900	24.9100	is there anything i can get you do you want me to take care of anything for you or
+Ses01F_impro06_F001	24.0200	25.6900	no no no
+Ses01F_impro06_M002	25.1200	26.5600	pick up anything
+Ses01F_impro06_F002	26.0700	27.6500	no
+Ses01F_impro06_M003	28.9700	35.0200	you know you are welcome to stay at my house if you want to just check out for a couple days and hang out
+Ses01F_impro06_F003	34.4500	35.7800	that s sweet
+Ses01F_impro06_F004	36.0700	38.0400	thank you
+Ses01F_impro06_F005	39.6025	46.2900	i went to see her headstone a week or two ago
+Ses01F_impro06_F006	47.3400	59.3800	i used to go to cemeteries a lot before she died i just you know i felt like they were urban oasis you know there is always this green in the city
+Ses01F_impro06_M004	56.1700	57.4900	hmm
+Ses01F_impro06_F007	59.4525	67.4525	so i was like wandering around before it takes forever to find her headstone i always lose it you know
+Ses01F_impro06_F008	70.2200	80.1300	so i was looking at this other one and there was like a piece of candy there and i thought that i would take the candy and put it on her headstone and
+F	0.0000	0.0000	umm
+Ses01F_impro06_F009	80.1600	87.7400	this woman came up and you know it was hers it was her person that was there
+Ses01F_impro06_M005	86.9600	88.6300	oh she was there
+Ses01F_impro06_F010	87.8300	93.6700	yeah and she was like that s pathetic i hope you enjoy it
+Ses01F_impro06_F011	101.8300	116.9100	and i you know i mean i said i was sorry and i brought it back to her kind of and i like put it on the ground and she was like no it s fine she was like i would rather have her back honestly
+Ses01F_impro06_M006	107.7800	109.2700	mmhmm
+Ses01F_impro06_F012	117.0700	126.0400	i don t know it just like i felt so bad because i shouldn t have done it i don t know whatever
+Ses01F_impro06_M007	125.4700	127.1900	yeah
+Ses01F_impro06_F013	132.9575	134.4900	i don t know
+Ses01F_impro06_M008	134.4000	136.4900	how long were you there for
+Ses01F_impro06_F014	135.9600	137.9500	at the cemetery
+Ses01F_impro06_M009	137.0900	138.4400	mmhmm
+Ses01F_impro06_F015	138.0685	141.0500	couple hours
+Ses01F_impro06_F016	141.8400	149.4375	i brought i brought chuck with me he went to redlands yeah for the day we ran through the sprinklers
+Ses01F_impro06_M010	144.0900	145.6800	oh really
+Ses01F_impro06_M011	155.0700	158.3800	you ran through the sprinklers in the cemetery
+Ses01F_impro06_F017	158.0800	163.3500	it was hot
+Ses01F_impro06_M012	165.6100	168.1000	is it a big cemetery
+Ses01F_impro06_F018	167.6400	174.8400	yeah it s huge redlands is an old city so they have lots and lots of stones
+Ses01F_impro06_M013	174.3900	177.1500	oh so they re like really old too really old ones
+Ses01F_impro06_F019	176.3500	178.0100	yeah
+Ses01F_impro06_F020	182.5600	197.7300	it s weird whenever i go back to town i think of her i mean it s like i mean we grew up together and she died when we were twenty one and yeah she had cancer she had two brain tumors
+Ses01F_impro06_F021	197.7550	214.3400	my best friend heather she s got a we have a we built this like little there s a park prospect park and there is like a garden section of it that we set up for her
+Ses01F_impro06_F022	217.5000	222.4100	she used to have these poetry parties on memorial day
+Ses01F_impro06_M014	219.7300	221.0300	mmhmm
+Ses01F_impro06_F023	223.5200	227.5500	umm yeah
+Ses01F_impro06_F024	229.0800	235.9800	and the last time before she died i remember she couldn t really stand umm
+Ses01F_impro06_F025	237.5300	256.4800	but i mean she could but it was so it was kind of sitting at her feet holding her up and she had these poems she had memorized and i remember looking up she had curly red hair and there was this palm tree right behind her and it was like a crown growing right out of her head it was cool
+Ses01F_impro06_M015	255.3500	257.3100	mmhmm
+Ses01F_impro06_F026	266.5500	275.3100	some i guess she memorized this one john dunn it s called death be not proud and
+F	0.0000	0.0000	mmhmm
+Ses01F_impro06_M016	262.9900	266.1750	so she wrote a lot of poetry
+Ses01F_impro06_F027	275.3800	281.6000	there s another one i can t remember
+Ses01F_impro06_F028	282.0100	311.1400	i remember too when we were she died at u c l a she had brain surgery and there was not much hope to begin with but i gave blood for her surgery her mom and i before so we dropped her off in the waiting room and then we were giving blood and came back and she in her wheelchair like can hardly do anything reciting her poetry for these people like in the waiting room all she needs is a god damn audience you know
+Ses01F_impro06_M017	308.2400	310.0100	mmhmm mmhmm mmhmm

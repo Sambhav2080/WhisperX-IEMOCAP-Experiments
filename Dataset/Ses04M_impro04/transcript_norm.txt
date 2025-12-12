@@ -1,0 +1,42 @@
+Ses04M_impro04_M000	7.3000	18.4300	oh man i just i don t know what to do i don t know what to do it s like every job you know i go to every job i apply to
+Ses04M_impro04_M001	18.4800	35.2100	it s just like nobody nobody wants to hire me it s been years i mean do you understand years like i m you know what i mean it s like i ve been collecting unemployment for so long now it s just like i just i can t take it i don t know what to do i mean i m just like losing my mind
+Ses04M_impro04_F000	35.3735	38.5500	well there has to be something you haven t tried
+Ses04M_impro04_M002	38.3400	46.5000	i i m not kidding i ve tried everything like i ve gone to every business and local you know
+Ses04M_impro04_M003	46.5500	52.8900	local business in in the area and i can t i can t get anything like nobody
+Ses04M_impro04_F001	55.8000	58.0100	what about like a temp agency
+Ses04M_impro04_F002	58.0100	61.4700	have you gone like signed up with a temp agency maybe they can help
+Ses04M_impro04_M004	52.9100	57.0000	there s just like no jobs available i mean it s just like god
+Ses04M_impro04_M005	59.7500	69.3300	yeah i tried that and there was like yeah like i did like one thing once but like that s not it doesn t last very long and it s not enough to live on
+Ses04M_impro04_F003	69.0000	74.2400	right but you have i mean you have to keep on them you have to keep calling and reminding them that you re still looking and
+Ses04M_impro04_F004	74.2400	76.8100	i mean you have to be really aggressive about it
+Ses04M_impro04_M006	73.7400	75.9400	yeah i do i do you don t understand
+Ses04M_impro04_M007	75.9400	82.2055	i you don t understand i don t have a job all my job is to look for a job i don t do anything else
+Ses04M_impro04_M008	82.2472	90.8700	but like it s been years now and i just can t seem to get anything that really fits it s just it i it drives me absolutely insane
+Ses04M_impro04_F005	89.5200	99.5100	well i mean if it s that bad maybe you re gonna have to take something that doesn t really fit you know like maybe you ll have to do something else for a while find a new field new skill
+Ses04M_impro04_M009	98.5200	109.4200	no no no no no i can t i can t do that i can t i because if i m not if i m not if i m not doing something that i love then i can t i can t i mean it s what s the point
+Ses04M_impro04_F006	109.0900	111.6300	well then you re choosing to be unemployed really
+Ses04M_impro04_M010	113.3800	115.6100	i m not choosing i m not
+Ses04M_impro04_F007	111.6300	118.5000	if you re not willing to try and work with it and find something and you know i mean there are things you could do
+Ses04M_impro04_M011	116.2100	122.4400	no but i m try but like all the things that i it s like i apply to all these places and none of them
+Ses04M_impro04_M012	122.4400	133.2000	i mean i don t understand it s like i mean i feel like i m qualified enough i just don t understand like i mean it s just like a matter of circumstance but it s been three years you know three years
+Ses04M_impro04_F008	131.9500	141.6400	well maybe you know your luck it is just down and the market for your particular field is down and maybe you just need to look into doing something else for a while
+Ses04M_impro04_M013	141.1800	143.7800	this is stupid
+Ses04M_impro04_F009	144.6100	147.6500	i mean i m not saying that you should you know
+Ses04M_impro04_M014	147.3400	149.5000	you know what this is your fault
+Ses04M_impro04_F010	149.0900	150.4100	excuse me
+Ses04M_impro04_M015	150.0300	161.4700	it s your fault cause cause you always told me to to do this and i did that instead and i didn t take your advice and and but you sort of were like were telling
+Ses04M_impro04_F011	160.1100	162.8300	it s my fault cause you didn t do what i told you to
+Ses04M_impro04_M016	161.8200	163.4900	yeah exactly
+Ses04M_impro04_F012	163.0500	164.8300	well that sounds like your fault
+Ses04M_impro04_M017	164.2700	165.5500	yeah
+Ses04M_impro04_F013	165.3900	168.7200	you didn t do what i told you to do
+Ses04M_impro04_M018	168.3800	177.7600	that s cause you always tell me to do the wrong thing and i thought this time it was i was gonna be right by going with the opposite thing so it s your fault because
+Ses04M_impro04_M019	177.7900	185.7800	because you were always wrong and and and this time you were right and and i didn t yeah that s why
+Ses04M_impro04_F014	185.4300	189.3200	that s amazing logic that you managed to turn that around and make it my fault
+Ses04M_impro04_M020	188.7700	191.8300	well i mean it makes sense doesn t it hmm
+Ses04M_impro04_F015	190.5900	195.4300	i think maybe you can t get employed because you aren t willing to take responsibility for your own actions
+Ses04M_impro04_M021	195.3000	199.7200	that s not true i take responsibility for my own actions
+Ses04M_impro04_F016	198.9000	201.9000	really whose fault is it you don t have a job
+Ses04M_impro04_M022	202.2000	205.9000	yours i don t
+Ses04M_impro04_F018	205.9042	208.6800	you see what you just did there though
+Ses04M_impro04_M023	208.3393	216.5100	i had no i don t i m sorry i just totally screwed this one up you can stop it i guess

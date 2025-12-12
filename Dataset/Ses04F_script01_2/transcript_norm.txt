@@ -1,0 +1,41 @@
+Ses04F_script01_2_F000	7.3127	9.8942	why did he invite her
+Ses04F_script01_2_M000	9.4900	11.5305	why does that bother you
+Ses04F_script01_2_F001	10.9200	13.9620	it s been three years why all of a sudden
+Ses04F_script01_2_M001	13.6900	17.5600	well maybe maybe he just wanted to see her again
+Ses04F_script01_2_F002	16.9400	20.9300	nobody comes seven hundred miles just to see
+Ses04F_script01_2_M002	20.4000	27.0370	what do you mean he was brought up next door to the girl his whole life why shouldn t he want to see her again
+Ses04F_script01_2_M003	27.2600	31.8800	don t look at me like that he didn t tell me anymore than he told you
+Ses04F_script01_2_F003	31.0000	34.2200	she s not going to marry him
+Ses04F_script01_2_M004	33.5100	36.2900	how do you know he s even thinking about it
+Ses04F_script01_2_F004	35.6300	38.7204	it s got that about it
+Ses04F_script01_2_M005	38.1087	41.7177	well so what
+Ses04F_script01_2_F005	40.5402	43.7100	what s going on here joe
+Ses04F_script01_2_M006	43.3600	45.3200	listen kid
+Ses04F_script01_2_F006	45.2000	48.3900	no line
+Ses04F_script01_2_M007	47.6359	57.5912	uh then why is she still she s not his girl joe
+Ses04F_script01_2_F007	56.9500	60.6600	she s not his girl joe she knows she s not
+Ses04F_script01_2_M008	59.8500	62.1900	you can t read her mind
+Ses04F_script01_2_F008	61.5000	66.7820	then why is she still single new york is full of men why hasn t she married
+Ses04F_script01_2_F009	66.7973	71.4500	probably a hundred people told her she s foolish but she s waited
+Ses04F_script01_2_M009	71.0100	72.5600	how do you know why she waited
+Ses04F_script01_2_F010	72.1300	77.7008	because she knows what i know that s why she s faithful as a rock
+Ses04F_script01_2_F011	77.7161	82.9155	in my worst moments i think of her waiting and i know again that i m right
+Ses04F_script01_2_M010	82.4200	85.8800	look it s a nice day what are we arguing for
+Ses04F_script01_2_F012	85.4300	92.9600	nobody in this house dares take her faith away joe strangers might but not his father not his brother
+Ses04F_script01_2_M011	92.2300	93.9000	what do you want me to do
+Ses04F_script01_2_F013	93.4600	101.7200	i want you to act like he s coming back both of you don t think i haven t noticed you since he invited her i won t stand for any nonsense
+Ses04F_script01_2_M012	101.4000	103.1779	but kate
+Ses04F_script01_2_F014	102.5357	105.8500	because if he s not coming back i ll kill myself
+Ses04F_script01_2_F015	106.0376	111.8200	laugh laugh at me but why did that happen the very night she came back
+Ses04F_script01_2_F016	111.8487	120.6100	she goes to sleep in his room and his memorial breaks in pieces look look at it joe
+Ses04F_script01_2_M013	120.2700	121.8100	calm yourself
+Ses04F_script01_2_F017	121.4371	124.6800	believe with me joe i can t stand alone
+Ses04F_script01_2_M014	124.0700	126.0248	calm yourself
+Ses04F_script01_2_F018	125.5600	130.5500	just last week a man showed up in detroit missing longer than larry you read it yourself
+Ses04F_script01_2_M015	129.8200	132.6200	alright alright calm yourself
+Ses04F_script01_2_F019	132.1800	135.0200	you above all have got to believe you
+Ses04F_script01_2_M016	134.0700	136.1700	why me above all
+Ses04F_script01_2_F020	135.7300	138.1600	just don t stop believing
+Ses04F_script01_2_M017	136.8600	142.5000	what does that mean me above all look at you you re shaking
+Ses04F_script01_2_F021	141.9000	145.1403	i can t help it
+Ses04F_script01_2_M018	143.8711	151.6842	what have i got to hide what the hell is matter with you kate

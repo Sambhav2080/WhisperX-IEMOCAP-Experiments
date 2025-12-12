@@ -1,0 +1,73 @@
+Ses02F_impro07_M000	6.7677	9.5033	so how s it going
+Ses02F_impro07_F000	9.1738	13.9432	it s going really well um i received something in the mail today
+Ses02F_impro07_M001	13.9746	16.8885	oh you got what where
+Ses02F_impro07_F001	17.2750	19.5500	i got into u s c
+Ses02F_impro07_M002	19.0400	20.8700	oh no way
+Ses02F_impro07_F002	20.4600	22.9300	yeah i m so excited so i m gonna say
+Ses02F_impro07_M003	21.8500	23.5100	are you gonna go you gonna
+Ses02F_impro07_F003	22.9400	28.7400	yeah i think i mean because where else would i gonna go like the other places that i applied to i really didn t like that much anyway
+Ses02F_impro07_F004	28.7500	29.9500	so
+Ses02F_impro07_M004	28.1700	29.5900	wow that s
+Ses02F_impro07_M005	29.6100	35.0773	that s first choice huh that s so awesome and now look you re gonna be you re gonna be here you know
+Ses02F_impro07_F005	29.9700	31.0789	yeah i know
+Ses02F_impro07_F006	31.0983	33.0000	absolutely i m so excited
+Ses02F_impro07_F007	34.4500	40.6077	i know i know and we ll all get to hang out and i m even though we ll be at like at different parts of the city we can still like
+Ses02F_impro07_F008	40.6300	48.3500	hang out and like have our different lives and meet each other s friends and stuff so i m just so glad cause they have such a good school
+Ses02F_impro07_M006	40.6900	43.5800	yeah no definitely it s gonna
+Ses02F_impro07_M007	44.6000	45.8200	yeah
+Ses02F_impro07_F009	48.3700	52.6300	and like the football team and like all the you what i mean like
+M	0.0000	0.0000	wow
+Ses02F_impro07_M008	50.0900	51.4100	yeah
+Ses02F_impro07_M009	51.4700	52.6100	fight on
+Ses02F_impro07_F010	52.6300	57.8000	you can walk somewhere and be anywhere in the country and be like oh yeah i am at u s c
+Ses02F_impro07_F011	57.8100	65.9300	and you know what you know what i mean like it s recognizable rather than just being like i went some random school it s like people really know what you
+Ses02F_impro07_M011	63.1430	64.9973	wow that s cool
+Ses02F_impro07_F012	65.9400	71.1900	like they feel like i feel like it s going to be so like accomplished do you know what i mean
+Ses02F_impro07_F013	71.2000	74.5000	like it has some prestige so
+Ses02F_impro07_M012	71.3699	74.5199	yeah hey prestigious school
+Ses02F_impro07_M013	74.5199	78.2500	so what do you have to send in your deposit now or what you
+Ses02F_impro07_F014	77.3100	83.5700	yeah i mean there s all the money stuff and my mom s helping me with the financial aid and stuff but it ll be fine
+Ses02F_impro07_F015	83.5800	87.5300	like now that i m accepted it s just like such a huge load off my mind
+Ses02F_impro07_M014	82.8800	84.2100	that s great
+Ses02F_impro07_F016	87.5400	89.9800	i don t mind worrying about all the paperwork you know
+Ses02F_impro07_M015	88.3886	89.5200	yeah
+Ses02F_impro07_M016	90.0200	91.1200	so
+Ses02F_impro07_F017	90.0000	96.9445	because i don t have to like make that decision anymore i don t have to try and decide like what the bad school i m going to go to is you know
+Ses02F_impro07_M017	95.5900	101.1500	right right right oh man then you re going to have to do orientation i guess
+Ses02F_impro07_F018	100.0166	111.3549	i know i know i think you go and you like stay for a couple of days and you meet people and and they ll give you like a tour and show you everything oh man i m just so i m so excited
+M	0.0000	0.0000	oh boy right yeah it ll be crazy
+Ses02F_impro07_M018	108.7087	110.3028	that ll be awesome
+Ses02F_impro07_M019	110.3312	112.5500	i mean because you went to the campus before right
+Ses02F_impro07_F019	111.9500	121.2900	yeah oh totally it s a beautiful campus it s gonna be really nice um and everyone is friendly and like there s ivy on all the walls oh it s just so it s so like collegiate
+Ses02F_impro07_F020	121.3000	123.8909	you know what i mean like it s like exactly what i want
+Ses02F_impro07_M020	123.1375	127.2904	so what re you what re you gonna do there have you decided thought about it
+Ses02F_impro07_F021	125.8858	133.4000	well you know i ve thought about it but they have so many things that i might like try some things out first
+Ses02F_impro07_M021	130.0139	132.6988	i know i mean it s good all around
+Ses02F_impro07_F022	133.4200	144.7518	because also on the list of their um like g e s or whatever you have a lot of choices within every single one so you can like try things out and not just be like oh i have to take math oh i have to take this you know what i mean
+Ses02F_impro07_F023	144.7600	146.4500	so um so i don t know
+Ses02F_impro07_F024	146.4700	148.6500	i mean i m gonna take a bunch of stuff and see
+Ses02F_impro07_M023	148.7694	150.1409	oh man
+Ses02F_impro07_F025	148.6700	156.3102	i they have like they just have so many like prestigious like this school is top ten and like the departments within it you know what i mean
+Ses02F_impro07_M024	156.3531	159.9725	i always see people walking around with like u s c stuff on
+Ses02F_impro07_F026	159.7568	165.8800	i know i get to be one of those now i ll like walk around and be like a u s c you know what i mean
+Ses02F_impro07_M025	159.9725	160.8800	you know is like
+Ses02F_impro07_M026	160.8997	162.2100	i know
+Ses02F_impro07_M027	163.2400	164.9300	ahh yeah
+Ses02F_impro07_M028	165.5326	173.6674	you ll be like are you a fan or a student you know student oh man that s awesome
+Ses02F_impro07_F027	166.9600	168.2600	and you ll be like
+Ses02F_impro07_F028	168.2900	172.3000	student i m a student yes i am thank you very much
+Ses02F_impro07_M029	173.7000	178.7860	a u s c graduate now you re set
+Ses02F_impro07_F030	173.8219	175.6762	i know i m excited
+Ses02F_impro07_F031	177.1500	179.8400	well that ll take a while
+Ses02F_impro07_M030	179.5400	183.4990	i know that s a ways down the road that s cool
+Ses02F_impro07_F032	180.3892	182.3015	that s going to be a lot of work
+Ses02F_impro07_F033	182.3100	186.7475	but it ll be fine i mean i m so excited it s going to be so fun
+Ses02F_impro07_M031	185.0531	187.1315	in la oh man
+Ses02F_impro07_F034	187.1942	193.4503	i know and i mean the area s not great but like the school makes up for it it ll be fine it ll be good
+Ses02F_impro07_M032	188.3100	189.6200	so much
+Ses02F_impro07_M033	190.0100	192.4500	but it s la you know everything
+Ses02F_impro07_M034	192.5002	195.3199	you re getting close to the beach i mean geez
+Ses02F_impro07_F035	195.3825	199.0482	i know i know so fun i can t wait
+Ses02F_impro07_M035	198.3914	203.6839	cool well give me a call you know when you get in town definitely awesome
+Ses02F_impro07_F036	200.2705	202.5100	i will i will thank you
+Ses02F_impro07_F037	202.5700	204.2100	thanks

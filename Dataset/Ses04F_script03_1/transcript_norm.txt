@@ -1,0 +1,69 @@
+Ses04F_script03_1_M000	6.2551	8.1400	good god
+Ses04F_script03_1_F000	7.7500	9.1900	do you think it s them
+Ses04F_script03_1_M001	8.6300	9.6700	i wonder
+Ses04F_script03_1_F001	9.2300	11.8600	nobody knows we re here except freda and she wouldn t ring up
+Ses04F_script03_1_M002	11.4300	12.7900	it must be them then
+Ses04F_script03_1_F002	12.4200	14.5552	well what are we going to do
+Ses04F_script03_1_M003	13.9831	17.8100	we ll be alright darling whatever happens aren t we
+Ses04F_script03_1_F003	17.3400	19.1600	now and always sweet
+Ses04F_script03_1_M004	18.9100	20.6600	i don t care then
+Ses04F_script03_1_F004	20.2755	22.6700	it was bound to come sooner or later
+Ses04F_script03_1_M005	22.1500	26.2925	hello hello what wrong number
+Ses04F_script03_1_F005	25.9111	30.4663	ahh it sent shivers up my spine
+Ses04F_script03_1_M006	29.8095	33.1781	what shall we do if they suddenly walk in on us
+Ses04F_script03_1_F006	32.8800	34.9200	behave exquisitely
+Ses04F_script03_1_M007	34.1200	35.8600	with the most perfect poise
+Ses04F_script03_1_F007	35.2600	37.8000	certainly i shall probably do a court curtsy
+Ses04F_script03_1_M008	36.8900	40.9600	things that ought to matter dreadfully don t matter at all when one s happy do they
+Ses04F_script03_1_F008	40.3900	43.4800	what is so horrible is that one can t stay happy
+Ses04F_script03_1_M009	43.0600	45.1400	don t say that my darling
+Ses04F_script03_1_F009	44.5300	47.2100	it s true the whole business is very poor joke
+Ses04F_script03_1_M010	46.7300	50.1500	meaning that sacred and beautiful thing love
+Ses04F_script03_1_F010	49.5700	52.3000	yes meaning just that
+Ses04F_script03_1_M011	51.5500	58.8400	what does it all mean that s what i asked myself in my ceaseless quest for ultimate truth dear god what does it all mean
+Ses04F_script03_1_F011	58.0200	60.9100	don t laugh at me i m serious
+Ses04F_script03_1_M012	59.8900	63.9800	you mustn t be serious my darling it s just what they want
+Ses04F_script03_1_F012	63.6100	65.0600	who s they
+Ses04F_script03_1_M013	64.6000	67.7500	all the futile moralists who try to make life unbearable
+Ses04F_script03_1_M014	67.7800	72.9877	laugh at them be flippant laugh at everything all their sacred shibboleths
+Ses04F_script03_1_M015	73.0600	76.6300	flippancy brings out the acid in their damn sweetness and light
+Ses04F_script03_1_F013	76.0100	79.3900	if i must laugh at everything i must laugh at us too
+Ses04F_script03_1_M016	78.5400	81.3100	certainly you must we are figures of fun alright
+Ses04F_script03_1_F014	80.9600	86.2504	oh how long will it last this ludicrous over bearing love of ours
+Ses04F_script03_1_M017	85.7631	89.6191	well who knows
+Ses04F_script03_1_F015	89.0471	92.1400	we always want to bicker and fight
+Ses04F_script03_1_M018	91.4700	94.5500	no that fire will fade long with our passion
+Ses04F_script03_1_F016	94.1742	96.4900	oh dear shall we like that
+Ses04F_script03_1_M019	95.4900	98.1149	it all depends on how well we ve played
+Ses04F_script03_1_F017	97.6400	102.0700	what happens if one of us dies does the one that s left still laugh
+Ses04F_script03_1_M020	101.2200	104.7400	yes yes with all his might
+Ses04F_script03_1_F018	104.0900	106.5600	well that s serious enough isn t it
+Ses04F_script03_1_M021	106.2200	111.7200	no no it isn t death is very laughable such a cunning little mystery all done with mirrors
+Ses04F_script03_1_F019	111.1800	114.1700	darling i believe you re talking nonsense
+Ses04F_script03_1_M022	113.1600	118.3480	so is everyone else in the long run let s be superficial and pity the poor philosophers
+Ses04F_script03_1_M023	118.3900	125.0854	let s blow trumpets and squeakers and enjoy the party as much as we can like small quite idiotic little school children
+Ses04F_script03_1_M024	125.1200	132.2500	let s savor the delight of the moment come and kiss me darling before your body rots and worms pop in and out of your eye sockets
+Ses04F_script03_1_F020	131.5000	134.2300	elliott worms don t pop
+Ses04F_script03_1_M025	133.7300	139.1900	i don t mind what you do see you can paint yourself green all over
+Ses04F_script03_1_M026	139.2173	148.7084	and dance naked in the place place vendome and rush away with all the men in the world and i shan t say a word as long as you love me best
+Ses04F_script03_1_F021	148.1200	155.4881	thank you dear the same applies to you except that if i catch you so much as looking at another woman i ll kill you
+Ses04F_script03_1_M027	154.9584	157.4400	do you remember that awful scene in venice
+Ses04F_script03_1_F022	157.0700	158.9900	which particular one
+Ses04F_script03_1_M028	158.6800	163.7100	the one where you bought that little painted wooden snake and put it on my bed
+Ses04F_script03_1_F023	162.8000	167.9800	oh charles that was his name charles he did wriggle so beautifully
+Ses04F_script03_1_M029	167.1400	169.0300	horrible thing i hated it
+Ses04F_script03_1_F024	168.2700	173.7000	yes i know you did you threw him out of the window into the grand canal i don t think i ll ever forgive you for that
+Ses04F_script03_1_M030	173.3200	175.1900	how long did that row last
+Ses04F_script03_1_F025	174.6200	177.4797	it went on intermittently for days
+Ses04F_script03_1_M031	176.9600	182.2800	the worst one was in cannes when your curling irons burnt holes in my dressing gown
+Ses04F_script03_1_F026	181.6300	185.6100	it burnt my comb too and all the towels in the bathroom
+Ses04F_script03_1_M032	185.1700	189.3500	ah we were much younger then that was a rouser wasn t it
+Ses04F_script03_1_F027	188.7500	191.5700	that was the first time you ever hit me
+Ses04F_script03_1_M033	190.7700	193.5200	you didn t hit me i didn t hit you very hard
+Ses04F_script03_1_F028	192.9700	198.6100	then the manager came in and found us rolling about on the floor biting and scratching like panthers
+Ses04F_script03_1_M034	198.0100	200.3800	i shall never forget his face
+F	0.0000	0.0000	oh dear
+Ses04F_script03_1_F029	199.4700	203.2600	how ridiculous how utterly utterly ridiculous
+Ses04F_script03_1_M035	201.9400	204.0800	we were very much younger then
+Ses04F_script03_1_F030	203.3500	205.3900	and very much sillier
+Ses04F_script03_1_M036	204.8900	208.4600	as a matter of fact the real cause of that row was peter burden

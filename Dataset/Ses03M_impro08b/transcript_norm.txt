@@ -1,0 +1,50 @@
+Ses03M_impro08b_F000	12.9400	15.5800	hello
+Ses03M_impro08b_M000	15.1200	17.5200	hello
+Ses03M_impro08b_F001	17.5400	25.3200	oh god i finally got you know how long i ve been waiting on line you put on hold for like five hours geez
+Ses03M_impro08b_M001	24.1300	31.9200	i m sorry ma am what s the nature of your problem but first can i get you to tell me your first and last name
+Ses03M_impro08b_F002	30.8800	36.9400	i ve already been through this five times with these people i ve been calling every single day
+Ses03M_impro08b_M002	34.9200	39.0800	i know i just need to verify every time i m sorry
+Ses03M_impro08b_F003	37.9400	42.0300	olivia brown
+Ses03M_impro08b_M003	42.0800	45.5900	alright ms brown what s the nature of your problem
+Ses03M_impro08b_F004	44.6900	49.2100	well my phone isn t working and it hasn t been working for the last five days
+Ses03M_impro08b_M004	48.4800	52.7900	oh i m sorry um did you drop it in water
+Ses03M_impro08b_F005	49.6500	52.0100	yeah yeah yeah you better be sorry
+Ses03M_impro08b_F006	52.2600	58.7975	no i did not drop my phone in water i m not five years old and just dropped my phone anywhere i see it okay this is my business
+Ses03M_impro08b_F007	58.8600	65.3000	okay and it my business is failing because my phone isn t working and i don t have a land line and i really can t handle this right now
+Ses03M_impro08b_MXX0	59.9762	60.6603	okay
+Ses03M_impro08b_M005	64.7700	75.6700	um well it s probably easy can you any more symptoms either you re not receiving calls ok you re not receiving calls not getting calls
+Ses03M_impro08b_F008	69.8200	77.4600	the symptoms this a doctor s office i m not receiving calls i can t receive no it s it cuts me off
+Ses03M_impro08b_M006	75.9800	78.5000	is the phone turned on
+Ses03M_impro08b_F009	78.1800	83.7000	yes the phone turns on no i mean i m using it not turning on the phone of course it turns on
+Ses03M_impro08b_M007	83.1500	88.9800	well um okay your sim card is in didn t fall out
+Ses03M_impro08b_F010	86.8700	93.3800	no i don t have a sim card because it s verizon and you guys don t use sim cards
+Ses03M_impro08b_M008	92.7300	98.3900	alright um well that could be the problem cause
+Ses03M_impro08b_M009	98.5000	106.5000	you might have an older phone where we would use sim cards but probably not
+Ses03M_impro08b_F011	104.3900	114.7900	okay no sir this is the deal my phone isn t working and i don t care what the problem is but it needs to work that s why i m paying you guys to fix it
+Ses03M_impro08b_M010	113.6800	122.8400	okay how about this we ll send you a brand new camera phone with palm pilot and
+Ses03M_impro08b_F012	120.2600	126.6900	i don t know even how to use that stuff it s too complicated i just want my flip phone to work that s all i need
+Ses03M_impro08b_M011	123.0000	130.1900	so we ll send it and we ll give you how about a free year s service
+Ses03M_impro08b_F013	127.6300	135.8600	look i am on the road all the time do you understand how important i m a woman a single mother by herself working what
+Ses03M_impro08b_M012	132.6800	138.8500	tell them my name my name is brent backersen
+Ses03M_impro08b_F014	138.3400	142.6100	brent backersen i am writing this down brent backersen alright
+Ses03M_impro08b_M013	142.1300	146.5100	okay tell them my my id number is two one three five
+Ses03M_impro08b_M014	146.5500	153.8300	tell them that you can go in get a brand new phone they ll hook you up with service even give you a free three months
+Ses03M_impro08b_F015	151.3900	155.5200	i i i don t want a contract okay i don t want any contracts
+Ses03M_impro08b_M015	154.7100	157.3900	it will be free no contract okay
+Ses03M_impro08b_F016	156.7200	158.3800	really no contract
+Ses03M_impro08b_M016	157.4800	160.8700	go in there yeah go in there tell them brent backersen sent you
+Ses03M_impro08b_F017	160.4500	165.9600	i want the best freaking camera phone there is though i want the really good kind
+M	0.0000	0.0000	miss
+Ses03M_impro08b_M017	164.9700	170.8400	the top of the line camera phone game boy anything you want for free and palm pilot
+Ses03M_impro08b_F018	168.0300	169.7500	and palm pilot
+Ses03M_impro08b_F019	170.2600	174.5700	and charger and accessories and i want a cover that s pink
+Ses03M_impro08b_M018	174.5900	177.5000	they might only have orange
+Ses03M_impro08b_F020	176.8925	178.0375	no
+Ses03M_impro08b_M019	178.1425	188.8300	okay they can figure out pink for you so go in there and just tell them that and they ll hook you up with other goodies stuff like that free service no contract no nothing just for being a good customer
+Ses03M_impro08b_M020	188.8500	191.0600	and battling through with us
+Ses03M_impro08b_F021	192.1200	196.9100	alright well i guess i guess that s okay but
+Ses03M_impro08b_F022	197.0600	199.1900	you better promise me
+Ses03M_impro08b_M021	198.8200	201.9100	yes you just tell them brent backersen sent you
+Ses03M_impro08b_F023	203.4325	204.7875	okay
+Ses03M_impro08b_M022	204.3900	208.8800	alright great have a nice evening
+Ses03M_impro08b_F024	207.0000	209.6600	alright thanks

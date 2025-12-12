@@ -1,0 +1,78 @@
+Ses03M_impro04_F000	6.3200	8.5200	what s going on man what s wrong
+Ses03M_impro04_M000	8.1300	11.2900	i m just so tired all the time
+Ses03M_impro04_F001	13.8500	17.3375	well have you been trying to get a job look for a job or
+Ses03M_impro04_M001	16.9100	20.4300	i ve been looking for like eight months
+Ses03M_impro04_F002	19.8900	24.6600	i know it it s really tough out there it s really hard to find a job
+Ses03M_impro04_M002	24.0100	30.0745	i m tired of the same excuses no no you re not qualified enough wish you had more education
+Ses03M_impro04_F003	29.6500	31.3600	well what are you looking for i mean
+Ses03M_impro04_M003	30.4600	33.7800	last time someone told me i was too qualified
+Ses03M_impro04_F004	33.4400	35.7200	well okay well that s
+Ses03M_impro04_M004	34.5700	36.3100	cause i went to harvard
+Ses03M_impro04_F005	38.6500	43.0800	well that s what for what job who what jobs are you looking for
+Ses03M_impro04_M005	43.2300	57.0300	i applied as restaurant manager at p f chang i applied at macy s store manager tried to get investment banking job with deloitte and touche i m trying everywhere
+Ses03M_impro04_FXX0	47.9041	49.3319	but listen
+Ses03M_impro04_F006	57.0200	67.5900	yeah well it seems to me you know you just got to keep going out there you know pushing through you got a harvard degree i mean you can get a job anywhere
+Ses03M_impro04_M006	65.9500	74.6200	you know what i ve been working at temp jobs for the past six months you know how degrading it is
+Ses03M_impro04_F007	74.0600	75.6500	yeah
+Ses03M_impro04_M007	75.6800	82.0700	to be a receptionist oh i spent forty thousand dollar a year for my college degree and i m a receptionist god
+Ses03M_impro04_F008	81.5400	82.7900	yeah
+Ses03M_impro04_M008	82.1100	85.0500	i m smarter than half the people i work for
+Ses03M_impro04_F009	84.5500	88.4000	well what do you what would ideally like to do you know
+Ses03M_impro04_M009	88.3600	92.1400	i don t know astronaut i don t know something crazy like that
+Ses03M_impro04_F010	91.2600	93.4500	well what d you major in
+Ses03M_impro04_M010	93.6800	96.4100	biomedical engineering
+Ses03M_impro04_F011	96.3300	100.2200	you you can t be working as a restaurant manager i mean come on
+Ses03M_impro04_M011	99.3000	105.3400	i don t want to do engineering though it s so i had the internship what last summer
+Ses03M_impro04_M012	105.3575	116.2900	and i was pulling my hair out and it was like oh my god so i just had to finish the major so now they re like why are you an engineering major and why are you working trying to work at a restaurant and it s like i don t know just give me the damn job
+Ses03M_impro04_F012	117.7900	119.7500	look i m sorry
+Ses03M_impro04_M013	117.7700	119.9900	why all these questions
+Ses03M_impro04_F013	120.0400	128.4900	you know if you need any help finding a place i can i can talk to my work you know i work at that law firm downtown and i can ask if they re looking for anybody
+Ses03M_impro04_M014	127.5700	129.4900	oh yeah what kind of jobs they got
+Ses03M_impro04_F014	129.0200	131.8000	i am just like a law clerk
+Ses03M_impro04_M015	131.9100	134.0000	i don t want to be a law clerk
+Ses03M_impro04_FXX1	132.1891	132.8924	yeah
+Ses03M_impro04_F015	133.6000	136.9575	well i m moving up i mean it could be
+Ses03M_impro04_M016	136.6475	142.7300	to be a lawyer you go to law school now god this is all these dead ends
+Ses03M_impro04_M017	142.7650	146.0300	and plus my car is breaking down
+Ses03M_impro04_M018	146.0525	148.7425	they re evicting me from my apartment
+Ses03M_impro04_F016	148.4000	153.2400	well it doesn t make any sense though like with a harvard degree you should be able to
+Ses03M_impro04_M019	152.7400	157.4800	yeah i know you d think i would be able to be c e o of a company right
+Ses03M_impro04_F017	157.6100	162.2700	just you got to hang in there can you ask your parents for help or anybody
+Ses03M_impro04_M020	161.3800	165.0700	no i m not going to yeah they d laugh in my face
+Ses03M_impro04_F018	165.0300	172.1300	just for a little bit you know cause i i guarantee you re going to find something when you find something it s just going to be huge and you re going to get money
+Ses03M_impro04_M021	170.6000	174.5200	no i got a sixteen hundred on my s a t
+Ses03M_impro04_F019	177.7100	180.5200	something how are you going
+Ses03M_impro04_M022	177.7400	181.8400	i m freaking typing sixty words a minute
+Ses03M_impro04_F020	181.4900	183.6100	how many words a minute
+Ses03M_impro04_M023	183.1200	190.5500	sixty words sixty words a minute hey how are you doing mr smith oh you know it s just like god i just want to shoot you mr smith
+Ses03M_impro04_F021	190.1400	193.7400	sixty words a minute that s a min a word per min uh second
+Ses03M_impro04_M024	193.5200	196.4800	yeah it s alright but
+Ses03M_impro04_F022	196.5700	199.9075	you could be an amazing receptionist
+Ses03M_impro04_M025	196.6600	198.7700	i m not cut to be a receptionist
+Ses03M_impro04_M026	199.7500	201.2700	no
+Ses03M_impro04_M027	201.5200	205.9000	oh yeah i will be a full time receptionist harvard degree sixteen hundred on my s a t
+Ses03M_impro04_F023	205.5900	212.1100	well if you need something i mean you re just going to can get a temporary thing right now and then look for something
+Ses03M_impro04_M028	206.4975	209.7700	you know head of the science club
+Ses03M_impro04_M029	211.2400	214.0800	that s what i ve been doing temporary things
+Ses03M_impro04_F024	212.5500	215.0300	oh i know but
+Ses03M_impro04_F025	215.3400	221.3000	it s going to get better i promise you you just got to hang in there everyone i mean you know
+Ses03M_impro04_MXX0	218.5401	219.4137	yeah
+Ses03M_impro04_M030	220.3800	221.9175	maybe i ll just kill myself
+Ses03M_impro04_F026	221.5400	227.5000	what you can t what now come on stop it don t be talking like that
+Ses03M_impro04_M031	225.4000	227.0600	i was just joking
+Ses03M_impro04_M032	227.6800	230.3700	i don t know
+Ses03M_impro04_F027	231.2600	241.9400	my what i would do was just you know what about can you call harvard and see don t they have connections don t they have like career center and you can find some stuff that s going on
+Ses03M_impro04_M033	241.6200	246.4800	yeah i they said brian you re too smart you don t need us
+Ses03M_impro04_M034	246.5050	249.7000	go out and take over the world by yourself and i m like what
+Ses03M_impro04_F028	248.8300	256.3000	well obviously it s not working just cause you got sixteen hundred on your s a t doesn t guarantee you a job i mean it should really but
+Ses03M_impro04_M035	255.7700	262.5700	i don t know i don t know i know i m just going to have to keep on looking keep on searching
+Ses03M_impro04_M036	263.3000	271.5700	and i m never going to find anything probably but i ll just keep working hard at it yeah okay positive i m going to do good find that job
+Ses03M_impro04_F029	265.8400	268.8800	you got to be positive man you got to try to just
+Ses03M_impro04_F030	270.7300	273.8100	but you got to be real about it you have to
+Ses03M_impro04_M037	274.6000	277.7800	yeah i got eighteen hundred on my s a t
+Ses03M_impro04_F031	277.5000	279.9900	sixteen hundred
+Ses03M_impro04_M038	279.8800	282.2100	same difference
+Ses03M_impro04_M039	282.8400	285.5800	twenty one hundred on my s a t
+Ses03M_impro04_F032	285.4700	287.8400	twenty one hundred
+Ses03M_impro04_M040	287.8100	292.9000	but i m doomed yeah i got so good i was over twenty one hundred now what am i doing
+Ses03M_impro04_M041	292.9900	298.5500	like wow you re really smart we re going to give you an extra

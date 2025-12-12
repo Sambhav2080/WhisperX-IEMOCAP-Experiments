@@ -1,0 +1,70 @@
+Ses01M_impro07_M000	2.6812	7.9800	check this out you know how i ve told you i ve been really into like softball recently
+Ses01M_impro07_F000	7.6300	8.5700	yeah
+Ses01M_impro07_M001	8.2200	14.7500	well this is totally random i got this full ride scholarship to go to u s c next year to play softball
+Ses01M_impro07_F001	13.9500	21.1200	for softball that s unbelievable is it slow pitch
+Ses01M_impro07_M002	15.5400	20.6700	for softball they re going to pay me to go to school isn t that awesome
+Ses01M_impro07_M003	20.9200	34.3800	yeah well i don t well yeah i can pitch i m not like the pitcher though i m like the pinch hitter guy i mostly just hit but i guess i m going to have to yeah and then i play shortstop too but it s so ex the good news is i get to stay here
+Ses01M_impro07_F002	23.8800	25.2500	uh huh
+Ses01M_impro07_F003	27.0600	29.8100	pinch hitting softball
+Ses01M_impro07_F004	30.3100	33.0800	that is incredible
+Ses01M_impro07_F005	33.7200	37.2700	that s amazing they pay for everything
+Ses01M_impro07_M004	34.7600	38.6600	i know for softball yeah
+Ses01M_impro07_F006	37.8800	42.5825	your housing books everything that is incredible
+Ses01M_impro07_M005	38.7800	48.2800	yeah everything every like free ride and i get to you know like be on like a trojans sports team too and it s like cool isn t it awesome
+Ses01M_impro07_F007	45.1450	49.2825	that is incredible do you get like a per diem
+Ses01M_impro07_M006	48.7300	52.8600	i don t know i should ask yeah i will
+Ses01M_impro07_F008	49.6400	52.1000	you should you should look into that
+Ses01M_impro07_F009	52.4600	57.4562	that is amazing congratulations good for you
+Ses01M_impro07_M007	54.6300	56.3100	thank you
+Ses01M_impro07_M008	56.5300	61.3500	but i don t know i want to live in the housing that they give me though cause i think i want to you know like get like a nicer place
+Ses01M_impro07_F010	58.7800	60.2100	oh
+Ses01M_impro07_F011	60.8100	66.7700	yeah that you probably you should see one of these victorian houses around by
+Ses01M_impro07_M009	61.5900	63.5600	where should i move
+Ses01M_impro07_M010	66.3983	78.9000	that s a really good idea or i could go to like santa monica go beach venice beach yeah a little dirty though i don t want to go to venice beach but malibu all right
+Ses01M_impro07_F012	68.6400	72.3500	oh venice beach
+F	0.0000	0.0000	mmhmm
+Ses01M_impro07_F013	72.8400	76.2300	oh you don t like that you re west sider
+Ses01M_impro07_F014	76.5900	87.8575	okay that would be way too much of a commute you can t do that especially i know especially from i don t know what i was going to say i don t know
+Ses01M_impro07_M011	80.6825	83.8200	professional softball player malibu
+Ses01M_impro07_M012	87.4300	90.4400	from where huh well i m from san francisco
+Ses01M_impro07_F015	88.4125	92.4100	i don t know commuting from what malibu that would be ridiculous
+Ses01M_impro07_M013	90.9200	102.6100	oh yeah that would be well depends on what type of car you had though too i guess it would be worth it helicopter yeah helicopter there is a helipad there right yeah exactly
+Ses01M_impro07_F016	95.2600	101.5000	oh yeah he d drop you right off at practice
+Ses01M_impro07_F017	101.6200	109.0200	do you are you one of those like four a clock in the morning practices is it that s more like swimming and ballet and things like that
+Ses01M_impro07_M014	106.5475	112.3500	yeah i think it s in the afternoon cause i mean can t be too early cause then you can t see the ball
+Ses01M_impro07_F018	111.5900	116.3400	they have those neon softballs they re like day glow you can see them anywhere
+Ses01M_impro07_M015	115.6100	125.3625	yeah but no well they have a night games but you know there s more like night games they re not like morning games you know i guess it s kind of same thing
+Ses01M_impro07_F019	116.5000	119.0250	i m surprised you don t know that
+Ses01M_impro07_F020	121.1500	125.2500	oh that is incredible is it
+Ses01M_impro07_F021	125.3100	132.5725	do they have a is it a co ed softball team i mean really you know i didn t even know that they have that
+Ses01M_impro07_M016	127.5200	131.3900	no it s all boys all boys softball team
+Ses01M_impro07_M017	131.9500	134.6200	they do it s believe me it s huge
+Ses01M_impro07_F022	132.8600	138.1200	who do you play like do are you like nationally ranked
+Ses01M_impro07_M018	135.3050	141.0100	i just got into it i just kind of fell into it literally i was walking around and
+Ses01M_impro07_F023	139.0700	141.8000	that is unbelievable
+Ses01M_impro07_M019	141.3400	142.6800	it s pretty wild
+Ses01M_impro07_F024	141.9900	144.4850	i would put that right up there with ping pong
+Ses01M_impro07_M020	143.9800	147.8400	yeah well i doubt ping pong
+Ses01M_impro07_F025	144.6600	148.2650	i mean not to denigrate what you are doing i think that s great
+Ses01M_impro07_M021	147.9100	150.1225	oh you mean it s not really sport that what you re saying
+Ses01M_impro07_F026	149.7100	154.9200	no no i love softball i played softball all the time
+Ses01M_impro07_M022	150.7925	153.8000	it s totally a sport what are you talking about
+Ses01M_impro07_M023	153.8600	159.1400	what just cause i don t play regular baseball doesn t mean i m like any less of like a sports guy
+Ses01M_impro07_F027	156.1800	167.8000	i am not saying you should be i m not no i think it s great i think you should be incredibly proud yourself especially because you re going to u s c for free for doing it for free
+Ses01M_impro07_M024	165.1825	169.6425	for free that s really what it s about i mean who cares i mean if i have to play softball all the time
+Ses01M_impro07_M025	169.7275	172.3400	but they got to like drive around in a bus that would suck
+Ses01M_impro07_F028	171.7300	174.2000	oh really with the whole team
+Ses01M_impro07_M026	172.4600	175.3625	yeah we have like away games and stuff
+Ses01M_impro07_F029	174.9300	180.9100	what are your teammates like i m sure you don t know yet what kind of people play softball
+Ses01M_impro07_M027	177.2600	178.7500	they re nice
+Ses01M_impro07_M028	179.9400	185.3475	like you know like police officers like kind of heavyset guys mustaches yeah it s that kind of
+Ses01M_impro07_F030	183.0200	184.7200	oh really
+Ses01M_impro07_F031	185.4225	188.8425	cool you don t seem like you d fit in there
+Ses01M_impro07_M029	185.7800	191.5200	that kind of they re okay no i m like i m kind of like the odd man out i m like
+Ses01M_impro07_F032	191.0500	192.2475	oh cool
+Ses01M_impro07_M030	192.2200	194.2500	but you know i m like
+Ses01M_impro07_F033	192.7000	195.0500	you re like the rookie the new kid
+Ses01M_impro07_M031	194.7700	196.0200	yeah
+Ses01M_impro07_F034	195.1700	205.4775	just watch in five years you ll be like on the force you carry around donuts in your back pocket
+Ses01M_impro07_M032	196.3800	199.8600	i m going to have a mustache on the force
+Ses01M_impro07_M033	204.8100	206.6000	pull over

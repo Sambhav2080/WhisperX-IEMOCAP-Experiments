@@ -1,0 +1,90 @@
+Ses04M_impro07_M000	7.2900	18.9700	alright so you re not going to believe this but i went home today i looked through the mail and i got an acceptance letter from u s c
+F	0.0000	0.0000	uh huh
+Ses04M_impro07_F000	19.8700	21.3700	what no way
+Ses04M_impro07_M001	18.9900	21.7200	i m going to u s c yeah
+Ses04M_impro07_F001	21.3900	22.5200	really
+Ses04M_impro07_M002	21.7700	23.5899	yeah yeah
+Ses04M_impro07_F002	23.0500	24.9300	i didn t even
+Ses04M_impro07_F003	24.9300	27.3100	know you applied to u s c
+Ses04M_impro07_M003	25.3300	30.1000	i did i did i ve yeah i applied to u s c i mean it s really expensive but
+Ses04M_impro07_M004	30.1000	32.5700	it s a really good school so
+Ses04M_impro07_M005	32.6046	45.1400	um um yeah i m just i m really excited cause i don t know it s like a whole i mean it s just like i ve been really i wanted to go there ever since i was a kid so now i actually am and it s awesome it s a really nice campus oh you ve been there
+Ses04M_impro07_F004	43.8400	53.0700	that s amazing i ve seen it on tv um wow i mean well what are you going to major in what are you going to do
+M	0.0000	0.0000	yeah yeah
+Ses04M_impro07_M006	52.6200	59.1918	um i m thinking a history and geology minor
+Ses04M_impro07_F005	58.7700	60.7200	wow
+Ses04M_impro07_M007	60.3300	67.3800	yeah i like to know about history cause you know it s it s just so relevant to the present
+Ses04M_impro07_F006	66.8400	68.0100	right
+Ses04M_impro07_M008	67.5300	68.7200	yeah
+Ses04M_impro07_F007	68.1900	69.2900	yes
+Ses04M_impro07_M009	68.9000	70.3300	and uh
+Ses04M_impro07_F008	69.4400	72.5700	is u s c known for its history program
+Ses04M_impro07_M010	71.7700	78.3100	um you know i don t think so but i think that you know it s still a private school
+Ses04M_impro07_M011	78.3100	81.5131	and right you know it s still and then you know i mean
+Ses04M_impro07_F009	78.3200	81.5371	i know it s a great school and you know
+Ses04M_impro07_M012	81.5200	87.5000	i m guessing you know it s like i i checked it out and like they have a decent history program
+Ses04M_impro07_F010	81.5400	83.3100	it s all about the connections
+Ses04M_impro07_M013	87.5000	93.2800	so and like the geology just is awesome it rocks no pun intended
+Ses04M_impro07_F011	92.6600	95.3147	oh you did not just say that
+Ses04M_impro07_M014	93.3100	102.2600	um but uh anyway yeah so that s awesome though because you live here and then we re not going to be separated by me going to some other school
+Ses04M_impro07_F012	98.8600	101.2900	i know you re going to be so close
+Ses04M_impro07_M015	102.2700	110.7400	and uh it s just really exciting i you know i m just i want to i want to share this special happy moment with you it s awesome
+Ses04M_impro07_F013	108.8400	111.3801	i m glad you did
+Ses04M_impro07_M016	110.8600	112.6400	so um
+Ses04M_impro07_F014	112.0900	116.9200	that s great i mean i m really glad you re not going to go anywhere you ll still be here
+Ses04M_impro07_M017	116.5900	121.0700	yeah yeah yeah we re only going to be like twenty minutes apart
+Ses04M_impro07_F015	120.5600	123.9410	everything in la is twenty minutes away
+Ses04M_impro07_M018	122.1200	126.6300	exactly it s more like twenty five twenty five half an hour
+Ses04M_impro07_F016	126.1200	129.1900	give or take
+M	0.0000	0.0000	whatever
+Ses04M_impro07_M019	128.7458	134.2800	but uh yeah so i m really excited i can t wait can t wait to go i have to go to orientation
+Ses04M_impro07_F017	130.2500	132.5500	well congratulations
+Ses04M_impro07_M020	134.2800	139.9700	umm and i m going to check out school and get you know check out the courses
+Ses04M_impro07_M021	139.9763	145.0800	find out all this stuff and and i don t know i think i m going to try to live in a dorm
+Ses04M_impro07_F018	144.6200	146.0500	yeah
+Ses04M_impro07_M022	145.1100	148.8300	cause you know it s like you get to know a lot of people in the dorms and
+Ses04M_impro07_F019	148.3300	152.5700	yeah and then you got that whole communal shower thing which is really appealing
+Ses04M_impro07_M023	152.0900	157.4500	well i ll have flip flops for that that s not some it s not a problem
+Ses04M_impro07_F020	155.4500	159.7100	okay well that s a good plan shower shoes two thumbs up
+Ses04M_impro07_M024	158.1900	164.7700	yeah yeah but um so yeah so it s pretty sweet huh you should go there too
+Ses04M_impro07_F021	162.7800	167.7000	wow i i was looking at u c l a
+Ses04M_impro07_M025	167.4159	171.6000	ouch that s um oh wow
+Ses04M_impro07_F022	171.1000	173.9900	but congrats on the u s c thing
+Ses04M_impro07_M026	173.1500	179.0100	no no i mean i didn t know i didn t know that about you um i feel like
+Ses04M_impro07_F023	178.4800	181.5500	the what the i mean
+Ses04M_impro07_M027	180.7200	188.4500	no i m just messing with you i mean i m not going to you know i mean i m not even really a football fan anyway so or or a basketball
+F	0.0000	0.0000	it s not a big deal
+Ses04M_impro07_F024	186.2900	191.5800	you re not going to you re going to go to games though right i mean you can t go to u s c and not go to a football game
+Ses04M_impro07_M028	190.5800	192.5800	no football s boring
+Ses04M_impro07_F025	191.8400	198.6300	just one game though i mean for the experience i mean you don t have to go to all of the games but you gotta go to a game
+Ses04M_impro07_M029	197.6800	199.6400	i ll go to basketball games
+Ses04M_impro07_F026	199.1000	201.6200	okay well that s cool too but like
+Ses04M_impro07_M030	200.8100	203.1400	maybe some golf matches
+Ses04M_impro07_F027	202.7300	206.6762	wow you are a winner and a half
+Ses04M_impro07_M031	203.1600	206.2800	do they even have any golf matches i don t even know
+Ses04M_impro07_M032	206.3175	209.6900	i don t know do they have golf do they have does u s c have a i don t know if they have a golf team
+Ses04M_impro07_F028	208.2000	210.8900	i don t know women s volleyball
+Ses04M_impro07_M033	210.4700	217.7600	that i ll go to definitely go to women s volleyball women s volleyball swimming tennis
+Ses04M_impro07_F029	216.3200	219.3200	basically anything women do
+Ses04M_impro07_M034	218.6300	223.0600	and then men s basketball and oh well not women s basketball
+Ses04M_impro07_F030	222.0900	224.3300	you have to go to a football game come on
+Ses04M_impro07_M035	223.6400	225.5900	no i m not going to go to a football game
+Ses04M_impro07_F031	224.3900	231.0200	paint some red and yellow s c on your face and like get one of those big you know number one hand things
+Ses04M_impro07_M036	226.4400	231.4600	forget it forget it forget it no way
+Ses04M_impro07_F032	231.0400	234.2900	maybe one of those megaphones pompom
+M	0.0000	0.0000	no way
+Ses04M_impro07_M037	233.9800	235.8200	i do i will need to get a gun
+Ses04M_impro07_F033	234.5600	240.0900	there are cheerleaders at football games that s girls scantily clad sexy girls
+Ses04M_impro07_M038	239.5300	241.2000	you ve got a point there
+Ses04M_impro07_F034	240.8300	241.9400	i know
+Ses04M_impro07_M039	241.2300	244.7300	i ll take that in consideration alright
+Ses04M_impro07_F035	243.8100	246.2300	i m just i m watching your back
+Ses04M_impro07_M040	245.7100	252.1600	okay um but no i uh i do need to get a gun soon though cause i mean
+Ses04M_impro07_F036	251.0000	252.8100	excuse me
+Ses04M_impro07_M041	252.3000	258.5300	i need to get like a just a small little gun just cause or like a taser or something or just like a butterfly knife
+Ses04M_impro07_F037	259.6600	261.0800	no
+Ses04M_impro07_M042	258.5600	262.7500	cause you know i mean it s like if i ever want to go south of campus
+Ses04M_impro07_F038	261.5800	267.4900	well just don t go south of campus don t get a gun that s stupid i mean
+M	0.0000	0.0000	yeah but
+Ses04M_impro07_M043	266.2300	270.0900	well i need to defend myself from
+Ses04M_impro07_F039	268.6353	272.0700	why don t you take kung fu

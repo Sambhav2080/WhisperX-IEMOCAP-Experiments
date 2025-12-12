@@ -1,0 +1,98 @@
+Ses05M_impro07_M000	4.1200	6.4700	guess what
+Ses05M_impro07_F000	5.4800	6.7000	what
+Ses05M_impro07_M001	6.4900	9.0600	i got it i got accepted to u s c
+Ses05M_impro07_F001	8.3300	9.6900	oh for real
+Ses05M_impro07_M002	9.0700	12.1151	yes i just found out today i just got the letter
+Ses05M_impro07_F002	9.7000	11.2200	that s awesome
+Ses05M_impro07_F003	11.3500	13.6000	oh i m so glad
+Ses05M_impro07_M003	12.1251	14.4800	i know i know i m so excited
+Ses05M_impro07_F004	13.9900	15.7900	what are you gonna study
+Ses05M_impro07_M004	14.8100	18.1700	oh theater yeah yeah
+Ses05M_impro07_F005	16.3800	18.9800	really are you doing the m f a program
+Ses05M_impro07_M005	18.3300	19.6900	yes
+Ses05M_impro07_F006	18.9900	20.8200	oh my gosh
+Ses05M_impro07_M006	19.8000	20.9300	oh
+Ses05M_impro07_F007	20.8300	23.4200	i heard it s so tough to get into
+Ses05M_impro07_M007	20.9400	22.5300	it s exactly what i wanted
+Ses05M_impro07_M008	22.5700	27.5700	oh of course no i didn t know it was that tough i m just happy that i made it
+Ses05M_impro07_F008	26.5900	28.3300	that s awesome
+Ses05M_impro07_M009	27.9100	33.1200	i worked really hard i ll say i worked really hard you know i i m not bragging or anything like that but
+Ses05M_impro07_F009	29.3000	31.2600	yeah that s awesome
+Ses05M_impro07_F010	32.1000	33.3300	no
+Ses05M_impro07_M010	33.1300	38.8600	no no i m really looking forward to it you know how long i have been talking about this forever right right
+Ses05M_impro07_F011	37.6200	41.0500	uh huh yes seriously for years
+Ses05M_impro07_M011	40.5100	47.0800	finally i m so excited we re gonna well i ll be here we re still gonna be able to see each other
+Ses05M_impro07_F012	45.3500	50.1800	i know i know i m i m definitely i realize
+Ses05M_impro07_M012	47.1300	49.2400	we re gonna hang out right
+Ses05M_impro07_M013	49.6700	51.7100	what are you wait what are you doing
+Ses05M_impro07_F013	51.2900	55.9000	um i m gonna be studying at u s c too
+Ses05M_impro07_M014	54.3300	58.0600	perfect oh my god are you staying are you going to live on campus
+Ses05M_impro07_F014	57.6600	63.5900	not on campus but um i probably won t live too far maybe i don t know i might go to silver lake or something
+Ses05M_impro07_M015	62.7600	64.3900	we are gonna party all the time
+Ses05M_impro07_F015	63.9800	66.8800	yeah totally well where are you going to live
+Ses05M_impro07_M016	64.4000	66.0900	we are gonna have a great time
+Ses05M_impro07_M017	66.1100	71.1000	i m going to live on campus i mean well around campus anyway yeah housing around campus
+Ses05M_impro07_F016	67.6700	68.9500	oh yeah
+Ses05M_impro07_F017	70.4300	71.8400	good tradeoff
+Ses05M_impro07_M018	71.1200	76.1300	i just want to be really close to things you know i know it s not exactly the best neighborhood in the entire world but uh
+Ses05M_impro07_F018	75.7300	77.8400	i don t i don t think it s that bad
+Ses05M_impro07_M019	76.9900	83.4600	i don t you know i feel the same way you know what i mean and everybody says a lot of other crap you know they don t know what they are talking about anyway
+Ses05M_impro07_F019	83.1200	84.1900	yeah
+Ses05M_impro07_M020	83.4800	86.1000	they don t live here they don t know right
+Ses05M_impro07_F020	85.0200	93.7100	yeah i think it s really also if you if you consider yourself like us and them kind of thing if you think you re part of your community then you going to like it more
+Ses05M_impro07_M021	89.6200	91.0700	yeah
+Ses05M_impro07_M022	92.3800	99.5000	exactly you make it what you make it you know right and i m gonna make it so freaking awesome
+Ses05M_impro07_F021	93.8500	95.7400	right exactly
+Ses05M_impro07_F022	97.6700	100.5300	oh i m so glad
+Ses05M_impro07_M023	99.7600	101.1900	yeah
+Ses05M_impro07_F023	100.5600	103.2400	so when do you know like where you re gonna live and
+Ses05M_impro07_M024	102.0000	104.3200	well i don t know i ve got to go look for a place
+Ses05M_impro07_F024	103.8200	105.2400	oh wow
+Ses05M_impro07_M025	104.3900	110.2900	yeah yeah i i don t i don t know do you have any suggestions
+Ses05M_impro07_F025	109.4600	111.1900	um
+Ses05M_impro07_M026	110.7800	113.2000	you know the area better than i do
+Ses05M_impro07_F026	112.2900	117.1100	yeah i mean i know i know like the the housing surrounding the campus pretty well
+Ses05M_impro07_M027	116.0700	117.6800	yeah yeah
+Ses05M_impro07_F027	117.1700	120.0700	um how many people do you want to live with
+Ses05M_impro07_M028	119.6400	124.5000	not a lot i mean i wouldn t want to live with more than three other people so like four of us total right
+Ses05M_impro07_F028	124.1700	125.4900	all dudes
+Ses05M_impro07_M029	124.9800	126.9900	i don t care i don t care
+Ses05M_impro07_F029	126.5900	129.7200	um i think i have some friends
+Ses05M_impro07_M030	129.1500	130.2400	yeah
+Ses05M_impro07_F030	129.8400	130.7300	yeah
+Ses05M_impro07_M031	130.3300	132.5300	that would be perfect
+Ses05M_impro07_F031	131.9200	140.1300	there s actually a friend of mine is um moving out of her place and her place is amazing and it s really cheap
+Ses05M_impro07_M032	138.1400	139.4700	really
+Ses05M_impro07_M033	139.7400	140.7600	really
+Ses05M_impro07_F032	140.3800	141.4600	yeah
+Ses05M_impro07_M034	140.8300	144.6400	cheap is exactly what i need because i have no money at all
+Ses05M_impro07_FXX1	142.4182	142.9171	okay
+Ses05M_impro07_F033	143.8800	145.2100	okay
+Ses05M_impro07_M035	144.6500	145.7800	but uh
+Ses05M_impro07_F034	145.2500	148.3700	how are you going to pay for school did did you
+Ses05M_impro07_M036	147.1600	154.8300	loans scholarships i ve got a lot of scholarships yeah yeah i m i m half native american so i get all those scholarships too yeah
+Ses05M_impro07_F035	148.5700	150.9100	you ve got a lot oh awesome
+Ses05M_impro07_F036	153.3400	154.9900	oh cool
+Ses05M_impro07_M037	154.8326	159.2100	so it comes indian like and you know i m kind of smart so
+Ses05M_impro07_F037	158.8000	160.0000	yeah
+Ses05M_impro07_M038	159.7200	163.9900	that helps right get some academic scholarships and uh
+Ses05M_impro07_F038	161.1600	162.5700	totally
+Ses05M_impro07_F039	162.6200	164.0700	good for you
+Ses05M_impro07_M039	164.0100	172.3900	and yeah well i mean basically i just applied for any and every possible scholarship and grant that could come by so i can go
+Ses05M_impro07_F040	171.1600	172.6900	the way to do it
+Ses05M_impro07_M040	172.4300	179.9000	yeah yeah yeah and it s gonna work out i m gonna be able to pay for it i m gonna go i mean i ll have a little debt in the end but i don t care
+Ses05M_impro07_F041	173.6400	175.8500	wow are you so excited
+Ses05M_impro07_FXX2	179.0688	179.7402	right
+Ses05M_impro07_M041	179.9100	184.0100	it s just you know a dream come true how could you not be excited about a dream come true
+Ses05M_impro07_F042	183.4500	188.4300	you re gonna be so busy too you re going to have to work so hard
+Ses05M_impro07_M042	185.5500	187.4900	oh i know i know
+Ses05M_impro07_M043	187.5600	192.3900	but i m so looking forward to being so busy you know what i mean it s the kind of busy you ve got to love right
+Ses05M_impro07_FXX3	189.4691	190.5432	oh good
+Ses05M_impro07_F043	191.8400	193.3900	oh totally
+Ses05M_impro07_M044	192.4400	198.0700	because you re doing something you love that s the kind of busy you want i want to be able to do that for the rest of my life be that kind of busy
+Ses05M_impro07_F044	197.6100	201.4300	all right wow so exciting
+Ses05M_impro07_M045	200.4800	205.3900	i had to tell you right away i knew you d be excited
+Ses05M_impro07_M046	205.6300	207.0500	we ll have fun
+Ses05M_impro07_F045	206.7100	209.2800	yeah we ll have so much fun
+Ses05M_impro07_M047	208.6000	212.1100	great okay
+Ses05M_impro07_F046	211.6700	213.3300	cool

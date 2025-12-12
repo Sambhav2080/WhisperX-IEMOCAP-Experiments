@@ -1,0 +1,52 @@
+M	0.0000	0.0000	all right
+Ses02F_impro08_F000	5.0720	9.3683	hi my name is shiloh welcome to airline six hi how may i help you
+Ses02F_impro08_M000	6.2070	8.1700	yeah hello
+Ses02F_impro08_M001	9.4065	17.6256	ok i ve i ve just been talking to this machine for the past half hour and i can t can t get anything done i ve been trying to book this vacation this entire time
+Ses02F_impro08_F001	17.0726	18.7868	all right sir
+Ses02F_impro08_M002	17.6532	22.1184	i know i m sorry it s it s just that it s been a little frustrating because
+Ses02F_impro08_F002	20.8328	25.5744	i completely understand automated systems are very difficult sometimes
+Ses02F_impro08_M003	25.2703	26.3762	okay
+Ses02F_impro08_F003	26.0444	29.5192	um how may i help you you re trying to book a specific flight
+Ses02F_impro08_M004	29.1963	35.8594	well yeah i mean i heard there was like these package deals and that maybe i could get a like a hotel or something like that and
+Ses02F_impro08_F004	34.4217	41.7070	oh yeah absolutely you know and especially because you ve been waiting so long and i know that um you ve been having a difficult time
+Ses02F_impro08_F005	41.7208	49.8355	i want to definitely give you our special package today which um is usually only for valued customers who have a record of having previous
+Ses02F_impro08_F006	49.8493	56.3328	um lots of purchases but we re gonna go ahead and give that to you anyway uh just to make sure that you re happy with your service here
+Ses02F_impro08_M005	55.8649	61.4450	you you can do that you can do that now i don t have to get like transferred through or anything like that
+Ses02F_impro08_F007	56.3466	57.4525	is that all right
+Ses02F_impro08_F008	57.5493	62.4568	i can do that right now for you no absolutely i can take care of you all the way through to the end
+Ses02F_impro08_F009	62.4706	66.7146	all i m going to need is your credit card number but just give me one moment so
+Ses02F_impro08_M006	62.4430	64.3092	that s good
+Ses02F_impro08_F010	66.7422	79.4747	um you re scheduling a flight as well and you would like to um we have a highly discounted hotel rate that goes along with that so that everything is all in one deal you re taken care of by the time that you get there
+F	0.0000	0.0000	uh huh yeah
+Ses02F_impro08_M007	78.2023	87.4005	all right i want to make sure it s like a nice hotel i mean mean i m gonna be paying a lot of money for this so i don t wanna i don t wanna you know i don t wanna to be a waste of time
+Ses02F_impro08_F011	81.6722	84.0361	absolutely we we
+Ses02F_impro08_F012	86.4414	99.3203	yes i completely understand actually our our airline only uses five star hotel and above except we charge at a three star hotel rate because as a corporation we are able to get a deal from the hotels themselves
+Ses02F_impro08_F013	99.3367	107.9377	so you will absolutely be in a high rated great hotel and we can make sure that it s in a area of town that you like as well
+Ses02F_impro08_M008	107.6198	109.3063	okay so
+Ses02F_impro08_F014	108.8601	110.2602	yeah
+Ses02F_impro08_M009	109.8178	116.1077	well you know we wanted to we wanted to go to maui and that was a
+Ses02F_impro08_F015	114.0341	115.5271	okay
+Ses02F_impro08_M010	116.1630	120.5591	you know the kids wanna go to the beach and stuff and so um
+Ses02F_impro08_F016	118.9969	122.0827	great how many seats
+Ses02F_impro08_M011	122.0458	123.6128	well it s gonna be four of them
+Ses02F_impro08_F017	123.3930	126.3472	okay great four seats i ll book you for four seats
+Ses02F_impro08_M012	125.5349	127.8996	all right and can they like all get together
+Ses02F_impro08_F018	126.9596	130.7963	oh yeah absolutely um would you like window seats or aisles
+Ses02F_impro08_M013	130.3879	134.9498	um you know window is nice i guess
+Ses02F_impro08_F019	133.8439	143.7972	okay i can do um a win two like a window and a aisle and a window and an aisle next to each other so that each of you can sit two by two and switch around maybe
+M	0.0000	0.0000	okay okay
+Ses02F_impro08_M014	143.5207	146.8899	all right sure a yeah that that d be good
+Ses02F_impro08_F020	146.3132	148.7047	okay great what time of the day would you like
+Ses02F_impro08_M015	148.3729	154.4831	uh well yeah i think we were just you know whenever best available i guess you know
+Ses02F_impro08_F021	153.6399	162.0139	all right great well we have a very open flight that leaves at nine a m and fortunately uh the time change actually goes um backwards from that
+Ses02F_impro08_F022	162.0146	173.1274	so it s a five hour flight but you ll arrive only at eleven a clock in the morning so that day you can have plenty of time to get to your hotel rest up and then still have a nice afternoon your first afternoon in maui
+M	0.0000	0.0000	okay
+Ses02F_impro08_M016	171.9981	177.3618	and like there s there s shuttles or something that i can get to the hotel
+Ses02F_impro08_F023	175.2053	185.2554	absolutely that actually goes in on the same package with our hotel you just give me your address we ll come and pick up a time that allows you to get to your flight with plenty of time to spare
+Ses02F_impro08_F024	185.2692	190.5223	and a there will also be a shuttle waiting for you to take you to the appropriate hotel
+Ses02F_impro08_M017	188.8496	196.5496	okay wow sounds good then i guess thank you very much it s a lot better than talking to a machine
+Ses02F_impro08_F025	193.5359	199.2729	yeah i completely understand it s a difficult process sometimes and we want to make traveling as easy as possible
+Ses02F_impro08_M018	199.1070	202.0927	all right so we re confirmed then or do you all right
+Ses02F_impro08_F026	200.4894	205.6457	absolutely thank you so much for calling and we hope that you will come to us again
+Ses02F_impro08_M019	204.6773	205.9775	okay
+Ses02F_impro08_F027	205.6872	207.1232	thank you

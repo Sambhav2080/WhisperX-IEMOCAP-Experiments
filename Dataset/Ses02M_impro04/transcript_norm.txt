@@ -1,0 +1,44 @@
+Ses02M_impro04_M000	3.6516	6.4730	uhm i don t know
+Ses02M_impro04_F000	5.1157	6.9185	so how you feeling
+Ses02M_impro04_M001	6.4730	9.4965	i don t know what i m going to do about this i mean
+Ses02M_impro04_M002	10.8729	13.3083	i have got to get a job you know like
+Ses02M_impro04_F001	13.1185	16.2387	you ve been doing a lot of work for it right
+Ses02M_impro04_M003	16.0012	20.9300	well yea you know i get my resumes and i mean i
+Ses02M_impro04_F002	24.9578	28.1900	right so the fact you doing the best that you can is
+Ses02M_impro04_M004	20.9900	26.2590	i go out all the places i can every place that ll give an interview you know
+Ses02M_impro04_F003	28.2000	31.7400	you know you shouldn t give yourself a hard time for that it s the best you can
+Ses02M_impro04_M005	31.6000	37.9371	but it s been so long like what what am i what am i waiting i should probably just do something else or
+Ses02M_impro04_F004	37.9351	40.8943	well but you care about what you do right
+Ses02M_impro04_M006	37.9705	41.5407	i don t know i mean why why
+Ses02M_impro04_M007	41.6743	54.6257	yea but it s it s almost like it s not worth it you know if i m going to waste to have my life like trying to get a job i mean once i actually do get the job it s like oh retirement or something i don t know you know
+F	0.0000	0.0000	yeah
+Ses02M_impro04_F005	54.7510	61.4736	i understand that it s so frustrating but i know that you re here because you really want it you know and and uh
+Ses02M_impro04_M008	60.9668	66.3650	well and that s what i begin to question after a while is maybe i just don t want it maybe it s not even worth it you know like
+Ses02M_impro04_M009	66.4532	73.5619	i don t even know if it s going to be worth it because i can t break myself in you know like i can t can t even get a foot in the door you know
+Ses02M_impro04_F006	73.8543	79.1665	well i mean you re still here you ve tried for this long so i think that says something all in itself
+Ses02M_impro04_M010	78.9722	85.4061	yea it says i m stupid enough to be trying this long and not move on somewhere else
+F	0.0000	0.0000	no it means you have persistence
+Ses02M_impro04_F007	85.5106	89.9409	you are persistence i mean that s important that s
+Ses02M_impro04_M011	88.3105	99.2349	i mean i can t i can t be persistent forever you know you can t not have a job forever you know i ve got i ve got to do something i ve got to make money and get food on the table
+Ses02M_impro04_F008	96.7713	103.3594	well you re talented so keep that in mind you know you shouldn t give yourself too hard of a time
+Ses02M_impro04_M012	103.4023	110.5203	i mean maybe i m not you know i don t have a job maybe maybe i m not as good as as i thought i was and
+Ses02M_impro04_M013	110.7240	117.3947	i just got a whole skewed opinion on just how this is supposed to work out and
+Ses02M_impro04_F009	117.7600	119.5800	i m sorry
+Ses02M_impro04_M014	117.9015	123.4099	i don t know it s just not i don t know i don t know what to do really you know i m just thinking
+Ses02M_impro04_M015	123.5710	128.1600	maybe maybe take up painting i don t know you know
+Ses02M_impro04_M016	128.1700	133.7877	do something that i don t have to go out and do something stay at home i don t know
+Ses02M_impro04_M017	133.8097	141.1249	seems like the only option at this point because obviously the outer world has just rejected me of all possible employment
+Ses02M_impro04_F010	139.5605	145.0028	that s i mean there are more factors then just whether you re good or not you know what i mean like
+Ses02M_impro04_F011	145.0661	155.5569	and the fact that you know there is always different types of things and what kind of people they want in the office and whether it s male or female or you know what i mean like things are out of your control
+Ses02M_impro04_F012	155.6450	159.2365	so you should take that in consideration rather than giving yourself such a hard time
+Ses02M_impro04_M018	157.4958	167.7000	i know but i mean if that s the you know i m either like the worst at this or just the most unlucky person on the planet i mean this doesn t
+Ses02M_impro04_F013	167.7833	174.1000	it might be the latter i don t know because you re not the worst i mean you re great you very talented at what you do
+Ses02M_impro04_M019	167.7100	170.9900	this doesn t happen to a normal person
+Ses02M_impro04_F014	174.1100	180.8000	you know and the fact you still here and still cooking like it s good that you re thinking about it that you re reconsidering
+Ses02M_impro04_F015	180.8100	188.2546	but like just because you re considering why it s been so difficult doesn t mean you should just stop
+Ses02M_impro04_M020	188.6831	195.9884	i mean i don t know i don t see i don t see any other way any other way around it right now
+Ses02M_impro04_F016	196.1824	201.1541	maybe you should take a little break from it but i don t think you should stop
+M	0.0000	0.0000	maybe
+Ses02M_impro04_M021	201.2104	203.4798	what am i going to do on a break
+Ses02M_impro04_F017	203.2900	215.0474	get out of town or something i mean you need you need to clear your head cause you seem like you re really frustrated about it i mean you need to like be excited about you re doing rather than you know upset
+Ses02M_impro04_M022	214.4085	217.5372	right thanks for talking to me

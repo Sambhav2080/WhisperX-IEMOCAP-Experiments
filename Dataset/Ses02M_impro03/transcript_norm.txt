@@ -1,0 +1,65 @@
+Ses02M_impro03_M000	3.1431	5.5530	oh you re never going to believe it
+Ses02M_impro03_F000	5.2402	9.0515	what what you look really happy what s going on
+Ses02M_impro03_M001	9.1156	12.3065	well i finally did it
+Ses02M_impro03_F001	12.1230	14.0146	finally did what
+Ses02M_impro03_M002	14.1737	17.6149	i i asked her to marry me
+Ses02M_impro03_F002	17.3302	21.2960	you did oh my gosh i m so proud of you
+Ses02M_impro03_M003	21.2152	23.3916	yes i know
+Ses02M_impro03_F003	23.2289	25.5477	oh my gosh well and did
+M	0.0000	0.0000	god
+Ses02M_impro03_M004	24.8000	27.6835	i m so nervous you know i m
+Ses02M_impro03_F004	26.9512	28.2937	did she say yes
+Ses02M_impro03_M005	28.2293	31.5075	yes she said yes i know
+Ses02M_impro03_F005	31.1617	32.9110	that s like the most definitive
+Ses02M_impro03_M006	32.6098	36.6537	i know uhm i can t believe it it s like
+Ses02M_impro03_F006	36.4389	40.3353	oh my gosh wait so when did you decide to do this i mean
+Ses02M_impro03_F007	40.5591	44.4238	i would have thought you would have told me that you were planning on doing this
+Ses02M_impro03_M007	43.7500	49.8600	well yes i wanted it you know i guess sort of as a surprise for everyone so
+Ses02M_impro03_F008	48.8635	53.0889	yea i guess so oh my gosh was she surprised
+Ses02M_impro03_M008	53.0400	58.3300	yes yes you know she she was like i mean she was happy you know
+Ses02M_impro03_F009	57.8600	58.8100	yeah
+Ses02M_impro03_M009	58.3367	64.1134	i i think it was about time i don t know maybe you know what it s been it s been long enough now
+Ses02M_impro03_F010	63.3405	65.1508	so what did you do
+Ses02M_impro03_M010	65.1724	72.7300	oh well it was you know we were at this at this concert and yeah
+Ses02M_impro03_M011	72.7400	76.1400	so i i talked to some of the crew before hand and
+Ses02M_impro03_F011	74.9550	77.0704	oh you did not
+Ses02M_impro03_M012	76.8059	77.7009	i i did
+Ses02M_impro03_F012	77.0907	80.5700	oh my gosh that s so cute
+Ses02M_impro03_M013	79.2909	85.5320	so i got the band to do something you know like towards the end of the song i got to go up on stage and uh
+Ses02M_impro03_F013	85.3339	94.6853	that s so romantic oh my gosh she must have died that s like one of those things you write into a magazine about like my boyfriend did this oh my god
+Ses02M_impro03_M014	86.8300	88.3000	i know so
+Ses02M_impro03_M015	88.4600	90.1494	i got to freak her out
+Ses02M_impro03_M016	94.4412	95.8040	no yes so
+Ses02M_impro03_F014	95.4379	96.8617	she must have flipped out
+Ses02M_impro03_M017	96.6583	100.2790	yea that way she was guaranteed that she could not say no
+Ses02M_impro03_F015	99.6891	103.4785	right exactly because you can t say no in front of thousands of people
+Ses02M_impro03_M018	103.3300	104.9776	no but it was good
+Ses02M_impro03_F016	104.4488	106.5845	did you bring her up on stage too
+Ses02M_impro03_M019	105.9947	107.4795	yes yes
+Ses02M_impro03_F017	107.2558	109.6966	oh my gosh that s so cute
+Ses02M_impro03_M020	109.5372	114.5874	i know it was i don t know i was really nervous but i m really i m really glad
+Ses02M_impro03_F018	113.3783	115.3716	are your parents excited or
+Ses02M_impro03_M021	115.1625	119.6025	oh yes they they you know they love her and so i mean
+Ses02M_impro03_F019	119.1334	121.5600	yea totally so when is it going to happen
+Ses02M_impro03_M022	121.6073	129.4938	well we re thinking uh we re thinking winter time you know we re going to do it in the winter and then maybe you know maybe
+Ses02M_impro03_M023	129.9508	139.6990	i don t know either do a honeymoon like in the snow or fly down to like australia southern hemisphere so we ll decide with that
+Ses02M_impro03_F020	135.3700	137.9500	ooh that would be fun
+Ses02M_impro03_F021	139.3125	143.6450	do you think you ll get a house or something like you guys are looking to buy some place or
+Ses02M_impro03_M024	143.6282	150.2993	yea yea i m not too sure where yet i guess you know i kind of got to figure some stuff out here first
+Ses02M_impro03_F022	149.5800	150.6600	yeah
+Ses02M_impro03_M025	150.3093	156.8328	but like you know it s just i guess we re just excited right now that we ll get to continue it together
+Ses02M_impro03_F023	152.6886	157.9201	oh my gosh i cannot believe you re getting married that is so cool
+Ses02M_impro03_M026	157.6190	158.9208	i know
+Ses02M_impro03_F024	158.8655	164.7588	golly it just makes me all like romantic inside like i really want that to happen to me
+Ses02M_impro03_M027	164.7903	172.9558	oh it will obviously you know but i know it s something i don t know you never really think about it happening like before hand
+F	0.0000	0.0000	that s so fun oh my gosh
+Ses02M_impro03_F025	171.6540	174.8068	did you have a good ring you better have had a good ring
+Ses02M_impro03_M028	174.7051	176.4340	sure oh yes
+F	0.0000	0.0000	good
+Ses02M_impro03_F026	176.1086	178.9562	good the ring makes all the difference
+Ses02M_impro03_M029	178.5291	183.8500	you know i had my mom come along maybe help me out a little bit because she s got good taste but
+F	0.0000	0.0000	good good good good
+Ses02M_impro03_F027	183.5700	185.3300	oh that s awesome
+Ses02M_impro03_M030	185.2618	189.2079	yes well thanks thanks thank you yeah
+Ses02M_impro03_F028	186.1365	191.4453	yay well congratulations that s so cool i can t wait
+Ses02M_impro03_M031	190.9368	191.8928	hah

@@ -1,0 +1,83 @@
+Ses03F_script01_3_F000	6.9486	10.4025	you re the only one i know that still loves his parents
+Ses03F_script01_3_M000	9.6272	14.6199	yeah i know it went out of style didn t it
+Ses03F_script01_3_F001	14.0722	17.7377	no it s all right there s nothing wrong in that you know
+Ses03F_script01_3_F002	19.7179	24.3946	it s really lovely here the air is sweet
+Ses03F_script01_3_M001	24.1418	27.3860	you re not sorry you came
+Ses03F_script01_3_F003	26.7750	30.6091	no i m not sorry it s
+Ses03F_script01_3_F004	31.0304	33.8111	i can t stay
+Ses03F_script01_3_M002	32.9895	35.6649	why not
+Ses03F_script01_3_F005	35.7150	40.3800	well for one thing your mother so much has told me to go
+Ses03F_script01_3_M003	39.7096	41.8584	well
+Ses03F_script01_3_F006	43.5226	45.8399	look
+Ses03F_script01_3_F007	45.9125	50.2216	you ve been acting kind of well you know
+Ses03F_script01_3_M004	49.6528	51.9069	what
+Ses03F_script01_3_F008	51.7594	55.8252	well you ve been embarrassed ever since i came
+Ses03F_script01_3_M005	56.2887	63.6197	yes i guess i have been but it s going from me now
+Ses03F_script01_3_M006	65.1575	79.6931	oh look um well the thing is i was planning on planning on sort of sneaking up on you over a week or so and they they take it for granted we re all set
+Ses03F_script01_3_F009	79.0611	81.1677	yeah
+Ses03F_script01_3_M007	83.7589	87.0452	how did you know
+Ses03F_script01_3_F010	81.2309	84.4751	yeah they would especially your mom
+Ses03F_script01_3_M008	90.7528	96.1668	well uh would you want to
+Ses03F_script01_3_M009	96.2300	102.0864	i i guess that s why i asked you to come
+Ses03F_script01_3_F011	86.0762	87.9089	well i mean
+Ses03F_script01_3_M010	104.8461	107.7111	oh annie
+Ses03F_script01_3_F012	87.9300	91.2584	from her opinion why else would i come here
+Ses03F_script01_3_M011	107.7532	109.8387	annie i love you
+Ses03F_script01_3_M012	109.9441	113.0829	i love you a great deal
+Ses03F_script01_3_M013	114.3047	121.4040	i i love you i have no imagination that s all i know how to tell it
+Ses03F_script01_3_F013	101.8757	105.4359	well i guess that s why i came
+Ses03F_script01_3_M014	121.5304	133.6645	i m embarrassing you i didn t want to tell you it here i wanted to go somewhere that would be brand new to each other it feels wrong here don t you this yard and this chair
+Ses03F_script01_3_M015	133.7066	138.1825	i don t want to win you from anybody i want you to be ready for me
+Ses03F_script01_3_F014	137.6400	142.0699	i ve been ready for a long long time
+Ses03F_script01_3_M016	141.7118	146.9783	then he s gone forever you re sure
+Ses03F_script01_3_F015	144.8500	146.6525	look
+Ses03F_script01_3_F016	146.7300	150.0329	i was almost married two years ago
+Ses03F_script01_3_M017	149.0428	151.6128	why didn t you
+Ses03F_script01_3_F017	152.2025	154.7625	cause you started to write me
+Ses03F_script01_3_M018	153.9512	156.5844	you felt something that far back
+Ses03F_script01_3_F018	155.3925	157.4675	every day since
+Ses03F_script01_3_M019	156.9050	159.3400	why didn t you let me know
+Ses03F_script01_3_F019	158.8125	165.3058	well i don t know you didn t write until then and then when you did what d you say
+Ses03F_script01_3_F020	165.4525	168.0655	you always can be so ambiguous
+Ses03F_script01_3_M020	166.8436	169.2873	give me a kiss annie
+Ses03F_script01_3_M021	169.4425	171.1525	give me
+Ses03F_script01_3_M022	172.8475	186.2666	god i kissed annie i kissed annie how long how long i ve been waiting to kiss you
+Ses03F_script01_3_F021	186.2034	196.7365	i don t know if i ever can forgive you for that why d you wait so long i sat in my room wondering if i was crazy for thinking about you
+Ses03F_script01_3_M023	196.6101	203.1616	we re going to live now i m going to make you so happy
+Ses03F_script01_3_F022	203.5619	207.9226	not like that you re not
+Ses03F_script01_3_M024	206.9114	209.3129	i kissed you
+Ses03F_script01_3_F023	208.1754	214.7901	like larry s brother do it like you chris
+Ses03F_script01_3_F024	215.8645	219.6564	what is it
+Ses03F_script01_3_M025	219.7196	224.0125	let s drive somewhere i want to be alone with you
+Ses03F_script01_3_F025	223.4550	227.1981	no what is it is it your mother
+Ses03F_script01_3_M026	226.3344	230.0841	no no no no nothing like that
+Ses03F_script01_3_F026	229.1361	235.0347	well then tell me what s wrong i mean even in your letters there s something ashamed
+Ses03F_script01_3_M027	233.9814	242.6817	yeah i guess there is i guess i was but uh it s going from me now
+Ses03F_script01_3_F027	242.9345	246.3472	you should tell me
+Ses03F_script01_3_M028	245.2517	248.2431	i don t know where to start
+Ses03F_script01_3_F028	247.6743	251.8454	but chris it wouldn t work like this
+Ses03F_script01_3_M029	253.2779	259.2186	you know when i went overseas i said i was in command of a company
+Ses03F_script01_3_F029	258.1442	260.0823	yeah sure
+Ses03F_script01_3_M030	259.6820	262.0525	well i lost them
+Ses03F_script01_3_F030	261.9782	264.5272	how many
+Ses03F_script01_3_M031	263.5792	266.6760	just about all
+Ses03F_script01_3_F031	266.0440	269.3724	geez
+Ses03F_script01_3_M032	268.1600	274.7232	it takes a little while to toss that off because they weren t just men
+Ses03F_script01_3_M033	274.7654	285.4669	for instance one time it had to have been raining several days there was this one kid he came up to me and he gave me his last pair of dry socks put them in my pocket
+Ses03F_script01_3_M034	285.5301	300.3818	i mean that s that s only a little thing but that s the kind of guys i had they didn t just die they killed themselves for each other and i mean that exactly a little more selfish and they d still be here today
+Ses03F_script01_3_M035	300.6556	306.7648	and i and i thought something watching them go down
+Ses03F_script01_3_M036	306.8325	320.1207	everything was being destroyed see but there was one new thing that was being created a kind of responsibility man for man you understand me
+Ses03F_script01_3_M037	320.2050	331.3279	and to show that to bring that onto the earth like some sort of monument standing right behind us where everyone could feel it and it would make a difference to him
+Ses03F_script01_3_M038	331.3911	342.5350	and i came back here and it was incredible there was no meaning in that here the whole thing to them was a bus accident
+Ses03F_script01_3_M039	342.5982	356.8225	and i went to work with dad and that rat race again and i felt what you said ashamed somehow because nobody was changed at all it seemed to make a sucker out of a lot of guys
+Ses03F_script01_3_M040	356.8600	376.6975	and i felt wrong to be alive to drive the car to see the new checkbook to see the new refrigerator i mean you can take those things out of the war but you got to know that when you drive that car that that came out of the love a man can have for another man and you got to be a little bit better because of that
+Ses03F_script01_3_M041	376.7750	381.1071	otherwise what you have here is loot and there s blood on it
+Ses03F_script01_3_M042	381.1703	384.0985	and i didn t want to take any of it
+Ses03F_script01_3_M043	384.1825	387.8904	and i guess that included you
+Ses03F_script01_3_F032	388.0379	391.4295	and you still feel that way
+Ses03F_script01_3_M044	390.9661	393.9364	i want you now annie
+Ses03F_script01_3_F033	393.3676	401.9525	because you can t feel that way never again chris you hear me never i mean the money and me too
+Ses03F_script01_3_F034	402.0150	410.2837	i mean there s nothing wrong in that money and your father put good planes up in the air and you should be proud of that a man should be paid for that
+Ses03F_script01_3_M045	409.7570	412.3271	annie
+Ses03F_script01_3_M046	412.4925	415.8030	annie i m going to make a fortune for you
+Ses03F_script01_3_F035	414.7775	419.3842	what am i going to do with a fortune

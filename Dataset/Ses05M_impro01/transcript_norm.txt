@@ -1,0 +1,47 @@
+Ses05M_impro01_F000	3.9419	5.5500	can i help you
+Ses05M_impro01_M000	5.1900	9.7600	yes i m um just getting my i d i need a new i d
+Ses05M_impro01_F001	9.7900	19.0800	oh this this form that you have is the wrong form you need to go over to the other line on the other side of the d m v
+Ses05M_impro01_M001	18.8700	23.2300	what do you mean i filled out my forms and i rushed to get my i d
+Ses05M_impro01_F002	21.8200	25.7400	right but this is the wrong form somebody gave you the wrong form
+Ses05M_impro01_M002	25.4600	26.9700	the wrong form
+Ses05M_impro01_F003	25.9700	28.7700	yeah so i can t i can t do anything
+Ses05M_impro01_M003	27.5100	31.2200	what s wrong about this form it says new i d on it
+Ses05M_impro01_F004	30.5800	37.7100	no but this is for um replacements and you need a new whole new license as a california
+Ses05M_impro01_M004	36.6600	40.1800	what s the difference what s the difference between that form and this form
+Ses05M_impro01_F005	39.6500	42.4300	sir don t get an attitude with me
+Ses05M_impro01_M005	42.0100	45.6200	i m not getting a well you wait in this line and not get an attitude
+Ses05M_impro01_F006	45.1800	55.9300	no i understand and there are a lot of people here but what i m telling you is that it s different for different states and since your getting a new license in the state of california you have to fill out a different form than you did
+Ses05M_impro01_M006	51.9500	52.9600	yeah
+Ses05M_impro01_M007	53.0100	54.0700	right
+Ses05M_impro01_M008	55.5000	61.3400	well then when i showed them my i d before and i said i had to get a new i d why didn t they tell me to fill out the right form
+Ses05M_impro01_F007	60.2600	63.4300	i don t know i don t know who told you it wasn t me
+Ses05M_impro01_M009	62.9300	68.2100	well it was this girl standing right next to you can we ask her why she didn t let me fill out the right form
+Ses05M_impro01_F008	66.1000	70.3800	you you can ask her if you want but she s busy and she probably won t answer you
+Ses05M_impro01_M010	70.0300	77.8600	this is ridiculous i ve been here for forty five minutes just standing in this one line i took fifteen minutes to fill out that form
+Ses05M_impro01_F009	73.0300	74.4200	i know
+Ses05M_impro01_F010	74.4300	76.7300	sir you i mean
+Ses05M_impro01_M011	77.8700	80.9800	do you know how long it s gonna take me to start all over and fill out the new form
+Ses05M_impro01_F011	77.8100	80.1400	you can waist as much as you want
+Ses05M_impro01_F012	80.1500	83.7500	yeah i know it s gonna take a minute but you so you might as well get started now
+Ses05M_impro01_M012	83.5200	86.3200	might as well get started now but just take this one
+Ses05M_impro01_F013	85.8300	89.2300	i can t take this one sir this is the wrong form
+Ses05M_impro01_M013	87.4100	98.7300	why can t we just you know what how about if we just pretend that i m getting a renewing my california i d and we just don t tell anybody that i m getting a new one from a different state
+Ses05M_impro01_F014	94.4000	97.0300	sir please don t waste my time
+Ses05M_impro01_F015	97.6000	103.3300	there is nothing i can do about it you need to take this other form and fill it out and go stand in the other line
+Ses05M_impro01_M014	102.6700	114.3100	come on you know you can t just take make a little exception to the rule i know that you guys make exceptions i see you know if i was if i was your friend and you knew me or something like that you d probably make a little exception for me wouldn t you
+Ses05M_impro01_F016	106.9700	110.5800	they re different forms we process them all different
+Ses05M_impro01_M015	114.3200	119.0300	wouldn t you oh come on you just tell me you would make an exception for me
+Ses05M_impro01_F017	114.5400	117.3100	i there s no way i d make an exception
+Ses05M_impro01_F018	117.6100	123.9600	sir don t patronize me i can t make an exception i don t i don t have the power to do that it s a different form
+Ses05M_impro01_M016	122.3700	125.0800	shh i know you ve got the power to do that
+Ses05M_impro01_F019	124.0000	126.8700	they re processed differently
+Ses05M_impro01_M017	125.0900	127.9500	that s crap you re crap i don t buy it
+Ses05M_impro01_F020	127.4900	130.6000	sir you re gonna have to go stand in the other line
+Ses05M_impro01_M018	129.6400	135.3100	i m not leaving this line until i get my new i d that s as simple as it is i m not leaving this line until i get my new i d
+Ses05M_impro01_F021	132.8200	137.3100	i m gonna i m gonna bring security over and have them escort you out
+Ses05M_impro01_M019	136.6900	143.2400	well then you re just gonna look stupid because i m just waiting for an i d and you re gonna make security take me out because i want my i d
+Ses05M_impro01_M020	143.2500	144.9700	that s just dumb
+Ses05M_impro01_F022	142.9300	147.7700	but you filled out the wrong form and you re in the wrong line and you re wasting both of our times
+Ses05M_impro01_M021	145.7700	148.7900	i filled out the wrong form because they made me fill out the wrong form
+Ses05M_impro01_F023	148.4300	152.7500	well that s unfortunate sir you re gonna have to go stand in the other line now
+Ses05M_impro01_M022	152.3100	160.3200	this is crap you know i don t even know why i m in this state screw california i m out of here

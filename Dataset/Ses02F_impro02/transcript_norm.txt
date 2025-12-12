@@ -1,0 +1,29 @@
+Ses02F_impro02_F000	8.9084	11.9078	it s almost time for me to go
+Ses02F_impro02_M000	11.5255	18.7886	i can t believe that now are you sure this is absolutely necessary like
+Ses02F_impro02_F001	18.3682	24.3889	there s nothing i can do i mean the government you know
+Ses02F_impro02_M001	24.1978	31.0213	what what re we gonna do here i can t i can t do this by myself i
+Ses02F_impro02_F002	30.6582	37.9405	you re gonna have to i mean you re a great father you can do it i know you can
+Ses02F_impro02_M002	37.8258	47.7648	but i m i m nothing i m nothing without you here maybe we can we can get out of this somehow
+Ses02F_impro02_F003	46.8146	49.4112	i don t think so
+Ses02F_impro02_M003	49.5424	63.7247	well come on you ve gotta think of something a year a year away it s gonna tear us apart i don t even i don t even wanna think about it i mean i don t even know if i ll be able to get in touch with you or
+Ses02F_impro02_F004	63.2468	75.4222	well we can do the best we can and and with um you know like wireless internet these days i think that we could talk every once in awhile
+M	0.0000	0.0000	it s not
+Ses02F_impro02_F005	75.4413	78.5568	you could send me pictures
+Ses02F_impro02_M004	75.6898	78.5377	it s not going to be the same
+Ses02F_impro02_M005	79.4743	88.2594	what if maybe what if uh we went somewhere over there i don t i don t know i i need to figure something out for this because
+Ses02F_impro02_F006	88.0123	94.8416	their not gonna let you you have to stay home and i have to go i mean that s all
+Ses02F_impro02_F007	96.6544	108.6034	and i mean my daughter i don t want to put her in danger you know she has to stay
+Ses02F_impro02_M006	108.3358	114.6815	this is gonna be a a crucial yet she s she s growing up she s gonna need you
+Ses02F_impro02_F008	114.9300	126.1305	i know but she needs to be safe more she needs to be around kids her age own age she needs to be able to play on the streets and
+Ses02F_impro02_M007	126.3408	139.8386	but she s you re not gonna you re not gonna be here for for her first words for her first steps i mean it s something that you re supposed to be here for that
+Ses02F_impro02_F009	139.4718	143.5239	you can just remember it for me
+Ses02F_impro02_M008	144.2502	150.5386	i don t know i don t know i don t know how i don t know how this could even be possible for you i if i was
+Ses02F_impro02_F010	148.5507	156.3682	well i need i need you to be able to do this for me cause i can t do anything about it
+Ses02F_impro02_F011	158.5369	166.7660	i mean it s just as hard for me but i know that we can do it you know
+Ses02F_impro02_M009	167.2160	177.6416	i mean you just get to go off and do your thing i mean yeah we re both i don t know it s bad for both of us but
+Ses02F_impro02_M010	177.9283	185.5164	it would be so much better if we can if we could stay together somehow you know we could we could do this together
+Ses02F_impro02_F012	184.8857	191.1740	i don t want you in danger and i don t want her in danger
+Ses02F_impro02_M011	190.0061	194.4042	i don t want you in danger where are you going you re going over to war
+Ses02F_impro02_F013	193.9264	207.0400	i have no choice there s nothing i can do
+M	0.0000	0.0000	well i mean
+Ses02F_impro02_M012	208.8905	210.8151	all right

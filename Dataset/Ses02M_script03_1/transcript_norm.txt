@@ -1,0 +1,64 @@
+Ses02M_script03_1_M000	5.5365	7.2541	good god
+Ses02M_script03_1_F000	6.7608	8.6428	do you think it s them
+Ses02M_script03_1_M001	8.1099	9.5667	i wonder
+Ses02M_script03_1_F001	9.1462	12.2099	well nobody knows we re here except freda and she wouldn t ring up
+Ses02M_script03_1_M002	11.5341	13.4564	must be them then
+Ses02M_script03_1_F002	13.0059	15.7092	what are we going to do
+Ses02M_script03_1_M003	16.2649	19.1183	we re all right darling aren t we whatever happens
+Ses02M_script03_1_F003	18.5326	20.8905	now and always sweet
+Ses02M_script03_1_M004	20.3799	22.0920	i don t care then
+Ses02M_script03_1_F004	21.3711	24.1945	it s bound to come sooner or later
+Ses02M_script03_1_M005	23.7318	30.3521	hello hello what wrong number
+Ses02M_script03_1_F005	29.3458	33.1455	oh it sends shivers down my spine
+Ses02M_script03_1_M006	32.3946	35.4283	what do we do if they suddenly walk in on us
+Ses02M_script03_1_F006	34.9176	37.6510	behave exquisitely
+Ses02M_script03_1_M007	36.8550	38.9426	with the most perfect poise
+Ses02M_script03_1_F007	38.1466	42.2165	yes i should probably to a court curtsey
+Ses02M_script03_1_M008	41.7810	46.2415	things that ought to matter dreadfully don t matter at all when one s is happy do they
+Ses02M_script03_1_F008	45.7158	49.1550	what s so horrible is that one can t stay happy
+Ses02M_script03_1_M009	48.3140	50.2964	oh darling don t say that
+Ses02M_script03_1_F009	49.6807	53.3001	it s true the whole business is a very poor joke
+Ses02M_script03_1_M010	52.7895	56.4840	meaning that sacred and beautiful thing love
+Ses02M_script03_1_F010	55.8532	58.0008	yes meaning just that
+Ses02M_script03_1_M011	57.8506	66.9518	what does it all mean that s what i ask that s what i ask myself in my ceaseless quest for ultimate truth good god what does it all mean
+Ses02M_script03_1_F011	65.7202	68.3785	don t laugh at me i m serious
+Ses02M_script03_1_M012	67.6426	70.7814	you mustn t be serious my dear one that s just what they want
+Ses02M_script03_1_F012	70.1807	71.6825	who s they
+Ses02M_script03_1_M013	71.0668	79.0343	all those futile moralists who try to make life unbearable laugh at them be flippant laugh at everything all their sacred shibboleths
+Ses02M_script03_1_M014	79.0941	83.0664	flippancy brings out the acid in their damned sweetness in light
+Ses02M_script03_1_F013	82.1503	85.5445	well if i laugh at everything then i must laugh at us too
+Ses02M_script03_1_M015	84.8536	88.1727	certainly you must we figures of fun all right
+Ses02M_script03_1_F014	87.6921	91.4166	well shall we always want to bicker and fight
+Ses02M_script03_1_M016	90.8309	94.6456	no that desire will fade along with our passion
+Ses02M_script03_1_F015	94.2401	96.7481	oh dear should we like that
+Ses02M_script03_1_M017	96.2375	98.7456	depends on how well we play it
+Ses02M_script03_1_F016	98.2650	103.4163	well what happens if one of us dies does the one that s left still laugh
+Ses02M_script03_1_M018	102.7104	105.5789	yes yes with all his might
+Ses02M_script03_1_F017	105.1884	107.5613	well that s serious enough isn t it
+Ses02M_script03_1_M019	106.7203	112.7727	no no it isn t death is very laughable such a cunning little mystery all done with mirrors
+Ses02M_script03_1_F018	112.2020	115.3408	darling i believe you re talking nonsense
+Ses02M_script03_1_M020	114.7701	117.3683	so is everyone else in the long run
+Ses02M_script03_1_M021	117.3833	131.0900	let s be superficial and pity the poor philosophers let s blow our trumpets and squeakers and enjoy the party as much as we can like quite idiotic very small school children let s savor the delight of the moment
+Ses02M_script03_1_M022	131.1199	135.9153	come kiss me darling before your body rots and worms pop in and out of your eye sockets
+Ses02M_script03_1_F019	135.4354	138.0486	elliot worms don t pop
+Ses02M_script03_1_M023	137.4478	149.5226	i don t care what you do see you can paint yourself green and dance naked in the place vendome and rush off madly with all the men in the world and i shan t say a word as long as you love me best
+Ses02M_script03_1_F020	148.4863	155.8903	thank you dear the same applies you except that if i catch you so much as looking at another woman i ll kill you
+Ses02M_script03_1_M024	155.2896	158.9541	you remember that awful scene we had in venice
+Ses02M_script03_1_F021	157.9779	160.6512	which particular one
+Ses02M_script03_1_M025	160.2156	165.2468	the one when you bought that little painted wooden snake in the piazza and put it on my bed
+Ses02M_script03_1_F022	164.1655	169.3167	oh charles that was his name charles it did wiggle so beautifully
+Ses02M_script03_1_M026	168.7310	170.9537	horrible thing i hated it
+Ses02M_script03_1_F023	169.9475	176.6757	i know you did you threw it out of the window into the grand canal i don t think i ll ever forgive you for that
+Ses02M_script03_1_M027	176.0149	178.2226	how long did that row last
+Ses02M_script03_1_F024	177.4867	180.2651	it went on intermittently for days
+Ses02M_script03_1_M028	179.9197	185.0409	the worst one was in cannes when your curling iron burned a hole in my new dressing gown
+Ses02M_script03_1_F025	183.4941	188.0446	it burned my comb too and all the towels in the bathroom
+Ses02M_script03_1_M029	186.7230	189.3062	that was a rouser wasn t it
+Ses02M_script03_1_F026	188.6003	191.8743	that was the first time you ever hit me
+Ses02M_script03_1_M030	191.3336	193.7366	i didn t hit you very hard
+Ses02M_script03_1_F027	192.7754	200.6450	the manager came in and found us rolling around on the floor biting and scratching like panthers
+Ses02M_script03_1_M031	199.3084	201.8314	i ll never forget his face
+Ses02M_script03_1_F028	200.7651	205.3307	oh it was ridiculous completely ridiculous
+Ses02M_script03_1_M032	204.6399	207.0278	we were very much younger then
+Ses02M_script03_1_F029	206.4871	209.2956	and very much sillier
+Ses02M_script03_1_M033	208.7249	213.5908	as a matter of fact the real cause of that row was peter burden

@@ -1,907 +1,365 @@
-#!/usr/bin/env python3
+# Helper.py
 """
-make_metadata.py
+Dataset preparation helper for IEMOCAP → single Dataset folder.
 
-- Input: target_root (e.g. S:/Sambhav's Project/Dataset)
-- Output: metadata.json (saved in target_root)
-- Relies on per-audio files:
-    - emotion_label.txt  (format: UTT_ID EMOTION [val act dom])
-    - <audio_id>_reference.rttm  (optional) or any *_reference.rttm
-    - speaker_map.json (optional)
-    - audio file (wav) named anything inside the audio folder (optional)
+Behavior (this version):
+- For each session (Session1..Session5) under IEMOCAP root:
+    - copies .wav files to: DATASET_ROOT/<audio_id>/<audio_id>.wav
+    - copies transcripts to: DATASET_ROOT/<audio_id>/transcript.txt
+    - copies ALL categorical utterance files to: DATASET_ROOT/<audio_id>/emotions/<orig_filename>.txt
+    - copies ALL attribute utterance files to: DATASET_ROOT/<audio_id>/attributes/<orig_filename>.txt
+    - creates placeholder speaker_map.json and metadata.json if missing
+    - writes a manifest.json summarizing files inside each audio folder
+- Skips hidden files (starting with '.')
+- Prints per-session summaries and per-audio manifest info
+- Non-destructive: does not delete existing dataset content
 """
-import os, json, time
-from datetime import datetime
-import glob
 
-try:
-    import soundfile as sf
-except Exception:
-    sf = None
+import json
+import shutil
+from pathlib import Path
+from typing import Optional, Dict, List
 
-def read_emotion_label_file(path):
+# ----------------------------
+# GLOBAL VARIABLES (set by TakeInput)
+# ----------------------------
+DATASET_ROOT: Optional[Path] = None
+IEMOCAP_ROOT: Optional[Path] = None
+
+SESSIONS = ["Session1", "Session2", "Session3", "Session4", "Session5"]
+
+
+class TakeInput:
     """
-    Returns list of dicts: [{'utt_id':..., 'emotion':..., 'val':'','act':'','dom':''}, ...]
+    Initialize global paths. Creates DATASET_ROOT if not exists.
     """
-    out = []
-    if not os.path.exists(path):
-        return out
-    with open(path,'r',encoding='utf-8',errors='ignore') as fh:
-        for ln in fh:
-            ln = ln.strip()
-            if not ln or ln.startswith('%') or ln.startswith('#'):
-                continue
-            parts = ln.split()
-            # first token = utt_id, second = emotion, next three optional numeric
-            if len(parts) >= 2:
-                utt = parts[0]
-                emo = parts[1]
-                val = parts[2] if len(parts) > 2 else ""
-                act = parts[3] if len(parts) > 3 else ""
-                dom = parts[4] if len(parts) > 4 else ""
-                out.append({'utt_id': utt, 'emotion': emo, 'val': val, 'act': act, 'dom': dom})
-    return out
 
-def read_rttm_file(path):
+    def __init__(self, location1: str, location2: str):
+        global DATASET_ROOT, IEMOCAP_ROOT
+        DATASET_ROOT = Path(location1).expanduser().resolve()
+        IEMOCAP_ROOT = Path(location2).expanduser().resolve()
+
+        # Create dataset root dir if not exists
+        DATASET_ROOT.mkdir(parents=True, exist_ok=True)
+
+        print("\n[✔] INPUT PATHS INITIALIZED")
+        print(f"   → Dataset Output (location1): {DATASET_ROOT}")
+        print(f"   → IEMOCAP Root (location2):   {IEMOCAP_ROOT}\n")
+
+
+class helper_class:
     """
-    Read RTTM lines that we wrote:
-    Format (our style):
-    <audio_id> <utt_id> 1 <start> <duration> <NA> <NA> <mapped_speaker> <NA>
-    Returns dict utt_id -> (start, duration, mapped_speaker)
+    All processing functions live here.
     """
-    d = {}
-    if not os.path.exists(path):
-        return d
-    with open(path,'r',encoding='utf-8',errors='ignore') as fh:
-        for ln in fh:
-            ln = ln.strip()
-            if not ln:
-                continue
-            toks = ln.split()
-            if len(toks) < 9:
-                continue
-            # toks: [audio_id, utt_id, '1', start, duration, '<NA>', '<NA>', mapped, '<NA>']
-            audio_field = toks[0]
-            utt = toks[1]
-            try:
-                start = float(toks[3])
-                dur = float(toks[4])
-            except:
-                start = None; dur = None
-            mapped = toks[7] if len(toks) > 7 else ''
-            d[utt] = {'start': start, 'duration': dur, 'mapped': mapped, 'audio_id_field': audio_field}
-    return d
 
-def find_audio_file(folder):
-    """Find first audio file (wav/flac) in folder"""
-    exts = ('*.wav','*.flac','*.mp3','*.m4a')
-    for e in exts:
-        lst = glob.glob(os.path.join(folder,e))
-        if lst:
-            return lst[0]
-    return None
+    @staticmethod
+    def safe_copy(src: Path, dst: Path):
+        """
+        Copy file src -> dst. Ensure dst parent exists.
+        """
+        dst.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(src, dst)
 
-def inspect_audio(path):
-    """Return duration (s), samplerate, channels using soundfile if available"""
-    if sf is None:
-        return None
-    try:
-        info = sf.info(path)
-        duration = info.frames / float(info.samplerate) if info.samplerate else None
-        return {'duration': duration, 'samplerate': info.samplerate, 'channels': info.channels}
-    except Exception:
-        return None
+    @staticmethod
+    def create_placeholders(target_folder: Path):
+        """
+        Create empty speaker_map.json and metadata.json if they don't exist.
+        """
+        speaker_map = target_folder / "speaker_map.json"
+        metadata = target_folder / "metadata.json"
 
-def main():
-    target_root = input("Enter target dataset root (e.g. S:/Sambhav's Project/Dataset): ").strip()
-    if not os.path.isdir(target_root):
-        print("Not found:", target_root); return
-    metadata = {}
-    metadata['dataset_name'] = os.path.basename(target_root) or "dataset"
-    metadata['original_root'] = ""  # optional: fill if you want
-    metadata['generated_at'] = datetime.now().astimezone().isoformat()
-    metadata['num_audios'] = 0
-    metadata['notes'] = "Generated by make_metadata.py"
+        if not speaker_map.exists():
+            speaker_map.write_text(json.dumps({}, indent=2), encoding="utf-8")
 
-    audio_folders = sorted([d for d in os.listdir(target_root) if os.path.isdir(os.path.join(target_root,d)) and not d.startswith('.')])
-    metadata['num_audios'] = len(audio_folders)
-    metadata['audios'] = {}
+        if not metadata.exists():
+            metadata.write_text(json.dumps({}, indent=2), encoding="utf-8")
 
-    for aid in audio_folders:
-        folder = os.path.join(target_root, aid)
-        # load speakermap if exists
-        spmap_path = os.path.join(folder, 'speaker_map.json')
-        spmap = {}
-        if os.path.exists(spmap_path):
-            try:
-                with open(spmap_path,'r',encoding='utf-8') as fh:
-                    spmap = json.load(fh)
-            except:
-                spmap = {}
-        # load emotion_label (per-audio)
-        emo_path = os.path.join(folder, 'emotion_label.txt')
-        emol = read_emotion_label_file(emo_path)
-        # load rttm
-        rttm_candidates = glob.glob(os.path.join(folder, '*reference.rttm')) or glob.glob(os.path.join(folder, '*.rttm'))
-        rttm_data = {}
-        if rttm_candidates:
-            rttm_data = read_rttm_file(rttm_candidates[0])
-            rttm_source = os.path.basename(rttm_candidates[0])
-        else:
-            rttm_source = None
-        # audio inspect
-        audio_file = find_audio_file(folder)
-        audio_info = inspect_audio(audio_file) if audio_file else None
-
-        # aggregate utterances: prefer rttm timings if available
-        utts = []
-        for e in emol:
-            utt_id = e['utt_id']
-            emo = e['emotion']
-            val, act, dom = e.get('val',''), e.get('act',''), e.get('dom','')
-            rdata = rttm_data.get(utt_id, {})
-            start = rdata.get('start') if rdata else None
-            dur = rdata.get('duration') if rdata else None
-            mapped = rdata.get('mapped') if rdata else None
-            # fallback: if no rttm timings but emotion_label contains timing? (not in our format)
-            utts.append({
-                'utt_id': utt_id,
-                'start': start,
-                'duration': dur,
-                'speaker_token': None,        # if you want, can parse token from utt_id
-                'speaker_mapped': mapped,
-                'emotion': emo,
-                'val': val,
-                'act': act,
-                'dom': dom,
-                'rttm_source': rttm_source
-            })
-
-        metadata['audios'][aid] = {
-            'audio_path': audio_file or '',
-            'duration': audio_info['duration'] if audio_info else None,
-            'sample_rate': audio_info['samplerate'] if audio_info else None,
-            'channels': audio_info['channels'] if audio_info else None,
-            'num_utterances': len(utts),
-            'utterances': utts,
-            'speaker_map': spmap,
-            'files': {
-                'emotion_label': os.path.basename(emo_path) if os.path.exists(emo_path) else '',
-                'rttm': os.path.basename(rttm_candidates[0]) if rttm_candidates else ''
-            }
+    @staticmethod
+    def write_manifest(target_folder: Path):
+        """
+        Write manifest.json listing available files (wav, transcript, emotions, attributes)
+        """
+        manifest: Dict[str, List[str]] = {
+            "wav": [],
+            "transcript": [],
+            "emotions": [],
+            "attributes": []
         }
 
-    outp = os.path.join(target_root, 'metadata.json')
-    with open(outp,'w',encoding='utf-8') as fh:
-        json.dump(metadata, fh, indent=2, ensure_ascii=False)
-    print("metadata written:", outp)
+        # wav
+        for f in target_folder.glob("*.wav"):
+            manifest["wav"].append(f.name)
 
-if __name__ == '__main__':
-    main()
+        # transcript
+        t = target_folder / "transcript.txt"
+        if t.exists():
+            manifest["transcript"].append(t.name)
 
+        # emotions
+        emo_dir = target_folder / "emotions"
+        if emo_dir.exists():
+            for f in sorted(emo_dir.iterdir()):
+                if f.is_file():
+                    manifest["emotions"].append(f.name)
 
+        # attributes
+        atr_dir = target_folder / "attributes"
+        if atr_dir.exists():
+            for f in sorted(atr_dir.iterdir()):
+                if f.is_file():
+                    manifest["attributes"].append(f.name)
 
+        (target_folder / "manifest.json").write_text(json.dumps(manifest, indent=2), encoding="utf-8")
 
+    def process_all_sessions(self):
+        """
+        Iterate sessions and process each session's dialog folder.
+        """
+        global DATASET_ROOT, IEMOCAP_ROOT
 
+        if DATASET_ROOT is None or IEMOCAP_ROOT is None:
+            raise RuntimeError("DATASET_ROOT and IEMOCAP_ROOT must be initialized via TakeInput.")
 
+        for session in SESSIONS:
+            print("\n" + "=" * 72)
+            print(f"PROCESSING {session}")
+            print("=" * 72)
 
+            dialog_path = IEMOCAP_ROOT / session / "dialog"
 
-'''#!/usr/bin/env python3
-"""
-make_emotion_labels_iemocap.py
-Simple script:
-- Traverse original IEMOCAP sessions (Session1..5)
-- Read Categorical and Attribute files under EmoEvaluation
-- Map utterance -> audio_id (Ses01F_impro01)
-- Write global emotion_label.txt and per-audio emotion_label.txt inside target_root
+            wav_path = dialog_path / "wav"
+            trans_path = dialog_path / "transcriptions"
+            emo_root = dialog_path / "EmoEvaluation"
+            cat_path = emo_root / "Categorical"
+            atr_path = emo_root / "Attribute"
 
-Usage:
-    python make_emotion_labels_iemocap.py
-"""
+            # If dialog folder doesn't exist, skip session
+            if not dialog_path.exists():
+                print(f"[!] dialog folder not found: {dialog_path}. Skipping {session}.")
+                continue
 
-import os, re, sys
+            # Do each step with existence checks
+            wav_count = self.process_wav_files(wav_path) if wav_path.exists() else 0
+            trans_count = self.process_transcriptions(trans_path) if trans_path.exists() else 0
+            cat_count = self.process_categorical(cat_path) if cat_path.exists() else 0
+            atr_count = self.process_attribute(atr_path) if atr_path.exists() else 0
 
-# ---------- helpers ----------
-def find_emoeval_dirs(orig_root):
-    """Return list of (categorical_dir, attribute_dir) pairs found under sessions."""
-    pairs = []
-    for sess in sorted(os.listdir(orig_root)):
-        sdir = os.path.join(orig_root, sess)
-        if not os.path.isdir(sdir):
-            continue
-        dialog = os.path.join(sdir, "dialog")
-        if not os.path.isdir(dialog):
-            continue
-        emo_eval = os.path.join(dialog, "EmoEvaluation")
-        if not os.path.isdir(emo_eval):
-            # sometimes different case; try case-insensitive walk
-            for name in os.listdir(dialog):
-                if name.lower() == "emoevaluation":
-                    emo_eval = os.path.join(dialog, name)
+            # After copying, create or update manifest for each audio folder related to this session
+            session_index = SESSIONS.index(session) + 1
+            session_prefix = f"Ses{session_index:02d}"
+            session_folders = sorted([p for p in DATASET_ROOT.iterdir() if p.is_dir() and p.name.startswith(session_prefix)])
+
+            # write manifest for each audio folder
+            for folder in session_folders:
+                self.create_placeholders(folder)
+                self.write_manifest(folder)
+
+            # Summaries
+            print("\n[Summary for {}]".format(session))
+            print(f"  WAV files copied (utterance-level):      {wav_count}")
+            print(f"  Transcriptions copied (audio-level):    {trans_count}")
+            print(f"  Categorical utterance files copied:     {cat_count}")
+            print(f"  Attribute utterance files copied:       {atr_count}")
+            print(f"  Unique audio folders (session prefix):  {len(session_folders)}")
+            print(f"  Session prefix used:                    {session_prefix}")
+
+            # Ask user to continue
+            while True:
+                ch = input("\nContinue to next session? (Y/N): ").strip().lower()
+                if ch in ("y", "n"):
                     break
-            if not os.path.isdir(emo_eval):
+                print("Please answer Y or N.")
+            if ch == "n":
+                print("Stopping as per user request.")
+                break
+
+    def process_wav_files(self, wav_path: Path) -> int:
+        """
+        Copy .wav files: <wav_path>/*.wav -> DATASET_ROOT/<audio_id>/<audio_id>.wav
+        """
+        print("\n[🔊] Copying WAV files...")
+        count = 0
+        for file in sorted(wav_path.iterdir()):
+            if not file.is_file():
                 continue
-        cat_dir = None
-        attr_dir = None
-        # find categorical and attribute subfolders
-        for name in os.listdir(emo_eval):
-            low = name.lower()
-            p = os.path.join(emo_eval, name)
-            if not os.path.isdir(p):
+            if file.name.startswith("."):
                 continue
-            if 'categor' in low:  # categorical
-                cat_dir = p
-            if 'attribut' in low or 'attribute' in low:  # attribute
-                attr_dir = p
-        pairs.append((cat_dir, attr_dir))
-    return pairs
-
-# regex to extract emotion from categorical lines like:
-# Ses01F_impro01_F000 :Neutral state; ()
-RX_CAT = re.compile(r'^(?P<utt>\S+)\s*[:\s].*?:\s*([A-Za-z \-]+?)\s*;', re.IGNORECASE)
-# fallback: find first token (utt) and attempt to extract emotion after colon
-RX_CAT_FALLBACK = re.compile(r'^(?P<utt>\S+).*?:\s*(?P<emo>[A-Za-z \-]+)', re.IGNORECASE)
-
-# regex for val/act/dom in attribute files: e.g. "val 3; act 2; dom 2;"
-RX_VAL = re.compile(r'val\s*[:\s]*([0-9]+(?:\.[0-9]+)?)', re.IGNORECASE)
-RX_ACT = re.compile(r'act\s*[:\s]*([0-9]+(?:\.[0-9]+)?)', re.IGNORECASE)
-RX_DOM = re.compile(r'dom(?:ain)?\s*[:\s]*([0-9]+(?:\.[0-9]+)?)', re.IGNORECASE)
-
-def parse_categorical_file(path, emot_map):
-    with open(path, 'r', encoding='utf-8', errors='ignore') as fh:
-        for ln in fh:
-            line = ln.strip()
-            if not line: 
+            if file.suffix.lower() != ".wav":
                 continue
-            m = RX_CAT.match(line)
-            if m:
-                utt = m.group('utt').strip()
-                emo = m.group(2).strip().lower()
-                emot_map[utt] = emo
-                continue
-            # fallback
-            m2 = RX_CAT_FALLBACK.match(line)
-            if m2:
-                utt = m2.group('utt').strip()
-                emo = m2.group('emo').strip().lower()
-                emot_map[utt] = emo
 
-def parse_attribute_file(path, attr_map):
-    with open(path, 'r', encoding='utf-8', errors='ignore') as fh:
-        for ln in fh:
-            line = ln.strip()
-            if not line:
-                continue
-            tokens = line.split()
-            utt = tokens[0].strip()
-            v = RX_VAL.search(line)
-            a = RX_ACT.search(line)
-            d = RX_DOM.search(line)
-            val = v.group(1) if v else ''
-            act = a.group(1) if a else ''
-            dom = d.group(1) if d else ''
-            attr_map[utt] = (val, act, dom)
+            audio_id = file.stem  # e.g., Ses01F_impro01 or Ses01F_script01_1
+            target_folder = DATASET_ROOT / audio_id
+            target_folder.mkdir(parents=True, exist_ok=True)
 
-def audio_id_from_utt(utt):
-    """
-    Convert utterance id to audio_id by removing final speaker token.
-    Example: Ses01F_impro01_F000 -> Ses01F_impro01
-    If no underscore, return utt (safe fallback).
-    """
-    if '_' in utt:
-        parts = utt.rsplit('_', 1)
-        return parts[0]
-    return utt
-
-# ---------- main ----------
-def main():
-    print("Simple IEMOCAP emotion label generator")
-    orig_root = input("Enter ORIGINAL dataset root (IEMOCAP top folder): ").strip()
-    target_root = input("Enter TARGET dataset root (Sambhav's Dataset folder): ").strip()
-
-    if not os.path.isdir(orig_root):
-        print("[ERROR] original_root not found:", orig_root); sys.exit(1)
-    if not os.path.isdir(target_root):
-        print("[ERROR] target_root not found:", target_root); sys.exit(1)
-
-    # containers
-    emot_map = {}   # utt -> emotion
-    attr_map = {}   # utt -> (val,act,dom)
-
-    # find sessions and emoeval dirs
-    pairs = find_emoeval_dirs(orig_root)
-    print(f"[INFO] Found {len(pairs)} session emo-eval pairs (some may have None dirs).")
-
-    # parse files
-    for cat_dir, attr_dir in pairs:
-        if cat_dir and os.path.isdir(cat_dir):
-            for fn in sorted(os.listdir(cat_dir)):
-                if fn.lower().endswith('.txt'):
-                    p = os.path.join(cat_dir, fn)
-                    parse_categorical_file(p, emot_map)
-        if attr_dir and os.path.isdir(attr_dir):
-            for fn in sorted(os.listdir(attr_dir)):
-                if fn.lower().endswith('.txt'):
-                    p = os.path.join(attr_dir, fn)
-                    parse_attribute_file(p, attr_map)
-
-    print(f"[INFO] Parsed {len(emot_map)} categorical entries and {len(attr_map)} attribute entries.")
-
-    # prepare outputs
-    global_out = os.path.join(target_root, "emotion_label.txt")
-    unmatched = []
-
-    # write per-audio files map: audio_id -> list of lines
-    per_audio = {}
-
-    for utt, emo in sorted(emot_map.items()):
-        val, act, dom = attr_map.get(utt, ('', '', ''))
-        audio_id = audio_id_from_utt(utt)
-        # check target folder exists
-        dest_folder = os.path.join(target_root, audio_id)
-        line = f"{utt} {emo}"
-        if val or act or dom:
-            line += f" {val} {act} {dom}"
-        # global
-        # map to per-audio
-        if os.path.isdir(dest_folder):
-            per_audio.setdefault(audio_id, []).append(line)
-        else:
-            unmatched.append((utt, audio_id))
-
-    # Write global file (only matched ones)
-    with open(global_out, 'w', encoding='utf-8') as gf:
-        gf.write("% utterance_id emotion val arousal dominance\n")
-        total_written = 0
-        for audio_id in sorted(per_audio.keys()):
-            for ln in per_audio[audio_id]:
-                gf.write(ln + "\n")
-                total_written += 1
-    print(f"[INFO] Global emotion_label.txt written at: {global_out}  (lines={total_written})")
-
-    # Write per-audio files
-    per_written = 0
-    for audio_id, lines in per_audio.items():
-        folder = os.path.join(target_root, audio_id)
-        outp = os.path.join(folder, "emotion_label.txt")
-        with open(outp, 'w', encoding='utf-8') as pf:
-            for ln in lines:
-                pf.write(ln + "\n")
-                per_written += 1
-    print(f"[INFO] Per-audio emotion_label.txt files written ({per_written} lines total).")
-
-    # unmatched report
-    if unmatched:
-        unp = os.path.join(target_root, "unmatched_utts.txt")
-        with open(unp, 'w', encoding='utf-8') as uf:
-            for utt, aid in unmatched:
-                uf.write(f"{utt}\t{aid}\n")
-        print(f"[WARN] {len(unmatched)} utterances could not be mapped to target folders. See {unp}")
-
-    print("[DONE]")
-
-if __name__ == "__main__":
-    main()
-'''
-
-
-
-'''
-#!/usr/bin/env python3
-"""
-make_rttm_json_aware.py
-
-Usage:
-    python make_rttm_json_aware.py
-
-Process:
-- Input: dataset root (folder that contains audio-wise subfolders)
-- For each audio folder:
-    * try to parse whisperx json (word-level with speaker) -> prefer this
-    * else parse <audio_id>*.txt (IEMOCAP style, e.g. Ses01F_impro01_F000 [006.2901-008.2357]: text)
-    * merge contiguous words of same speaker (stitch threshold)
-    * write <audio_id>_reference.rttm with lines:
-        SPEAKER <audio_id> 1 <start> <duration> <NA> <NA> <speaker_mapped> <NA>
-- Preview mode recommended first.
-
-Author: Assistant (for Sambhav) — Hinglish style comments
-"""
-import os, re, json, sys
-from typing import List, Dict
-
-# ---- CONFIG ----
-STITCH_THRESHOLD = 0.2  # seconds max gap between words to merge into same segment
-# ----------------
-
-# flexible timestamp detection (seconds or mm:ss formats)
-TS_DECIMAL = r'\d+\.\d+'
-TS_INT = r'\d+'
-TS_MMSS = r'\d{1,2}:\d{2}(?:\.\d+)?'
-PATTERNS = [
-    re.compile(r'\[\s*(?P<s>{0}|{1}|{2})\s*[-–]\s*(?P<e>{0}|{1}|{2})\s*\]'.format(TS_DECIMAL, TS_INT, TS_MMSS)),
-    re.compile(r'\(\s*(?P<s>{0}|{1}|{2})\s*[-–]\s*(?P<e>{0}|{1}|{2})\s*\)'.format(TS_DECIMAL, TS_INT, TS_MMSS)),
-    re.compile(r'(?P<s>{0}|{1}|{2})\s*[-–]\s*(?P<e>{0}|{1}|{2})'.format(TS_DECIMAL, TS_INT, TS_MMSS)),
-]
-
-UTT_ID_RE = re.compile(r'^(?P<utt_id>\S+)')
-SPEAKER_TOKEN_RE = re.compile(r'\b([FMfm]\d{1,4})\b')  # fallback speaker token finder
-
-def mmss_to_seconds(s: str):
-    """Convert mm:ss(.ms) or seconds string to float seconds."""
-    try:
-        if ':' in s:
-            mm, ss = s.split(':', 1)
-            return float(mm) * 60.0 + float(ss)
-        return float(s)
-    except:
-        return None
-
-def find_any_timestamp_pair(line: str):
-    """Try patterns to extract start,end. Return (start_sec,end_sec) or (None,None)."""
-    for p in PATTERNS:
-        m = p.search(line)
-        if m:
-            s = m.group('s'); e = m.group('e')
-            s_v = mmss_to_seconds(s) if s is not None else None
-            e_v = mmss_to_seconds(e) if e is not None else None
-            if s_v is not None and e_v is not None:
-                return float(s_v), float(e_v)
-    return None, None
-
-def extract_speaker_from_uttid(line: str):
-    """Try to get speaker token from utt-id or anywhere in line."""
-    m = UTT_ID_RE.match(line)
-    if m:
-        utt = m.group('utt_id')
-        if '_' in utt:
-            last = utt.split('_')[-1]
-            if re.match(r'^[FMfm]\d{1,4}$', last):
-                return last.upper()
-    m2 = SPEAKER_TOKEN_RE.search(line)
-    if m2:
-        return m2.group(1).upper()
-    return None
-
-def load_speakermap(folder: str) -> Dict[str,str]:
-    """Load speaker_map.json if exists. Keys normalized uppercase."""
-    sm = os.path.join(folder, 'speaker_map.json')
-    if os.path.exists(sm):
-        try:
-            with open(sm,'r',encoding='utf-8') as fh:
-                data = json.load(fh)
-                return {k.upper(): v for k,v in data.items()}
-        except Exception as e:
-            print(f"[WARN] unable to read speaker_map.json in {folder}: {e}")
-    return {}
-
-def map_speaker_label(orig: str, speakermap: Dict[str,str]) -> str:
-    """Map speaker token using speakermap or fallback by first letter (F/M)"""
-    if not orig:
-        return 'UNK'
-    o = orig.upper()
-    if speakermap and o in speakermap:
-        return speakermap[o]
-    if o.startswith('F'):
-        return 'F'
-    if o.startswith('M'):
-        return 'M'
-    return o  # preserve token
-
-def parse_json_words(json_path: str) -> List[dict]:
-    """
-    Parse whisperx json result to extract word-level entries with start,end,word,speaker.
-    Accepts multiple JSON shapes and returns sorted list by start.
-    """
-    try:
-        with open(json_path,'r',encoding='utf-8') as fh:
-            data = json.load(fh)
-    except Exception as e:
-        print(f"[WARN] cannot open json {json_path}: {e}")
-        return []
-
-    words = []
-    # common: segments -> each segment has 'words'
-    segs = data.get('segments')
-    if isinstance(segs, list):
-        for seg in segs:
-            for w in seg.get('words', []) if isinstance(seg.get('words', []), list) else []:
-                start = w.get('start'); end = w.get('end')
-                if start is None or end is None:
-                    continue
-                text = w.get('text') or w.get('word') or ''
-                speaker = w.get('speaker') or w.get('speaker_label') or None
-                words.append({'start': float(start), 'end': float(end), 'text': text, 'speaker': (speaker or '').upper()})
-    # fallback: top-level 'words'
-    if not words and isinstance(data.get('words'), list):
-        for w in data['words']:
-            start = w.get('start'); end = w.get('end')
-            if start is None or end is None:
-                continue
-            text = w.get('text') or w.get('word') or ''
-            speaker = w.get('speaker') or w.get('speaker_label') or None
-            words.append({'start': float(start), 'end': float(end), 'text': text, 'speaker': (speaker or '').upper()})
-    # last resort: deep walk for dicts with start/end
-    if not words:
-        def walk(obj):
-            out=[]
-            if isinstance(obj, dict):
-                if 'start' in obj and 'end' in obj and (('text' in obj) or ('word' in obj)):
-                    s = obj.get('start'); e = obj.get('end')
-                    if isinstance(s,(int,float)) and isinstance(e,(int,float)):
-                        out.append({'start': float(s), 'end': float(e), 'text': obj.get('text') or obj.get('word') or '', 'speaker': (obj.get('speaker') or '').upper()})
-                for v in obj.values():
-                    out.extend(walk(v))
-            elif isinstance(obj, list):
-                for item in obj:
-                    out.extend(walk(item))
-            return out
-        words = walk(data)
-
-    words = sorted(words, key=lambda x: x['start'])
-    return words
-
-def merge_words_to_segments(words: List[dict]) -> List[dict]:
-    """Merge contiguous words of same speaker into segments using STITCH_THRESHOLD."""
-    if not words:
-        return []
-    segs = []
-    cur = {'start': words[0]['start'], 'end': words[0]['end'], 'speaker': (words[0].get('speaker') or 'UNKNOWN').upper(), 'text': words[0].get('text','')}
-    for w in words[1:]:
-        sp = (w.get('speaker') or 'UNKNOWN').upper()
-        gap = w['start'] - cur['end']
-        if sp == cur['speaker'] and gap <= STITCH_THRESHOLD:
-            cur['end'] = w['end']
-            cur['text'] = cur['text'] + ' ' + (w.get('text') or '')
-        else:
-            cur['duration'] = max(0.0, cur['end'] - cur['start'])
-            segs.append(cur)
-            cur = {'start': w['start'], 'end': w['end'], 'speaker': sp, 'text': w.get('text','')}
-    cur['duration'] = max(0.0, cur['end'] - cur['start'])
-    segs.append(cur)
-    # normalize fields
-    for s in segs:
-        s['speaker_orig'] = (s.get('speaker') or 'UNKNOWN').upper()
-    return segs
-
-def parse_txt_utterances(txt_path: str) -> List[dict]:
-    """
-    Robust parser for IEMOCAP-like .txt lines:
-    Examples:
-    Ses01F_impro01_F000 [006.2901-008.2357]: Excuse me.
-    Ses01F_impro01_M000 [007.5712-010.4750]: Do you have your forms?
-    """
-    segments = []
-    try:
-        with open(txt_path, 'r', encoding='utf-8', errors='ignore') as fh:
-            for ln in fh:
-                line = ln.strip()
-                if not line:
-                    continue
-                s,e = find_any_timestamp_pair(line)
-                if s is None or e is None:
-                    continue
-                sp = extract_speaker_from_uttid(line) or 'UNKNOWN'
-                # text extraction: try after the timestamp + optional ':' or ']:' etc.
-                # remove everything up to first ']:', '):', or first ']' or ')' then optional ':' and space
-                text = line
-                # try to remove prefix with utt id at start
-                parts = re.split(r'\]\s*:\s*|\)\s*:\s*|\]\s*|\)\s*', line, maxsplit=1)
-                if len(parts) >= 2:
-                    text = parts[1].strip()
-                else:
-                    # fallback try split by first colon after timestamp
-                    if ':' in line:
-                        text = line.split(':',1)[1].strip()
-                    else:
-                        # as last resort, remove uttid token
-                        tokens = line.split()
-                        if len(tokens) > 1:
-                            text = ' '.join(tokens[1:])
-                        else:
-                            text = ''
-                segments.append({'start': float(s), 'end': float(e), 'duration': float(e-s), 'speaker_orig': sp.upper(), 'text': text})
-    except Exception as e:
-        print(f"[WARN] cannot read txt {txt_path}: {e}")
-    segments = sorted(segments, key=lambda x: x['start'])
-    return segments
-
-def write_rttm(out_path: str, audio_id: str, segments: List[dict], speakermap: Dict[str,str]):
-    count = 0
-    with open(out_path, 'w', encoding='utf-8') as fh:
-        for s in segments:
-            start = float(s['start'])
-            dur = float(s.get('duration', max(0.0, s.get('end', start) - start)))
-            orig = (s.get('speaker_orig') or s.get('speaker') or 'UNKNOWN').upper()
-            mapped = map_speaker_label(orig, speakermap)
-            fh.write(f"SPEAKER {audio_id} 1 {start:.3f} {dur:.3f} <NA> <NA> {mapped} <NA>\n")
-            count += 1
-    return count
-
-def find_transcript_txt(folder: str, audio_id: str):
-    """Find .txt transcripts inside folder (prefer files containing audio_id)."""
-    allf = sorted([f for f in os.listdir(folder) if f.lower().endswith('.txt') and not f.startswith('.')])
-    if not allf:
-        return None
-    for f in allf:
-        if audio_id in f:
-            return os.path.join(folder, f)
-    return os.path.join(folder, allf[0])
-
-def find_json(folder: str):
-    """Find JSON files inside folder, prefer files with 'whisper' in name."""
-    allf = sorted([f for f in os.listdir(folder) if f.lower().endswith('.json') and not f.startswith('.')])
-    if not allf:
-        return None
-    for f in allf:
-        if 'whisper' in f.lower():
-            return os.path.join(folder, f)
-    return os.path.join(folder, allf[0])
-
-def process_folder(root: str, folder_name: str, preview=True):
-    folder = os.path.join(root, folder_name)
-    audio_id = folder_name
-    print(f"\n=== Processing: {audio_id} ===")
-    speakermap = load_speakermap(folder)
-    # try JSON first (if diarization present with words+speaker)
-    jsonp = find_json(folder)
-    segments = []
-    source = None
-    if jsonp:
-        words = parse_json_words(jsonp)
-        if words:
-            segments = merge_words_to_segments(words)
-            source = f"json:{os.path.basename(jsonp)}"
-    # if no segments from JSON, fall back to txt parsing
-    if not segments:
-        txt = find_transcript_txt(folder, audio_id)
-        if txt and os.path.exists(txt):
-            segs = parse_txt_utterances(txt)
-            if segs:
-                segments = segs
-                source = f"txt:{os.path.basename(txt)}"
-    if not segments:
-        print("[WARN] No parseable segments found (no json words or txt timestamps). Skipping.")
-        return 0
-    out_rttm = os.path.join(folder, f"{audio_id}_reference.rttm")
-    if preview:
-        print(f"[PREVIEW] {audio_id} -> would write {out_rttm}  (segments: {len(segments)}, source={source})")
-        for s in segments[:6]:
-            print("  >", {k: s.get(k) for k in ('start','end','duration','speaker_orig') if k in s})
-        return 0
-    # write
-    n = write_rttm(out_rttm, audio_id, segments, speakermap)
-    print(f"[WRITE] Wrote RTTM {out_rttm}  lines={n}  (source={source})")
-    return n
-
-def run_all(root: str, preview=True):
-    root = os.path.normpath(root)
-    if not os.path.isdir(root):
-        print(f"[ERROR] root not found: {root}")
-        return
-    folders = sorted([d for d in os.listdir(root) if os.path.isdir(os.path.join(root,d)) and not d.startswith('.')])
-    print(f"[INFO] Found {len(folders)} audio folders in {root}")
-    total = 0
-    for f in folders:
-        try:
-            n = process_folder(root, f, preview=preview)
-            total += n
-        except Exception as e:
-            print(f"[ERROR] folder {f} failed: {e}")
-    print(f"\n[SUMMARY] total RTTM lines written: {total}")
-
-if __name__ == "__main__":
-    print("=== make_rttm_json_aware.py ===")
-    root = input("Enter dataset root (e.g. S:/Sambhav's Project/Dataset or S:/Sambhav's Project/Output/WhisperX_Output): ").strip()
-    if not root:
-        print("No root provided. Exiting.")
-        sys.exit(1)
-    # normalize slashes
-    root = root.replace('\\','/')
-    mode = input("Mode? (p=preview, r=run and write) [p/r]: ").strip().lower()
-    preview = (mode != 'r')
-    run_all(root, preview=preview)
-    print("\n[DONE]")
-'''
-
-
-'''
-import argparse
-from pathlib import Path
-import sys
-
-def valid_dir(path_str):
-    p = Path(path_str).expanduser()
-    if not p.exists() or not p.is_dir():
-        raise argparse.ArgumentTypeError(f"Directory does not exist: {path_str}")
-    return p
-
-def parse_args():
-    parser = argparse.ArgumentParser(description="Create empty folders for each audio ID.")
-    parser.add_argument("--audio_dir", type=str, help="Path to audio directory")
-    parser.add_argument("--dest", type=str, help="Destination root for creating ID folders")
-    parser.add_argument("--ext_audio", type=str, default=".wav", help="Audio extension (default .wav)")
-    return parser.parse_args()
-
-def get_input_if_none(arg_value, prompt):
-    if arg_value:
-        return Path(arg_value).expanduser()
-    return Path(input(prompt).strip()).expanduser()
-
-def main():
-    args = parse_args()
-
-    audio_dir = get_input_if_none(args.audio_dir, "Enter path to audio directory: ")
-    dest_root = get_input_if_none(args.dest, "Enter destination root folder: ")
-
-    # Validations
-    if not audio_dir.exists() or not audio_dir.is_dir():
-        print(f"ERROR: audio_dir does not exist or is not a directory: {audio_dir}")
-        sys.exit(1)
-
-    if not dest_root.exists():
-        try:
-            dest_root.mkdir(parents=True, exist_ok=True)
-            print(f"Created destination root: {dest_root}")
-        except Exception as e:
-            print(f"ERROR: Cannot create destination root {dest_root}: {e}")
-            sys.exit(1)
-
-    audio_ext = args.ext_audio if args.ext_audio.startswith('.') else '.' + args.ext_audio
-
-    # Read audio files but ignore hidden files starting with "."
-    audio_files = sorted([
-        p for p in audio_dir.iterdir()
-        if p.is_file()
-        and not p.name.startswith('.')        # Ignore hidden files
-        and p.suffix.lower() == audio_ext.lower()
-    ])
-
-    if not audio_files:
-        print(f"No audio files with extension {audio_ext} found in {audio_dir}")
-        sys.exit(0)
-
-    total_created = 0
-
-    for audio_path in audio_files:
-        uid = audio_path.stem  # unique ID from audio filename
-
-        target_folder = dest_root / uid
-        target_folder.mkdir(parents=True, exist_ok=True)
-        total_created += 1
-
-        print(f"[OK] Created folder: {target_folder}")
-
-    print("\nSummary:")
-    print(f"Total audio files read: {len(audio_files)}")
-    print(f"Total ID folders created: {total_created}")
-
-if __name__ == "__main__":
-    main()
-
-'''
-
-
-
-'''#!/usr/bin/env python3
-"""
-Copy audio files and their matching transcription files into per-ID folders.
-
-Usage:
-    python make_dataset.py --audio_dir "D:\...\wav" --txt_dir "D:\...\transcriptions" --dest "S:\Sambhav's Project\Dataset"
-
-If you omit CLI args, the script will prompt you interactively.
-"""
-
-import argparse
-from pathlib import Path
-import shutil
-import sys
-
-def valid_dir(path_str):
-    p = Path(path_str).expanduser()
-    if not p.exists() or not p.is_dir():
-        raise argparse.ArgumentTypeError(f"Directory does not exist: {path_str}")
-    return p
-
-def parse_args():
-    parser = argparse.ArgumentParser(description="Organize audio + transcription into per-ID folders.")
-    parser.add_argument("--audio_dir", type=str, help="Path to audio files directory (e.g. .../dialog/wav)")
-    parser.add_argument("--txt_dir", type=str, help="Path to transcription files directory (e.g. .../dialog/transcriptions)")
-    parser.add_argument("--dest", type=str, help="Destination root where per-ID folders will be created")
-    parser.add_argument("--ext_audio", type=str, default=".wav", help="Audio extension to consider (default .wav)")
-    parser.add_argument("--ext_text", type=str, default=".txt", help="Text extension to consider (default .txt)")
-    return parser.parse_args()
-
-def get_input_if_none(arg_value, prompt):
-    if arg_value:
-        return Path(arg_value).expanduser()
-    p = Path(input(prompt).strip()).expanduser()
-    return p
-
-def main():
-    args = parse_args()
-
-    audio_dir = get_input_if_none(args.audio_dir, "Enter path to audio directory: ")
-    txt_dir = get_input_if_none(args.txt_dir, "Enter path to transcription directory: ")
-    dest_root = get_input_if_none(args.dest, "Enter destination root folder: ")
-
-    # validations
-    for p, name in [(audio_dir, "audio_dir"), (txt_dir, "txt_dir")]:
-        if not p.exists() or not p.is_dir():
-            print(f"ERROR: {name} does not exist or is not a directory: {p}")
-            sys.exit(1)
-
-    if not dest_root.exists():
-        try:
-            dest_root.mkdir(parents=True, exist_ok=True)
-            print(f"Created destination root: {dest_root}")
-        except Exception as e:
-            print(f"ERROR: Cannot create destination root {dest_root}: {e}")
-            sys.exit(1)
-
-    audio_ext = args.ext_audio if args.ext_audio.startswith('.') else '.' + args.ext_audio
-    text_ext = args.ext_text if args.ext_text.startswith('.') else '.' + args.ext_text
-
-    audio_files = sorted([p for p in audio_dir.iterdir() if p.is_file() and not p.name.startswith('.') and p.suffix.lower() == audio_ext.lower()])
-    if not audio_files:
-        print(f"No audio files with extension {audio_ext} found in {audio_dir}")
-        sys.exit(0)
-
-    copied_count = 0
-    missing_txt = []
-    for audio_path in audio_files:
-        # Unique id = filename without extension
-        uid = audio_path.stem  # Ses01F_impro01 from Ses01F_impro01.wav
-
-        target_folder = dest_root / uid
-        target_folder.mkdir(parents=True, exist_ok=True)
-
-        # Copy audio
-        target_audio = target_folder / audio_path.name
-        try:
-            shutil.copy2(audio_path, target_audio)
-        except Exception as e:
-            print(f"[ERROR] Failed to copy audio {audio_path} -> {target_audio}: {e}")
-            continue
-
-        # Find matching txt in txt_dir (ignore files beginning with .)
-        expected_txt_name = uid + text_ext
-        txt_candidate = txt_dir / expected_txt_name
-
-        # Also allow case-insensitive search if exact not found
-        txt_found = None
-        if txt_candidate.exists() and txt_candidate.is_file() and not txt_candidate.name.startswith('.'):
-            txt_found = txt_candidate
-        else:
-            # scan for matching stem (ignore hidden files)
-            for p in txt_dir.iterdir():
-                if not p.is_file():
-                    continue
-                if p.name.startswith('.'):
-                    continue
-                if p.stem == uid and p.suffix.lower() == text_ext.lower():
-                    txt_found = p
-                    break
-
-        if txt_found:
-            target_txt = target_folder / txt_found.name
+            dst = target_folder / f"{audio_id}.wav"
             try:
-                shutil.copy2(txt_found, target_txt)
+                self.safe_copy(file, dst)
             except Exception as e:
-                print(f"[ERROR] Failed to copy txt {txt_found} -> {target_txt}: {e}")
-            else:
-                copied_count += 1
-                print(f"[OK] {uid}: copied audio and txt -> {target_folder}")
-        else:
-            missing_txt.append(uid)
-            print(f"[WARN] {uid}: audio copied, but no matching txt found in {txt_dir} (expected {expected_txt_name})")
+                print(f"  [!] Error copying {file} -> {dst}: {e}")
+                continue
 
-    print("\nSummary:")
-    print(f"Total audio files processed : {len(audio_files)}")
-    print(f"Total pairs copied           : {copied_count}")
-    if missing_txt:
-        print(f"Missing transcriptions for {len(missing_txt)} IDs. Example(s): {', '.join(missing_txt[:10])}")
-        print("You can inspect their folders in the destination to see only the audio files.")
+            # create placeholders if missing
+            self.create_placeholders(target_folder)
+            count += 1
+
+        print(f"[✔] WAV copied: {count} files")
+        return count
+
+    def process_transcriptions(self, trans_path: Path) -> int:
+        """
+        Copy transcription .txt files: <trans_path>/*.txt -> DATASET_ROOT/<audio_id>/transcript.txt
+        Filename expected: <audio_id>.txt
+        """
+        print("\n[📄] Copying Transcriptions...")
+        count = 0
+        for file in sorted(trans_path.iterdir()):
+            if not file.is_file():
+                continue
+            if file.name.startswith("."):
+                continue
+            if file.suffix.lower() != ".txt":
+                continue
+
+            audio_id = file.stem
+            target_folder = DATASET_ROOT / audio_id
+            target_folder.mkdir(parents=True, exist_ok=True)
+
+            dst = target_folder / "transcript.txt"
+            try:
+                self.safe_copy(file, dst)
+            except Exception as e:
+                print(f"  [!] Error copying transcription {file} -> {dst}: {e}")
+                continue
+
+            self.create_placeholders(target_folder)
+            count += 1
+
+        print(f"[✔] Transcriptions copied: {count} files")
+        return count
+
+    def process_categorical(self, cat_path: Path) -> int:
+        """
+        Copy ALL categorical utterance files into each audio folder's 'emotions' subfolder.
+        Filenames example:
+            Ses01F_impro02_e1_cat.txt
+            Ses01F_script01_1_e2_cat.txt
+
+        We determine audio_id by splitting on '_e' (everything before '_e' is audio_id).
+        """
+        print("\n[🎭] Copying Categorical Emotion Files (all utterances)...")
+        count = 0
+        if not cat_path.exists():
+            print("  [!] Categorical folder does not exist.")
+            return 0
+
+        # iterate through all files and copy each to corresponding audio folder/emotions/
+        for file in sorted(cat_path.iterdir()):
+            if not file.is_file():
+                continue
+            if file.name.startswith("."):
+                continue
+            if file.suffix.lower() != ".txt":
+                continue
+
+            stem = file.stem
+            # robust extraction: split on '_e' which precedes the emotion index (e.g., _e1_)
+            if "_e" in stem:
+                audio_id = stem.split("_e", 1)[0]
+            else:
+                parts = stem.split("_")
+                if len(parts) >= 3 and parts[0].startswith("Ses"):
+                    audio_id = "_".join(parts[:3])
+                else:
+                    audio_id = parts[0]
+
+            target_folder = DATASET_ROOT / audio_id
+            emo_dir = target_folder / "emotions"
+            emo_dir.mkdir(parents=True, exist_ok=True)
+
+            dst = emo_dir / f"{file.name}"
+            try:
+                self.safe_copy(file, dst)
+            except Exception as e:
+                print(f"  [!] Error copying categorical {file} -> {dst}: {e}")
+                continue
+
+            # ensure placeholders + manifest will be created later
+            self.create_placeholders(target_folder)
+            count += 1
+
+        print(f"[✔] Categorical utterance files copied: {count} files")
+        return count
+
+    def process_attribute(self, atr_path: Path) -> int:
+        """
+        Copy ALL attribute utterance files into each audio folder's 'attributes' subfolder.
+        Filenames example:
+            Ses01F_impro02_e1_atr.txt
+            Ses01F_script01_1_e3_atr.txt
+        """
+        print("\n[🧠] Copying Attribute Emotion Files (all utterances)...")
+        count = 0
+        if not atr_path.exists():
+            print("  [!] Attribute folder does not exist.")
+            return 0
+
+        for file in sorted(atr_path.iterdir()):
+            if not file.is_file():
+                continue
+            if file.name.startswith("."):
+                continue
+            if file.suffix.lower() != ".txt":
+                continue
+
+            stem = file.stem
+            if "_e" in stem:
+                audio_id = stem.split("_e", 1)[0]
+            else:
+                parts = stem.split("_")
+                if len(parts) >= 3 and parts[0].startswith("Ses"):
+                    audio_id = "_".join(parts[:3])
+                else:
+                    audio_id = parts[0]
+
+            target_folder = DATASET_ROOT / audio_id
+            atr_dir = target_folder / "attributes"
+            atr_dir.mkdir(parents=True, exist_ok=True)
+
+            dst = atr_dir / f"{file.name}"
+            try:
+                self.safe_copy(file, dst)
+            except Exception as e:
+                print(f"  [!] Error copying attribute {file} -> {dst}: {e}")
+                continue
+
+            self.create_placeholders(target_folder)
+            count += 1
+
+        print(f"[✔] Attribute utterance files copied: {count} files")
+        return count
+
+
+# -------------------------
+# MAIN
+# -------------------------
+def main():
+    print("\n========== DATASET PREPARATION TOOL (KEEP ALL UTTERANCE EMOTIONS) ==========\n")
+    location1 = input("Enter Dataset Output Folder (location1) [e.g., S:\\Sambhav's Project\\Dataset]: ").strip()
+    location2 = input("Enter IEMOCAP Dataset Folder (location2) [e.g., S:\\IEMOCAP_full_release]: ").strip()
+
+    if not location1 or not location2:
+        print("Both locations are required. Exiting.")
+        return
+
+    # Initialize global paths
+    TakeInput(location1, location2)
+
+    # Run processing
+    helper = helper_class()
+    helper.process_all_sessions()
+
+    print("\n[✔] DATASET PROCESSING COMPLETED SUCCESSFULLY\n")
+
 
 if __name__ == "__main__":
-    main()'''
+    main()

@@ -1,0 +1,39 @@
+Ses01F_impro07_M000	2.9700	4.7800	did you get the letter
+Ses01F_impro07_F000	3.9500	10.5900	yes there s a big envelope it says you re in i know
+Ses01F_impro07_M001	7.5325	11.9600	yeah that is so awesome
+M	0.0000	0.0000	did you
+Ses01F_impro07_M002	13.9200	19.0900	oh my god what are you going to do
+Ses01F_impro07_F001	11.3600	16.5575	so i have to move back to the ghetto but i know
+Ses01F_impro07_M003	20.6800	28.0600	oh yeah i bet you re really excited oh that s what loans are for right exactly
+Ses01F_impro07_F002	19.6100	31.6500	i m really excited yeah i don t know how i m going to pay for anything but i also yeah loans too yeah i applied though for a bunch of grants and scholarships so i m still waiting to hear on that
+Ses01F_impro07_M004	30.9150	38.8100	oh good good that s awesome are you going to stay around here or are you going to like get a different neighborhood you going to move to a different neighborhood
+Ses01F_impro07_F003	32.5200	34.9000	oh i know i know i know i know
+Ses01F_impro07_F004	37.1625	42.4900	i don t know i spend so much time commuting as it is i d rather
+Ses01F_impro07_M005	41.1700	46.9975	this is so i am so happy that you re going to stay you re not going to we should totally throw a party
+Ses01F_impro07_F005	42.9550	45.8850	i know we should throw a party
+Ses01F_impro07_F006	46.2800	55.4100	at arapaho we could afford that yeah so what are you doing this summer though you re staying around too yeah
+Ses01F_impro07_M006	47.1100	52.8125	a rapper party ho yeah okay
+Ses01F_impro07_M007	54.1600	63.2800	i am just yeah i m sticking around i m just doing my thing i m living here i m so glad you re going to stay i m so glad you re going to be here yeah woo
+F	0.0000	0.0000	yay
+Ses01F_impro07_F007	63.0200	72.7500	it s a relief too i mean i was thinking i was going to have to pack up all of my stuff but yeah hooray for u s c
+Ses01F_impro07_M008	64.6275	67.2400	yeah big time
+Ses01F_impro07_M009	67.7250	74.0325	mmhmm mmhmm yay so what major what are you doing
+Ses01F_impro07_F008	73.5050	80.7800	umm it s it s uhh it s critical studies it s a really prestigious program so they say
+Ses01F_impro07_M010	76.6200	78.1700	oh okay
+Ses01F_impro07_M011	78.8400	81.3600	ooh fancy
+Ses01F_impro07_F009	81.0275	83.3050	yeah i m not sure
+Ses01F_impro07_M012	82.6575	87.1025	is this a masters or a p h d or can you nice
+Ses01F_impro07_F010	84.5100	88.3100	umm p h d
+Ses01F_impro07_M013	87.5875	90.6500	that s good don t you have to like teach a class too when you do that
+Ses01F_impro07_F011	89.5600	94.8150	um yeah yeah i m a ta for two sessions mmhmm
+Ses01F_impro07_M014	94.2900	99.3700	teacher mrs nash i have a question
+Ses01F_impro07_F012	94.8600	100.7400	so i get to mold young minds mrs that s my mother
+Ses01F_impro07_M015	99.9875	110.5400	you have to get married well you are married to chuck you re mrs nash not to be confused with mrs dash which is the popular seasoning
+Ses01F_impro07_F013	103.2600	110.4600	i would be like oh right right right
+Ses01F_impro07_M016	110.5400	116.2800	mrs nash that s so awesome though
+Ses01F_impro07_F014	115.6800	126.4100	yeah yeah i m excited hooray and then i ll be a millionaire once i graduate you understand because that s the way it works
+Ses01F_impro07_M017	116.2800	119.8507	yay school s fun
+Ses01F_impro07_M018	123.2575	128.0400	of course right that s where the real money is being a student
+Ses01F_impro07_F015	127.4300	130.3175	yeah totally
+Ses01F_impro07_M019	128.5400	141.6850	that s how you get the big bucks are you messing with the chair don t ruin it
+Ses01F_impro07_F016	133.3125	142.3625	i know i made such a mess of it the entire time the last three things i ve done i ve ruined everything i think mm hmm yeah

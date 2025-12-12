@@ -1,0 +1,58 @@
+Ses05M_impro02_F000	3.0334	5.3000	what is it
+Ses05M_impro02_M000	6.9200	16.3900	sweetheart i ve got to tell you something i just got a call i m going to iraq
+Ses05M_impro02_F001	16.3100	18.1100	what
+Ses05M_impro02_M001	17.8700	23.5700	i know it s really crappy timing but i don t have a choice
+Ses05M_impro02_F002	22.2500	24.1900	what no you can t
+Ses05M_impro02_M002	23.8500	26.6800	i know i have to go
+Ses05M_impro02_F003	24.9600	28.9100	you didn t did you tell them you have two young children at home
+Ses05M_impro02_M003	28.3900	33.1100	you think they d listen to me no of course i told them that
+Ses05M_impro02_F004	33.1700	35.7900	and they didn t care
+Ses05M_impro02_M004	35.2500	37.4400	no
+Ses05M_impro02_M005	39.1795	41.4200	i don t know what to do i m sorry
+Ses05M_impro02_F005	40.0700	42.4000	they can t do that to you
+Ses05M_impro02_M006	41.4300	42.6900	i know
+Ses05M_impro02_M007	42.9100	47.7800	i don t have a choice i have to go if i don t go they ll come and take me
+Ses05M_impro02_F006	45.3500	49.5100	no we have there s got to be something you can do you can t go
+Ses05M_impro02_M008	48.5900	57.0100	i ve tried everything i ve called everyone i know i ve tried everything no one can do anything for me or they won t do anything for me
+Ses05M_impro02_F007	55.5700	58.1400	how long do you have to go for
+Ses05M_impro02_M009	58.0400	60.2300	at least a year
+Ses05M_impro02_F008	59.8200	60.8100	what
+Ses05M_impro02_M010	60.3000	62.3900	i know
+Ses05M_impro02_M011	62.7000	70.7200	i don t want to the kids you ve got to take care of them you ve got you ve got to
+Ses05M_impro02_M012	70.7500	79.4200	tell them about me and show them pictures of me and everything like that because they are not going to see me for such a long time and it s such an important time and i just don t want to miss it
+Ses05M_impro02_F009	79.2800	83.5900	there s got to be something we can do you can t just go
+Ses05M_impro02_MXX0	79.9251	81.0836	i don t know what to
+Ses05M_impro02_M013	83.8300	92.7000	i don t have i know what are we gonna what are we just run away what can i do where can we go
+Ses05M_impro02_F010	90.6700	94.5100	why don t we do that can we can we just leave the country
+Ses05M_impro02_M014	93.0200	94.3600	where are we gonna go
+Ses05M_impro02_M015	94.3700	95.8400	where are we gonna go
+Ses05M_impro02_F011	94.7500	96.1700	i don t know
+Ses05M_impro02_M016	96.2767	100.3400	they ll find me anyway you know they will
+Ses05M_impro02_F012	99.9200	103.1800	what would be the worst that would happen if they found you somewhere else
+Ses05M_impro02_M017	102.2400	109.8300	they d put me in jail and then how long when will i get to see the kids what ten years i don t know
+Ses05M_impro02_F013	109.7200	112.0200	well they re so young
+Ses05M_impro02_M018	111.6500	119.9500	i know but i ll i ll send the pictures all the time and i ll write them emails and you can read them the emails that i send them
+Ses05M_impro02_F014	118.5000	122.8900	where are you gonna be stationed what are you gonna be doing
+Ses05M_impro02_M019	122.6000	127.0100	i m gonna be in bagdad just doing security
+Ses05M_impro02_F015	127.2400	132.2700	are you gonna be like in tanks running around what i mean what does that mean
+Ses05M_impro02_M020	131.8700	139.8500	yeah it s gonna be everything i m gonna be in the front i ll be it s not gonna be safe
+Ses05M_impro02_F016	138.5900	140.6700	oh my god
+Ses05M_impro02_M021	140.1500	143.7200	i just want to be honest with you i don t want you to
+Ses05M_impro02_M022	144.2900	153.8400	but it s gonna be fine i m gonna be fine you know i m good at this i can do this that s why i trained all this time i m good at this okay
+Ses05M_impro02_F017	152.3900	154.9900	but so many people have died
+Ses05M_impro02_M023	154.4800	159.3900	i know i know i know but you know what that doesn t mean it s gonna be me does it
+Ses05M_impro02_F018	158.9700	165.4400	i know i know i know i know you re good you re good at what you do but there s just so much chance involved
+Ses05M_impro02_M024	159.4100	162.6000	no it doesn t and you can t think like that
+Ses05M_impro02_F019	165.4700	170.6700	i mean i i know that you re a good soldier but not everybody else is and what if
+Ses05M_impro02_M025	169.3000	178.6800	i don t want you to i know i know you can t worry about me you ve got to worry about the kids and you ve got to take care of the kids for me okay take care of the kids for me all right
+Ses05M_impro02_M026	178.7600	184.0100	and you know my mom s here she ll come over and she ll be with you all the time whenever you need her
+Ses05M_impro02_F020	182.4800	185.3400	it s just so much
+Ses05M_impro02_M027	184.0700	185.9900	i ll miss you baby
+Ses05M_impro02_F021	185.5400	189.8500	you have to write me everyday
+Ses05M_impro02_M028	188.6500	199.4600	all i ll write you everyday all the time and i ll send you pictures and you send me pictures i know we ve got email out there we ve got email and i can see stuff and you can send me stuff all the time okay
+Ses05M_impro02_F022	198.8500	203.1300	can i send you like videos and stuff what about when they start walking
+Ses05M_impro02_M029	200.1000	202.3900	yeah yeah yeah
+Ses05M_impro02_M030	202.4500	207.4200	you you record every second you record every second because i want to see it all okay
+Ses05M_impro02_M031	207.4300	212.1200	if i don t get to see it now i get to see it later at least you know you ve got to keep it all for me all right
+Ses05M_impro02_F023	211.6200	212.8800	okay
+Ses05M_impro02_M032	213.4500	217.5800	i love you okay

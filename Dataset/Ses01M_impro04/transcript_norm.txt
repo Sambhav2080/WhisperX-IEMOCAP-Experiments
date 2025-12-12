@@ -1,0 +1,50 @@
+Ses01M_impro04_F000	9.0256	11.6950	you seem kind of down
+Ses01M_impro04_M000	11.5885	13.5675	i m just mad
+Ses01M_impro04_F001	13.3720	15.2250	how come
+Ses01M_impro04_M001	15.0500	19.2300	it s i ve been trying to find this job i can t get any job
+Ses01M_impro04_M002	19.3600	21.4936	it s not fair
+Ses01M_impro04_F002	21.3952	23.2492	what do you mean
+Ses01M_impro04_M003	23.0031	31.9779	i mean i ve been looking for a job for like three years and i can t get a job i mean like it s america right i should be able to get a job
+Ses01M_impro04_F003	31.2560	34.4725	there s a lot of people looking for jobs
+Ses01M_impro04_M004	34.1437	46.8400	i guess but three years i mean i like i went to college even i mean i didn t finish but i went for like a little bit it s not fair i don t know
+Ses01M_impro04_F004	47.7500	50.5000	i don t know i mean i just don t think
+Ses01M_impro04_M005	49.9100	63.6600	i mean i ve been sending out my resumes and doing everything i can do but nothing is happening you know it s like i can t and i can t keep living on loans anymore like this i m going to i mean eventually i m going to have to pay it back i m just kind of freaking out i don t know
+Ses01M_impro04_F005	63.3300	66.6300	did you ever think it might be your attitude that s
+Ses01M_impro04_M006	65.4900	67.9200	what s my like what do you mean my attitude
+Ses01M_impro04_F006	67.4500	74.0400	i don t know just sometimes you get kind of no i m not saying that i just
+Ses01M_impro04_M007	69.7900	71.7800	do i have an attitude problem
+Ses01M_impro04_M008	76.3900	80.5300	no well maybe it s because i m like frustrated cause i can t get a job you know
+Ses01M_impro04_F007	74.2100	77.5300	has anyone ever just said anything like that to you before
+Ses01M_impro04_M009	80.5500	86.0900	like it s really hard to like shake that off when you go into like audition a room or whatever you know what i mean
+Ses01M_impro04_F008	84.9900	87.2706	right sure
+Ses01M_impro04_F009	87.2900	91.6300	but i mean you kind of got to you got to fake it til you feel it right
+Ses01M_impro04_M010	91.0600	95.7650	i guess i just getting really hard to fake you know
+Ses01M_impro04_F010	95.1900	103.2350	i m just saying that if i was looking to hire somebody in the or kind of no no no
+Ses01M_impro04_M011	99.1900	106.6900	are you hiring wait do you know of a job seriously do you know like do you know of anything though like oh please do you know of anything
+Ses01M_impro04_F011	104.7300	116.8850	no i m just saying though that if i was a person who was hiring somebody i would not hire someone who was angry or upset
+Ses01M_impro04_M012	110.4300	112.2100	yeah
+Ses01M_impro04_M013	116.3900	118.5800	i come across angry
+Ses01M_impro04_F012	118.0000	119.7900	no
+Ses01M_impro04_M014	119.3100	120.5900	what
+Ses01M_impro04_F013	120.2200	125.2400	well you know a little if you were to listen to
+Ses01M_impro04_M015	124.0000	129.7100	okay you re my friend you can tell me stuff you can tell me honestly stuff okay please
+Ses01M_impro04_F014	128.7900	131.7400	i just don t want you to fly off the handle
+Ses01M_impro04_M016	131.2094	136.8600	okay i m not flying off the handle i don t think i m flying off the handle here at all
+Ses01M_impro04_F015	135.9400	138.2200	you kind of have a short fuse
+Ses01M_impro04_M017	137.3500	139.0600	i have a short fuse
+Ses01M_impro04_F016	138.5000	139.9900	yeah
+Ses01M_impro04_M018	139.4600	147.2000	okay okay no no no no okay no i need to hear this more come on bring it
+Ses01M_impro04_F017	141.0600	145.0400	like this right now we re trying have a conversation
+Ses01M_impro04_F018	145.2100	153.0500	we re trying to have a conversation and you seem extremely hostile you keep cutting me off
+Ses01M_impro04_M019	148.3800	151.8400	well it s cause i can t get a job okay
+Ses01M_impro04_M020	159.7700	161.8600	i m not always right i m just
+Ses01M_impro04_F019	153.7500	157.7950	i can t finish the sentence with you without you jumping in
+Ses01M_impro04_F020	157.9700	160.3500	and you re always right
+Ses01M_impro04_M021	161.9500	163.6100	fine okay
+Ses01M_impro04_F021	162.1700	164.9900	you have an excuse for everything
+Ses01M_impro04_F022	166.2900	172.9400	i m just saying that maybe you should take in some information before you produce more of your own
+Ses01M_impro04_M023	172.3400	178.6430	i m like a sponge i m like soaked up with all this information for like three years i m just dying for a job to like put it in to
+Ses01M_impro04_F024	182.2975	183.8600	that s
+Ses01M_impro04_M024	182.8800	186.4450	you know and like i don t think it s that much to ask i know
+Ses01M_impro04_F025	186.3825	189.6225	well what kind of field are you looking to go into
+Ses01M_impro04_M025	189.3000	190.8275	that s it

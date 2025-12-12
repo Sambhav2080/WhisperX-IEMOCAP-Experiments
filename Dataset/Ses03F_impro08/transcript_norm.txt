@@ -1,0 +1,59 @@
+Ses03F_impro08_M000	4.9200	9.7700	hey you stupid dumb shit machine give me a fucking operator huh
+Ses03F_impro08_F000	9.4200	11.3200	hello sir can i help you
+Ses03F_impro08_M001	10.7500	14.7300	yeah i ve been on the with the machine for like thirty minutes
+Ses03F_impro08_M002	14.7300	19.2700	trying to get an answer and no one s given me an answer so what are you going to do about it
+Ses03F_impro08_F001	14.4900	15.6800	i
+Ses03F_impro08_F002	18.8800	24.7100	yes sir i m very sorry but we ve had some trouble here there s been a lot of calls and the system has
+Ses03F_impro08_M003	23.2800	26.1100	fuck do you think i have all day jesus
+Ses03F_impro08_F003	24.9300	29.7500	sir please calm down there s no reason to use profanity like that it s not
+Ses03F_impro08_M004	29.4800	38.0200	fine sorry okay my phone s been on the fritz for like three days i can t get any incoming calls what what is going on
+Ses03F_impro08_F004	37.4400	41.0900	okay and this is for verizon your provider
+Ses03F_impro08_M005	39.5000	40.7500	yeah
+Ses03F_impro08_F005	41.1475	47.8600	well um we have a little problem with the system going on one of our satellites is down and i
+Ses03F_impro08_M006	47.7900	52.7700	you know what i m just going to patient i m a busy man
+Ses03F_impro08_F006	47.8700	50.6100	you re going to have to just be patient with us sir as we
+Ses03F_impro08_F007	51.9400	54.6400	well i know sir and we all are busy
+Ses03F_impro08_F008	54.6400	58.9025	but i m going to definitely have to uh get your contact information
+Ses03F_impro08_M007	56.8557	58.7900	have to have to what
+Ses03F_impro08_M008	58.7900	63.8700	what it s my phone you can t even call me on it i don t have another phone
+Ses03F_impro08_FXX0	60.0055	61.8452	well i don t
+Ses03F_impro08_F009	62.6800	69.2200	okay well if you would like um we will be turning on the systems in probably about ten hours
+Ses03F_impro08_M009	68.6900	71.5800	what are you kidding me
+Ses03F_impro08_F010	70.8100	81.6500	sir i m very sorry but this is the way it is this we have no control over it it s going to take but you have to be patient with us you can use a calling card we will give you a free calling card to use
+Ses03F_impro08_M010	73.7700	76.9000	oh my god
+Ses03F_impro08_M011	76.9900	81.6925	i i m going to kill myself right now
+Ses03F_impro08_M012	81.7500	83.4100	a free calling card
+Ses03F_impro08_F011	81.7600	83.8450	do you have a land line sir
+Ses03F_impro08_M013	83.4875	85.5425	no i don t have a land line
+Ses03F_impro08_F012	85.1500	90.2900	okay well we will send you we will reimburse you for the amount of minutes that you
+Ses03F_impro08_F013	90.2900	92.2200	on average would use
+Ses03F_impro08_M014	90.3050	93.8825	that s it okay yeah what else
+Ses03F_impro08_F014	93.5100	98.2500	and we will probably send you a calling card i m very sorry you re just going to have to be patient sir
+Ses03F_impro08_M015	97.5000	101.7200	okay i need more than this are you going to give me a little bit more
+Ses03F_impro08_F015	101.0700	104.3700	no we don t just give you things we re we re
+Ses03F_impro08_F016	104.3700	106.6300	we compensating you for all your
+Ses03F_impro08_M016	104.7600	109.3900	so you take things from me and you expect me just to wait around
+Ses03F_impro08_F017	108.5600	113.5100	no no we re not taking anything from you sir this is this is unbeknownst to us the problem had just happened
+Ses03F_impro08_F018	113.5100	116.3500	the satellite is down in your area
+Ses03F_impro08_M017	113.7300	120.4000	okay so you think you re going to get me back some minutes and that s going to make up for three days of business that i lost okay great
+Ses03F_impro08_F019	119.6800	126.0100	no three days sir it s not three days it s it s only been about a day now let s not exaggerate
+Ses03F_impro08_M018	123.3800	126.2100	no it s been three days
+Ses03F_impro08_M019	126.2800	129.0950	fine it s been a day okay
+Ses03F_impro08_F020	126.2900	127.6100	three days
+Ses03F_impro08_F021	128.8800	129.6100	a day
+Ses03F_impro08_M020	129.3300	132.4700	a day s worth of business you know how much i make in a day
+Ses03F_impro08_F022	131.8200	133.9300	i don t know sir
+Ses03F_impro08_M021	132.5100	134.5925	about three million dollars
+Ses03F_impro08_F023	134.1100	137.9625	oh well i m sorry about that umm we
+Ses03F_impro08_M022	137.3000	140.9700	so you re going to give me back ten dollars worth of minutes
+Ses03F_impro08_M023	141.0300	143.2600	to make up the three million dollars
+Ses03F_impro08_F024	141.9400	144.2600	well ten hours worth of minutes
+Ses03F_impro08_F025	144.2800	145.8600	is what s going to happen
+Ses03F_impro08_M024	145.2500	150.3500	ten hours so basically a day s worth of minutes which i pay forty dollars a month from it
+Ses03F_impro08_MXX0	146.2061	146.5801	yeah
+Ses03F_impro08_F026	150.7809	152.1100	sir
+Ses03F_impro08_M025	150.3800	153.0165	so you re giving me a dollar back
+Ses03F_impro08_F027	152.1400	160.3300	what i would like what i m advising you to do now is just to write down all of your problems that you you feel that you know haven t been addressed fax it to us
+Ses03F_impro08_M026	157.1100	160.2400	oh my god
+Ses03F_impro08_F028	160.4600	165.0500	and we will take care of it if anything happens but all we can do now is ask for your patience
+Ses03F_impro08_F029	165.0700	167.7550	okay thank you for calling goodbye

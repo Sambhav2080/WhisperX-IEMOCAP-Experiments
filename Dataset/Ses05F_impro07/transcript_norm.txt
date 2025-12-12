@@ -1,0 +1,76 @@
+Ses05F_impro07_F000	2.7258	4.6600	so guess what
+Ses05F_impro07_M000	4.2400	5.2953	what
+Ses05F_impro07_F001	5.0200	7.8100	i got into college
+Ses05F_impro07_M001	7.1500	10.0800	shut up what d you get where d you get accepted to please
+Ses05F_impro07_F002	9.2300	10.2500	u s c
+Ses05F_impro07_M002	10.1100	12.3400	oh sweet
+Ses05F_impro07_F003	11.0800	12.5700	yeah
+Ses05F_impro07_M003	12.3600	14.2600	so you re not going to leave me
+Ses05F_impro07_F004	13.6500	14.7900	no
+Ses05F_impro07_M004	14.4500	17.7449	oh good good good good good good
+Ses05F_impro07_F005	14.9700	16.7000	i ll stay in town
+Ses05F_impro07_M005	17.7762	19.9400	are you going to live on campus where are you going to live
+Ses05F_impro07_F006	19.3700	21.6800	uh i don t know
+Ses05F_impro07_M006	21.0600	25.8200	uh stay over here like travel to school because you are so close to me
+Ses05F_impro07_F007	24.0100	27.7700	well i don t want to i don t want to live with my mom
+Ses05F_impro07_M007	27.2000	31.3700	okay you re right you re right you re right right maybe we should get a place together
+Ses05F_impro07_F008	30.8000	35.7900	whoa what an idea where would you want to live
+Ses05F_impro07_M008	31.6200	34.0900	that ll be awesome
+Ses05F_impro07_M009	34.9000	42.6100	i don t know well i wouldn t mind living by the u s c campus you know but i m not going to go to school right now so
+Ses05F_impro07_F009	41.9800	45.0400	that s fine you don t have to go to school to live near u s c
+Ses05F_impro07_M010	43.4300	44.9000	i know
+Ses05F_impro07_M011	44.9400	50.1700	but i d love to go all the us all the u s c parties and do all that crazy stuff with you
+Ses05F_impro07_F010	47.7400	49.7400	fair enough
+Ses05F_impro07_F011	49.7600	52.8800	whoa this is going to be so much fun
+Ses05F_impro07_M012	50.6600	53.3286	it is going to be so much fun yes
+Ses05F_impro07_M013	53.3599	55.9900	uh i m so happy that you re not going to go away
+Ses05F_impro07_F012	54.1600	58.2600	thank you i know i m really really really excited
+Ses05F_impro07_M014	56.7900	60.9500	oh i bet you re going to love it too you always wanted to go to u s c
+Ses05F_impro07_F013	60.2400	64.5700	i know they have a really really great program for what i want to do
+Ses05F_impro07_M015	63.7300	71.2400	you re going to have so much fun and there s lo tons of people you re going to meet so many people i m going to meet so many people too because we re going to be there together
+Ses05F_impro07_F014	70.8000	73.3400	can we for real live together
+Ses05F_impro07_M016	72.3700	77.5000	sure why not i don t know why not i m not doing anything i have no plans i could live anywhere i want
+Ses05F_impro07_F015	75.2700	76.6600	awesome
+Ses05F_impro07_F016	77.1200	79.8400	so should we get a place near campus or
+Ses05F_impro07_M017	79.0300	81.5400	that ll be great that ll be great
+Ses05F_impro07_M018	81.5700	88.1600	we should try to find like a party spot though like you know where there s going to be a lot of parties where there are cool people though do you know any people that might be out there
+Ses05F_impro07_F017	85.8800	87.1200	okay
+Ses05F_impro07_F018	88.0500	89.4700	not yet
+Ses05F_impro07_M019	89.2200	90.1600	yeah me either
+Ses05F_impro07_M020	90.1700	96.2000	i know i know i know we ll figure it out right it is going to be so much fun
+Ses05F_impro07_F019	90.6700	93.0700	that happens that happens at time
+Ses05F_impro07_F020	93.6300	94.5100	yeah
+Ses05F_impro07_F021	95.5700	98.8000	it s going to be ridiculous it s going to be so cool
+Ses05F_impro07_M021	97.7800	101.5000	you can t make fun of me because i m not going to school though because i m going to be working though
+Ses05F_impro07_F022	101.1700	103.4500	i m not going to make fun of you
+Ses05F_impro07_M022	102.4500	104.7600	i ll have to make money and support us
+Ses05F_impro07_F023	104.2400	108.4200	oh i m going to be working too i mean
+Ses05F_impro07_M023	107.7700	118.1600	well yeah of course but you re going to be working on your school stuff too and partying that takes up a lot of time right especially at u s c i hear it s a big party college
+Ses05F_impro07_F024	117.3000	119.3600	i i hear the same
+Ses05F_impro07_M024	118.9700	122.6400	woo i i do
+Ses05F_impro07_F025	119.4400	121.7200	i don t know how i feel about that but
+Ses05F_impro07_M025	122.6500	128.7700	i know exactly how you feel about that i think you feel really excited about it i know you are i can tell i know you
+Ses05F_impro07_F026	123.6900	124.9300	oh yeah
+Ses05F_impro07_F027	125.0500	126.5400	oh yeah
+Ses05F_impro07_M026	128.8000	131.5300	you re a wild and crazy woman
+Ses05F_impro07_F028	129.9000	133.9600	oh it ll be awesome that s for sure
+Ses05F_impro07_M027	132.6900	136.2300	uh huh it will be awesome
+Ses05F_impro07_F029	135.7300	139.1500	better than if i d picked up and moved to boston
+Ses05F_impro07_M028	137.9600	143.9700	oh man i d have been so mad at you i d have been so mad at you because what could i have done
+Ses05F_impro07_M029	143.9800	149.6700	living near the u s c campus by myself not going to school there just really pathetic and sad
+Ses05F_impro07_F030	144.4700	146.7100	by yourself
+Ses05F_impro07_F031	147.1600	149.3500	you d be that kid
+Ses05F_impro07_F032	149.5000	152.3600	living near campus and not going to school
+Ses05F_impro07_M030	151.0200	161.4800	exactly mooching off of all like the college experiences that would ve been me but you have saved me from that disaster thank you thank you very much
+Ses05F_impro07_M031	161.5700	163.0800	oh it s going to be so much fun
+Ses05F_impro07_F034	162.8100	164.0400	yeah
+Ses05F_impro07_M032	164.3500	170.8000	well congratulations and to me too because now i get to have
+Ses05F_impro07_F035	169.4400	172.3700	we should go apartment shop er hunting
+Ses05F_impro07_M033	171.6300	173.1400	that s a good idea
+Ses05F_impro07_F036	172.6600	174.0200	let s go tomorrow
+Ses05F_impro07_M034	173.6500	175.5400	tomorrow tomorrow tomorrow
+Ses05F_impro07_F037	174.6500	175.7300	yeah
+Ses05F_impro07_M035	175.5500	178.9500	good we ll have to have one soon you re going to have to go to school in a couple of months
+Ses05F_impro07_F038	177.2100	179.1400	woo
+Ses05F_impro07_M036	179.0466	185.3300	oh god it s awesome there s going to be tons of places
+Ses05F_impro07_F039	179.6000	180.7600	exciting

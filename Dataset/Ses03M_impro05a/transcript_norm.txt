@@ -1,0 +1,60 @@
+Ses03M_impro05a_F000	5.7300	7.5300	can i help you sir
+Ses03M_impro05a_M000	7.1700	11.7200	yes you can help me where is my luggage
+Ses03M_impro05a_F001	11.2200	14.5900	well let me just check on that for you where are you coming
+Ses03M_impro05a_M001	13.8300	17.7800	yeah you do that i m coming from baltimore you know where that is
+Ses03M_impro05a_F002	17.3200	22.2000	sir yes it s in maryland it s okay well i m just let me check here
+Ses03M_impro05a_M002	21.7600	25.0200	i had eight hundred pounds of luggage
+Ses03M_impro05a_F003	24.0900	27.7600	okay sir can you if you just give me one moment and let me just check okay
+Ses03M_impro05a_M003	26.9500	28.6507	okay check
+Ses03M_impro05a_F004	28.1100	33.9325	alright and you re coming wait hold on sir you re coming from baltimore into lax right
+Ses03M_impro05a_M004	29.4400	30.5000	is it there
+Ses03M_impro05a_M005	33.5300	34.5900	yes
+Ses03M_impro05a_F005	34.1600	35.8500	okay and this is direct flight
+Ses03M_impro05a_M006	34.9400	37.0500	you don t know where we re at
+Ses03M_impro05a_M007	37.0975	38.9800	god
+Ses03M_impro05a_F006	38.1750	42.2700	i m asking you if this is direct flight from baltimore to lax or if you have to stop
+Ses03M_impro05a_M008	41.1900	45.3650	you know i ve been waiting here for four hours for my luggage
+Ses03M_impro05a_M009	45.4125	50.2400	and it s not here they told me to go to this person go to this person now i m at this person
+Ses03M_impro05a_F007	49.4000	53.8900	you re at me and i m going to try to help you out sir but you just have to cooperate with me
+Ses03M_impro05a_M010	53.1100	55.0700	okay what do you want
+Ses03M_impro05a_F008	54.4900	57.0200	how many pieces of luggage do you have checked in
+Ses03M_impro05a_M011	56.5500	59.7400	eight and they re all gone
+Ses03M_impro05a_F009	59.0100	61.8200	eight pieces of luggage okay
+Ses03M_impro05a_M012	60.9500	66.4300	and what are you going to do about it you going to call someone you going to send me somewhere else
+Ses03M_impro05a_F010	65.7700	67.7200	no i m just going to check
+Ses03M_impro05a_M013	67.1000	72.1900	it s my mother s funeral tomorrow and the urn is in the suitcase
+Ses03M_impro05a_F011	71.5400	73.3300	i m sorry sir
+Ses03M_impro05a_M014	72.6400	74.1625	yeah
+Ses03M_impro05a_F012	74.2500	80.8900	i m very sorry but let s check on this immediately this is definitely an emergency it seems
+Ses03M_impro05a_M015	79.4200	83.5100	what am i going to do tomorrow without the urn
+Ses03M_impro05a_F013	82.7700	87.6800	sir it seems to me that your luggage is um is not here
+Ses03M_impro05a_M016	87.1900	91.3275	oh oh that s a good deduction
+Ses03M_impro05a_F014	90.9925	92.2100	yes it is
+Ses03M_impro05a_M017	91.3600	94.4700	sherlock holmes god where s my luggage
+Ses03M_impro05a_F015	93.1800	96.7100	sir please please i would ask you to just calm down for a second
+Ses03M_impro05a_M018	96.2400	102.3200	calm down it s my mother s funeral tomorrow i m the one responsible for this
+Ses03M_impro05a_F016	101.6900	107.7600	okay we will find your luggage apparently because it somehow what flight you were taking you were on delta
+Ses03M_impro05a_M019	107.2000	111.2100	yes you are a delta representative
+Ses03M_impro05a_F017	111.2100	113.5100	yes i am
+Ses03M_impro05a_M020	113.5900	116.3000	what is the matter with you
+Ses03M_impro05a_F018	115.8800	119.7400	sir i just you need to calm down is what needs to happen right now
+Ses03M_impro05a_M021	119.0100	120.8800	don t yell at me
+Ses03M_impro05a_F019	120.3400	122.9400	okay i m not i m sorry i am being
+Ses03M_impro05a_F020	122.9800	129.5500	calm sir okay basically what what s going to happen here is you re going to give me your contact information and we will contact you
+Ses03M_impro05a_M022	126.7900	130.5800	oh my god i think a blood vessel burst in my head
+Ses03M_impro05a_F021	130.1300	131.3900	please please
+Ses03M_impro05a_F022	131.4100	134.2950	sir listen to me your luggage is still in baltimore
+Ses03M_impro05a_M023	133.9000	135.2100	what
+Ses03M_impro05a_F023	134.6200	139.0600	okay we can get it here in about seven to ten business days
+Ses03M_impro05a_M024	138.5675	140.9900	what are you kidding me
+Ses03M_impro05a_F024	140.4900	141.8700	yes well because
+Ses03M_impro05a_M025	141.2000	143.7100	give give me your manager right now
+Ses03M_impro05a_F025	143.2900	145.7700	i am the manager sir
+Ses03M_impro05a_M026	145.0500	151.1900	you re the manager you don t know where you work for you don t know where you re at and you re the manager
+Ses03M_impro05a_F026	149.5100	152.8700	sir i know where i work for but i was checking because you cannot
+Ses03M_impro05a_M027	152.2900	154.6100	whose daughter are you
+Ses03M_impro05a_F027	153.8900	155.7100	sir
+Ses03M_impro05a_M028	156.0450	159.4850	sir sir sir sir
+Ses03M_impro05a_F028	156.6900	157.9800	what is your name
+Ses03M_impro05a_M029	160.0500	162.5300	my name is brent caption
+Ses03M_impro05a_M030	162.7600	167.4425	now what are you going to do about it

@@ -1,0 +1,46 @@
+Ses01M_impro02_M000	4.5582	7.8600	hey joy come in here
+Ses01M_impro02_F000	8.0737	11.4700	what s happening
+Ses01M_impro02_M001	13.7600	17.5200	i have to go back
+Ses01M_impro02_M002	19.3300	23.6300	i just got a letter i have to go back
+Ses01M_impro02_F001	24.1500	26.9800	when
+Ses01M_impro02_M003	27.1100	29.8250	first thing tomorrow morning
+Ses01M_impro02_F002	29.3500	32.4600	are you kidding me
+Ses01M_impro02_F003	35.4000	38.6000	how
+Ses01M_impro02_M004	38.6100	41.3300	i don t understand i don t underst
+Ses01M_impro02_F004	40.1000	42.3725	how can they do that
+Ses01M_impro02_M005	42.4225	44.3500	they can do it
+Ses01M_impro02_F005	42.4950	45.8200	they said you re home for at least four years
+Ses01M_impro02_M006	47.1900	49.6300	i guess they can do it
+Ses01M_impro02_M007	49.6600	58.1800	the national guard is i guess really spread thin and then everyone has to go we all have to go back my whole companies going back
+Ses01M_impro02_F007	58.9800	62.1100	that s not fair
+Ses01M_impro02_M008	66.1600	70.1800	i can t believe it i just got back
+Ses01M_impro02_M009	75.7300	78.6525	so yeah we leave tomorrow
+Ses01M_impro02_M010	79.1800	81.8600	we re all shipping out
+Ses01M_impro02_M011	82.0900	86.2800	i just got i feel like i m in shock actually
+Ses01M_impro02_F009	85.8400	89.1400	i don t even know what to tell you
+Ses01M_impro02_M012	88.8250	90.6550	i don t know
+Ses01M_impro02_F010	90.3900	93.6500	what about the birthday party
+Ses01M_impro02_M013	95.4500	99.8750	i guess you re just going to have to have it without me
+Ses01M_impro02_M014	106.1000	114.4400	hey listen it s going to be okay though all right
+Ses01M_impro02_M015	115.0275	117.3100	you re going to be fine
+Ses01M_impro02_F011	116.8900	122.5200	me i m not worried about me
+Ses01M_impro02_M016	122.0300	126.4200	i m going to be fine too okay
+Ses01M_impro02_F012	128.8300	131.1175	how do you know
+Ses01M_impro02_M017	131.0600	137.7400	i know i have a good i have a really good group of guys with me
+Ses01M_impro02_M018	137.7500	140.9400	we re going to be okay
+Ses01M_impro02_F013	144.5400	148.6000	you re going with the same ones
+Ses01M_impro02_M019	149.0600	152.5800	do promise me you re going to take a lot of pictures
+Ses01M_impro02_F014	152.3100	154.9183	always i always do
+Ses01M_impro02_M020	154.4300	156.5100	i know
+Ses01M_impro02_F015	157.4200	160.1100	it s not the same though
+Ses01M_impro02_M021	163.8000	167.5600	i just wish there was something i could do
+Ses01M_impro02_F016	167.9100	170.7700	we could hide away
+Ses01M_impro02_M022	170.9400	173.0100	run away
+Ses01M_impro02_F017	172.4100	177.3500	mm hmm we ll build a bunker and never come out
+Ses01M_impro02_M023	183.7700	189.0800	i really don t want to go i don t want to go
+Ses01M_impro02_F018	185.5400	190.3600	mmm
+Ses01M_impro02_M024	198.5500	201.2800	i m scared
+Ses01M_impro02_F019	201.7575	204.0500	don t say that
+Ses01M_impro02_F020	209.9500	214.8100	i ll send you a letter every single day
+Ses01M_impro02_M025	214.5900	217.0400	i love you
+Ses01M_impro02_F021	216.9250	219.1300	i love you too

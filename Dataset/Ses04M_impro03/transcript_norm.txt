@@ -1,0 +1,63 @@
+Ses04M_impro03_M000	7.0300	20.1500	so um well i just i kind of wanted to you know tell you that i m actually i proposed to kate and we re going to get married
+Ses04M_impro03_F000	19.5800	21.5800	wait what
+Ses04M_impro03_M001	21.0000	27.9300	yeah yeah i proposed to her yesterday we re getting we re engaged now and we re going to we re going to get married in about eight months
+Ses04M_impro03_F001	27.4400	30.4000	oh my god congratulations
+Ses04M_impro03_M002	29.0300	30.9900	yeah it s pretty amazing huh
+Ses04M_impro03_F002	30.5200	34.3400	i can t how did you do it what happened
+Ses04M_impro03_M003	33.7400	40.0300	well i decided to take her sailing
+Ses04M_impro03_M004	40.0600	51.7600	and we were just out on the water and you know i just i had the ring with me and i was like let s do this and she was like okay and then we re getting married
+Ses04M_impro03_F003	49.8400	55.0554	well you paint a romantic picture
+Ses04M_impro03_M005	54.7500	58.4800	well i didn t want it to be like cheesy you know
+Ses04M_impro03_F004	58.0300	59.7800	did she cry
+Ses04M_impro03_M006	59.4344	65.8600	she didn t cry but she was laughing a lot and it was very exciting so
+Ses04M_impro03_F005	65.1400	68.5600	oh my god how long have you been planning on doing this
+Ses04M_impro03_M007	67.8100	74.0500	honestly it was kind of quickly it was actually only in the past couple months
+Ses04M_impro03_F006	73.6200	79.8300	i can t believe this you re getting married it s crazy
+Ses04M_impro03_M008	74.3900	84.1300	yeah yeah so i know i know i know it s weird cause it s like the beginning of the rest of my life you know
+Ses04M_impro03_F007	82.8700	84.8000	yeah it is
+Ses04M_impro03_M009	84.3100	91.0900	but uh no i mean you know you know i really want you to like you know sort of
+Ses04M_impro03_M010	91.1200	100.6800	help kate out with like planning stuff i mean if you want to i mean you guys are good friends anyway so i figured you know if you guys want to like i mean you know i m sure you enjoy that kind of thing
+Ses04M_impro03_F008	99.8300	103.3400	yeah i would love to thanks
+Ses04M_impro03_M011	101.1000	104.4700	okay well there you go
+Ses04M_impro03_F009	103.8900	108.4600	oh my god where have you guys talked about where you re going to get married or
+Ses04M_impro03_M012	106.6800	111.5215	i think we re going to we re going to we want to do it in hawaii and just fly everybody in
+Ses04M_impro03_F010	110.8553	113.2500	oh my god
+M	0.0000	0.0000	yeah
+Ses04M_impro03_M013	112.7400	121.8700	i just cause i mean hawaii just has like the best fruit buffets and so i m just going to say forget you know all like kind of meats and all that stuff
+F	0.0000	0.0000	just have fruit
+Ses04M_impro03_M014	121.8900	127.4400	it s just going to be like a all fruit fruit buffet wedding plus a cake
+F	0.0000	0.0000	tropical
+Ses04M_impro03_F011	126.3600	131.1200	are you going to get married like on the beach barefoot or like fancier like in a church
+Ses04M_impro03_M015	129.6800	131.0600	barefoot
+Ses04M_impro03_F012	131.1400	133.7004	well i don t know throwing it out there
+Ses04M_impro03_M016	131.4300	136.6900	um no no no it ll be in like a park near the beach
+Ses04M_impro03_F013	135.9300	137.5500	okay
+Ses04M_impro03_M017	136.9900	142.9900	yeah but i m really excited so and everybody s going to come out and it ll be a great time and
+Ses04M_impro03_F014	142.3500	148.9700	are you going to have a big wedding or like keep it really small like just you know family and really close friends or i mean
+Ses04M_impro03_M018	147.4300	158.3300	it ll be kind of small but not you know not tiny you know i want to have you know as many people as we can afford to fly out to hawaii and put up there for
+Ses04M_impro03_F015	156.5100	160.2900	it s so exciting what s the ring look like
+Ses04M_impro03_M019	159.7195	165.4200	it s big and shiny i don t know it s silver and
+Ses04M_impro03_F016	163.8800	166.9800	big and shiny you re such a guy
+Ses04M_impro03_M020	165.6200	177.2881	yeah i don t know but yeah so anyway well i wanted to tell you that you know cause you re one of my good friends and you re kate s one of her best friends and
+Ses04M_impro03_F017	175.2500	180.1800	i m so excited for you that s great i m so
+Ses04M_impro03_M021	177.3200	186.4000	yeah yeah she was actually she was going to tell you but i told her that i wanted to tell you and she had to work today anyway so i decided to
+Ses04M_impro03_F018	185.2800	187.3300	well i m glad you told me
+Ses04M_impro03_M022	186.9500	188.7700	yeah yeah
+Ses04M_impro03_F019	187.5700	191.5000	it s fantastic i congratulations it s amazing
+M	0.0000	0.0000	thank you
+Ses04M_impro03_M023	189.4400	200.2371	thank you i m really i m really excited and it s i don t know it s like a little it s like a little scary cause i m like ah you know it s the first time i ve ever done anything like this
+Ses04M_impro03_M024	200.2763	217.5000	but you know it s like i really love her and i really just i can t imagine spending my life with anybody else but her so you know it s like i know that s the right thing and if you have to you know if you have to question that you know don t don t do it so we re going to do it
+Ses04M_impro03_M025	217.5292	229.4600	and it s going to the you know i told her that i just i want the color brown to be as an integral in the wedding and um maybe some greens and blues
+Ses04M_impro03_F020	227.1800	229.6500	and how did she feel about that
+Ses04M_impro03_M026	229.4800	230.9400	she s okay with it
+Ses04M_impro03_F021	230.4900	234.7100	well that s good it ll be a great wedding you re willing to compromise on things
+Ses04M_impro03_M027	233.2900	236.6100	exactly exactly exactly so
+Ses04M_impro03_F022	236.0000	243.0400	she s going to let you have say in the wedding choices that s pretty impressive very forward thinking woman
+Ses04M_impro03_M028	239.4500	246.6900	well i mean i just told her well i just said you know hey these are my suggestions
+Ses04M_impro03_F023	246.5600	248.2900	and brown
+Ses04M_impro03_M029	246.7200	252.3800	all fruit and the color brown just that that s all that s my only request
+F	0.0000	0.0000	all fruit haha
+Ses04M_impro03_F024	250.6500	254.5500	this is why men don t plan weddings
+Ses04M_impro03_M030	252.6700	259.2400	yeah well maybe maybe you re right maybe there s something to that
+Ses04M_impro03_F025	255.7200	259.4100	all fruit and brown
+Ses04M_impro03_M031	259.3139	265.9300	so um anyway do you want to order now so um i mean

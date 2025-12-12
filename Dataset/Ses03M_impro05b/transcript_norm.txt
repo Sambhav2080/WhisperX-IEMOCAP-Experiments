@@ -1,0 +1,70 @@
+Ses03M_impro05b_F000	5.2466	7.9300	can i help you sir
+Ses03M_impro05b_M000	7.2600	10.2500	yeah
+Ses03M_impro05b_M001	10.5900	16.9100	i ve been here for four hours and i don t know where one piece of my luggage is
+Ses03M_impro05b_F001	15.9350	20.6125	okay well let s well i m going to go ahead and check on that for you you re coming from where are you coming from
+Ses03M_impro05b_M002	20.2800	21.7200	baltimore
+Ses03M_impro05b_F002	20.9400	23.4500	baltimore and this is a direct flight to lax
+Ses03M_impro05b_M003	23.0900	24.4700	yes
+Ses03M_impro05b_F003	23.9000	26.1500	okay let s look up here
+F	0.0000	0.0000	okay
+Ses03M_impro05b_M004	25.8500	29.3500	you know and they ve looked it up before and it s not there
+Ses03M_impro05b_F004	28.9100	30.6700	okay well you um
+Ses03M_impro05b_M005	30.0900	33.0000	now what are you going to do for me different hmm
+Ses03M_impro05b_F005	31.6400	38.2150	what i can do for you is uh we can uh report lost lost property
+Ses03M_impro05b_M006	37.8600	40.1200	you can report lost property
+Ses03M_impro05b_F006	39.7300	40.7700	yes
+Ses03M_impro05b_M007	40.3100	51.4700	okay i m leaving la tomorrow for san diego driving there so i m going to leave without all my lost property that s what you want me to do um
+Ses03M_impro05b_F007	50.0900	55.8900	well sir if if what i believe has happened is most of the flight was left
+Ses03M_impro05b_F008	55.9100	58.6350	the luggage was left in baltimore therefore
+Ses03M_impro05b_M008	58.3200	60.0600	most of the
+Ses03M_impro05b_F009	59.7475	62.1500	like the luggage the luggage on the flight
+Ses03M_impro05b_M009	61.3900	64.8700	wow this is an incompetent airline isn t it are you
+Ses03M_impro05b_F010	64.0600	68.1600	no actually it was this is the first time this has ever happened i don t know what happened
+Ses03M_impro05b_M010	66.7200	72.4400	are you going to refund us for our luggage refund us for our tickets for this
+Ses03M_impro05b_FXX0	68.9807	70.2483	we i mean
+Ses03M_impro05b_F011	71.0900	77.8100	well we can give you um hotel lodging for a night if that
+Ses03M_impro05b_M011	76.2000	83.2200	i m going to san diego tomorrow to stay with my family what do i need hotel lodging for hmmm can you tell me that
+Ses03M_impro05b_F012	81.5200	85.5000	for tonight for tonight sir would you need to stay somewhere tonight
+Ses03M_impro05b_M012	84.8900	92.7700	tonight no i m driving tomorrow tonight i m staying with a friend alright i don t need hotel reservations where what hotel
+Ses03M_impro05b_F013	92.3700	96.1700	we can do holiday inn or
+Ses03M_impro05b_M013	95.2200	102.0400	wow thank you holiday inn wow thank the flight cost five hundred dollars
+Ses03M_impro05b_F014	101.7600	103.8700	sir i understand that but just
+Ses03M_impro05b_M014	102.0600	106.5400	okay so you can put me in holiday inn for twenty dollar a night
+Ses03M_impro05b_F015	105.7400	108.7700	did you have your name tags on the luggage
+Ses03M_impro05b_M015	108.2100	110.9500	of course i had my name tags on the luggage
+Ses03M_impro05b_F016	110.0400	118.6800	okay so if you can just give me your name your name and your address and your phone number i can contact you as soon as we find out more information
+Ses03M_impro05b_M016	117.0800	120.8000	soon as you that s not good enough okay
+Ses03M_impro05b_F017	120.5400	124.2900	sir please calm down
+Ses03M_impro05b_M017	123.9700	134.6925	i need you to help me out here can you get on the phone and get the luggage over on the fastest flight you can and then maybe i won t get you fired
+Ses03M_impro05b_M018	134.7200	142.8700	if not i m going to get your name i m going to talk to your boss whoever i m never going to fly my business is never going to fly delta again
+Ses03M_impro05b_FXX1	136.7139	137.5771	okay
+Ses03M_impro05b_F018	142.4700	144.3800	what is your business
+Ses03M_impro05b_M019	144.2500	146.2150	i work for ibm
+Ses03M_impro05b_F019	145.8000	153.1300	okay sir i am sorry to tell you this but this does happen uh this is not uh really
+Ses03M_impro05b_F020	153.1450	159.6100	i mean our airline s fault i don t know what happened misplaced something happened but we will get you
+Ses03M_impro05b_M020	157.9700	161.9400	you misplace a lot of eight pieces of luggage
+Ses03M_impro05b_F021	161.4800	168.5800	well the entire flight sir the luggage was placed on another plane that never actually left baltimore
+Ses03M_impro05b_F022	168.5800	170.0400	uh no i m not
+Ses03M_impro05b_M021	167.0800	168.8100	are you kidding me
+Ses03M_impro05b_M022	169.0200	171.5000	who are you going to fire because of that
+Ses03M_impro05b_F023	170.6100	177.5300	well we have some people back there that need some firing so but i would just really appreciate
+Ses03M_impro05b_M023	174.2400	178.5400	wow this has never happened before i ve not lost
+Ses03M_impro05b_M024	178.5400	183.5225	in all thousand flights i ve been on probably i can t even count how many flights i ve been on this has never happened before
+Ses03M_impro05b_M025	183.5400	186.4500	this is the worst customer service i ve ever gotten before
+Ses03M_impro05b_FXX2	183.6151	184.2871	yeah
+Ses03M_impro05b_F024	186.0600	187.8600	okay sir i m sorry you can um
+Ses03M_impro05b_M026	187.4300	192.3300	okay get on the phone and figure out where my luggage is and tell me when it s going to get there alright
+Ses03M_impro05b_F025	191.1700	196.9500	we already have been confirmed that it will be arriving in uh in about two days
+Ses03M_impro05b_M027	194.7100	197.0700	and and in about
+Ses03M_impro05b_M028	197.2300	203.4700	two days i ll be in san diego and how s it going to get to me in san diego you going to make sure it gets to the san diego airport
+Ses03M_impro05b_F026	202.9500	205.0000	uh we can t
+Ses03M_impro05b_M029	204.1400	213.0700	can you get it to the san diego airport you get someone to drive it to my place alright then i get a refund for some i get a free flight alright i get free whatever
+Ses03M_impro05b_F027	207.7300	209.5300	yes sir yes
+Ses03M_impro05b_F028	212.4800	215.7600	we can have them direct your luggage to san diego
+Ses03M_impro05b_M030	215.1700	219.1500	okay and you re going to give me what for my inconvenience
+Ses03M_impro05b_F029	218.8900	221.7100	uh
+Ses03M_impro05b_F030	221.8475	225.0400	some refreshments in the lobby
+Ses03M_impro05b_M031	224.3200	229.9900	some peanuts wow that helps a lot
+Ses03M_impro05b_M032	230.0700	238.2200	thanks you thank you i don t have my luggage so you gave me a holiday inn stay and peanuts wow you know what
+Ses03M_impro05b_F031	233.0700	235.3100	eh we actually
+Ses03M_impro05b_M033	238.4300	241.6100	i will never do business with delta again

@@ -1,0 +1,60 @@
+Ses03F_script03_1_M000	3.4000	5.2700	oh
+Ses03F_script03_1_M001	6.0425	8.2650	good god
+Ses03F_script03_1_F001	7.6700	9.9216	do you think it s them
+Ses03F_script03_1_M002	9.2650	11.2025	i wonder
+Ses03F_script03_1_F002	10.7025	14.1700	i mean nobody knows we re here except for freda and she wouldn t ring up
+Ses03F_script03_1_M003	13.7975	15.3150	it must be them then
+Ses03F_script03_1_F003	14.9625	16.9300	what are we to do
+Ses03F_script03_1_M004	17.0400	21.4200	we re all right aren t we darling whatever happens
+Ses03F_script03_1_F004	21.1650	24.4600	yes now and always sweet
+Ses03F_script03_1_M005	24.4150	26.6375	then i don t care
+Ses03F_script03_1_F005	26.1175	28.5475	it was bound to come sooner or later
+Ses03F_script03_1_M006	28.1900	34.2100	hello hello what ugh wrong number
+Ses03F_script03_1_F006	34.0575	39.2300	god it sent shivers up my spine
+Ses03F_script03_1_M007	38.6900	43.4200	things that should matter dreadfully don t seem to matter at all when one s happy do they
+Ses03F_script03_1_F007	42.9100	50.0425	um terrible thing is one can t stay happy well it s true i mean the whole business is a very poor joke
+Ses03F_script03_1_M008	44.5000	47.2100	ooh darling don t say that
+Ses03F_script03_1_M009	49.7225	52.8575	you mean that sacred and beautiful thing love
+Ses03F_script03_1_F008	52.4100	54.5900	yes meaning just that
+Ses03F_script03_1_M010	53.8700	60.4900	what does it all mean that s what i ask myself in my quest for ultimate truth what does it all mean
+Ses03F_script03_1_F009	60.1800	63.8793	don t laugh at me i m serious
+Ses03F_script03_1_M011	63.4200	66.3875	you mustn t be serious my dear one that s what they want
+Ses03F_script03_1_F010	65.9600	67.8700	who s they
+Ses03F_script03_1_M012	68.3275	81.0700	all the futile moralists who try to make life unbearable laugh at them be flippant laugh at all the sacred shibboleths flippancy brings out the acid in their damn sweetness and light
+Ses03F_script03_1_F011	80.4800	84.1900	well if i laugh at everything i m going to have to laugh at us too
+Ses03F_script03_1_M013	83.1050	86.3300	ooh certainly you must we re figures of fun all right
+Ses03F_script03_1_F012	85.8800	90.0125	so how long is it going to last this ludicrous overbearing love of ours
+Ses03F_script03_1_M014	89.4700	91.2700	who knows
+Ses03F_script03_1_F013	90.4500	93.6850	shall we always want to bicker and fight
+Ses03F_script03_1_M015	93.1300	97.0375	no the fire will fade along with our passion
+Ses03F_script03_1_F014	96.1525	98.9800	oh dear well shall we want that
+Ses03F_script03_1_M016	98.5300	101.0500	depends on how well we play it
+Ses03F_script03_1_F015	100.2900	105.3900	well what if happens if one of us is to die does the one that s left still laugh
+Ses03F_script03_1_M017	104.7700	108.5300	yes yes yes he must with all his might
+Ses03F_script03_1_F016	107.7300	110.1700	well that s serious enough
+Ses03F_script03_1_M018	109.7800	116.2475	no no it isn t death s very laughable a cunning little mystery all done with mirrors
+Ses03F_script03_1_F017	115.6100	118.8000	darling i believe you re talking nonsense
+Ses03F_script03_1_M019	118.3800	124.7727	so is everyone else in the long run let s be superficial and pity the poor philosophers
+Ses03F_script03_1_M020	124.8432	143.1300	let s blow strumpets blow blow trumpets and squeakers and party as much as we can like small quite idiotic school children let s savor the delight of the moment come kiss me darling before worms pop in and out of your eye sockets
+Ses03F_script03_1_F018	142.4475	145.8300	elliott worms don t pop
+Ses03F_script03_1_M021	145.0100	159.7050	i don t care what you do see as long you can paint yourself bright green all over and dance naked in the place vendome and rush off madly with all the men in the world and i shan t say a word as long as you love me best
+Ses03F_script03_1_F019	159.3275	167.9300	thank you dear the same applies to you except that if i ever so much as catch you looking at another woman i ll kill you
+Ses03F_script03_1_M022	169.9100	174.3700	remember that awful scene we had in venice
+Ses03F_script03_1_F020	173.2450	176.1500	which particular one
+Ses03F_script03_1_M023	175.4025	180.9450	the one when you bought that little painted wooden snake in the piazza and put it in my bed
+Ses03F_script03_1_F021	180.0800	184.4400	oh charles that was his name charles he did wiggle so beautifully
+Ses03F_script03_1_M024	181.3450	185.6975	horrible little thing i hated it
+Ses03F_script03_1_F022	185.2025	191.3500	i know you did you threw it out the window and into the grand canal i don t think i ll ever forgive you for that
+Ses03F_script03_1_M025	191.0600	193.2900	how long did that row last
+Ses03F_script03_1_F023	192.8000	196.0300	it went on intermittently for days
+Ses03F_script03_1_M026	195.5000	200.8500	the worst one was in cannes when your your curling iron burnt a hole in my dressing gown
+Ses03F_script03_1_F024	200.4400	204.8800	well i burnt a hole in my comb too and all the towels in the bathroom
+Ses03F_script03_1_F025	207.0100	210.5900	yeah and that was the first time you ever hit me
+Ses03F_script03_1_M027	204.5800	207.1400	that was a rouser wasn t it
+Ses03F_script03_1_F026	212.5100	218.3300	the manager came in and found us rolling on the floor and biting and scratching like panthers
+Ses03F_script03_1_M028	210.1500	212.8800	i didn t hit you very hard
+Ses03F_script03_1_F027	221.6700	226.2000	i know oh man couldn t believe it
+Ses03F_script03_1_M029	216.9700	221.7800	oh i will never forget his face ooh rah
+Ses03F_script03_1_M030	226.4800	228.6200	we were very much younger then
+Ses03F_script03_1_F028	228.0575	230.8200	yeah and very much sillier
+Ses03F_script03_1_M031	232.8800	238.2600	oh the real cause of that row was peter burden

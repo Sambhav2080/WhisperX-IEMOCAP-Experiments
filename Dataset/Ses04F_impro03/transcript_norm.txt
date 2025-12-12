@@ -1,0 +1,114 @@
+Ses04F_impro03_F000	4.6373	7.5400	i have something to tell you
+Ses04F_impro03_M000	7.0600	9.9800	what you seem so excited
+Ses04F_impro03_F001	9.4300	13.6200	it s really exciting don t you want to guess
+Ses04F_impro03_M001	12.8900	19.5700	uh you got a new car a new house uh a dog
+F	0.0000	0.0000	no better better
+Ses04F_impro03_F002	18.5300	20.0500	look
+Ses04F_impro03_M002	20.0100	22.6000	are you serious you re getting married
+Ses04F_impro03_F003	21.4900	25.0200	yes he finally proposed i m getting married
+Ses04F_impro03_M003	23.7500	26.2700	holy shit that s amazing
+Ses04F_impro03_F004	25.8300	27.6331	i know i m so
+Ses04F_impro03_M004	26.3100	27.9900	congratulations
+Ses04F_impro03_F005	27.6500	29.2830	thank you
+Ses04F_impro03_M005	29.0300	30.7700	i m invited right
+Ses04F_impro03_F006	30.5700	32.9700	you think
+Ses04F_impro03_M006	32.6400	39.9700	i ll have to uh i ll have to get myself a new tux my uh the old one is a little worn and dirty that s awesome where are you guys going to have it
+Ses04F_impro03_F007	39.5400	50.4700	well actually we were just talking about today and i don t really want to do like the traditional church thing you know so we are going to get married in the meadow
+Ses04F_impro03_F008	50.5000	53.2800	do you remember up by yosemite yeah
+M	0.0000	0.0000	a meadow
+Ses04F_impro03_M007	55.3700	59.0400	well that s that s that s beautiful that s a beautiful place to do it
+Ses04F_impro03_F009	53.3000	56.4800	we re going to get married in the middle of a meadow
+Ses04F_impro03_F010	56.4800	65.9800	everybody s going to come up we re going to stay in all the pretty cabins up there and um everybody s going to have you know really flowery sort of naturey stuff
+Ses04F_impro03_F011	65.9800	67.4270	so pretty
+Ses04F_impro03_M008	65.6000	66.8600	that s great
+Ses04F_impro03_M009	67.2200	68.8100	i hope they re not like
+Ses04F_impro03_F012	67.9000	69.8300	very midsummer night s wedding
+Ses04F_impro03_M010	69.5100	76.3600	right nice that s great i hope while we re up there nobody gets attacked by any like bears or wolves or anything
+Ses04F_impro03_F013	74.6400	79.9400	thanks thanks a lot you re really helping the excitement here i hope no one dies
+Ses04F_impro03_M011	76.5100	79.5700	well no i am i m trying to be positive
+Ses04F_impro03_M012	79.6200	82.4300	i m trying to be positive i m trying to say i hope that doesn t happen
+Ses04F_impro03_F014	82.1300	85.7300	okey well well you know what i was hoping that you would help
+Ses04F_impro03_M013	82.4300	85.9600	we re going to be in the middle of the wilderness these kind of things happen
+Ses04F_impro03_F015	85.7300	90.8900	plan everything so then you can make sure that no one gets attacked by bears
+M	0.0000	0.0000	plan
+Ses04F_impro03_M014	90.6000	93.1700	yeah i ll help plan
+Ses04F_impro03_F016	92.7700	94.4300	yeah
+Ses04F_impro03_M015	94.0600	95.2400	yeah
+Ses04F_impro03_F017	94.8300	96.0800	really
+Ses04F_impro03_M016	95.6300	96.8300	sure
+Ses04F_impro03_F018	96.5100	103.3300	okay it s going to be in like six months so we don t have a really long time
+Ses04F_impro03_M017	102.7800	109.3600	i m thinking greens lots of greens greens and browns we re nature
+Ses04F_impro03_F019	106.2100	107.8900	okay
+Ses04F_impro03_F020	108.1900	110.2800	no no browns
+Ses04F_impro03_M018	109.8900	111.3500	why not browns
+Ses04F_impro03_F021	110.5600	112.1800	it s a wedding
+Ses04F_impro03_M019	111.4500	114.1200	it s a light brown tanish
+Ses04F_impro03_F022	113.0200	115.9400	blue for the sky
+Ses04F_impro03_F023	116.5000	118.3000	come on
+Ses04F_impro03_M020	116.7000	125.4800	i just think browns are really what you want to go with i mean i think there s more contrast between brown and green than there is
+F	0.0000	0.0000	well yeah but
+Ses04F_impro03_F024	123.3600	126.1500	who who s getting married though
+Ses04F_impro03_M021	125.7300	128.5200	i know but you just asked me to
+Ses04F_impro03_F025	127.9500	133.0300	to help plan because i m getting married
+M	0.0000	0.0000	yeah i know
+Ses04F_impro03_M022	132.5800	134.7800	so we re going to go greens and browns
+Ses04F_impro03_F026	134.2400	136.0900	no
+Ses04F_impro03_M023	135.7500	140.3100	come on please will you do the greens and browns just the browns for me
+F	0.0000	0.0000	come on
+Ses04F_impro03_M024	140.4800	142.9300	just for me come on i m your best friend
+Ses04F_impro03_F027	141.3600	143.5100	it s not your wedding you can
+Ses04F_impro03_M025	142.9700	144.3500	i m your best friend
+Ses04F_impro03_F028	143.5300	144.9900	you know what you know what
+Ses04F_impro03_M026	144.3700	146.0300	give me the browns
+Ses04F_impro03_F029	145.0400	150.6400	you can t ruin my mood today if you want to wear a brown tux you go ahead and wear a brown tux
+M	0.0000	0.0000	i m not trying to ruin your mood
+Ses04F_impro03_M027	153.8600	156.6400	okay fine so green and what
+Ses04F_impro03_F030	150.6600	154.2800	but bridesmaids aren t wearing brown and i m not wearing brown
+F	0.0000	0.0000	umm
+Ses04F_impro03_M028	157.4700	158.6800	blue
+Ses04F_impro03_F031	158.3600	159.6800	maybe
+Ses04F_impro03_M029	159.2400	161.4300	okay fine greens and blues
+Ses04F_impro03_F032	159.8600	161.5800	i like blue
+Ses04F_impro03_M030	161.5058	164.6600	greens and blues and maybe a little light yellow
+Ses04F_impro03_F033	164.1200	165.4200	that would work
+Ses04F_impro03_M031	165.1400	166.1200	yeah
+Ses04F_impro03_F034	165.7000	171.0000	throw in a little little uh trim in yellow maybe some yellow flowers
+Ses04F_impro03_M032	170.5300	179.1600	okay that sounds good um and uh we re going to get like a five uh story cake right
+Ses04F_impro03_F035	178.8300	182.0900	yeah i hadn t actually thought about the cake yet but
+Ses04F_impro03_M033	180.7800	191.4200	i mean you know you re going to have at least like two hundred and fifty people come so we re going to need you know just a huge buffet
+F	0.0000	0.0000	yeah
+Ses04F_impro03_F036	191.0600	192.1200	yes
+Ses04F_impro03_M034	191.7900	195.4200	fried chicken mashed potatoes
+Ses04F_impro03_F037	192.1900	193.9900	see this is why you have to help
+Ses04F_impro03_F038	193.9900	197.9600	because you re going to take care of everything you re going to think of all the details that i forget
+Ses04F_impro03_M035	197.6400	200.8000	well i can t be in charge of this i mean i got things i got to do
+Ses04F_impro03_F039	199.9300	202.4900	well right but you can help
+Ses04F_impro03_M036	201.5600	205.7800	well this is really exciting i mean i just i couldn t be happier right now
+Ses04F_impro03_M037	205.7800	209.2900	i m thrilled god
+Ses04F_impro03_F040	205.4600	206.9100	ha ha ha
+Ses04F_impro03_F041	208.9700	210.5900	ha ha
+Ses04F_impro03_M038	210.1300	213.4400	just ecstatic i can t believe you re my best friend
+Ses04F_impro03_F042	210.6400	214.6300	just couldn t be any cooler
+Ses04F_impro03_M039	213.4700	217.8900	you re my best friend we re growing up and now you re getting married that s amazing
+Ses04F_impro03_F043	216.2000	220.8300	i know i ve been waiting forever i can t believe it s finally happening
+Ses04F_impro03_M040	219.1700	224.0800	wow i just i i i feel like i m going to faint
+Ses04F_impro03_M041	224.1000	226.5218	i m so all the blood
+Ses04F_impro03_F044	223.9100	226.6600	you don t look like you re going to faint
+Ses04F_impro03_M042	226.5218	231.4599	has just rushed to my head and i and i mean honestly
+F	0.0000	0.0000	uhuh
+Ses04F_impro03_M043	231.4599	233.4700	i m getting a little weak in the knees
+Ses04F_impro03_F045	230.6500	233.8048	so so when are you getting married mr excited
+Ses04F_impro03_M044	234.1808	246.2700	you know that i ve never i i have a long run of bad relationships but you know i mean you got to work through it it s fine
+Ses04F_impro03_F046	244.5300	249.0400	what about kathy i mean you guys have been dating for a while
+Ses04F_impro03_M045	248.5900	250.6400	yeah but
+Ses04F_impro03_F047	249.1500	251.2200	you haven t ruined it yet
+Ses04F_impro03_M046	250.7000	256.4700	yeah i know but it s you know maybe we ll get married i don t know should be pretty
+F	0.0000	0.0000	maybe we ll get married
+Ses04F_impro03_F048	258.5900	260.6500	you really like
+Ses04F_impro03_M047	256.6100	262.5900	i don t know okay i mean gosh there s just look there s a lot of pressure in getting married okay
+Ses04F_impro03_F049	262.2600	267.5100	what she could be just as excited as i am right now
+Ses04F_impro03_F050	267.5900	273.6700	you could make her that excited you really like her you guys have been together for a really long time now
+Ses04F_impro03_M048	271.5900	273.7900	oh i ve made her that excited
+Ses04F_impro03_F051	273.6982	277.3952	that s more than i needed to know
+Ses04F_impro03_M049	276.9100	279.7200	what you ve heard me talk about it before
+Ses04F_impro03_M050	280.5800	282.5646	i m a monster in bed

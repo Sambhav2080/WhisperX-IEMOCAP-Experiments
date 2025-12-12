@@ -1,0 +1,39 @@
+Ses01F_impro02_F000	7.2688	16.6000	did you get the mail so you saw my letter
+M	0.0000	0.0000	yeah
+Ses01F_impro02_M000	17.6000	20.6264	it s not fair
+Ses01F_impro02_F001	19.8500	22.7800	yeah i know
+Ses01F_impro02_M001	21.7600	27.5558	i don t understand you ve already done so much i don t know why do you have to go back
+Ses01F_impro02_F002	26.5659	32.2895	i don t know i put in that request too they didn t
+Ses01F_impro02_F003	32.3075	37.9600	i guess you know everybody has to make sacrifices
+Ses01F_impro02_M002	38.8500	45.0900	i don t know it s just not fair i think you ve already made your sacrifice
+Ses01F_impro02_F004	47.3400	53.1100	there s people that have given more though you know
+Ses01F_impro02_M003	52.7100	59.0534	i just don t see how they can make you leave when you have a new baby we have a new kid
+Ses01F_impro02_F005	58.7500	61.3100	i know
+Ses01F_impro02_M004	61.7500	65.0550	then why is that fair why
+Ses01F_impro02_F006	64.2550	68.4700	there s babies over there though that need mothers
+Ses01F_impro02_M005	69.3400	74.2900	i don t know how you can be okay with this i don t know why you re not you re fine with it
+Ses01F_impro02_F007	72.3900	78.5700	i m not okay with it but i don t it s not like i have a choice i don t see what crying about it is going to fix
+Ses01F_impro02_M006	80.0300	86.9900	i m just trying to think of another way i m just trying to
+Ses01F_impro02_F008	87.2031	91.0900	just you know kicking myself
+Ses01F_impro02_F009	91.5500	95.8800	like you sign up because you need money and
+Ses01F_impro02_F010	97.9400	102.1900	things just aren t what they seem
+Ses01F_impro02_M007	103.2700	107.1000	this is a stupid war
+Ses01F_impro02_F011	107.6800	111.0153	we re doing the right thing though
+Ses01F_impro02_M008	110.5653	113.2000	i know
+Ses01F_impro02_M009	114.1775	117.8500	i just don t see why it has to be you
+Ses01F_impro02_F012	117.8300	120.8605	if not me then who
+Ses01F_impro02_M010	120.4105	124.6300	what am i going to do huh
+Ses01F_impro02_F013	127.8200	133.9455	you ll videotape everything yeah
+Ses01F_impro02_M011	133.8800	137.1000	yeah
+Ses01F_impro02_F014	139.0300	146.4300	maybe you can send it to me like stream it yeah
+Ses01F_impro02_M012	147.0300	151.7101	don t you guys have access to computers over there
+Ses01F_impro02_F015	151.4221	155.0100	last month yeah
+Ses01F_impro02_M013	157.9800	162.7100	i just don t know how i m going to do it without you
+Ses01F_impro02_F016	163.5400	165.7300	i have to find sitters
+Ses01F_impro02_M014	164.8850	169.5000	i can t raise a baby by myself how
+Ses01F_impro02_F017	169.3600	176.0150	we ve got friends that s why we moved here huh because there is a day care down the street
+Ses01F_impro02_M015	175.4700	176.7200	i know
+Ses01F_impro02_F018	176.0800	179.1300	and your mother is close by
+Ses01F_impro02_F019	182.8300	185.8894	i ll send you lots of letters
+Ses01F_impro02_F020	186.5800	191.1100	and i want lots and lots and lots of pictures
+Ses01F_impro02_M016	195.1047	199.5200	it s just not fair

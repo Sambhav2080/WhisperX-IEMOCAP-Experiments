@@ -1,0 +1,69 @@
+Ses02M_impro08_M000	3.6166	6.0102	all right customer service this is steve
+Ses02M_impro08_F000	5.8326	11.4941	hi thank you so much you re a real person right you re not like a recording
+M	0.0000	0.0000	heh yeah no i
+Ses02M_impro08_M001	10.9934	13.1234	i m a real person yes
+Ses02M_impro08_F001	11.5765	17.4979	okay before i get into it um your menu or whatever like where you choose the different thing depending on the
+Ses02M_impro08_F002	17.5233	23.6412	it leads you around in circles you can t there is no way to like get to a real person if you don t already know how to get to there
+Ses02M_impro08_M002	22.6205	27.3120	right no yes i know it is it is a little frustrating
+Ses02M_impro08_F003	26.2317	31.2805	so is there any way to like bypass that because that is so like i ve been going around in circles
+Ses02M_impro08_F004	31.3039	37.8395	like press nine press zero press back to the menu like i can t get through to what i m supposed to get through to
+Ses02M_impro08_M003	37.9230	48.3927	i i ll give you a little hint next time if it asks if you re on a rotary phone you know just stay on the line instead of instead of hitting one or two to say if you re like on a touch tone
+F	0.0000	0.0000	it s so frustrating
+Ses02M_impro08_M004	48.4404	51.3750	pretend like your on a rotary phone goes straight through to a person
+Ses02M_impro08_F005	51.1141	60.9752	okay oh that would just make it so much better cause i cannot handle it s just like oh my god i can t sit here any longer and talk to this lady with this pleasant voice
+Ses02M_impro08_M005	55.1628	57.5574	i know they don t tell you that kind of thing
+M	0.0000	0.0000	right
+Ses02M_impro08_F006	61.0932	63.8674	sorry okay um yes
+Ses02M_impro08_M006	62.0289	63.8421	alright well you got me now
+Ses02M_impro08_F007	63.8928	69.3915	thank you very much um so i have a charge on my credit card that um isn t mine
+Ses02M_impro08_F008	69.5168	73.9495	uh i don t know where it came from and it s actually quite large and i don t have the money for it so
+M	0.0000	0.0000	oh alright
+Ses02M_impro08_F009	73.9713	79.1524	it really freaks me out when i got my bill because it was like i don t i didn t spend this this is not my charge
+Ses02M_impro08_M007	78.1955	82.6714	yea all right well let me let me look it up here for a second uh so i think
+Ses02M_impro08_F010	80.9592	88.8614	okay it was um at the sorry it was at a department store i think it was macy s or something
+Ses02M_impro08_M008	87.5150	90.9077	okay alright yeah i i see it on here
+Ses02M_impro08_F011	88.8844	95.1091	and it was like something like eight hundred dollars i don t remember it was just a lot and i have thing in front of me right now but
+Ses02M_impro08_M009	94.4263	100.1059	all right well you know that s that s what we have all of our protection plans for and everything like that so i mean it s
+Ses02M_impro08_F012	98.9404	103.3519	okay so is there something i can do to get rid of it
+Ses02M_impro08_M010	100.1566	102.0586	it it ll work out fine
+Ses02M_impro08_M011	103.2505	112.7768	yes we ll get we ll get rid of it right now i mean just we re going to have to have you um submit something you know we re going to have to have you mail something in for us okay
+F	0.0000	0.0000	okay okay
+Ses02M_impro08_M012	112.8186	118.1843	so so you can um find that application you have the internet you can go to our website
+Ses02M_impro08_F013	117.4010	121.6994	oh i can get the form right now oh that ll be so much better okay
+Ses02M_impro08_M013	118.8972	121.6360	yeah yeah you get the form right now and yeah
+Ses02M_impro08_M014	121.6487	124.0197	we could mail it to you as well but
+Ses02M_impro08_F014	123.0606	125.2593	but online is faster i can do that
+Ses02M_impro08_M015	124.3367	132.5278	right you can go online print it out and just fill out the form and um send it to us um you know regarding the grievance and
+Ses02M_impro08_M016	132.5405	135.3819	and it ll get taken off um no problem you know
+Ses02M_impro08_F015	133.6816	134.6960	okay
+Ses02M_impro08_F016	134.7087	138.8649	cause i i just don t know how someone could have gotten my charge information
+Ses02M_impro08_F017	138.8649	140.6043	i mean i still have my card
+Ses02M_impro08_M017	138.8867	140.1928	right i mean we might
+Ses02M_impro08_M018	140.7806	141.9234	okay
+Ses02M_impro08_F018	141.4772	144.8732	so is there any i mean what if they spend something again
+Ses02M_impro08_M019	144.3452	148.4281	uh i mean have you been shopping around on the internet and stuff i mean that you gave
+Ses02M_impro08_F019	147.8773	151.8393	i did buy one thing on ebay i don t know that might
+Ses02M_impro08_M020	149.9623	157.3799	uh ha i mean usually sites are pretty well protected but sometimes i mean information gets out so
+Ses02M_impro08_M021	157.3926	164.5089	so it is a little a little hard in that situation if you want you know you can um we can we can issue another credit card
+Ses02M_impro08_F020	164.0735	165.2490	oh really
+Ses02M_impro08_M022	164.5313	166.1633	yeah yeah maybe we ll uh
+Ses02M_impro08_F021	165.9457	173.0192	oh that ll be great cause i could just get a new number would that be okay because that way i don t have to worry about it happening again
+Ses02M_impro08_M023	167.4856	169.3876	it s a different number and everything
+Ses02M_impro08_M024	170.5161	172.3926	yeah yeah
+Ses02M_impro08_M025	172.9118	183.6004	yes um but for for that for that charge we will need you to send something in but we can get you processed immediately for this for this for this new card it still goes to the same address right
+Ses02M_impro08_F022	183.2845	185.0723	yes absolutely
+Ses02M_impro08_M026	183.9704	187.7147	okay all right then we ll get it sent out there and
+Ses02M_impro08_F023	187.3229	188.6099	great
+Ses02M_impro08_M027	187.7365	191.1325	and you know just i mean be careful in the future if um
+Ses02M_impro08_F024	190.8923	191.8940	yeah
+Ses02M_impro08_M028	191.4882	197.1767	if you re ever online or anything like that i mean just make sure it s a secure site and
+Ses02M_impro08_M029	197.3020	208.1746	and never you know give it to anyone out never even give out your number to any like unreliable company that you haven t heard of or anything like that all right because um we want to we definitely want to help you out but
+Ses02M_impro08_F025	199.9925	201.4292	right right
+Ses02M_impro08_F026	204.8688	206.1096	okay great
+Ses02M_impro08_F027	208.1123	209.3096	yeah totally
+Ses02M_impro08_M030	208.2000	212.2955	you know it gets it gets difficult you know so alright
+Ses02M_impro08_F028	210.1273	213.7030	well thank you so much you ve been very helpful i really appreciate it
+Ses02M_impro08_M031	212.7393	216.2770	alright yes i m sorry for all the inconvenience but we ll get it taken care of
+Ses02M_impro08_F029	214.6648	216.1669	thank you
+Ses02M_impro08_F030	216.1796	218.7792	thank you very much bye
+M	0.0000	0.0000	alright

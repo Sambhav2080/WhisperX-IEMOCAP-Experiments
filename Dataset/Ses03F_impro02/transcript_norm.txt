@@ -1,0 +1,75 @@
+Ses03F_impro02_F000	7.6300	9.5400	how s it going babe
+Ses03F_impro02_F001	12.1900	13.2100	yeah
+Ses03F_impro02_M000	10.0719	11.8800	all right
+Ses03F_impro02_F002	13.8600	15.4425	good
+Ses03F_impro02_F003	16.2350	25.7100	hey listen eh i ve been wanting to talk to you i have something to tell you how s amy doing
+Ses03F_impro02_M001	25.8175	33.2575	she s doing fine she just took her first steps today actually i videotaped it for you so you can watch it
+Ses03F_impro02_F004	28.8225	30.3400	yeah
+Ses03F_impro02_F005	31.4600	32.5950	oh
+Ses03F_impro02_F006	32.7525	44.4150	i really want to say that well i so you know at the center department they called me in and i talked to
+Ses03F_impro02_M002	43.9400	45.9400	oh yeah what did they say
+Ses03F_impro02_F007	45.3025	50.7600	well umm actually they i was promoted
+Ses03F_impro02_M003	50.3100	53.0775	oh wow that s great
+Ses03F_impro02_F008	51.3100	64.6400	and uh yeah uh they re going to need um more nurses on call for uh to go overseas to help out with the war
+Ses03F_impro02_F009	64.7600	74.8875	and uh seeing as i was uh promoted and head of the department now and so well they asked me to go
+Ses03F_impro02_F010	75.0900	76.9100	yeah
+Ses03F_impro02_M004	76.0425	77.4100	when
+Ses03F_impro02_F011	77.0475	81.4500	it s going it s going to be probably in about three weeks
+Ses03F_impro02_M005	81.9000	86.2325	what you can t do that three weeks
+Ses03F_impro02_F012	82.8900	83.8900	yeah
+Ses03F_impro02_F013	86.3275	91.1400	well i m leaving in three weeks but yeah
+Ses03F_impro02_M006	89.9300	93.4225	god we re supposed to take a look at a house next week
+Ses03F_impro02_F014	93.2800	95.9750	maybe we can still do that
+Ses03F_impro02_M007	94.9800	98.1925	i can t no i can t do this alone
+Ses03F_impro02_F015	99.0150	100.8800	yeah and uh
+Ses03F_impro02_M008	99.5000	102.7700	amy s starting school in a month
+Ses03F_impro02_F016	102.3075	109.1800	i know but look i have to take this i mean if i don t i mean i could get fired
+Ses03F_impro02_F017	109.2300	113.5000	and we know you need we need the money we couldn t even purchase a house if i didn t take this
+Ses03F_impro02_M009	111.5275	112.8100	god
+Ses03F_impro02_M010	114.4600	119.0325	you know what happened to my cousin she went and she never came back
+Ses03F_impro02_F018	118.4000	122.1275	honey i m going to come back it s not like that
+Ses03F_impro02_F019	124.1475	128.2825	but it it is for a year
+Ses03F_impro02_M011	127.8000	129.2625	oh
+Ses03F_impro02_F020	131.1600	134.9500	babe i m sorry but i don t want to do
+Ses03F_impro02_M012	135.0950	136.4900	i can t
+Ses03F_impro02_F021	134.9900	141.6100	you know as much as as much as me that i i want to stay here with you and amy so bad but i can t
+Ses03F_impro02_M013	141.8225	147.9025	you remember the last time you went you know how hard it was for me now we have a kid
+Ses03F_impro02_F022	147.8200	154.1975	but you re so good with her you know she knows you better than she knows me cause i m at work every day
+Ses03F_impro02_M014	150.7550	152.9000	i have to work
+Ses03F_impro02_F023	156.3250	158.6525	babe i love you
+Ses03F_impro02_M016	158.1350	161.2675	you can t leave your daughter alone like this
+Ses03F_impro02_F024	161.2850	165.7450	but she has you i mean that s what you re there for you re my right hand man
+Ses03F_impro02_F025	169.3125	171.2800	it s going to be okay
+Ses03F_impro02_M017	170.2300	171.8775	you can t postpone it
+Ses03F_impro02_F026	171.9575	174.2475	no i have to go
+Ses03F_impro02_F027	176.0350	181.5675	wait you can write me and as you know send me pictures
+Ses03F_impro02_M018	182.2500	186.3400	i don t know if i can handle you going another year
+Ses03F_impro02_F028	186.6700	189.0050	what do you mean
+Ses03F_impro02_M019	189.9200	195.4200	i don t know if i if i could take it
+Ses03F_impro02_F029	196.3200	204.9350	look i need you to be strong for me cause i can t be the only one that s strong right now really i
+Ses03F_impro02_M020	204.3800	208.4900	i can t be that strong a whole year
+Ses03F_impro02_M021	209.0850	211.1600	me oh my god
+Ses03F_impro02_F030	209.8721	214.6600	but we can work you know we you can write me and we could see pictures
+Ses03F_impro02_M022	217.9700	220.0175	what if you don t come back
+Ses03F_impro02_F031	214.7200	219.0550	and if we survive if we survive that then babe you know you know we could survive any
+Ses03F_impro02_F032	219.5625	221.0025	i will come back
+Ses03F_impro02_M023	220.6050	226.6600	what am i supposed oh one out of five people aren t coming back
+Ses03F_impro02_M024	226.6950	229.1200	it doesn t look very good
+Ses03F_impro02_F033	231.8125	236.4800	i can do it i m going to do it and i ll be back safe and sound and
+Ses03F_impro02_F034	236.6900	239.7400	we ll have all the money that we ever needed
+Ses03F_impro02_F035	239.8000	243.3049	and and then i ll stop working and i ll stay home with the baby
+Ses03F_impro02_M025	242.0100	244.3100	i don t want the money i want you here
+Ses03F_impro02_M026	244.4100	249.0050	we ll get money all right you don t need the job all right
+Ses03F_impro02_M027	249.0675	255.5950	if your life is going to be in danger and this family is going to be in danger we don t need the job we ll find the money
+Ses03F_impro02_F036	255.8325	262.1050	it s all i ever knew how to do i can t quit now
+Ses03F_impro02_M028	264.3225	269.6400	how are we supposed to tell amy how s she supposed to understand that
+Ses03F_impro02_F037	269.1575	276.7300	well we we tell her mommy s going on va on a trip for for a while
+Ses03F_impro02_M029	277.8600	282.6200	how is she going to feel the first year in school no mom
+Ses03F_impro02_F038	282.3400	285.0700	don t do that to me
+Ses03F_impro02_F039	285.8625	289.3775	it s hard enough already brian i can t
+Ses03F_impro02_M030	289.6400	294.1200	i m not thinking about just me i m thinking about our child
+Ses03F_impro02_F040	293.5900	295.1750	i know
+Ses03F_impro02_F041	296.9750	303.9250	i didn t expect this to happen i never planned for this some things you just don t plan for you know
+Ses03F_impro02_F042	305.5025	307.1600	i m sorry babe
+Ses03F_impro02_F043	308.9325	311.2200	i m so sorry
+Ses03F_impro02_M031	311.3500	313.6200	all right then

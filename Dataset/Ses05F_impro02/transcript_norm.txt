@@ -1,0 +1,82 @@
+Ses05F_impro02_F000	5.1700	7.6605	baby i need you to sit down
+Ses05F_impro02_M000	7.6018	10.4300	what is it
+Ses05F_impro02_F001	12.3000	14.4800	um
+Ses05F_impro02_M001	15.5400	18.2200	you can say it
+Ses05F_impro02_F002	19.0000	24.6600	i m sorry it s just a lot ahh to explain ahh i got a call
+Ses05F_impro02_M002	23.2800	24.8100	are you all right
+Ses05F_impro02_F003	24.7000	28.4600	yeah um everything s fine so far um
+Ses05F_impro02_F004	28.8000	31.1014	i got a call today
+Ses05F_impro02_FXX0	31.6581	32.7521	and um
+Ses05F_impro02_M003	31.5600	33.2600	okay
+Ses05F_impro02_F005	33.6400	37.1300	i m going to need to go overseas for a while
+Ses05F_impro02_M004	38.4900	40.6800	you got called up
+Ses05F_impro02_F006	40.9200	42.2900	iraq
+Ses05F_impro02_M005	41.8900	44.9700	i thought you said this wasn t going to happen for at least a year
+Ses05F_impro02_F007	44.4900	47.6500	i m sorry i thought so sigh
+Ses05F_impro02_M006	50.1000	52.3200	what am i going to do
+Ses05F_impro02_F008	51.7400	54.4200	i don t know sigh
+Ses05F_impro02_M007	54.1800	59.5700	i can t do this by myself i i don t know how to do this you know how to do this
+Ses05F_impro02_M008	60.3500	61.9000	the kids
+Ses05F_impro02_F009	61.5700	65.7300	i know i know
+Ses05F_impro02_M009	65.1400	69.6600	nobody s even here your parents live on the other side of the country
+Ses05F_impro02_F010	68.8300	79.7900	i know well we ll have to figure all that out i mean i think the army s going to provide childcare and help us out with that um
+Ses05F_impro02_M010	80.4600	83.4400	where do you have to go where are you going
+Ses05F_impro02_F011	83.0500	85.3000	iraq
+Ses05F_impro02_M011	85.6700	90.1700	what are you going to do there is it going to be dangerous what are you
+Ses05F_impro02_F012	88.3300	93.3000	i think infantry i m not sure
+Ses05F_impro02_M012	94.9700	97.4600	it s
+Ses05F_impro02_M013	99.3300	103.4000	can we do something else can you tell them that you just had two kids
+Ses05F_impro02_F013	97.7400	103.8500	it s going to be at least six months probably a year i tried
+Ses05F_impro02_M014	103.9163	108.1300	i don t understand why they would just do something like this
+Ses05F_impro02_F014	106.6800	109.9800	i know i know it s really really messed up
+Ses05F_impro02_M015	109.4000	116.8600	it doesn t make any sense it s stupid i told you you shouldn t go in the army
+Ses05F_impro02_F015	117.3600	121.0200	believe me if i had a choice i wouldn t have chosen this
+Ses05F_impro02_M016	120.5800	125.5400	i don t know i don t know what i m going to do i don t know how to
+Ses05F_impro02_F016	125.2100	130.2600	you don t know how to what you ll be fine i mean you re a great parent i know
+Ses05F_impro02_M017	127.3700	131.8400	they re six months old six months old they re tiny
+Ses05F_impro02_M018	131.9300	136.2100	i can t do this i ve never done this before i don t know anything about this
+Ses05F_impro02_F017	133.5800	138.1400	well maybe you should move in with my mom and she can help
+Ses05F_impro02_M019	137.6900	141.9100	your your mom you want me to move in with your mom
+Ses05F_impro02_F018	140.6200	144.2000	i don t know i m just i m trying to think of something
+Ses05F_impro02_M020	142.8000	146.9500	she doesn t even like me she s never liked me no
+Ses05F_impro02_F019	145.0128	148.8000	she likes you of course she likes you
+Ses05F_impro02_M021	147.8300	150.6600	she likes you she likes the kids
+Ses05F_impro02_M022	151.6700	156.6800	i no i can t sigh
+Ses05F_impro02_F020	156.4300	158.2300	you can t what
+Ses05F_impro02_M023	159.1700	166.0100	i can t let you go i can t let you go i ll call them i ll say something i ll do anything i ll tell them something different
+Ses05F_impro02_F021	164.2500	167.3900	i don t think there s anything we can do
+Ses05F_impro02_M024	166.0500	169.5200	i ll tell them i m sick and that you can t leave something
+Ses05F_impro02_F022	169.1700	182.0200	well we can try it baby don t beg me i mean if there were anything that i could do i would do it believe me this is not what i want
+Ses05F_impro02_M025	181.7500	183.7300	it s not fair
+Ses05F_impro02_F023	183.0200	188.9000	i know i know it s not fair
+Ses05F_impro02_M026	189.2800	200.1600	why has to be you there s all those other people somebody else can go instead it s not right
+Ses05F_impro02_F024	199.5600	202.7800	well apparently nobody else can go
+Ses05F_impro02_M027	203.4300	207.0000	what are you going to do that s any different than anybody else
+Ses05F_impro02_F025	205.9800	213.1700	i don t know baby why are you asking me this it s just as hard for me please try to understand that
+Ses05F_impro02_M028	212.6000	224.5500	i don t know it s not me so i m the one who has to stay here i m the one who has to take care of them and i don t have i don t have anybody else you re all i have
+Ses05F_impro02_F026	223.6300	233.5000	i understand baby i m sorry i mean try to understand i m i m scared myself
+Ses05F_impro02_M029	233.4100	240.2300	i understand i m worried about you i don t know what s going to happen to you
+Ses05F_impro02_F027	238.6500	240.4100	i know
+Ses05F_impro02_M030	240.5300	247.4700	iraq of all come on people die every day
+Ses05F_impro02_F028	246.3500	248.2000	i know
+Ses05F_impro02_M031	249.9654	252.0563	i jus
+Ses05F_impro02_F029	252.2100	262.6900	we ll figure something out we just have to we just have to think about this could any of your family help us
+Ses05F_impro02_M032	262.9800	264.8200	i don t know
+Ses05F_impro02_F030	265.5084	269.0981	maybe we should call your parents
+Ses05F_impro02_M033	269.5200	278.8500	yeah i guess i don t know what they re going to say
+Ses05F_impro02_M034	280.4300	286.6900	yeah we ll call them we ll figure something out i m sorry i m sorry i m sorry you re right
+Ses05F_impro02_F031	285.7900	289.1700	i m going to miss their first words
+Ses05F_impro02_M035	289.0500	291.1800	i know
+Ses05F_impro02_F032	291.0500	294.9200	you ll have to send me pictures and letters everyday
+Ses05F_impro02_M036	293.4100	299.9900	all the time every day every day they have e mail over there and stuff like that right i can send you pictures
+Ses05F_impro02_F033	298.0200	301.2800	i don t know i hope so
+Ses05F_impro02_M037	301.1900	307.9200	you have to call me all the time whenever you can you have to tell me what you re doing and how you re doing okay
+Ses05F_impro02_F034	307.5400	310.2100	yeah as much as i can
+Ses05F_impro02_M038	309.8100	312.1800	how long do we have when do you leave
+Ses05F_impro02_F035	311.9000	316.1000	sigh three weeks
+Ses05F_impro02_M039	315.4100	319.4100	three weeks
+Ses05F_impro02_F036	318.9700	320.7100	yeah
+Ses05F_impro02_M040	320.3500	328.8200	i don t okay okay we can do this we can do this it s okay we ll make it work
+Ses05F_impro02_F037	328.2000	329.4000	yeah
+Ses05F_impro02_M041	332.8230	335.1399	i love you
+Ses05F_impro02_F038	335.2658	343.4000	i love you i m going to miss you so much sigh

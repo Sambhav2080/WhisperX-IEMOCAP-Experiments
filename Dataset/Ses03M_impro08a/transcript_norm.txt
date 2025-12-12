@@ -1,0 +1,66 @@
+Ses03M_impro08a_M000	6.5663	11.4367	hello this is viacom services how can i help you
+Ses03M_impro08a_F000	10.7663	18.3382	hello god finally somebody look this is ridiculous i ve been waiting online for like a half an hour now
+Ses03M_impro08a_M001	17.6481	20.8228	i m sorry ma am what can i help you with
+Ses03M_impro08a_F001	19.8763	26.9925	look my my phone isn t working i don t understand what s going on i am trying to call out i m not receiving any calls
+Ses03M_impro08a_F002	27.0735	31.6225	and i need assistance with my not only is my work phone it s my home phone and look
+Ses03M_impro08a_F003	31.7275	36.8342	this is my business this is how i make money is through my phone it needs to be working can you please help me
+Ses03M_impro08a_M002	34.1722	42.0202	okay can you give me the last four digits of your social security number so i can verify who i m speaking with
+Ses03M_impro08a_F004	41.3695	44.4061	two two six six
+Ses03M_impro08a_M003	43.4794	46.8315	okay and your name is
+Ses03M_impro08a_F005	45.9836	48.5076	olivia
+Ses03M_impro08a_M004	47.7977	53.2597	olivia um okay so how long has this problem been
+Ses03M_impro08a_F006	52.5302	61.8176	this has been going on for the past two weeks i called every single day nobody is helping me you guys tell me the same thing over and over call again call again call again
+Ses03M_impro08a_M005	60.1218	62.9021	so what exactly is the problem
+Ses03M_impro08a_F007	61.8767	69.4487	i don t i don t know what the problem is that s what i want you guys to why is my service not turned on and i paid my bills on time i don t understand
+Ses03M_impro08a_M006	68.6402	77.5530	um i think part of it has to do with the network being down it s been having some trouble the last few weeks
+Ses03M_impro08a_F008	74.8318	81.1900	okay well that is that is fine and all i don t care i really don t care because i want my phone to work that s all
+Ses03M_impro08a_F009	81.2225	92.2433	that is i am paying you guys for service and i m not getting any service i get i get just dropped calls all the time and now it s completely not working at all i can t even call out nine one one probably wouldn t even work
+Ses03M_impro08a_M007	87.7474	90.4292	i understand we re not
+Ses03M_impro08a_M008	91.0602	95.6349	no okay we re not charging you for any of these months we re going to give you three months free
+Ses03M_impro08a_F010	94.6884	99.7560	well you better you better give me a whole freaking new phone that s what you better do
+Ses03M_impro08a_M009	98.8687	101.6293	we can give you a new phone
+Ses03M_impro08a_F011	99.9335	102.3589	i want a camera phone actually
+Ses03M_impro08a_M010	101.7279	107.3871	we can do that we can do that you just have to sign a one year contract though with the
+Ses03M_impro08a_F012	105.5533	110.1575	no no no i m done with these contract business because this is what can happen
+Ses03M_impro08a_F013	110.2000	117.8182	you sign the contract and then down the line the phone doesn t work and you re stuck you can t go to a new no no contracts for me you give me a new phone
+Ses03M_impro08a_M011	116.2210	122.3732	besides it s sort of out of hands at the moment the whole electrical power outage
+Ses03M_impro08a_F014	118.4295	121.2295	i want to talk to a supervisor
+Ses03M_impro08a_F015	121.3084	126.2775	i would like to talk to your supervisor obviously you re incompetent and don t understand what i m asking
+Ses03M_impro08a_M012	125.5676	133.9480	um let me connect you to my supervisor actually he s out right now so i m supervisor until he comes back um
+Ses03M_impro08a_F016	132.0353	134.4212	what
+Ses03M_impro08a_M013	134.2043	140.4156	so you could speak with me some more you could call back later on maybe
+Ses03M_impro08a_F017	134.4804	137.0635	that s ridiculous you know
+Ses03M_impro08a_F018	138.8579	146.9819	no i don t want to call back you put me on hold for like hours and hours and it s money money money money and out of my pocket out of my pocket
+Ses03M_impro08a_M014	141.8945	144.4579	i didn t put you on hold
+Ses03M_impro08a_M015	144.5565	150.0974	there are a lot of people calling us having problems every phone company is having the same problems ma am
+Ses03M_impro08a_F019	149.4664	152.4439	every phone every single phone company
+Ses03M_impro08a_M016	151.3989	157.4327	mmm hmmm mmm hmmm the power outages everything hurricane katrina everything s really messed up
+Ses03M_impro08a_F020	154.2778	158.6553	this is ridiculous well what are we supposed to do we starve then because i can t use my phone cause
+Ses03M_impro08a_F021	158.6750	166.4244	i am a realtor and this is my business people are calling me all the time but you know and i don t have a land line i can t afford to have a land line
+Ses03M_impro08a_M017	162.1454	164.3145	don t you
+Ses03M_impro08a_M018	165.8131	170.0329	i m really sorry ma am there s not a lot we can do for it
+Ses03M_impro08a_F022	167.5680	169.7174	that you better be sorry
+Ses03M_impro08a_F023	169.7568	173.6019	well you re not helping me at all god this is so frustrating
+Ses03M_impro08a_M019	171.3737	181.1935	what i can do for you if you want to make a call right now i could contact you through our computer i can call through my phone and you can speak through me
+Ses03M_impro08a_F024	180.0104	183.8753	what no that s way too complicated look
+Ses03M_impro08a_F025	183.8875	188.0359	you need to fix my phone i don t care what you have to do
+Ses03M_impro08a_M020	185.9851	190.8753	i m sorry it has to do with an electrical power outage and stuff
+Ses03M_impro08a_F026	188.5288	196.8895	well then go up the freaking pole and fix it like you need to help me you don t understand i m in dire dire need of a phone right now
+Ses03M_impro08a_M021	196.2388	203.5544	well okay i m going to give you a free phone card that you can use at any payphone and that s on us okay
+Ses03M_impro08a_F027	201.0304	207.7347	yeah yeah woman going out in south central on the payphone at night oh that s real safe
+Ses03M_impro08a_M022	206.9065	211.1854	i m i m sorry you chose to live there um
+Ses03M_impro08a_F028	209.8840	215.3575	no no no i didn t choose to live here i work there okay yeah work work work
+Ses03M_impro08a_MXX0	213.9491	214.7541	okay
+Ses03M_impro08a_M023	214.8728	218.8559	well i m sure maybe there s a phone at work you could use
+Ses03M_impro08a_F029	218.1658	225.7180	we can t call out we can t make out line i don t work i work at another office
+Ses03M_impro08a_F030	225.7771	229.8392	a law firm thank you very much
+Ses03M_impro08a_M024	227.9067	231.1406	all right um
+Ses03M_impro08a_F031	230.4899	239.5801	i work out of my home as a realtor and because i don t have a land line i need a phone and because of now i don t have one i don t know what to do and you re not helping me at all
+Ses03M_impro08a_F032	239.6393	242.9323	in fact give me your name sir what s your name again
+Ses03M_impro08a_M025	242.3999	246.0675	my name is sara
+Ses03M_impro08a_F033	245.3971	248.9070	okay sara what
+Ses03M_impro08a_M026	247.9999	250.6619	sara brown
+Ses03M_impro08a_F034	249.7746	262.7494	sara brown sara brown um yeah i m going to get off the phone with you and then i m going to call back and i m going to give your supervisor your name because you re obviously incompetent to work here
+Ses03M_impro08a_MXX1	255.3251	256.3542	okay
+Ses03M_impro08a_M027	261.2113	268.4283	you know maam we record this conversation so anything you say can be proven in a law of court so keep that in mind
+Ses03M_impro08a_F035	266.4367	274.7974	what are you what are you a police officer now you know like i m done i m over it goodbye and i hope that you lose your job

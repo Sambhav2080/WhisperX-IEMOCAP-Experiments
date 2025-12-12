@@ -1,0 +1,129 @@
+Ses05F_impro03_F000	2.8098	4.5479	okay so big news
+Ses05F_impro03_M000	4.2300	5.4300	what
+Ses05F_impro03_M001	5.6200	9.3800	come on what
+Ses05F_impro03_F001	7.9600	9.8400	i m getting married
+Ses05F_impro03_M002	9.6100	10.9700	shut up
+Ses05F_impro03_F002	10.2000	11.3300	yeah
+Ses05F_impro03_M003	11.0100	12.6200	no way
+Ses05F_impro03_F003	11.5800	12.7187	yeah
+Ses05F_impro03_M004	12.6500	14.3000	he asked you
+Ses05F_impro03_F004	13.4800	14.6600	uh huh
+Ses05F_impro03_M005	14.4300	17.6100	no way when when when when did it happen
+Ses05F_impro03_F005	16.2500	18.1600	just a couple days ago
+Ses05F_impro03_M006	17.8500	19.8800	oh my gosh
+Ses05F_impro03_M007	19.9900	24.6800	and you actually said yes i can t believe it i never thought you would get married
+Ses05F_impro03_F007	24.0500	25.7600	i know me neither
+Ses05F_impro03_M008	25.3500	27.2000	oh my gosh
+Ses05F_impro03_F008	26.0600	30.7700	right i thought i would be way older too i thought i would be i be at least thirty something
+Ses05F_impro03_M009	27.3300	29.2900	oh absolutely
+Ses05F_impro03_M010	29.8300	35.5200	well we always said we d be in our thirtieth when we got married and we were going to get married to each other if we didn t by then
+Ses05F_impro03_F009	30.9400	32.4700	yeah
+Ses05F_impro03_F010	33.6100	37.1900	i know right what d we say when we were thirty nine
+Ses05F_impro03_M011	36.2700	41.5691	thirty nine yeah i can t believe it so you broke our pact thanks a lot
+Ses05F_impro03_F011	40.1200	41.8700	sorry
+Ses05F_impro03_M012	41.6005	45.9800	thanks a lot well okay you ve got to tell me the details what did he say where was it what happened
+Ses05F_impro03_F012	45.1000	52.2600	um well uh i don t i don t know how much planning he had done
+Ses05F_impro03_M013	51.9600	56.1400	okay that s okay spontaneous is great spontaneous is awesome
+Ses05F_impro03_FXX0	52.7214	54.3533	actually but
+Ses05F_impro03_F013	55.2100	57.1200	it was really beautiful
+Ses05F_impro03_M014	56.1500	57.6600	you ve got to love that
+Ses05F_impro03_F014	57.1800	61.1900	yeah we went to a really great jazz show and um
+Ses05F_impro03_M015	60.2600	63.5100	nice you love the jazz
+Ses05F_impro03_F015	62.2000	69.3900	yeah and after we went up to this um this place like a restaurant on the roof kind of thing
+Ses05F_impro03_M016	68.7600	70.1500	oh okay yeah
+Ses05F_impro03_F016	69.5500	74.3100	so you know like late dinner and champagne and what not
+Ses05F_impro03_M017	73.5700	75.3300	were you in chicago
+Ses05F_impro03_F017	74.8000	76.0500	mm hmm
+Ses05F_impro03_M018	75.5600	80.1300	downtown was it beautiful of course it was beautiful
+Ses05F_impro03_FXX1	77.4202	78.2931	yeah
+Ses05F_impro03_F018	78.3500	81.1000	so beautiful full moon
+Ses05F_impro03_M019	80.8500	87.9000	what a guy i can t believe it so okay so do you know any details when s it going to be anything
+Ses05F_impro03_F019	87.1900	89.4800	i don t know i guess next summer
+Ses05F_impro03_M020	88.8400	90.3800	am i in it
+Ses05F_impro03_F020	89.8800	93.0500	yeah yeah of course
+Ses05F_impro03_M021	90.7300	93.7800	okay i certainly hope so of course
+Ses05F_impro03_F021	93.1600	95.4700	so next fall i guess
+Ses05F_impro03_M022	94.8300	95.9700	next fall
+Ses05F_impro03_F022	95.6300	97.4800	yeah i like the autumn
+Ses05F_impro03_M023	96.7600	99.0100	are you going to do it in town or are you out of town
+Ses05F_impro03_F023	98.5200	100.2000	oh we ll do it in town
+Ses05F_impro03_M024	99.5600	100.8300	oh okay
+Ses05F_impro03_F024	100.4400	103.9900	yeah his family doesn t live too far away so i think
+Ses05F_impro03_M025	103.4400	105.2200	yeah where s he from again
+Ses05F_impro03_F025	104.8600	106.8700	he s from chicago as well
+Ses05F_impro03_M026	106.2100	107.4800	oh he is okay
+Ses05F_impro03_F026	106.9300	108.2000	yeah
+Ses05F_impro03_M027	107.5100	111.5700	cool perfect another chicagoite got to love it
+Ses05F_impro03_F027	110.8900	117.4400	it s so weird too right that like you can grow up so near somebody and never know them until you travel hundreds of miles away
+Ses05F_impro03_MXX0	112.5599	113.0761	yeah
+Ses05F_impro03_M028	116.7800	121.0400	exactly yeah i can t believe you met him in africa
+Ses05F_impro03_F028	120.4900	121.7500	i know
+Ses05F_impro03_M029	121.0600	124.6700	and the chances what are the chances of meeting somebody in africa and then coming back to chicago
+Ses05F_impro03_F029	123.7500	129.8600	right being like oh where are you from the u s where in the u s chicago where in chicago
+Ses05F_impro03_M030	129.1200	131.4200	i am sil
+Ses05F_impro03_F030	129.8900	132.4500	knowing the neighborhood yeah it s pretty bizarre
+Ses05F_impro03_M031	131.6500	133.3400	and now you re getting married
+Ses05F_impro03_F031	132.6100	133.9100	yeah
+Ses05F_impro03_M032	133.3600	136.9500	that is amazing you must be so excited did you tell your mom
+Ses05F_impro03_F032	136.4700	137.5600	mm hmm
+Ses05F_impro03_M033	137.1700	138.9600	oh did she cry
+Ses05F_impro03_F033	138.4400	140.4300	yeah she loves him
+Ses05F_impro03_M034	139.7600	148.3600	i knew it i knew it of course she does how could you not love mr peace corps worker man he s the nicest guy ever
+Ses05F_impro03_F034	147.1100	150.0500	yeah she yeah that s my type
+Ses05F_impro03_M036	151.6400	158.3900	you i can t believe it i m so happy for you this is exactly what you wanted it s your dream come true
+Ses05F_impro03_F035	158.0600	159.2800	thank you
+Ses05F_impro03_M037	158.4600	166.2000	the exact right guy i fully approve he s a wonderful guy we have a great time he can drink that s awesome
+Ses05F_impro03_F037	167.6700	170.0600	yeah we all have to hang out now
+Ses05F_impro03_M039	169.5200	180.6600	of course of course she will of course she will yeah don t go and disappear like everyone else after they get married and i never see them again that ll make me mad you don t want to make me mad you know how i get when i get mad
+Ses05F_impro03_FXX2	175.6668	176.1122	no
+Ses05F_impro03_FXX3	178.9461	179.4461	no
+Ses05F_impro03_F038	180.1100	185.5389	i mean i i have i have some duty to the man i was going to marry if nobody else came up
+Ses05F_impro03_M040	183.9300	185.2800	exactly
+Ses05F_impro03_M041	185.3000	187.6300	exactly laugh
+Ses05F_impro03_F039	187.3100	189.6400	sorry
+Ses05F_impro03_M042	188.8100	194.4800	ahh i was always worried you d be a little bit jealous of me but i was never quite that lucky
+Ses05F_impro03_F040	193.1900	194.8400	there s still time for that
+Ses05F_impro03_M043	194.5000	198.6900	oh thanks move here before you get married
+Ses05F_impro03_M044	199.1200	201.7600	perfect okay good sigh
+Ses05F_impro03_M045	201.7800	206.7100	i don t feel so bad then well i m excited for you
+Ses05F_impro03_F042	205.5400	207.3700	i know i can t believe it
+Ses05F_impro03_M046	207.0500	208.6600	i can t believe it
+Ses05F_impro03_F043	207.4600	209.7600	i am very excited
+Ses05F_impro03_M047	209.3700	211.0200	who else have you told
+Ses05F_impro03_F044	210.9900	212.5700	just a few people
+Ses05F_impro03_M048	212.2400	213.5100	really
+Ses05F_impro03_F045	212.5900	214.3700	just close friends so far
+Ses05F_impro03_M049	213.9600	217.8900	so i was one of the first ones that makes me feel so important
+Ses05F_impro03_FXX3	215.9916	216.6329	yeah
+Ses05F_impro03_F046	217.4800	220.8500	i have to think about moving now we re going to move in together
+Ses05F_impro03_M050	220.2900	222.7500	oh yeah of course
+Ses05F_impro03_F047	220.8800	223.8100	i think it s a good idea to live together before you get married
+Ses05F_impro03_M051	222.9400	225.5300	i think so too are you going to get a house or
+Ses05F_impro03_F048	225.0800	227.1600	i don t want a house i mean just
+Ses05F_impro03_M052	226.4700	227.3700	no
+Ses05F_impro03_F049	227.1700	228.5596	l a apartment is fine
+Ses05F_impro03_M053	228.4700	229.8800	oh nice
+Ses05F_impro03_F050	229.4700	230.5800	yeah
+Ses05F_impro03_M054	229.9300	233.4400	a good apartment
+Ses05F_impro03_F051	232.9500	237.3100	two artists though we re bound to be poor forever
+Ses05F_impro03_M055	234.7200	236.5600	yeah how are you going to survive
+Ses05F_impro03_M056	236.5951	239.5300	exactly are you going to have kids
+Ses05F_impro03_F052	239.5700	242.1400	yeah i think so i mean not for a while
+Ses05F_impro03_M057	240.8700	242.1100	yeah
+Ses05F_impro03_M058	242.1900	243.4600	yeah
+Ses05F_impro03_F053	242.1500	243.9400	definitely not for a while
+Ses05F_impro03_F054	244.6800	245.7800	yeah
+Ses05F_impro03_M059	245.5800	248.7100	so now i m going to have to find somebody else to bear my children
+Ses05F_impro03_F055	248.2900	252.8000	good luck
+Ses05F_impro03_M061	252.4800	254.5600	oh thanks i ll need it
+Ses05F_impro03_F056	253.4051	255.5300	you won t have trouble you won t have trouble
+Ses05F_impro03_M062	254.6400	256.2500	oh thanks you re too nice
+Ses05F_impro03_M063	256.3600	258.1300	just being polite now
+Ses05F_impro03_F057	256.7900	260.8800	you should just approach her like that hey will you bear my children
+Ses05F_impro03_M064	258.3600	260.1200	because i am not getting married
+Ses05F_impro03_M065	260.1500	263.9800	exactly i think that ll go over great don t you
+Ses05F_impro03_F058	263.0500	264.4400	yeah totally
+Ses05F_impro03_M066	264.0000	265.5500	that s what girls like right
+Ses05F_impro03_F059	265.6600	267.6800	total turn on
+Ses05F_impro03_M067	267.0700	269.2300	would you mind popping out a few for me
+Ses05F_impro03_M068	269.2700	271.5900	that d be great thanks

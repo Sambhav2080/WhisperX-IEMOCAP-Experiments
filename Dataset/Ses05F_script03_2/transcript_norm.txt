@@ -1,0 +1,85 @@
+Ses05F_script03_2_M000	4.6500	10.1500	as a matter of fact the real cause of that row was peter burden
+Ses05F_script03_2_F000	10.0461	13.3500	you knew there was nothing in that
+Ses05F_script03_2_M001	12.7900	16.2700	i knew nothing of the sort you accepted presents from him
+Ses05F_script03_2_F001	15.6000	18.0200	only a trivial little broach
+Ses05F_script03_2_M002	17.3100	21.4900	i remember it well covered in diamonds in the worst possible taste
+Ses05F_script03_2_F002	20.0400	23.7100	no not at all i i still have it i wear it quite often
+Ses05F_script03_2_M003	23.1100	26.7900	you went out of your way to torture me over peter burden
+Ses05F_script03_2_F003	26.4100	29.5300	you worked the whole thing up in your jealous imagination
+Ses05F_script03_2_M004	29.0900	32.5800	you must admit that he was in love with you wasn t he
+Ses05F_script03_2_F004	31.9500	34.5400	maybe just a little but
+Ses05F_script03_2_M005	34.0800	36.9900	you let him kiss you you said you did
+Ses05F_script03_2_F005	36.6100	38.2200	and what of it
+Ses05F_script03_2_M006	37.9500	39.0500	what of it
+Ses05F_script03_2_F006	38.7800	42.6200	well i he got a lot of pleasure out of it and it didn t hurt me
+Ses05F_script03_2_M007	41.7400	43.6700	what about me
+Ses05F_script03_2_F007	43.1200	47.7100	well if you hadn t been so nosey and suspicious you never would have heard about it
+Ses05F_script03_2_M008	47.0600	49.8000	well that s a nice point of view i must say
+Ses05F_script03_2_F008	48.9800	54.0200	i m growing quite tired and bored of this conversation
+Ses05F_script03_2_M009	53.5900	58.3400	so am i bored stiff would you like some brandy
+Ses05F_script03_2_F009	57.9400	59.6100	no
+Ses05F_script03_2_M010	59.0800	61.5500	i ll have a little i think
+Ses05F_script03_2_F010	61.2300	64.7300	i don t see why you want any you ve already had three glasses
+Ses05F_script03_2_M011	64.2400	67.9200	no particular reason besides they were very small ones
+Ses05F_script03_2_F011	67.3400	70.7900	well it seems silly to go on and on in such a thing
+Ses05F_script03_2_M012	70.3500	76.4200	you can hardly call three liqueur glasses of brandy in a whole evening going on and on
+Ses05F_script03_2_F012	75.7800	78.1600	it s becoming a habit with you
+Ses05F_script03_2_M013	77.6600	82.9300	you needn t be so grand simply because you don t happen to want any at the moment
+Ses05F_script03_2_F013	85.3600	87.4500	don t be so stupid
+Ses05F_script03_2_M014	86.6900	88.5300	really amanda
+Ses05F_script03_2_M015	94.7900	97.2800	going out somewhere dear
+Ses05F_script03_2_F014	96.4700	99.7700	just making myself fascinating for you
+Ses05F_script03_2_M016	99.4100	102.2800	oh that reply has broken my heart
+Ses05F_script03_2_F015	107.3500	111.3800	it s the woman s job to allure the man why don t you watch me for a moment
+Ses05F_script03_2_M017	110.4300	113.4500	as a matter of fact that is perfectly true
+Ses05F_script03_2_F016	113.0800	114.9000	no it s not
+Ses05F_script03_2_M018	113.9600	115.7500	oh yes it is
+Ses05F_script03_2_F017	115.8200	117.9700	oh do shut up
+Ses05F_script03_2_M019	117.3600	122.2000	it s a pity you didn t take a little more brandy it might have made you a little less disagreeable
+Ses05F_script03_2_F018	121.2500	124.3900	um it doesn t seem to have worked such wonders with you
+Ses05F_script03_2_M020	123.5500	125.9900	well snap snap snap like a little adder
+Ses05F_script03_2_F019	125.2100	127.4000	adder don t snap they sting
+Ses05F_script03_2_M021	126.8700	129.9500	nonsense they have a little bag of venom behind their fangs and they snap
+Ses05F_script03_2_F020	129.2800	130.4900	they sting
+Ses05F_script03_2_M022	129.9700	131.0500	they snap
+Ses05F_script03_2_F021	130.5900	134.5300	i don t care if they bark and roll around like hoops okay
+Ses05F_script03_2_M024	138.1300	141.2500	did you see much of peter burden after the divorce
+Ses05F_script03_2_F022	140.4600	142.3600	yes i did quite a bit
+Ses05F_script03_2_M025	141.8700	144.8400	i suppose you let him kiss you a good deal more then
+Ses05F_script03_2_F023	143.8800	145.3600	mind your own business
+Ses05F_script03_2_M026	145.1100	150.4100	you must have a riotous time no restraint at all very enjoyable i mean you never had much anyway
+Ses05F_script03_2_F024	149.6300	154.8300	oh dear you really are becoming quite insufferable i would imagine it s because you re drunk
+Ses05F_script03_2_M027	154.0300	156.7300	i m not the least bit drunk
+Ses05F_script03_2_M028	158.2400	166.4800	i think i mentioned once before that i had only three minute liqueur glasses of brandy the entire evening long a child of two could not be drunk on that
+Ses05F_script03_2_F025	165.6600	170.5100	oh no on the contrary a child of two could get violently drunk on only one glass
+Ses05F_script03_2_M029	169.6000	174.0600	oh very interesting how about a child of three or a child of six how about a child of nine
+Ses05F_script03_2_F026	172.4300	176.4800	oh you are so insufferable do you stop
+Ses05F_script03_2_M030	175.1600	180.8800	oh this is very interesting we we might get a splendid debate going about this intemperate tots
+Ses05F_script03_2_F027	180.5200	183.5700	not very funny dear you better have some more brandy
+Ses05F_script03_2_M031	182.5900	185.7400	oh very good idea i will
+Ses05F_script03_2_F028	186.3800	187.8500	ugh
+Ses05F_script03_2_M032	187.3700	189.4400	you better turn that off i think
+Ses05F_script03_2_F029	189.1200	190.5400	why
+Ses05F_script03_2_M033	190.2100	193.1600	it s very late and it will disturb the people upstairs
+Ses05F_script03_2_F030	192.4000	195.7400	there aren t any people upstairs it s a photographer s studio
+Ses05F_script03_2_M034	195.0600	197.7400	well there are people downstairs i suppose
+Ses05F_script03_2_F031	196.8000	198.8600	they re away in tunis
+Ses05F_script03_2_M035	198.0500	201.0900	it is not time of year for tunis
+Ses05F_script03_2_F032	201.5500	203.7200	turn it on again
+Ses05F_script03_2_M036	202.6100	204.4200	i ll do no such thing
+Ses05F_script03_2_F033	204.7900	210.1400	fine if you insist on being completely insolent
+Ses05F_script03_2_M037	209.6100	212.6900	turn it off it is driving me mad
+Ses05F_script03_2_F034	212.2200	215.0500	well do try to control yourself darling
+Ses05F_script03_2_M038	214.3400	215.9600	turn it off
+Ses05F_script03_2_F035	215.0800	219.1200	you really do need to develop uh a clearer head
+Ses05F_script03_2_M039	218.1400	219.8200	turn it off
+Ses05F_script03_2_F036	219.3900	221.6700	i i hate you
+Ses05F_script03_2_M040	220.9900	223.7200	amanda listen listen
+Ses05F_script03_2_F037	221.7100	222.9400	i hate you
+Ses05F_script03_2_F038	223.0100	229.8600	no no i m tired of listening to you you re boorish and idiotic and completely overbearing
+Ses05F_script03_2_M041	229.1600	231.8700	very music amusing indeed
+Ses05F_script03_2_F039	231.3600	237.4200	yeah very amusing let me go i m getting out of here i can t believe i intended to marry you
+Ses05F_script03_2_M042	236.1100	240.2700	you are a vile tempered loose living wicked little beast and i never want to set eyes on you again
+Ses05F_script03_2_F040	239.8400	247.1100	oh marry you again i must have been insane what was i thinking i mean you re completely outrageous
+Ses05F_script03_2_M043	246.5500	256.4300	shut up shut up i wouldn t marry you again if you came crawling to me on bended knee you re a mean evil minded little vampire and i hope to god i never set eyes on you again
+Ses05F_script03_2_F041	248.5500	252.2800	beast brute cad whore

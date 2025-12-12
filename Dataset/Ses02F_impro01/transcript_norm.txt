@@ -1,0 +1,50 @@
+Ses02F_impro01_F000	5.3661	9.6150	hi excuse me um i d like to put in this application for my registration
+Ses02F_impro01_M000	5.8186	7.2530	hi
+Ses02F_impro01_M001	9.8327	15.9334	okay let me see here um we need we need your original birth certificate
+Ses02F_impro01_F001	16.4840	19.7791	my my original birth certificate but i don t carry that with me
+Ses02F_impro01_M002	20.5395	23.2318	right well we still need it
+Ses02F_impro01_F002	23.3690	26.0214	well i have my driver s license does that work
+Ses02F_impro01_M003	25.7699	32.1839	no no uh no one told you that you needed your original birth certificate
+Ses02F_impro01_F003	30.7130	32.8369	no it doesn t say it on the form
+Ses02F_impro01_F004	32.8981	37.8800	i mean it just says that you need some form of identification but it doesn t say what kind of identification
+Ses02F_impro01_F005	38.0286	40.3056	i mean if i had known i would have brought it
+Ses02F_impro01_M004	38.1175	39.5783	um sorry
+Ses02F_impro01_M005	40.4471	45.0994	okay um i m sorry but i i can t help you you re gonna have to go back and uh
+Ses02F_impro01_F006	45.0441	50.0436	look i ve been waiting in line for a really long time i mean you ve seen how long it is
+Ses02F_impro01_F007	50.0639	51.9832	it s lunch hour
+Ses02F_impro01_M006	50.0639	51.9630	right it s the d m v
+Ses02F_impro01_M007	51.9832	57.8604	i know it gets long but i can t do anything without your do you have social security card maybe
+Ses02F_impro01_F008	57.5135	66.6710	well no i mean i don t carry my original documents with me because if those things get destroyed then what do you you know what i mean like if i loose my wallet or something i ll never have them again
+Ses02F_impro01_F009	66.6912	72.0669	i have my passport and i have my driver s license and that s all i have
+Ses02F_impro01_M008	70.1056	72.0855	alright i don t know what to tell you right
+Ses02F_impro01_M009	72.2875	79.2332	i think you re just gonna you re gonna have to get em and then you can back and then we ll help you out maybe we can
+Ses02F_impro01_F010	78.1061	87.7428	but isn t there anything you can do can t you make an exception this one time my picture is on both of those identifications it s not like you don t know that it s me
+Ses02F_impro01_M010	87.4602	88.6522	i can t
+Ses02F_impro01_F011	88.3022	89.9978	and i can give you my social
+Ses02F_impro01_M011	88.6926	97.7625	i make an exception for you and i have to make an exception for everyone i mean i i ve seen this before and i know it s frustrating but there s nothing i can do you just have to
+Ses02F_impro01_F012	96.4709	99.7098	well i can give you my social security number
+Ses02F_impro01_M012	100.0140	101.5823	no it s
+Ses02F_impro01_F013	99.8449	105.6836	and i can tell you where i was born and what time and by who and what day
+Ses02F_impro01_M013	105.0169	111.4287	okay but how do i that s that s not proof to me how do i know that you know that it s really you i need
+Ses02F_impro01_F014	111.5773	119.8805	i can t go i have to go back to work i don t have time to go back to my house and get all of that stuff and then get back in line and wait for another forty five minutes
+Ses02F_impro01_M014	119.6060	125.5354	well the weekends are not as busy maybe you can uh come and try to get here early
+Ses02F_impro01_F015	124.1293	132.0469	um i have kids i have to take them places on the weekends i don t have time to come back here please i really need you to help me
+Ses02F_impro01_M015	132.1517	135.6478	i can t there s nothing i can do i m sorry
+Ses02F_impro01_F016	135.5643	145.6458	well i just i just don t i i m sorry that i m standing here but i can t leave i
+Ses02F_impro01_M016	141.9890	143.5245	the line
+Ses02F_impro01_F017	145.7064	150.8614	i really need this done today as you can see the deadline is almost up and i can t come back
+Ses02F_impro01_M017	150.5061	155.6030	ok but you re right now you re holding up more people in line by standing here and letting
+Ses02F_impro01_F018	154.0504	159.7574	well why didn t the d m v put that you needed your birth certificate on the application then
+Ses02F_impro01_M018	158.9194	164.5611	i when you re going to the d m v you usually need pretty professional identification
+Ses02F_impro01_M019	164.5945	166.9199	you know official documentation
+Ses02F_impro01_F019	164.6740	169.8898	yeah but your birth certificate i mean who carries around their birth certificate nobody does that
+Ses02F_impro01_M020	167.9301	173.4579	no but you come you come to the d m v it s something you should ve you should ve figured
+Ses02F_impro01_F020	171.5438	175.7488	with your driver s license and your passport just like everybody else
+Ses02F_impro01_M021	175.6255	182.0081	but without your drive where where what about your identification without your driver s license i mean you need you needed something before then
+Ses02F_impro01_F021	180.6986	190.9121	who you always use your driver s license i mean you re not coming to the d m v if you re not over sixteen and that s when you get your driver s license so you re never gonna need it anyway
+Ses02F_impro01_M022	190.9820	195.9117	all right well um you know i d love to help you but nothing i can do
+Ses02F_impro01_M023	195.9319	204.2806	so if you wanna go get your birth certificate um maybe come back i don t maybe you can talk to the person in the in the front of line maybe i don t know
+Ses02F_impro01_F022	202.8414	205.0638	do you have a supervisor
+Ses02F_impro01_M024	204.7828	208.4711	i am the supervisor so
+Ses02F_impro01_F023	209.2752	214.5392	well thank you very much you ve been very helpful
+M	0.0000	0.0000	all right thank you

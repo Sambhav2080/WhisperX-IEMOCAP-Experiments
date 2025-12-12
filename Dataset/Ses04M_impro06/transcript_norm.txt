@@ -1,0 +1,43 @@
+Ses04M_impro06_F000	9.0835	12.2600	hey how you doing
+Ses04M_impro06_F001	14.6600	17.1300	i m sorry
+Ses04M_impro06_M000	17.0200	19.1226	thanks
+Ses04M_impro06_F002	17.2300	22.5100	i know i know there s nothing i can say that will really help but
+Ses04M_impro06_M001	22.1200	33.7100	i know i just i don t know it s just weird because you have somebody who s you know
+Ses04M_impro06_M002	34.1100	44.5600	a major part of your life and then they re gone and i don t know that s not really it s never really happened to me before
+Ses04M_impro06_F003	44.5600	49.5000	i m sorry it s never easy
+Ses04M_impro06_M003	49.0336	50.6300	yeah
+Ses04M_impro06_F004	51.4800	56.8564	but i m here if there s anything you need i mean you just have to ask i know
+Ses04M_impro06_M004	56.5200	57.8700	thanks
+Ses04M_impro06_F005	57.3300	60.5700	it doesn t really do anything but
+Ses04M_impro06_M005	63.9400	69.0400	i just it s just not fair
+Ses04M_impro06_F006	72.0300	76.6200	i know it never is
+Ses04M_impro06_F007	80.9000	86.4800	how s um how s his parents doing
+Ses04M_impro06_M006	91.1100	97.4300	i mean they re you know they re upset it s like you know they
+Ses04M_impro06_M007	100.6700	105.4600	feel the same way everybody else does
+F	0.0000	0.0000	yeah
+Ses04M_impro06_F008	111.0200	118.8700	i mean what do you want to do do you want to do you want to talk about it do you
+Ses04M_impro06_M008	118.6000	130.7100	i mean there s nothing really to talk about he s gone and i ll never see him again
+Ses04M_impro06_F009	132.7200	144.7998	well i know it s not a lot of help or anything but at least you got to know him i mean at least you had the time with him that you did
+Ses04M_impro06_M009	145.3900	148.1600	yeah
+Ses04M_impro06_F010	147.1800	150.3400	i mean we can be grateful for that
+Ses04M_impro06_M010	150.5800	163.4500	yeah i don t know sometimes i wish i didn t know him so i wouldn t
+Ses04M_impro06_F011	160.9700	166.1600	you feel that way now because you re upset but you don t really think that
+Ses04M_impro06_F012	175.6800	190.6900	it ll get better i know it doesn t help but it will get better and you will remember all of the good things that you guys had all of the memories that you have with him that were happy and you ll be grateful for those
+M	0.0000	0.0000	mmhmm
+Ses04M_impro06_M011	191.4800	198.5200	this is just this is a terrible life i just don t understand
+Ses04M_impro06_F013	198.8400	201.8100	just life in general
+Ses04M_impro06_M012	202.1400	210.2100	i mean it s just not fair like i don t know why people
+Ses04M_impro06_M013	211.4600	220.3300	there should just be some sort of rule that people don t die until they re older cause then at least it s expected
+Ses04M_impro06_F014	220.5100	225.9400	i agree if i knew how to make that happen i would certainly help you
+Ses04M_impro06_M014	235.9200	239.4900	i don t know what to do
+Ses04M_impro06_F015	241.0200	246.6700	when s the service can can we help is there anything i mean
+Ses04M_impro06_M015	246.1300	252.7800	i mean you you can go i don t know i don t know what else
+Ses04M_impro06_M016	255.5500	263.2500	i hope it rains somehow that ll make me feel more comfortable
+Ses04M_impro06_F016	265.5400	270.3748	seems like if the whole world s sad then it s okay for you to be
+Ses04M_impro06_M017	270.3600	273.1800	yeah
+Ses04M_impro06_M018	281.0000	288.3700	i just wish there was some way to just bring him back to life magically
+Ses04M_impro06_F017	289.1700	291.1846	i know
+Ses04M_impro06_M019	290.5400	300.1000	just you know some thing some genie i need to find a genie bottle
+Ses04M_impro06_F018	304.4700	311.0742	i don t have any magic answers but
+Ses04M_impro06_F019	311.1200	319.5200	i mean as as cliche as it is as long as people who loved him remember him then it s not a waste you know
+Ses04M_impro06_M020	320.6100	323.1300	i know

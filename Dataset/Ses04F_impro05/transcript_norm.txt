@@ -1,0 +1,46 @@
+Ses04F_impro05_M000	3.7600	7.9900	welcome to northwest airlines how can i help you
+Ses04F_impro05_F000	7.3700	9.9300	you guys lost my bag
+Ses04F_impro05_M001	10.2400	13.1000	did you file a complaint already
+Ses04F_impro05_F001	12.3900	14.4236	yeah yeah i did
+Ses04F_impro05_M002	14.2500	20.2200	where did you do it at the front desk or by the baggage claims
+Ses04F_impro05_F002	18.2100	30.2200	i i don t know the place where they told me to go look they told me to come talk to you because you guys lost my bag not it s late not it will be here soon lost it completely what are you going to do about that
+Ses04F_impro05_M003	30.4451	36.7300	ma am first of all i d like you to calm down second of all
+Ses04F_impro05_F003	35.6600	43.1600	look that bag has my entire life in it and you just lost it
+Ses04F_impro05_M004	41.8800	44.3900	i understand that ma am
+Ses04F_impro05_F004	43.2200	45.4300	lost it just like i mean
+Ses04F_impro05_M005	47.1689	49.9300	ma am i understand that
+Ses04F_impro05_F005	45.4300	48.8300	it s not like it just disappeared into thin air somebody wasn t paying attention
+Ses04F_impro05_F006	48.8300	57.2500	because my bag was very easy to keep track of it s got big you know rainbow colored crap all over it and no one was paying attention because now it s just gone
+Ses04F_impro05_M006	56.8200	68.1300	i understand that the best i can do for you at this moment is give you fifty dollar check courtesy of northwest airlines for inconveniencing you in losing your luggage
+Ses04F_impro05_F007	67.7300	69.7200	wait what
+Ses04F_impro05_M007	70.4600	74.5900	at this moment in time all i can do for you is give you
+Ses04F_impro05_F008	72.2600	75.5800	no no i heard i heard what you said
+Ses04F_impro05_F009	75.7800	98.9200	you re kidding me right you re going to give me fifty dollars to completely cover my bag everything that was in it the inconvenience that i ve gone through i paid for my ticket all i expect is to safely get to my destination with my stuff is that so much to ask i mean i really don t think that s that big a deal to ask you guys to have my bag in the place where i leave and then put my bag where i end up
+M	0.0000	0.0000	ma am ma am
+Ses04F_impro05_M008	98.6700	101.6500	you re getting very excited right now
+Ses04F_impro05_F010	99.8500	104.2100	yeah well that s got everything i have in it
+Ses04F_impro05_M009	104.0700	108.4300	i understand that ma am but there s not really much i can do for you right now
+Ses04F_impro05_F011	107.9800	124.5900	look fifty dollars is unacceptable my bag itself cost over a hundred and fifty dollars you can t just give me fifty dollar gift certificate to percoes or whatever the hell and then send me off like that s that s good enough like that s all i needed was fifty dollars my bag is worth more than that
+Ses04F_impro05_M010	108.4500	115.7200	what i need you to do is file another complaint form there s a form that you can fill out over by the front desk near the baggage claim
+Ses04F_impro05_M011	115.7600	119.5400	if you d like to take that over to the front desk ma am
+Ses04F_impro05_M012	122.7600	124.4900	we re just talking over each other
+Ses04F_impro05_M013	124.4900	127.0400	we re not going to communicate anything this way
+Ses04F_impro05_F012	127.1500	136.8100	i expect your airline who was responsible for my bag to give me the equivalent of the bag and all of the things in it
+Ses04F_impro05_M014	136.0700	142.1000	ma am in flying with northwest airlines you agreed to
+Ses04F_impro05_M015	142.1000	145.8100	sign away your luggage to the
+Ses04F_impro05_F013	143.4900	149.0600	i didn t sign anything i didn t sign anything and you people have got to make
+Ses04F_impro05_M016	145.9100	153.8500	it s part of the small it s part of the agreement when you re purchasing an airline ticket there s when you
+Ses04F_impro05_F014	149.1100	154.9800	you have to make amends for what you did for losing my bag and all of my stuff fifty dollars is unacceptable
+Ses04F_impro05_M017	153.8900	159.7600	ma am please calm down when you purchase a ticket there is a terms and agreement
+Ses04F_impro05_F015	160.5100	170.1800	no no i don t know you know what i m going to call my lawyer you know what that s what i m going to do i m going to call my lawyer and have him get down here and explain to you that this is an unacceptable option
+Ses04F_impro05_M018	159.7600	166.2700	terms and conditions in the agreement of purchasing a ticket most people frequently look it over
+Ses04F_impro05_M019	166.6000	169.3800	the best that we can do for you is give you
+Ses04F_impro05_M020	169.7300	171.0300	ma am
+Ses04F_impro05_F016	170.6500	172.6400	i want to talk to your supervisor
+Ses04F_impro05_M021	172.3100	176.5100	i am i am i am my own supervisor
+Ses04F_impro05_F017	172.7100	178.2700	i ve had enough i want to talk to no no unacceptable i want to your supervisor i am done with this
+Ses04F_impro05_M022	176.5300	178.9200	i am the supervisor ma am
+Ses04F_impro05_F018	178.7000	181.7400	really you don t work for anybody it s just you
+Ses04F_impro05_M023	180.8300	183.7900	i am the current manager on duty
+Ses04F_impro05_F019	183.0000	192.2400	okay well i want to call whoever you report to whoever your boss is because i have had enough with this airline and i am finished waiting for my fifty dollar gift certificate
+Ses04F_impro05_M024	190.9900	195.1500	ma am i own northwest airlines

@@ -1,0 +1,50 @@
+Ses04M_impro01_M000	4.0400	15.3700	yeah hi um look i all i m trying to do right now is renew my license plate that s all i just need to get one of those little stickers
+Ses04M_impro01_F000	14.9200	17.1600	okay what s the problem
+Ses04M_impro01_M001	15.4200	23.4300	and i ve i ve some lady i got in line i waited for about two hours um and i gave her this form
+Ses04M_impro01_M002	23.4594	34.4800	that she gave to me earlier and she said oh i gave you the wrong one by accident so i was hoping i could just fill out a new one give it to you and sort of skip this whole line business
+F	0.0000	0.0000	uhuh
+Ses04M_impro01_F001	33.0700	35.8800	okay um do you have your photo id with you
+Ses04M_impro01_M003	35.4200	36.7400	yes i do
+Ses04M_impro01_F002	36.2900	41.4400	okay this is the wrong form i m sorry
+Ses04M_impro01_M004	40.9365	46.4400	this is okay then just can i have the form that i need
+Ses04M_impro01_F003	44.3200	52.2700	i don t have the form you re going to have to go get in that line over there and they will give you the right form and after you fill it out you can bring it back to me
+Ses04M_impro01_M005	50.6500	52.2800	don t you you don t have
+Ses04M_impro01_M006	52.3200	55.2000	are you telling me you don t have a stack of them behind the desk
+Ses04M_impro01_F004	52.3400	54.3500	i don t have any of
+Ses04M_impro01_F005	54.3500	59.6392	i don t have any of them over here you re gonna have to go get in that line over there and they will give you a copy of the form
+Ses04M_impro01_M007	59.3288	64.1200	but you re it s the same i mean you can like i can t go behind your desk
+Ses04M_impro01_F006	63.9300	66.3900	nope i don t i don t have
+Ses04M_impro01_M008	64.1403	72.1900	or i can t go behind there you can go behind this person s desk and just grab the form so if you could just do that that would help me out a lot
+Ses04M_impro01_F007	67.7500	69.3600	no i can t that s
+Ses04M_impro01_F008	71.5900	75.9500	i m sorry you have to do things the way you have to do things here we have rules
+Ses04M_impro01_M009	75.6600	78.7000	look can you please just make this look i look
+Ses04M_impro01_F009	75.9700	80.4800	go get in that sir sir there are people in line behind you you need
+Ses04M_impro01_M010	78.7000	85.9800	look it s been it s been two hours can you please just make this easier on me and just go and get the form it s not it s really not
+Ses04M_impro01_F010	84.2800	87.6200	i m sorry i m sorry you re having a hard time
+Ses04M_impro01_F011	87.6200	90.4800	but you re gonna have to go get in that line to
+Ses04M_impro01_M011	88.6400	90.0900	what if i pay you money
+Ses04M_impro01_M012	90.0900	93.7900	can i pay you money can i give you like twenty bucks and you ll go back there and get the form
+Ses04M_impro01_F012	92.6100	95.8700	twenty bucks please go get in that line over there
+M	0.0000	0.0000	yeah
+Ses04M_impro01_M013	95.3800	99.6000	come on will you please i just i look i cannot just if i
+Ses04M_impro01_F013	98.7000	104.7200	look i m having a really bad day i m off in twenty minutes and i just really don t need this right now okay
+Ses04M_impro01_M014	102.0200	106.5800	i don t care well you re having a bad i just waited in line for two hours
+Ses04M_impro01_F014	105.0400	108.7800	and you re gonna have to go wait again because that s the line you need
+Ses04M_impro01_M015	108.3100	114.8900	well i just i can t do that right can you please just grab the form all you have to do is grab the form i m not gonna ask anything else of you
+F	0.0000	0.0000	sir you can either go
+Ses04M_impro01_F015	114.6600	123.9600	i can t do that it s against our rules you can go get in that line over there or you can just go ahead and leave and come back another day maybe there will be a shorter line
+Ses04M_impro01_M016	114.9100	117.9200	that s all i i just that s all i want you to
+Ses04M_impro01_M017	117.9400	121.9900	rules you just have to grab a piece of paper behind from somebody s desk
+Ses04M_impro01_M018	122.0334	123.8100	it s not rocket science
+Ses04M_impro01_M019	123.8500	126.7200	come just please just grab the form it s right over there
+Ses04M_impro01_F016	126.6700	128.1400	i can t do that
+Ses04M_impro01_M020	126.7600	127.9900	i know it s right over there
+Ses04M_impro01_M021	128.0000	130.4100	why are you being such a bitch
+Ses04M_impro01_F017	130.3700	133.0200	i m sorry but i can t do that
+Ses04M_impro01_M022	135.0000	138.9300	please will you please will you please just grab the form
+Ses04M_impro01_F018	133.0200	137.4300	so go get in the other line or leave or i will have you escorted out by security
+Ses04M_impro01_F019	138.0500	142.4822	would you like to be kicked out of the d m v you don t think that ll be a little embarrassing
+Ses04M_impro01_M023	142.8703	145.5476	fine which line is it
+Ses04M_impro01_F020	145.0600	147.0600	the one you just came from
+Ses04M_impro01_M024	146.5100	150.5300	okay fine i ll go over there thanks a lot you ve been really helpful
+Ses04M_impro01_F021	150.0875	154.0900	yeah thank you have a pleasant day

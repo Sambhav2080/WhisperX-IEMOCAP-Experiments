@@ -1,0 +1,73 @@
+Ses02F_impro03_F000	4.7324	8.7800	oh my god guess what guess what guess what guess what guess what guess what
+Ses02F_impro03_M000	6.2177	8.7208	what
+Ses02F_impro03_F001	8.8100	10.9300	well guess guess guess guess guess
+Ses02F_impro03_M001	10.8600	14.2922	um you
+Ses02F_impro03_F002	14.0800	16.1300	don t look at my left hand
+Ses02F_impro03_M002	16.7400	20.1143	no let me see
+Ses02F_impro03_M003	20.6584	23.2900	oh no way
+Ses02F_impro03_F003	22.6600	28.0319	he proposed he proposed well and i said yes of course
+Ses02F_impro03_M004	25.7200	31.4200	that is great you look radiant i should ve guess
+Ses02F_impro03_F004	30.6500	32.6500	i m so excited
+Ses02F_impro03_M005	31.9100	34.5281	well tell me about him what happened
+Ses02F_impro03_F005	34.5699	38.8951	remember how we had that date and i was like oh yeah this is a date whatever
+M	0.0000	0.0000	uh huh yeah
+Ses02F_impro03_F006	39.0078	52.9200	so after we sort of went out dinner and i was already like tired i wasn t all that excited and and so he s like let s go down to the beach and i was like no i don t want to the beach like i m tired and he s like no no we have to go and i was like okay like that s a little weird
+M	0.0000	0.0000	oh the beach
+Ses02F_impro03_F007	52.9300	61.8184	so he so we walked down to the pier and there s like these lights like these little like lights and we re like what s that and he s like i don t know let s go find out
+M	0.0000	0.0000	lights
+Ses02F_impro03_F008	61.8300	69.8600	so we walked down there and there s and there s this huge like ten foot heart in candles on the beach
+M	0.0000	0.0000	to the
+Ses02F_impro03_M006	69.6500	71.3300	what
+Ses02F_impro03_F009	69.9100	81.9971	like all they have and i was like what s going on and he like takes my hand and pulls me into the middle and he s like you know get s on his knee and everything and says will you marry me and i flipped out
+M	0.0000	0.0000	wow no
+M	0.0000	0.0000	no way
+Ses02F_impro03_M007	81.7153	85.5300	that that is the most romantic thing i have ever heard
+Ses02F_impro03_F010	83.9300	91.6100	i know i was like how did he get like he must have called someone or had them set like i have no idea
+Ses02F_impro03_M008	90.5500	97.0405	wow yeah cause yeah i don t know i m sure if he oh yeah he definitely had would have had to have someone else
+Ses02F_impro03_F011	95.4500	99.6572	cause cause he was with me you didn t do it did you
+Ses02F_impro03_M009	97.2700	102.0738	yeah i mean candles wouldn t stay no i didn t i didn t know anything about it
+Ses02F_impro03_F012	101.5291	102.9500	you didn t know anything
+Ses02F_impro03_M010	102.8845	106.0600	no i m just as happy as you are this is
+F	0.0000	0.0000	oh my god
+Ses02F_impro03_F013	105.1350	111.4700	i was just it was so like i thought this might happen eventually but like not yet you know what i mean like
+Ses02F_impro03_M011	110.8400	114.1900	so i mean it s good though
+Ses02F_impro03_F014	112.7000	117.2700	it is good it s totally good i mean it like oh you know
+F	0.0000	0.0000	it makes me all jittery inside
+Ses02F_impro03_M012	116.7300	121.8195	yeah i know wow i m shaking i can t even
+Ses02F_impro03_F015	121.0516	127.2609	i know so we re gonna take it like we re not gonna get married right away cause we want to like have plenty of time to plan everything out
+M	0.0000	0.0000	okay okay yeah
+Ses02F_impro03_F016	127.3236	133.2123	and um my parents want to like be part of it and help out and everything so we want to give it lots of time to like
+Ses02F_impro03_M013	130.9859	137.0738	oh do they do they know yet have you told them oh that s
+Ses02F_impro03_F017	133.6443	140.0700	yeah yeah i called them i called them and of course they were so excited cause they love him like they always have um
+Ses02F_impro03_M014	139.8700	141.3100	that s great yeah
+Ses02F_impro03_F018	141.2100	148.2370	so yeah i mean it ll be good we wanna like uh i think we re gonna have it in spring time like early spring so it s no too hot yet and um
+Ses02F_impro03_M015	145.5923	149.6643	okay you know you know where or
+Ses02F_impro03_F019	149.0800	156.2108	i don t know i mean i kinda like the idea of having something outside but like is a yeah
+Ses02F_impro03_M016	153.6844	156.4834	uh huh i mean you know it s spring it ll be
+Ses02F_impro03_F020	156.2300	164.7969	but it s sort of hard cause the weather is so unpredictable and then if it s like cold that day or if it s too hot you know it s like but um
+Ses02F_impro03_M017	164.5900	166.0400	spring s nice though
+Ses02F_impro03_F021	165.4402	176.5255	yeah i don t know i mean i can t even the whole idea of like living spending my whole life with somebody that s crazy
+M	0.0000	0.0000	wow that ll
+Ses02F_impro03_M018	175.7300	179.5900	yeah that is how long you guys been together now
+Ses02F_impro03_F022	178.7900	180.8700	two and a half years
+Ses02F_impro03_M019	179.8800	188.4736	okay all right so quite a while i mean that s that s good i m so happy for you
+F	0.0000	0.0000	still still i mean yeah
+Ses02F_impro03_F023	187.2900	190.0200	thank you thank you so much
+Ses02F_impro03_M020	189.3800	195.6500	yeah i d love to be in that same situation some day but wow so
+F	0.0000	0.0000	thank you
+Ses02F_impro03_F024	195.4600	201.9000	oh you will you ll find just the right girl and she ll be perfect for you and everything will be great
+M	0.0000	0.0000	it seems like oh i don t know you guys
+Ses02F_impro03_M021	201.0400	207.0585	you guys are awesome together it s definitely a definitely a good couple i can see it i should ve guessed
+F	0.0000	0.0000	thanks
+Ses02F_impro03_F025	205.4600	207.6783	you approve you approve
+Ses02F_impro03_M022	207.5653	211.0588	oh i approve i i more than approve
+Ses02F_impro03_M023	211.0776	220.7400	i mean i m surprised he didn t ya know go get a plane to fly over and shine but candles on the beach that s okay too i guess
+F	0.0000	0.0000	oh ya i know he s so extravagant
+Ses02F_impro03_F026	220.3800	222.2400	yeah it s pretty good
+Ses02F_impro03_M024	221.5200	225.7700	well can i mean let me know i want i want invitations and
+Ses02F_impro03_F027	225.0487	228.4874	of course of course you ll be able to be a part of it you can come help me pick my colors
+Ses02F_impro03_M025	228.1400	233.2000	oh yes this is the whole
+Ses02F_impro03_F028	231.8858	240.3492	it s so girly i don t even know how to like it s so weird but it ll be fun my mom will love to be like she ll get so into it i m sure
+Ses02F_impro03_F029	240.4223	244.0151	she ll be like flowers and the
+Ses02F_impro03_M026	244.0986	246.8500	it ll be good wow that s great
+Ses02F_impro03_F030	246.6500	250.5635	oh thank you

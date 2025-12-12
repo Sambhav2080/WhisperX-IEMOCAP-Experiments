@@ -1,0 +1,50 @@
+Ses04F_impro01_F000	4.2700	16.1500	hi um excuse me i ve been to like five of the desks here and nobody seems to be able to tell me what it is i need to do i ve been here for over an hour can you possibly help me
+Ses04F_impro01_M000	15.6600	20.5500	uh lets what do you need exactly
+Ses04F_impro01_F001	19.7800	25.7000	well i filled out all the forms and i ve given them to everyone and they keep sending me to someone else
+Ses04F_impro01_M001	25.2800	27.6600	you need a new license is that what you re telling me
+Ses04F_impro01_F002	26.8900	29.8200	yes i m just trying to get a new license
+Ses04F_impro01_M002	28.1300	35.8400	let me see the form just let me see the form yeah you filled this out wrong i can t i can t i can t do anything with this
+F	0.0000	0.0000	here you go
+Ses04F_impro01_F003	35.9800	39.3500	okay i did
+Ses04F_impro01_M003	37.9000	42.9400	ma am i cannot help you you need to fill out a new form and you need to get in the back of the line
+Ses04F_impro01_F004	40.2700	43.2800	i did exactly what they told me to do
+Ses04F_impro01_F005	43.2800	50.7000	i have done everything everyone in this entire place has told me to do i ve been here for over an hour they make me wait in line every single time i start over again
+Ses04F_impro01_M004	50.3300	52.9600	ma am i can t help you do you understand
+Ses04F_impro01_F006	51.1000	56.8300	i have a life i have things to do i have places to go can you not just put this through please
+Ses04F_impro01_M005	54.4600	56.1700	i ve got a life too ma am
+Ses04F_impro01_M006	56.1881	60.0200	and i got to i got to work here all day long okay i ve got to deal with you people all day
+Ses04F_impro01_M007	60.0400	65.6400	so what i need you to do is i need you to fill out this form correctly and go to the back of the line
+Ses04F_impro01_F007	59.7500	70.7600	okay that s nice that s nice but i have done everything you people have told me to do i don t understand why you can t just help me get this done it s simple right license i need it can we just do this please
+Ses04F_impro01_M008	68.0300	71.4300	there s nothing i can do for you do you understand that nothing
+Ses04F_impro01_M009	71.4500	74.7000	what i need you to do is go to the back of the line
+Ses04F_impro01_F008	74.6200	78.7200	i ve been to the back of the line five times
+Ses04F_impro01_M010	74.7000	76.4900	fill out this form and wait
+Ses04F_impro01_M011	76.5200	79.0800	you re going to have to go back again
+Ses04F_impro01_F009	80.0666	87.0800	okay what is it that i did wrong on the form that i have to start all over again
+Ses04F_impro01_M012	87.0300	89.8900	this whole area here you didn t initial
+Ses04F_impro01_M013	89.8900	91.2800	and you filled out
+Ses04F_impro01_F010	89.8700	96.6500	okay well i can do that right here right now without going to the back of the line again see look initialed all done ready to go
+Ses04F_impro01_M014	93.3200	98.3000	ma am i have other people waiting in line right now i have other people waiting in line right now
+Ses04F_impro01_F011	97.9700	100.3500	i have been waiting for over an hour
+Ses04F_impro01_M015	100.0600	106.5300	this whole area of the form was not supposed to be filled out and you put the address in the wrong place
+Ses04F_impro01_M016	106.5500	111.4800	uhh and you spelled your own name wrong so i need you to take that
+Ses04F_impro01_F012	112.9100	118.6900	i m not starting over again no i have done this five times i am not starting over again
+Ses04F_impro01_M017	111.5000	115.6200	and uh throw it away i need you to fill out a new form
+Ses04F_impro01_M018	118.3100	121.8900	ma am you re going to have you look you really you really
+Ses04F_impro01_F013	119.9500	122.0200	look can you not just help me
+Ses04F_impro01_M019	123.8300	126.4000	i can t help you right now do you understand that
+Ses04F_impro01_F014	122.0400	132.0700	i mean look she s she s perfectly nice she doesn t mind waiting for a couple of minutes because i ve been here all day i have a job to get back to i have kids to pick up from school i can t just stay here
+Ses04F_impro01_M020	131.2800	139.0593	look i m going on my lunch break right now so you re just going to have to take this form and go to the back of the line
+Ses04F_impro01_F015	134.7600	139.0100	no no no no you have to help me
+Ses04F_impro01_M021	139.0800	141.8000	like i said before right now
+Ses04F_impro01_F016	139.0300	143.4800	this is your job is to help people like me who need to get a new license
+Ses04F_impro01_F017	143.4800	146.0900	that s like the whole purpose of you being here
+Ses04F_impro01_M022	145.2600	148.5700	ma am you are testing my patience do you understand me
+Ses04F_impro01_F018	147.7000	150.4800	i i i m testing your patience
+Ses04F_impro01_M023	148.6900	151.2100	you re testing my goddamn patience
+Ses04F_impro01_F019	150.5000	152.5400	i m testing your patience
+Ses04F_impro01_M024	151.2200	155.4700	i work in this fucking building all day and i m sick of it okay
+Ses04F_impro01_F020	152.5600	154.5400	yeah you have to be here all day
+Ses04F_impro01_F021	154.5400	158.1400	i don t need to be i need to go and do other things with my time okay
+Ses04F_impro01_F022	158.1600	165.1300	please just put the form in take the picture let me get my license and get the hell out of here please
+Ses04F_impro01_M025	165.4300	168.5100	i ve walked away already i m not here anymore

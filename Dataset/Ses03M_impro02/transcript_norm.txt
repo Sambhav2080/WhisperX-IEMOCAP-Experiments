@@ -1,0 +1,76 @@
+Ses03M_impro02_M000	5.7703	9.1927	hey sweetie
+Ses03M_impro02_M001	18.5048	20.6139	hey
+Ses03M_impro02_F000	5.8897	8.6953	um
+Ses03M_impro02_F001	8.7550	16.5375	how s it going oh i m so tired oh i just woke up mmm
+Ses03M_impro02_F002	17.0722	19.3803	what s going on
+Ses03M_impro02_M002	21.6685	24.6731	uh um
+Ses03M_impro02_F003	20.0369	22.7032	why the sad face
+Ses03M_impro02_M003	24.7924	29.4375	they need me out there sooner than i thought
+Ses03M_impro02_F004	30.0852	34.4229	where who what are you talking about
+Ses03M_impro02_M004	33.8658	38.4223	they want to deploy me next week
+Ses03M_impro02_F005	37.3677	39.1784	next week
+Ses03M_impro02_F006	39.2580	41.5661	overseas
+Ses03M_impro02_M005	42.6008	44.6702	for
+Ses03M_impro02_F007	44.1130	46.6997	for how long this time
+Ses03M_impro02_M006	46.0650	48.8288	they said anywhere from two to three years
+Ses03M_impro02_F008	48.1522	56.8077	what what do you mean two to three years don t they know that you have a wife and an expectant child
+Ses03M_impro02_M007	56.1100	59.2949	i told them that but they
+Ses03M_impro02_F009	58.7975	61.1454	honey
+Ses03M_impro02_M008	59.8123	62.9760	need me on the specialist honey
+Ses03M_impro02_F010	61.6826	67.3137	you can t we need you i need you
+Ses03M_impro02_M009	66.6570	69.7412	i don t want to go but
+Ses03M_impro02_F011	71.8503	75.1931	i don t care about the money
+Ses03M_impro02_M010	69.7412	75.3921	but they said they d increase my pay by triple there promotion
+Ses03M_impro02_F012	75.9492	81.3415	and you re leaving next week so you won t even be here for anna s birth
+Ses03M_impro02_M011	80.6650	82.9532	no
+Ses03M_impro02_F013	81.4410	84.0675	do this whole thing by myself
+Ses03M_impro02_M012	83.7292	86.9924	honey you re not going to be by yourself
+Ses03M_impro02_M013	87.4501	94.3200	we ll have internet set up we ll get web cameras and everything my whole family s here too
+Ses03M_impro02_F014	84.1073	87.5694	carry her for nine months and then yes
+Ses03M_impro02_M014	97.2198	100.0452	honey
+Ses03M_impro02_F015	93.6780	97.4785	it s not the same thing it s not like having you here
+Ses03M_impro02_F016	101.0401	103.8875	i can t do this
+Ses03M_impro02_M015	103.4425	109.3425	you can do it alright you can you can be strong you can be strong for both of us alright
+Ses03M_impro02_F017	110.0339	113.5100	i m sick of being strong for us
+Ses03M_impro02_M016	110.0538	113.2175	i don t know what to do
+Ses03M_impro02_M017	113.2175	116.5975	i don t want to i don t i don t want to go
+Ses03M_impro02_M018	117.3164	120.5199	what am i supposed to do
+Ses03M_impro02_F018	119.5648	123.0071	you can say no
+Ses03M_impro02_M019	122.3903	124.7875	you know i can t say no
+Ses03M_impro02_F019	123.9423	131.3840	you could you really could you could get into another line of work i could start working after anna s born
+Ses03M_impro02_M020	126.6750	129.7524	the last guy who said no was fired
+Ses03M_impro02_M021	130.1702	133.8115	i put in fifteen years in this job
+Ses03M_impro02_F020	132.4585	134.6074	i know
+Ses03M_impro02_M022	133.8115	137.2725	i m so close five more years and i retire
+Ses03M_impro02_M023	137.3650	140.0196	and we ll have that happy life
+Ses03M_impro02_F021	139.9201	144.4325	happiness for me is having you here with me
+Ses03M_impro02_F022	144.5548	150.8439	and watch our child grow see her take her first steps her first words
+Ses03M_impro02_M024	149.8888	153.1918	honey after a year i can be back
+Ses03M_impro02_F023	152.0377	154.8035	you said two years
+Ses03M_impro02_M025	153.7887	157.1713	they want me there two years but i could probably get
+Ses03M_impro02_M026	157.1713	161.2304	maybe get some vacation once it quiets down there
+Ses03M_impro02_F024	157.7550	163.9600	a whole year we re not talking about like a couple months here i mean this is a whole year
+Ses03M_impro02_M027	163.3396	167.1400	i know i know but they really need some good guys there
+Ses03M_impro02_F025	166.0059	168.7915	what could happen in a year
+Ses03M_impro02_F026	168.9905	175.8950	and this isn t the first time you know i mean you always sending you off to different places and
+Ses03M_impro02_M028	176.9098	180.9092	well that s the kind of work i m in honey
+Ses03M_impro02_F027	180.4714	185.2270	i don t know if that s how i want to live my life
+Ses03M_impro02_M029	184.8887	190.9177	it s just going to be it s going to go faster than you think
+Ses03M_impro02_F028	190.7187	203.0600	joe i m serious i don t want to have to have a little girl to tell asking every day where s daddy where s daddy and have to tell her that he s away
+Ses03M_impro02_F029	203.1600	206.5572	far away and he won t be here
+Ses03M_impro02_M030	204.0501	207.6516	you tell her
+Ses03M_impro02_F030	207.3730	213.0040	i m done i can t honey
+Ses03M_impro02_M031	212.3872	215.6703	what do you mean
+Ses03M_impro02_F031	218.0779	221.1621	it s over
+Ses03M_impro02_M032	220.1672	222.5325	what
+Ses03M_impro02_F032	221.7988	225.5594	honey i can t do it anymore
+Ses03M_impro02_M033	223.6294	227.8477	are you kidding me no
+Ses03M_impro02_F033	228.0069	232.6828	i need you here anna needs you
+Ses03M_impro02_M034	231.9864	237.0400	so i have you want me to choose between you guys or my career
+Ses03M_impro02_F034	236.4832	238.2342	yeah
+Ses03M_impro02_M035	237.1797	239.7067	what am i going to do
+Ses03M_impro02_F035	238.2740	241.0900	priorities honey priorities
+Ses03M_impro02_M036	240.4230	244.3030	i want to what am i going to do if i leave this job
+Ses03M_impro02_F036	243.5270	248.2228	you re smart you could go back to school
+Ses03M_impro02_F037	249.3769	254.1550	finish your master s that you were started never finished
+Ses03M_impro02_M037	253.3962	259.2859	fine i ll see if i can talk to them

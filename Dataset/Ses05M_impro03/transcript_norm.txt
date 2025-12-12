@@ -1,0 +1,69 @@
+Ses05M_impro03_M000	5.1000	7.0500	guess what
+Ses05M_impro03_F000	6.6500	8.0900	what
+Ses05M_impro03_M001	7.7900	11.1200	i did it i asked her to marry me
+Ses05M_impro03_F001	10.6700	12.8900	what you did
+Ses05M_impro03_M002	11.4000	13.5200	yes i did it
+Ses05M_impro03_F002	12.9400	13.9600	when
+Ses05M_impro03_M003	13.5400	16.1200	oh my god it was just last weekend
+Ses05M_impro03_F003	15.9000	19.3500	oh what how where how did you do it
+Ses05M_impro03_M004	18.0300	25.1000	she well she said yes first of all let me say that right off the bat well i would like to assume too but you never know these things right
+Ses05M_impro03_F004	19.6200	22.3700	okay good i i assumed
+Ses05M_impro03_M005	25.1100	31.5700	um but no it was it was great it was really great i think she was really surprised and she was really happy um
+Ses05M_impro03_F005	29.8700	31.8200	oh
+Ses05M_impro03_M006	31.5800	44.0500	i did it up at yosemite we went camping right like we usually do you know we go camping up there all the time but um the waterfalls had died down a little bit you know and so uh we i had her climb up
+Ses05M_impro03_M007	44.0600	54.6600	you know we did some you know some rock climbing up the waterfalls and went up to this little pool that was up there and then i it s great um you have to climb this little rock
+Ses05M_impro03_F006	54.1100	55.4900	uh huh
+Ses05M_impro03_M008	54.7000	65.1400	and you can climb it and it s covered in algae you know so i wanted her to climb it to go take a picture like back in this little waterfall area and she got back there and she took her picture and then i had her come back and i was going to do the same thing
+Ses05M_impro03_M009	65.1600	78.3600	well instead i climb up on the rock and like i i didn t do it well i did it on purpose i made it look like i accidentally did it i slipped down into this pool of water right and she freaks out because i slide all the way down this rock and um
+Ses05M_impro03_FXX0	74.1533	74.9410	uh huh
+Ses05M_impro03_M010	78.3900	89.5469	and i pop up out of the water and i had planned it already you know i pop up out of the water and i and i like grab her hand you know and that in my hand i ve got the ring
+Ses05M_impro03_M011	89.5569	103.3100	and she s like she feels it you know and she doesn t know what it is and she you know helps me get out and i won t let go of her hand and she s like what are you doing i and said you saved my life now will you marry me
+Ses05M_impro03_F007	101.8300	106.0700	oh my god that s so dramatic
+Ses05M_impro03_M012	104.4300	111.7000	wasn t that great i didn t want it to be too hokey but but she liked it she liked it
+Ses05M_impro03_F008	106.1400	108.3300	so cute
+Ses05M_impro03_F009	108.5100	111.0100	no it s totally original though
+Ses05M_impro03_F010	111.0200	112.3300	oh
+Ses05M_impro03_M013	111.7100	115.2200	yeah and she said yes and she cried of course
+Ses05M_impro03_F011	114.1200	117.9500	oh then you had a whole weekend of camping
+Ses05M_impro03_M014	116.4700	123.1000	yes we did that in the beginning exactly so we had so we just had you know good times the rest of the weekend yeah
+Ses05M_impro03_F012	121.7200	125.3600	oh right sure
+Ses05M_impro03_M015	123.1100	127.7000	it was a lot of fun it was a lot of fun she s great and i m so happy
+Ses05M_impro03_F013	127.3600	129.5400	so where are you going to have your wedding
+Ses05M_impro03_M016	128.5600	141.3600	we re going to do it back in the midwest where her family all is they re all out there you know so um and so just gonna have a small small wedding but um you know of course you re going to come right
+Ses05M_impro03_F014	141.0000	143.5800	yeah of course
+Ses05M_impro03_M017	141.4200	146.0000	okay good and uh i want you to be in it actually
+Ses05M_impro03_F015	144.4300	146.2400	okay okay
+Ses05M_impro03_M018	146.0100	152.7500	um and she wants you to be in it too she loves you so much she thinks you re the sweetest of course you are you re you re my best friend so
+Ses05M_impro03_FXX0	148.2012	149.6381	awe
+Ses05M_impro03_F016	151.5200	153.3600	where is she right now
+Ses05M_impro03_M019	153.0900	155.7900	oh she s back at work yeah
+Ses05M_impro03_F017	154.3300	157.3900	yeah i ll hang out with the both of you
+Ses05M_impro03_M020	156.5400	159.0400	of course we ll go out to dinner later this week
+Ses05M_impro03_F018	158.1800	159.3300	yes
+Ses05M_impro03_M021	159.0700	160.1900	it will be perfect
+Ses05M_impro03_F019	159.7300	162.7000	oh i m so excited for you
+Ses05M_impro03_M022	161.4600	165.8500	yes me too oh i am so in love
+Ses05M_impro03_F020	165.7500	166.9100	oh
+Ses05M_impro03_M023	165.8600	167.4600	she s the one
+Ses05M_impro03_F021	168.0537	172.2800	oh my gosh you told your parents already and everything
+Ses05M_impro03_M024	170.9500	174.5900	of course i told them right away we called them all right them
+Ses05M_impro03_F022	172.3900	174.6200	are they so excited
+Ses05M_impro03_M025	174.6000	182.7900	oh yeah my mom s freaking out oh yeah she s so happy this is you know it s her dream come true she always wanted her little boy she wants kids you know
+Ses05M_impro03_M026	182.8000	185.9400	she wants grandkids so we ll be working on that right away
+Ses05M_impro03_FXX1	182.9225	184.4112	right right
+Ses05M_impro03_F023	184.7600	186.7200	are you guys gonna have kids
+Ses05M_impro03_M027	185.9700	188.8500	of course we re gonna have kids like three at least
+Ses05M_impro03_F024	186.9500	188.2700	yeah
+Ses05M_impro03_F025	188.2800	190.6300	whoa right away
+Ses05M_impro03_M028	188.8800	195.1300	she wants like eight she wants like eight kids and i m like no no no no no i am like what let s do maybe three and we ll go with that
+Ses05M_impro03_F026	194.2100	196.2700	are you going to start right away
+Ses05M_impro03_M029	195.6700	202.6600	well we re going to take a little bit of time you know we need to get acclimated and you know start our lives make money you know be comfortable
+Ses05M_impro03_F027	200.5700	204.3000	yeah have you ever like lived with someone else before
+Ses05M_impro03_M030	203.1900	210.5700	oh yeah yeah yeah yeah i mean actually we lived together awhile back when we yeah back in college for a little while yeah
+Ses05M_impro03_F028	207.0900	209.5200	oh did you i didn t know that
+Ses05M_impro03_F029	210.2900	212.3100	oh
+Ses05M_impro03_M031	210.5800	215.2900	but that so we are really used to each other we took the time apart and now we re going to get back together we re going to move in soon
+Ses05M_impro03_F030	215.0300	216.6500	oooh
+Ses05M_impro03_M032	215.3000	219.1600	it s great i m a lucky man
+Ses05M_impro03_F031	217.5400	220.6500	that s incredible yeah congratulations
+Ses05M_impro03_M033	219.7500	221.9000	thank you

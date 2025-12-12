@@ -1,0 +1,62 @@
+Ses01M_impro06_F000	10.0955	12.6800	you okay
+Ses01M_impro06_M000	12.4633	16.5100	yeah i m just yeah
+Ses01M_impro06_M001	19.1808	22.8900	just kind of feel numb you know
+Ses01M_impro06_F001	23.2600	26.3875	what s happened
+Ses01M_impro06_M002	25.7888	30.0906	you didn t even hear
+Ses01M_impro06_M003	31.7600	35.3600	umm
+Ses01M_impro06_M004	36.1100	40.0000	god i ve told this story so many times umm
+Ses01M_impro06_F002	39.4300	41.7500	you don t have to if you don t want to
+Ses01M_impro06_M005	41.2200	44.6825	i just i just basically lost someone that was really close to me
+Ses01M_impro06_M006	46.4100	61.9900	and i ve kind of been dealing with all of the the stuff you know the hospital and people work because
+Ses01M_impro06_F003	61.8600	64.6500	i m sorry to hear that
+Ses01M_impro06_M007	63.6300	67.6300	he kind of didn t have anyone to take care of that for him so
+Ses01M_impro06_F004	67.2770	70.1200	you ve been taking care of it all
+M	0.0000	0.0000	yeah
+Ses01M_impro06_F005	70.2050	72.2704	oh jesus
+Ses01M_impro06_M008	71.7900	76.0581	it s just really really messed up
+Ses01M_impro06_F006	76.5016	79.0300	he sick for awhile
+Ses01M_impro06_M009	79.2956	82.6661	no
+Ses01M_impro06_M010	83.7526	87.2340	just like it
+Ses01M_impro06_F007	87.2562	89.4700	was it an accident
+Ses01M_impro06_M011	89.2950	95.8900	no i mean it just came on really quick you know i mean it was a it was a sickness but it just
+Ses01M_impro06_F008	94.6200	96.5200	how was sick
+Ses01M_impro06_M012	96.5029	97.9600	what
+Ses01M_impro06_F009	97.4500	101.4200	well i m confused he was sick or it was an accident
+Ses01M_impro06_M013	100.6075	105.7400	he was sick he got sick he got sick but it happened really really fast you know
+Ses01M_impro06_F010	101.5000	105.8675	oh really fast oh
+Ses01M_impro06_M014	105.8400	109.1600	it was kind of like boom done
+Ses01M_impro06_F011	107.0200	108.5600	yeah
+Ses01M_impro06_M015	109.5900	114.6100	it s just really weird because he was really young you know and it kind of like
+Ses01M_impro06_F012	112.6150	113.9775	yeah
+Ses01M_impro06_M016	115.9875	118.2500	it just kind of freaks you out
+Ses01M_impro06_F013	117.8500	120.8000	totally yeah
+Ses01M_impro06_M017	123.1500	146.8900	so weird you know that like one days it s like you know sounds so stupid but like one day someone s here and like next day you know they re not here and it just kind of makes you like think about like life and mortality and like that kind of stuff you just like used to take for granted you know
+Ses01M_impro06_F014	131.1825	132.5550	mmhmm
+Ses01M_impro06_F015	143.9425	145.1600	lock
+Ses01M_impro06_F016	145.9400	147.7800	mmhmm
+Ses01M_impro06_F017	148.2650	150.7100	the plans you make
+Ses01M_impro06_M018	150.0500	153.9300	exactly you know and like he had so many plans and he was going to do
+Ses01M_impro06_F018	157.2300	159.5700	it leaves a hole for you too
+F	0.0000	0.0000	mmhmm
+Ses01M_impro06_M019	154.5500	157.4000	so many things you know
+Ses01M_impro06_F019	159.7500	163.9425	it leaves a hole for you too in your plans together
+Ses01M_impro06_M020	159.3500	160.7400	what
+Ses01M_impro06_M021	163.7300	165.8600	yeah
+Ses01M_impro06_F020	178.3706	181.4300	it gets better
+Ses01M_impro06_M022	181.8077	184.8600	he was a really really good guy
+Ses01M_impro06_F021	184.2600	186.2647	mmhmm
+Ses01M_impro06_M023	186.5973	189.5500	a lot of people loved him
+Ses01M_impro06_F022	188.9700	190.9200	mmhmm
+Ses01M_impro06_M024	193.1300	197.5100	you know it s like affecting a lot of people it s not just me you know
+Ses01M_impro06_F023	197.0600	199.0500	mmhmm
+Ses01M_impro06_F024	200.3676	203.1600	how long did you know each other
+Ses01M_impro06_M025	202.5100	203.8500	umm
+Ses01M_impro06_M026	205.6500	208.5721	for like eight years
+Ses01M_impro06_F025	208.8826	210.7397	that s a long time
+Ses01M_impro06_M027	210.2100	212.2200	yeah
+Ses01M_impro06_F026	214.6701	217.6415	it s good that you were there
+Ses01M_impro06_M028	217.5175	221.8768	yeah i m glad i was there glad i glad i got to be there
+Ses01M_impro06_M029	225.3200	227.5100	so weird
+Ses01M_impro06_F027	233.0200	235.1300	yeah
+Ses01M_impro06_M030	227.5400	234.2600	like i can t it s like you know it s like pinch me it s like i can t believe like i m dealing with this you know
+Ses01M_impro06_F028	239.1062	242.6985	are there things you wish you d done differently

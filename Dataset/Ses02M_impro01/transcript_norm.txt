@@ -1,0 +1,48 @@
+Ses02M_impro01_M000	3.5000	6.4410	all right finally here you go
+Ses02M_impro01_F000	5.3200	7.3580	hi how can i help you
+Ses02M_impro01_M001	7.3400	10.0000	yea i just want to get this done
+Ses02M_impro01_F001	10.3710	11.6114	sure um
+Ses02M_impro01_M002	10.0100	12.2924	get my new license
+Ses02M_impro01_F002	11.6114	14.6855	do you have two forms of id with you
+Ses02M_impro01_M003	14.3252	17.6205	um no i got my driver s license though
+Ses02M_impro01_F003	17.8190	24.7376	i actually need two forms of id i need either a passport or a birth certificate or social security card i m sorry
+Ses02M_impro01_M004	24.5138	28.1500	uh sorry i forgot them i mean i ve got to
+Ses02M_impro01_F004	27.9800	29.6220	well
+Ses02M_impro01_M005	28.2300	31.2973	well is the dri driver s license going to work
+Ses02M_impro01_F005	30.0939	36.9427	i i can take your driver s license but i need another form of id in order to process this paper work
+Ses02M_impro01_M006	36.8679	39.1999	okay so what are you saying what
+Ses02M_impro01_F006	38.8667	44.0823	um that you would need to go home and get another form of id and come back
+Ses02M_impro01_M007	44.2341	52.4300	what i you telling me i waited in that huge line to go and sit down and get my number called like after
+Ses02M_impro01_F007	53.1100	54.9300	well i m sorry sir but
+Ses02M_impro01_M008	52.4400	54.5300	three hours and
+Ses02M_impro01_F008	54.9400	58.3100	you need to bring two forms of id there is nothing we can do about it
+Ses02M_impro01_M009	57.3791	64.1421	shouldn t they have like told us about that i mean why why would they make me go and wait three hours if i have got to go and do it again
+Ses02M_impro01_F009	60.0864	61.5056	well it s actually
+Ses02M_impro01_F010	63.2229	68.4976	it s standard that you bring a couple of forms of id i m sorry
+Ses02M_impro01_M010	66.9831	73.6261	it s standard i mean i don t work at the d m v how am i supposed to know that like i stand in line i get my
+Ses02M_impro01_F011	71.2864	74.6495	well i m sorry sir but we re not responsible
+Ses02M_impro01_M011	74.2423	76.2871	i filled out the application right didn t i
+Ses02M_impro01_F012	76.0075	82.1167	yes you did thank you very much but we re not responsible if you ve forgotten something and we need to have two forms of id
+Ses02M_impro01_M012	81.5927	88.7760	okay what about no how about you hold that and i ll i ll go and i can come back
+Ses02M_impro01_F013	87.4655	91.6580	i m sorry but there is a lot of people waiting so you re just going to have to get in line again
+Ses02M_impro01_M013	91.1995	93.9287	i ve been waiting for three hours
+Ses02M_impro01_F014	93.4266	97.4221	it just happens to people all the time i m sorry sir but i can t make an exception for you
+Ses02M_impro01_M014	97.1601	99.5400	this is ridiculous come on
+Ses02M_impro01_F015	98.7147	100.1295	i m sorry sir
+Ses02M_impro01_M015	99.9890	104.6996	i cannot go back in that line i ve got stuff i need to do i mean
+Ses02M_impro01_F016	104.7414	106.0901	there is nothing i can do
+Ses02M_impro01_M016	105.4351	112.2472	but my driver s license i had to have my birth certificate to get my driver s license in the first place right i mean this here is my driver s license so
+Ses02M_impro01_F017	111.7499	115.9590	i know sir but we have to have two forms there is nothing i can do about it i m sorry
+Ses02M_impro01_M017	115.4350	118.7100	that doesn t make any sense why
+Ses02M_impro01_F018	118.3825	120.5877	i m sorry sir there is nothing i can do
+Ses02M_impro01_M018	119.1904	126.0898	you shouldn t you have like a sign or something maybe like up on the counter when you get the applica maybe on the application
+Ses02M_impro01_F019	122.8148	125.8060	well if you had checked the web site it would have said
+Ses02M_impro01_F020	126.2997	130.8496	if you had checked the website it would have said that you needed two forms of identification
+Ses02M_impro01_M019	129.4304	137.7264	what web i didn t go to a website why would i need to it s the d m v you come to the d m v you wait in line for three hours and then you go home
+Ses02M_impro01_F021	137.2469	138.7534	well maybe you should
+Ses02M_impro01_M020	138.3822	141.7665	i waited in line now i m ready to get my stuff and then go home
+Ses02M_impro01_F022	141.3516	146.0022	right so maybe you should go home now and get your paperwork and come back
+Ses02M_impro01_F023	148.0459	153.3206	i m sorry sir but there s a lot of people waiting so if you won t move out of the way then i m going to have to call security
+Ses02M_impro01_M021	149.4956	151.5261	god oh my
+Ses02M_impro01_M022	153.3165	155.0414	this is ridiculous
+Ses02M_impro01_F024	154.5392	157.0808	i m sorry sir it s not my choice
