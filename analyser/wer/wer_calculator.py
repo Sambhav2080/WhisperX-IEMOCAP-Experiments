@@ -17,14 +17,53 @@ class WERCalculator(AnalyserBase):
         self.hypothesis_text = hypothesis_text
 
     def preprocess(self):
-        # will call text normalizer later
+        """
+        Preprocessing is done outside (WERPreprocessor).
+        This method exists to respect base interface.
+        """
         pass
 
     def calculate(self):
-        # actual WER logic later
-        pass
+        """
+        Calculate WER using edit distance.
+        """
+        ref_words = self.reference_text.split()
+        print(" ref_words ",ref_words)
+
+        hyp_words = self.hypothesis_text.split()
+        print(" hyp_words ",hyp_words)
+        N = len(ref_words)
+        if N ==0:
+            self.wer_value = 0.0
+            return
+        #DP edit distance
+        dp = [[0] *(len(hyp_words)+1)for _ in range(len(ref_words)+1)]
+        print("your dp is : ", dp)
+        for i in range(len(ref_words)+1):
+            dp[i][0] = i
+        print()
+        print(dp)
+        for j in range(len(hyp_words)+1):
+            dp[0][j] = j
+
+        print()
+        print(dp)
+
+        for i in range (1,len(ref_words)+1):
+            for j in range(1,len(hyp_words)+1):
+                if ref_words[i-1] ==hyp_words[j-1]:
+                    dp[i][j] = dp[i-1][j-1]
+                else:
+                    dp[i][j] = 1+min(
+                        dp[i-1][j],     #deletion
+                        dp[i][j-1],     #insertion
+                        dp[i-1][j-1]    #substitution
+                        )
+            print()
+            print(dp)
+            self.wer_value = dp[len(ref_words)][len(hyp_words)]/N
 
     def save_result(self):
         result_path = self.output_dir / "wer.txt"
         with open(result_path, "w") as f:
-            f.write(f"WER: {self.wer_value}\n")
+            f.write(f"WER: {self.wer_value:.4f}\n")
