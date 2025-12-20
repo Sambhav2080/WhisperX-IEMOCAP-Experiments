@@ -7,11 +7,6 @@ venv/
 __pycache__/
 *.pyc
 
-# ignore output files
-Output/
-*.wav
-*.json
-
 # IDE files
 .vscode/
 .idea/
