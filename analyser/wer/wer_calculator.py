@@ -28,10 +28,8 @@ class WERCalculator(AnalyserBase):
         Calculate WER using edit distance.
         """
         ref_words = self.reference_text.split()
-        print(" ref_words ",ref_words)
 
         hyp_words = self.hypothesis_text.split()
-        print(" hyp_words ",hyp_words)
         N = len(ref_words)
         if N ==0:
             self.wer_value = 0.0
@@ -41,13 +39,9 @@ class WERCalculator(AnalyserBase):
         print("your dp is : ", dp)
         for i in range(len(ref_words)+1):
             dp[i][0] = i
-        print()
-        print(dp)
         for j in range(len(hyp_words)+1):
             dp[0][j] = j
 
-        print()
-        print(dp)
 
         for i in range (1,len(ref_words)+1):
             for j in range(1,len(hyp_words)+1):
@@ -59,11 +53,6 @@ class WERCalculator(AnalyserBase):
                         dp[i][j-1],     #insertion
                         dp[i-1][j-1]    #substitution
                         )
-            print()
-            print(dp)
             self.wer_value = dp[len(ref_words)][len(hyp_words)]/N
-
-    def save_result(self):
-        result_path = self.output_dir / "wer.txt"
-        with open(result_path, "w") as f:
-            f.write(f"WER: {self.wer_value:.4f}\n")
+            return self.wer_value
+    

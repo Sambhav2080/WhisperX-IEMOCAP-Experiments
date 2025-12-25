@@ -1,30 +1,37 @@
 from analyser.base.analyser_base import AnalyserBase
+from pyannote.metrics.diarization import DiarizationErrorRate
 
 
 class DERCalculator(AnalyserBase):
-    """
-    Calculates Diarization Error Rate.
-    """
 
     def __init__(self, output_dir: str):
         super().__init__(output_dir)
-        self.reference_rttm = None
-        self.hypothesis_rttm = None
+
+        self.reference_ann = None
+        self.hypothesis_ann = None
         self.der_value = None
 
-    def load_inputs(self, reference_rttm, hypothesis_rttm):
-        self.reference_rttm = reference_rttm
-        self.hypothesis_rttm = hypothesis_rttm
+    def load_inputs(self, reference_ann, hypothesis_ann):
+        self.reference_ann = reference_ann
+        self.hypothesis_ann = hypothesis_ann
 
     def preprocess(self):
-        # filter untimed segments later
-        pass
+        pass   # already cleaned earlier
 
     def calculate(self):
-        # pyannote DER later
-        pass
+
+        metric = DiarizationErrorRate()
+
+        self.der_value = metric(
+            self.reference_ann,
+            self.hypothesis_ann
+        )
+
+        return self.der_value
 
     def save_result(self):
-        result_path = self.output_dir / "der.txt"
-        with open(result_path, "w") as f:
-            f.write(f"DER: {self.der_value}\n")
+        path = self.output_dir / "der.txt"
+        with open(path, "w") as f:
+            f.write(f"DER: {self.der_value:.4f}\n")
+
+
