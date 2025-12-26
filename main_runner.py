@@ -9,8 +9,8 @@ if __name__ == "__main__":
     config  = r"S:\Sambhav's Project\Config.xlsx"
     results = r"S:\Sambhav's Project\results\result.xlsx"
 
-    start = "Config_A_01"
-    end   = "Config_A_17"
+    start = input().strip()
+    end   = input().strip()
 
     PipelineRunner(
         dataset_dir=dataset,

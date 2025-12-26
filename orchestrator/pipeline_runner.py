@@ -8,10 +8,10 @@ from orchestrator.experiment_manager import ExperimentManager
 class PipelineRunner:
 
     def __init__(self,
-                 dataset_dir: str,
-                 output_dir: str,
-                 config_file: str,
-                 results_excel: str):
+                dataset_dir: str,
+                output_dir: str,
+                config_file: str,
+                results_excel: str):
 
         self.dataset_dir = dataset_dir
         self.output_dir = output_dir

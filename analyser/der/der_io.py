@@ -1,41 +1,77 @@
 from pathlib import Path
-from analyser.base.file_manager import FileManager
-from pyannote.core import Annotation, Segment
-
+import json
 
 class DERIO:
-    """
-    Handles RTTM loading and conversion
-    """
 
-    def load_rttm(self, rttm_path: Path):
-        FileManager.validate_file(rttm_path)
-        return rttm_path.read_text(encoding="utf-8")
+    @staticmethod
+    def load_reference(txt_path: Path):
+        """
+        Loads reference diarization segments.
+        Returns list of dicts:
+        [
+        {"speaker": "F", "start": 6.29, "end": 8.23},
+        ...
+        ]
+        """
+        ref_segments = []
 
-    def rttm_to_annotation(self, rttm_text: str) -> Annotation:
+        with open(txt_path, "r") as f:
+            for line in f:
+                parts = line.strip().split()
+                if len(parts) < 4:
+                    continue
 
-        ann = Annotation()
+                start = float(parts[1])
+                end = float(parts[2])
 
-        for line in rttm_text.splitlines():
+                # ignore 0 → 0 timestamps
+                if start == 0 and end == 0:
+                    continue
 
-            if not line.strip():
+                spk_code = parts[0].split("_")[-1]   # F000 → F
+                speaker = spk_code[0]                # take gender only
+
+                ref_segments.append({
+                    "speaker": speaker,
+                    "start": start,
+                    "end": end
+                })
+
+        return ref_segments
+
+
+    @staticmethod
+    def load_hypothesis(json_path: Path):
+        """
+        Loads whisperx json diarization segments.
+        Assumes each segment has speaker + word timestamps.
+        """
+        hyp_segments = []
+
+        with open(json_path, "r") as f:
+            data = json.load(f)
+
+        for seg in data["segments"]:
+            speaker = seg.get("speaker", None)
+
+            if not speaker:
                 continue
 
-            parts = line.split()
+            # use word-level timestamps if available
+            if "words" in seg and seg["words"]:
+                start = seg["words"][0]["start"]
+                end = seg["words"][-1]["end"]
+            else:
+                start = seg["start"]
+                end = seg["end"]
 
-            # RTTM expected:
-            # SPEAKER <uri> 1 <start> <dur> <NA> <NA> <speaker> <NA>
-
-            if len(parts) < 8:
+            if start ==0 and end == 0:
                 continue
 
-            start = float(parts[3])
-            dur = float(parts[4])
-            end = start + dur
-            speaker = parts[7]
+            hyp_segments.append({
+                "speaker": speaker,
+                "start": float(start),
+                "end": float(end)
+            })
 
-            segment = Segment(start, end)
-
-            ann[segment] = speaker
-
-        return ann
+        return hyp_segments

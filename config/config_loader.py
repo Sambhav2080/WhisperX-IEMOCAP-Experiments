@@ -4,20 +4,35 @@ from pathlib import Path
 
 class ConfigLoader:
     """
-    Loads experiment configurations from a clean Excel file.
+    Loads Configuration for Experiment:
+    -----------------------------------
+    config from a clean Excel file.
     One row = one configuration
-    Blank cells = use default values later
+    Blank cells = use default values.
     """
 
     def __init__(self, excel_path: str):
+        """
+        Loads Configuration for Experiment:
+        ----------------------------------
+
+        :param self: Object itself
+        :param excel_path: Path for Config.xlsx
+        :type excel_path: string
+        """
         self.excel_path = Path(excel_path)
         if not self.excel_path.exists():
             raise FileNotFoundError(f"Config file not found: {self.excel_path}")
 
     def load_configs(self, start_id: str, end_id: str):
         """
-        Returns a list of configs BETWEEN start_id and end_id (inclusive)
+        Loads the Configuration in range start, end:
+        -------------------------------------------
+
+        :param start_id: Starting configuration
+        :param end_id: Ending configuration
         """
+
         df = pd.read_excel(self.excel_path)
 
         if "config_id" not in df.columns:

@@ -1,9 +1,8 @@
 from pathlib import Path
 
-
 class DatasetManager:
     """
-    Single Responsibility:
+    Manage Dataset and Return Audio File
     ----------------------
     Manage dataset structure and
     return audio file paths in a clean way.
@@ -43,6 +42,7 @@ class DatasetManager:
     def get_all_audio_files(self):
         """
         Returns list of dict for all audio ids
+        --------------------------------------
         """
         return [self.get_audio_info(aid) for aid in self.list_audio_ids()]
 

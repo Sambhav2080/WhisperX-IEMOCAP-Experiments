@@ -1,4 +1,6 @@
 from analyser.base.analyser_base import AnalyserBase
+from analyser.wer.wer_io import WERIO
+from analyser.wer.wer_preprocessor import WERPreprocessor
 
 
 class WERCalculator(AnalyserBase):
@@ -12,28 +14,79 @@ class WERCalculator(AnalyserBase):
         self.hypothesis_text = None
         self.wer_value = None
 
-    def load_inputs(self, reference_text: str, hypothesis_text: str):
-        self.reference_text = reference_text
-        self.hypothesis_text = hypothesis_text
+    def load_inputs(self, ref_path: str, hyp_path: str):
+        self.reference_text = WERIO.load_reference(ref_path)
+        self.hypothesis_text = WERIO.load_hypothesis_from_json(hyp_path)
 
     def preprocess(self):
         """
-        Preprocessing is done outside (WERPreprocessor).
-        This method exists to respect base interface.
+        Preprocessing
         """
-        pass
+        self.reference_text = WERPreprocessor.normalize_reference(self.reference_text)
+        self.hypothesis_text = WERPreprocessor.normalize_hypothesis(self.hypothesis_text)
 
     def calculate(self):
         """
         Calculate WER using edit distance.
         """
         ref_words = self.reference_text.split()
-
         hyp_words = self.hypothesis_text.split()
+
         N = len(ref_words)
         if N ==0:
             self.wer_value = 0.0
             return
+        
+        #DP edit distance
+        dp = [[0] *(len(hyp_words)+1)for _ in range(len(ref_words)+1)]
+        print("your dp is : ", dp)
+        for i in range(len(ref_words)+1):
+            dp[i][0] = i
+        for j in range(len(hyp_words)+1):
+            dp[0][j] = j
+
+        for i in range (1,len(ref_words)+1):
+            for j in range(1,len(hyp_words)+1):
+                if ref_words[i-1] ==hyp_words[j-1]:
+                    dp[i][j] = dp[i-1][j-1]
+                else:
+                    dp[i][j] = 1+min(
+                        dp[i-1][j],     #deletion
+                        dp[i][j-1],     #insertion
+                        dp[i-1][j-1]    #substitution
+                        )
+        self.wer_value = dp[len(ref_words)][len(hyp_words)]/N
+        return self.wer_value
+        
+    def get_ref_token(self):
+        return self.reference_text
+
+    def get_hyp_token(self):
+        return self.hypothesis_text
+        
+class WERcalculator_overall:
+
+    def __init__(self,ref,hyp):
+        self.ref = ref
+        self.hyp = hyp
+        self.wer = 0.0
+
+    def preprocess(self):
+        self.ref = WERPreprocessor.normalize_reference(self.ref)
+        self.hyp = WERPreprocessor.normalize_hypothesis(self.hyp)
+
+    def calculate(self):
+        """
+        Calculate WER using edit distance only for overall calculation.
+        """
+        ref_words = self.ref.split()
+        hyp_words = self.hyp.split()
+
+        N = len(ref_words)
+        if N ==0:
+            self.wer = 0.0
+            return
+        
         #DP edit distance
         dp = [[0] *(len(hyp_words)+1)for _ in range(len(ref_words)+1)]
         print("your dp is : ", dp)
@@ -53,6 +106,6 @@ class WERCalculator(AnalyserBase):
                         dp[i][j-1],     #insertion
                         dp[i-1][j-1]    #substitution
                         )
-            self.wer_value = dp[len(ref_words)][len(hyp_words)]/N
-            return self.wer_value
+        self.wer = dp[len(ref_words)][len(hyp_words)]/N
+        return self.wer
     

@@ -1,39 +1,30 @@
-from pathlib import Path
 import json
+from pathlib import Path
 
 
-class RTTMGenerator:
-    """
-    Converts WhisperX diarized JSON → RTTM format
-    """
+class JSONtoRTTMConverter:
 
-    def json_to_rttm(self, audio_id: str, json_path: Path) -> str:
+    def convert(self, json_path: Path, rttm_path: Path):
         """
-        Returns RTTM text string
+        Convert WhisperX diarization JSON → RTTM
         """
 
-        with open(json_path, "r", encoding="utf-8") as f:
-            data = json.load(f)
+        data = json.loads(json_path.read_text(encoding="utf-8"))
 
-        lines = []
+        with rttm_path.open("w", encoding="utf-8") as f:
+            for seg in data["segments"]:
 
-        for seg in data.get("segments", []):
+                if "speaker" not in seg:
+                    # fallback if diarization disabled
+                    speaker = "SPEAKER_00"
+                else:
+                    speaker = seg["speaker"]
 
-            start = float(seg["start"])
-            end = float(seg["end"])
-            dur = end - start
-            spk = seg.get("speaker", "UNK")
+                start = float(seg["start"])
+                dur = float(seg["end"]) - float(seg["start"])
 
-            # safety check
-            if dur <= 0:
-                continue
-
-            line = (
-                f"SPEAKER {audio_id} 1 "
-                f"{start:.3f} {dur:.3f} "
-                f"<NA> <NA> {spk} <NA>"
-            )
-
-            lines.append(line)
-
-        return "\n".join(lines)
+                line = (
+                    f"SPEAKER file1 1 {start:.3f} {dur:.3f} "
+                    f"<NA> <NA> {speaker} <NA> <NA>\n"
+                )
+                f.write(line)
